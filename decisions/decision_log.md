@@ -18,24 +18,29 @@
 - **Sở thích:** Cảnh đẹp, ẩm thực, văn hóa, phiêu lưu, thư giãn, chụp ảnh
 
 ### Quyết định #1: Tuyến đường
-- ✅ **Option 1: Mèo Vạc → lái xe sang Cao Bằng trực tiếp (trả xe ở CB, phụ phí 600k)**
-- ❌ ~~Option 2: Mèo Vạc → quay về TP Hà Giang trả xe → xe khách sang Cao Bằng~~
-- **Lý do:** Bạn chọn Option 1 để chạy liên hoàn xuyên tuyến, tận hưởng trọn vẹn cung đèo Mèo Vạc → Bảo Lạc → Pác Bó → Cao Bằng bằng xe máy.
+- ✅ **Mèo Vạc → lái xe sang Cao Bằng trực tiếp (trả xe ở CB, phụ phí 600k)**
+- **Lý do:** Chạy liên hoàn xuyên tuyến, tận hưởng trọn vẹn cung đèo Mèo Vạc → Bảo Lạc → Pác Bó → Cao Bằng bằng xe máy.
 
-### Quyết định #2: Lịch trình di chuyển HG → CB
-- Ngày 02/09 (Lễ Quốc Khánh 🇻🇳): Mèo Vạc → Bảo Lâm → Bảo Lạc → Ghé Pác Bó → TP Cao Bằng (~230km)
-- Lái xe thong thả, ngắm cảnh đèo Khau Liêu, suối Lê-Nin Pác Bó trên đường.
+### Quyết định #2: Lịch trình di chuyển HG → CB (Cập nhật 12/08/2026)
+- **Chốt Phương án 1:** Ngày 02/09 chạy thẳng Mèo Vạc → Bảo Lạc → TP Cao Bằng (~185km QL34). Chuyển Pác Bó sang Ngày 05/09 (khứ hồi ~100km từ TP Cao Bằng).
+- **Lý do:** Giảm tải cho Ngày 02/09 để bạn gái không bị mỏi lưng, dành trọn Ngày 05/09 khám phá Pác Bó thong thả và mua quà đặc sản.
 
 ### Quyết định #3: Phương tiện & Đặt xe
 - **HN:** Thuê xe máy riêng ở HN (gửi vali KS trước, thuê xe sau)
 - **HG & CB:** Thuê 1 xe duy nhất từ Giang Sơn (Honda Future 125cc). Nhận tại TP Hà Giang sáng 30/08, trả tại TP Cao Bằng trưa 06/09. Phụ phí trả xe khác tỉnh: 600k.
 
-### Thay đổi so với kế hoạch ban đầu
+### Quyết định #4: Nguyên tắc an toàn di chuyển (12/08/2026)
+- 100% các chặng di chuyển xe máy đèo núi phải **hoàn thành và cập bến lưu trú trước 16:30 - 17:00 chiều** để đảm bảo an toàn tuyệt đối trước khi sương mù & trời tối kéo đến.
+
+---
+
+## 12/08/2026 — Thay đổi lịch trình & Quy trình làm việc
+
 | Thay đổi | Trước | Sau | Lý do |
 |----------|-------|-----|-------|
-| Ngày bay đi | Tối 27/08 | Sáng sớm 28/08 | Bạn thay đổi kế hoạch |
-| Xe máy Nội Bài | Thuê tại sân bay | Vào HN gửi vali KS trước, rồi thuê xe | Thực tế hơn, gửi vali trước |
-| Tuyến HG → CB | Cân nhắc quay về HG | Lái xe xuyên Mèo Vạc → Pác Bó → CB (Option 1) | Chốt Option 1 |
+| Ghé Pác Bó | Ngày 02/09 (~235km) | Ngày 05/09 (`~100km` khứ hồi từ TP CB) | Cân bằng lịch trình, giảm mệt mỏi |
+| Khung giờ di chuyển | Không giới hạn | Hoàn thành trước 16:30 - 17:00 | An toàn đèo núi, tránh tối đường |
+| File quy trình | Không có | Tạo `.agents/AGENTS.md` | Lưu trữ nguyên tắc & roadmap dự án |
 
 ---
 
@@ -43,3 +48,4 @@
 - [ ] Đặt xe khách CB → Nội Bài (trưa 06/09)
 - [ ] Food list Hà Nội (bạn đang research)
 - [ ] Chốt homestay / khách sạn từng chặng (đặc biệt các đêm 01/09, 02/09 đợt Lễ 2/9)
+

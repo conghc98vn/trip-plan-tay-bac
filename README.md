@@ -10,16 +10,18 @@
 ```
 plan-trip/
 ├── README.md                          ← Bạn đang ở đây
+├── .agents/
+│   └── AGENTS.md                      ← 📋 Quy trình & Nguyên tắc làm việc
 ├── plans/
-│   ├── plan_option1_tra_xe_cao_bang.md   ← ✅ PLAN CHÍNH (lái xe xuyên HG → CB)
-│   └── plan_nhap_option2_ve_hg_tra_xe.md  ← Bản nháp Option 2 (về HG trả xe)
+│   └── plan_tra_xe_cao_bang.md        ← ✅ KẾ HOẠCH CHÍNH (lái xe xuyên HG → CB)
 ├── info/
 │   ├── thong_tin_chuyen_bay.md        ← Vé máy bay
 │   ├── thong_tin_xe_khach.md          ← Xe khách (HN→HG, CB→Nội Bài)
 │   ├── thong_tin_thue_xe_may.md       ← Thuê xe máy (Giang Sơn 8 ngày)
 │   └── thong_tin_nguoi_than.md        ← Địa chỉ người thân Mỹ Đức
 ├── notes/
-│   ├── food_list_ha_noi.md            ← List quán ăn Hà Nội (đang research)
+│   ├── food_list.md                   ← 🍜 Master Food List (Hà Nội, Hà Giang, Cao Bằng)
+│   ├── homestay_recommendations.md    ← 🏨 Gợi ý Homestay & Khách sạn từng đêm
 │   ├── photography_spots.md           ← Spot chụp ảnh & golden hour
 │   └── packing_checklist.md           ← Checklist đồ mang theo
 └── decisions/
@@ -32,7 +34,9 @@ plan-trip/
 
 | Hạng mục | Status | Ghi chú |
 |----------|--------|---------|
-| **Plan tổng thể** | ✅ Đã chốt | Option 1 (lái xe xuyên HG sang CB, trả xe ở CB) |
+| **Plan tổng thể** | ✅ Đã chốt | Lái xe xuyên HG sang CB, trả xe ở CB (PA1: Pác Bó ngày 05/09) |
+| **Gợi ý Homestay/Hotel** | ✅ Đã lên list | Trong [homestay_recommendations.md](file:///Users/conghoang/Desktop/plan-trip/notes/homestay_recommendations.md) |
+| **Master Food List** | ✅ Đã tổng hợp | Trong [food_list.md](file:///Users/conghoang/Desktop/plan-trip/notes/food_list.md) |
 | **Vé máy bay đi** | ⏳ Chưa đặt | 28/08 05:00 SGN→HAN |
 | **Vé máy bay về** | ⏳ Chưa đặt | 06/09 23:30 HAN→SGN |
 | **Xe khách HN→HG** | ⏳ Chưa đặt | 29/08 22:30 giường nằm |
