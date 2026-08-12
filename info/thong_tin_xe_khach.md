@@ -14,23 +14,7 @@
 
 ---
 
-## Chặng 2: TP Hà Giang → TP Cao Bằng (Sáng 03/09)
-| Hạng mục | Chi tiết |
-|----------|---------|
-| **Ngày** | 03/09/2026 |
-| **Giờ xuất phát** | **08:00 sáng** |
-| **Điểm đón** | Bến xe TP Hà Giang |
-| **Thời gian di chuyển** | ~8-10 tiếng |
-| **Giờ đến dự kiến** | ~16:00-18:00 |
-| **Hãng xe** | ✅ Đã tìm được (bạn bổ sung thông tin) |
-| **Giá vé** | ⏳ Chưa xác nhận |
-| **Mã vé** | ⏳ Chưa đặt |
-
-> ⚠️ **LƯU Ý:** Ngày 03/09 vẫn trong kỳ nghỉ Lễ 2/9 — xe có thể đông. Đặt vé sớm!
-
----
-
-## Chặng 3: TP Cao Bằng → Sân bay Nội Bài (Trưa 06/09)
+## Chặng 2: TP Cao Bằng → Sân bay Nội Bài (Trưa 06/09)
 | Hạng mục | Chi tiết |
 |----------|---------|
 | **Ngày** | 06/09/2026 |

@@ -1,7 +1,8 @@
-# 📌 BẢN NHÁP - OPTION 1: Lái Xe Máy Xuyên Từ Hà Giang Sang Cao Bằng (Trả Xe Tại CB)
+# 🗺️ PLAN OPTION 1: Lái Xe Máy Xuyên Từ Hà Giang Sang Cao Bằng (Trả Xe Tại Cao Bằng)
 
-> **Status:** BẢN NHÁP - Đã thay thế bởi Option 2
-> **Lý do thay đổi:** Chuyển sang phương án quay về Hà Giang trả xe, đi xe khách sang Cao Bằng.
+> **Thời gian:** 28/08/2026 – 06/09/2026 (10 ngày)  
+> **Thành viên:** 2 người (Bạn & Bạn gái)  
+> **Đặc điểm chính:** Thuê xe Future 125cc tại Giang Sơn (TP Hà Giang), chạy xuyên tour đèo núi sang Cao Bằng và trả xe tại TP Cao Bằng (phụ phí 600k).
 
 ---
 

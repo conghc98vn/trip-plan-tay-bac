@@ -1,8 +1,7 @@
-# 🗺️ PLAN OPTION 2: Quay Về Hà Giang Trả Xe → Xe Khách Sang Cao Bằng
+# 📌 BẢN NHÁP - OPTION 2: Quay Về Hà Giang Trả Xe → Xe Khách Sang Cao Bằng
 
-> **Thời gian:** 28/08/2026 – 06/09/2026 (10 ngày)  
-> **Thành viên:** 2 người (Bạn & Bạn gái)  
-> **Thay đổi chính so với Option 1:** Sau loop Hà Giang, quay về TP HG trả xe → đi xe khách sang Cao Bằng → thuê xe máy mới tại CB.
+> **Status:** BẢN NHÁP - Đã chọn Option 1 (Lái xe xuyên từ Hà Giang sang Cao Bằng và trả xe tại CB).
+> **Thay đổi chính:** Phương án dự phòng trong trường hợp không muốn lái xe xuyên tỉnh.
 
 ---
 

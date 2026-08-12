@@ -12,20 +12,19 @@
 
 ---
 
-## 2. Xe máy tại Hà Giang — Giang Sơn (30/08 - 02/09)
+## 2. Xe máy tour Hà Giang → Cao Bằng — Giang Sơn (30/08 - 06/09)
 | Hạng mục | Chi tiết |
 |----------|---------|
-| **Thời gian thuê** | 30/08 sáng → 02/09 trưa (4 ngày) |
+| **Thời gian thuê** | 30/08 sáng (nhận TP HG) → 06/09 trưa (trả TP CB) — **8 ngày** |
 | **Tiệm thuê** | **Giang Sơn** |
 | **Hotline** | Mr Sơn: **0983 380 333** / Mrs Giang (Boss): **0988 470 863** |
 | **Loại xe** | Honda Future 125cc (xe số) |
-| **Giá** | **300k/ngày** (không bảo hiểm) / 400k/ngày (có bảo hiểm) |
-| **Tổng** | 300k × 4 = **1.200.000đ** |
-| **Nhận xe** | TP Hà Giang (cửa hàng Giang Sơn) |
-| **Trả xe** | TP Hà Giang (cùng điểm nhận) |
-| **Phụ phí** | Không (trả cùng điểm) |
-| **Cọc** | Tiền hoặc giấy tờ |
-| **Thuê tối thiểu** | 2 ngày |
+| **Giá thuê** | **300k/ngày** × 8 ngày = **2.400.000đ** |
+| **Phụ phí trả xe tại CB** | **600k** (phụ phí trả xe khác tỉnh cho Future 125cc) |
+| **Tổng chi phí xe** | **3.000.000đ** |
+| **Nhận xe** | TP Hà Giang (cửa hàng Giang Sơn) sáng 30/08 |
+| **Trả xe** | TP Cao Bằng (bưu điện/điểm hẹn tại TP CB) trưa 06/09 |
+| **Cọc** | Tiền hoặc giấy tờ (giấy tờ sẽ được gửi lại qua bưu điện) |
 | **Status** | ⏳ Chưa đặt |
 
 ### Bảng giá Giang Sơn (tham khảo)
@@ -44,18 +43,6 @@
 |----------|-------------|---------------|-----------|
 | Đồng Văn, Mèo Vạc, Bắc Quang | 300k | 400k | 500k |
 | Hà Nội, Sa Pa, Yên Bái | 400k | 500k | 700k |
-| **Cao Bằng** | **500k** | **600k** | **700k** |
+| **Cao Bằng** | **500k** | **600k** (Future 125cc) ✅ | **700k** |
 
 > Thuê tối thiểu 4 ngày nếu trả xe khác tỉnh (CB, HN, YB, SP)
-
----
-
-## 3. Xe máy tại Cao Bằng (03-06/09)
-| Hạng mục | Chi tiết |
-|----------|---------|
-| **Thời gian thuê** | 03/09 tối → 06/09 trưa (~3-4 ngày) |
-| **Mục đích** | Pác Bó + Thang Hen + Bản Giốc + Ngườm Ngao |
-| **Loại xe** | Xe số (Wave/Future) |
-| **Tiệm thuê** | ✅ Đã tìm được (bạn bổ sung thông tin) |
-| **Trả xe** | TP Cao Bằng trưa 06/09 |
-| **Giá** | ⏳ Chưa xác nhận (~250-350k/ngày) |
