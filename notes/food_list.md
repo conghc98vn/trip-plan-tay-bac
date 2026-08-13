@@ -33,13 +33,59 @@
 - *Cà phê view Hồ Tây* — Đường Trích Sài / Quảng An (Ngắm hoàng hôn Hồ Tây lãng mạn).
 
 ### 🍢 Ăn Vặt Tối & Bia Hơi Phố Cổ
+- *Trà chanh Đào Duy Từ* — 31 Đào Duy Từ *(Trà chanh & chè thạch phố cổ truyền thống)*.
 - *Chè Gỗ* — 9 Trần Phú (Chè khúc bạch & chè thạch dừa thanh mát).
 - *Nộm bò khô Long Thủy* — 23 Hàng Giầy (Cạnh Hồ Gươm, nộm bò khô giòn ngon).
 - *Bia hơi Hà Nội Tạ Hiện* — Phố Tạ Hiện / Lương Ngọc Quyến (Bia hơi Phố Cổ náo nhiệt về đêm).
 
 ---
 
-## <a id="food-hagiang"></a>📍 2. HÀ GIANG (30/08 – 01/09) — Đồng Văn, Mèo Vạc & Quản Bạ
+## 📍 2. HÀ NỘI — Danh Sách Quán Cafe & Ăn Vặt Do Bạn Tìm Hiểu (Google Maps Saved Lists)
+
+> 📌 **Lưu trữ dữ liệu:** Dưới đây là các vị trí bạn đã lưu trên Google Maps để tiện xem lại và lựa chọn trực tiếp trong chuyến đi.
+
+### 🍵 Quán Trà Chanh & Ăn Vặt Phố Cổ
+- 🔗 **Google Maps:** [Trà chanh - Đào Duy Từ](https://maps.app.goo.gl/bXUaaBuvTYDC3eVCA)
+- **Địa chỉ:** 31 P. Đào Duy Từ, Phố Cổ Hà Nội, Hoàn Kiếm.
+- **Đặc trưng:** Quán trà chanh phố cổ nổi tiếng lâu đời, trà chanh chè thạch thanh mát, góc ngồi vỉa hè ngắm phố đêm rực rỡ.
+
+### ☕ List 35 Quán Cafe Hà Nội ("Cafe, vài người bạn, vài câu chuyện")
+- 🔗 **Google Maps List:** [Xem danh sách 35 Quán Cafe trên Google Maps](https://maps.app.goo.gl/ZWWJZpXiUK3hDCtG6)
+- **Danh sách tổng hợp:**
+  1. **Cà Phê Du Kích (Guerrilla Specialty Coffee Lab)** — Specialty coffee phong cách hiện đại.
+  2. **80plus Coffee Roastery** — 142 Nguyễn Thái Học.
+  3. **8 COFFEE by TOKA** — Không gian cà phê tối giản tinh tế.
+  4. **Ka Coffee** — Chuỗi cà phê thủ công thơm ngậy.
+  5. **Nhà Gỗ Cafe** — Phong cách mộc mạc hoài cổ.
+  6. **Nhau Studio** — Không gian nghệ thuật & cà phê.
+  7. **Thiểu Số Trà & Cà phê** — Không gian trà & cà phê yên tĩnh.
+  8. **30Days Cafe** — Láng Hạ.
+  9. **Tiệm Tháng Năm** — Cafe hoài cổ lãng mạn.
+  10. **À LaKhe Cafe** — Phong cách vintage ấm cúng.
+  11. **Class6 Specialty Coffee** — Thái Hà.
+  12. **Phiin Cafe House** — Lê Đức Thọ.
+  13. **Cafe La Farine** — Cafe & tiệm bánh xinh xắn.
+  14. **Ten Thousand Lotte Mall Hanoi** — Cafe phong cách Hàn Quốc tại Lotte Mall Tây Hồ.
+  15. **Café de Măng Đen** — Cafe phong cách Tây Nguyên giữa lòng Hà Nội.
+  16. **hôm nào cà phê?** — Quán cafe góc phố chill.
+  17. **Indoor Coffee & Bistro** — Cafe làm việc & thư giãn.
+  18. **BRW Coffee** — Đống Đa.
+  19. **Đồng cafe** — Cafe góc nhỏ yên bình.
+  20. **Xam' Cafe** — Góc ngồi buôn chuyện phím.
+  21. **Phê Đây** — Nguyễn Thị Định.
+  22. **Co:coffee** — Xã Đàn 2.
+  23. **Cafena Coffee & Tea** — Cơ sở Văn Quán.
+  24. **Ra Café** — Cafe acoustic / làm việc.
+  25. **Mequila.coffee** — Cafe không gian đẹp.
+  26. **Cafe Chàm** — Cà phê mộc.
+  27. **E-Paso Coffee** — Cà phê phin thơm đậm.
+  28. **Harper Seven Coffee & Bakery** — 27 Huỳnh Thúc Kháng.
+  29. **Sense7 Coffee VPH** — Cà phê làm việc.
+  30. **5Ro Coffee** — Cà phê mộc nguyên chất.
+
+---
+
+## <a id="food-hagiang"></a>📍 3. HÀ GIANG (30/08 – 01/09) — Đồng Văn, Mèo Vạc & Quản Bạ
 
 ### 🥢 Đặc Sản Ăn Sáng local
 - **Bánh Cuốn Canh Hà Giang:**
@@ -64,7 +110,7 @@
 
 ---
 
-## <a id="food-caobang"></a>📍 3. CAO BẰNG (02/09 – 06/09) — TP Cao Bằng & Trùng Khánh
+## <a id="food-caobang"></a>📍 4. CAO BẰNG (02/09 – 06/09) — TP Cao Bằng & Trùng Khánh
 
 ### 🥢 4 Đặc Sản "Huyền Thoại" Cao Bằng (Phải thử đủ 4 món!)
 
