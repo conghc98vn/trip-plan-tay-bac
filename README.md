@@ -42,7 +42,7 @@ plan-trip/
 | **Kế hoạch Rủi ro & Backup** | ✅ Đã chốt | 5 nhóm rủi ro & kịch bản dự phòng trong [lich_trinh_chi_tiet.md](file:///Users/conghoang/Desktop/plan-trip/plans/lich_trinh_chi_tiet.md#-đánh-giá-rủi-ro--kịch-bản-dự-phòng-contingency-plans) |
 | **Gợi ý Homestay/Hotel** | ✅ Đã lên list | Trong [goi_y_homestay.md](file:///Users/conghoang/Desktop/plan-trip/notes/goi_y_homestay.md) |
 | **Master Food List** | ✅ Đã tổng hợp | Trong [dac_san_am_thuc.md](file:///Users/conghoang/Desktop/plan-trip/notes/dac_san_am_thuc.md) |
-| **Vé máy bay đi** | ⏳ Chưa đặt | 28/08 05:00 SGN→HAN |
+| **Vé máy bay đi** | ✅ **Đã đặt** | **Vietjet Air VJ120** (28/08 05:00 SGN→07:10 HAN - PNR: `UJSG2A` / `R7AH77`) |
 | **Vé máy bay về** | ⏳ Chưa đặt | 06/09 23:30 HAN→SGN |
 | **Xe khách HN→HG** | ⏳ Chưa đặt | 29/08 22:30 giường nằm |
 | **Xe khách CB→Nội Bài** | ⏳ Chưa đặt | 06/09 12:30-13:00 (Trừ hao dư thời gian bay) |
@@ -61,8 +61,10 @@ plan-trip/
 
 ## ⚡ Việc cần làm tiếp
 
-1. [ ] Chốt và đặt vé máy bay (đi + về)
-2. [ ] Đặt xe khách HN→HG (tối 29/08)
+1. [x] Đặt vé máy bay lượt đi (✅ **Vietjet Air VJ120** 05:00 - 07:10 ngày 28/08)
+2. [ ] Mua bổ sung 1 gói hành lý ký gửi (15-20kg) online trên Vietjet Air cho lượt đi VJ120 (trước ngày 28/08)
+3. [ ] Đặt vé máy bay lượt về (06/09 23:30 HAN→SGN)
+4. [ ] Đặt xe khách HN→HG (tối 29/08)
 3. [x] Liên hệ Giang Sơn đặt xe Wave 110cc + BH (✅ **Đã cọc 100.000 VNĐ** ngày 15/08/2026, nhận TP HG - trả TP Cao Bằng)
 4. [ ] Đặt xe khách CB→Nội Bài (trưa 06/09)
 5. [x] Đặt Homestay Hà Nội (✅ Da Tree Homestay Ba Đình - Đêm 28/08)

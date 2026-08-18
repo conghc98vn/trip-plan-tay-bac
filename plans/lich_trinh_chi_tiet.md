@@ -22,7 +22,7 @@
 
 | Hạng mục | Chi tiết | Ghi chú & Liên kết |
 |----------|---------|-------------------|
-| **Bay đi** | 28/08 05:00 AM SGN → HAN (Di chuyển từ nhà 03:30) | [Chi tiết chuyến bay](../info/chuyen_bay.md) |
+| **Bay đi** | ✅ **Vietjet Air VJ120** — 28/08 05:00 AM SGN → 07:10 AM HAN (Mã PNR: UJSG2A / R7AH77)<br>⚠️ *Lưu ý: Cần mua bổ sung 1 gói hành lý ký gửi (15-20kg) online trước ngày bay.* | [Chi tiết chuyến bay](../info/chuyen_bay.md) |
 | **Bay về** | 06/09 23:30 PM HAN → SGN | [Chi tiết chuyến bay](../info/chuyen_bay.md) |
 | **Xe máy HN** | ✅ **MOTOGO (Mã #39337)** — Yamaha Sirius 110cc (260k/2 ngày). Nhận MOTOGO Nội Bài sáng 28/08, trả 1081 Hồng Hà (Hoàn Kiếm) tối 29/08 | [Chi tiết MOTOGO](../info/thue_xe_may.md#1-xe-máy-tại-hà-nội-28-2908) |
 | **Xe máy HG** | ✅ **Giang Sơn (Đã cọc 100k)** — Honda Wave 110cc (250k/ngày đã gồm gói BH cứu hộ). Nhận TP HG 30/08, trả TP CB (phí trả 500k). Free phòng nghỉ/tắm rửa + Ưu đãi 20% Giang Sơn Hill Hotel. | [Chi tiết cọc xe Giang Sơn](../info/thue_xe_may.md#2-xe-máy-tour-hà-giang--cao-bằng--giang-sơn-3008---0609) |
@@ -64,8 +64,8 @@
 
 | Thời gian | Hoạt động | Ghi chú |
 |-----------|-----------|---------|
-| 03:30 | Di chuyển từ nhà ra sân bay SGN | [Vé máy bay SGN-HAN](../info/chuyen_bay.md) |
-| 05:00 - 07:15 | Bay SGN → HAN | |
+| 03:30 | Di chuyển từ nhà ra sân bay SGN | [Vé Vietjet VJ120](../info/chuyen_bay.md) |
+| 05:00 - 07:10 | Bay SGN → HAN (Chuyến bay Vietjet Air VJ120) | PNR: UJSG2A (Công) / R7AH77 (Trúc Anh) |
 | 07:15 - 07:45 | Hạ cánh Sân bay Nội Bài, nhận hành lý. Bạn gái giữ đồ tại khu vực sảnh nhà ga T1 | |
 | 07:45 - 08:15 | Bạn bắt GrabBike (~2km) ra tiệm nhận & kiểm tra xe máy. Chạy xe về Bãi đỗ xe máy Ga T1 (hoặc điểm đón xe máy T1) đón bạn gái & chằng đồ | Buộc túi ShopeeFood 22L baga sau & balo baga trước (tránh làn ô tô) |
 | 08:15 - 09:00 | Chạy xe từ Bãi xe máy T1 Nội Bài về khu Cầu Giấy (~24km) | Tuyến đường Cầu Nhật Tân → Võ Chí Công → Đường Xuân Thủy |

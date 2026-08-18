@@ -136,7 +136,25 @@
 
 ---
 
+## 18/08/2026 — Đặt thành công 2 vé máy bay lượt đi (HCM → Hà Nội)
+
+### Quyết định #16: Chốt vé máy bay lượt đi Vietjet Air VJ120 (SGN → HAN)
+- **Hãng bay & Số hiệu:** Vietjet Air **VJ120**
+- **Ngày bay:** **28/08/2026** | **Giờ khởi hành:** **05:00 AM** (SGN) → **07:10 AM** (HAN)
+- **Hành khách & Mã vé (PNR):**
+  - `HOANG CHI CONG`: PNR **`UJSG2A`**
+  - `PHAM HUYNH TRUC ANH`: PNR **`R7AH77`**
+- **Hạng vé & Hành lý:** Eco (gồm 7kg hành lý xách tay/người; ⚠️ **Cần mua bổ sung:** 1 gói hành lý ký gửi 15-20kg online trên website/app Vietjet Air trước ngày 28/08 để tiết kiệm chi phí).
+- **Tổng chi phí:** 10,000 SkyPoint + 1,435,162 VNĐ (Thanh toán thành công ngày 18/08/2026).
+- **Tài liệu đính kèm:** [`attachments/ve_may_bay_luot_di/`](file:///Users/conghoang/Desktop/plan-trip/attachments/ve_may_bay_luot_di)
+- **Tham chiếu thông tin:** [`info/chuyen_bay.md`](file:///Users/conghoang/Desktop/plan-trip/info/chuyen_bay.md)
+
+---
+
 ## Cần quyết định tiếp
+- [x] Đặt vé máy bay lượt đi (✅ **Vietjet Air VJ120** - PNR: UJSG2A / R7AH77)
+- [ ] Mua bổ sung 1 gói hành lý ký gửi (15-20kg) online trên Vietjet Air cho lượt đi VJ120 (trước 28/08)
+- [ ] Đặt vé máy bay lượt về (06/09 23:30 HAN-SGN)
 - [x] Đặt homestay Yên Minh (Bong Bang homestay 2 - Đã xác nhận đêm 30/08)
 - [x] Đặt homestay Hà Nội (Da Tree Homestay Ba Đình - Đã xác nhận đêm 28/08)
 - [x] Chốt phương án hành lý & đóng gói (1 túi đeo chéo máy ảnh + 1 balo baga trước + 1 túi ShopeeFood 22L baga sau + chai xăng 1.5L)
