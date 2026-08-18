@@ -1,10 +1,9 @@
 # 🏠 Thông Tin Người Thân — Mỹ Đức
 
-## Địa chỉ
-- **Thôn:** Tân Độ
-- **Xã:** Xuy Xá
-- **Huyện:** Mỹ Đức
-- **TP:** Hà Nội
+## Địa chỉ & Định vị
+- **Link Google Maps:** [Định vị nhà ở quê (Mỹ Đức)](https://maps.app.goo.gl/HscnRUDPn4ycySTz7)
+- **Tọa độ GPS:** `20°43'28.2"N 105°44'48.7"E` (`20.724489, 105.74687`)
+- **Địa giới hành chính:** Xã Hồng Sơn (khu vực giáp Xuy Xá / Chúc Sơn), Huyện Mỹ Đức, TP Hà Nội
 
 ## Khoảng cách
 - Từ Sân bay Nội Bài: ~65-70km (~1.5-2h xe máy)

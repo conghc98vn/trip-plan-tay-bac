@@ -22,15 +22,15 @@
 
 ## 📂 3. Cấu Trúc File & Độc Tôn Kế Hoạch (Single Source of Truth)
 
-1. **Tài liệu lịch trình chính:** `plans/plan_tra_xe_cao_bang.md` là kế hoạch chuẩn duy nhất.
+1. **Tài liệu lịch trình chính:** `plans/lich_trinh_chi_tiet.md` là kế hoạch chuẩn duy nhất.
 2. **Dọn dẹp bản nháp:** Không duy trì các bản nháp Option song song trôi nổi làm loãng thông tin.
-3. **Cập nhật đồng bộ:** Mọi thay đổi trong lịch trình phải được cập nhật đồng bộ sang `README.md` và `decisions/decision_log.md`.
+3. **Cập nhật đồng bộ:** Mọi thay đổi trong lịch trình phải được cập nhật đồng bộ sang `README.md` và `decisions/nhat_ky_quyet_dinh.md`.
 
 ---
 
 ## 🔄 4. Quy Trình Các Bước Thực Hiện Chuyến Đi (Project Roadmap)
 
-- [x] **Bước 1:** Chốt khung thời gian, tuyến đường xuyên tỉnh & phương tiện di chuyển (Thuê Future 125cc tại Giang Sơn, trả tại Cao Bằng).
+- [x] **Bước 1:** Chốt khung thời gian, tuyến đường xuyên tỉnh & phương tiện di chuyển (Thuê Wave 110cc có BH tại Giang Sơn, trả tại Cao Bằng).
 - [x] **Bước 2:** Xây dựng & Tinh chỉnh lịch trình chi tiết từng ngày + Khung giờ an toàn trước 5h chiều (PA1: Pác Bó ngày 05/09).
 - [ ] **Bước 3:** Lựa chọn & Chốt danh sách Homestay / Khách sạn từng đêm (Yên Minh, Đồng Văn, Pả Vi Mèo Vạc, Bản Giốc, Cao Bằng).
 - [ ] **Bước 4:** Hoàn thiện Food List & Danh sách quán ăn local chuẩn vị (Hà Nội, Hà Giang, Cao Bằng).

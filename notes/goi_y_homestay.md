@@ -4,25 +4,28 @@
 
 ---
 
-## <a id="homestay-hn"></a>📍 1. Hà Nội (2 đêm: 28/08 & 29/08)
+## <a id="homestay-hn"></a>📍 1. Hà Nội (1 đêm: 28/08)
 
-> **Khu vực ưu tiên:** Khu Hồ Tây (đẹp, lãng mạn, yên tĩnh) hoặc Khu Phố Cổ (sầm uất, tiện đi chơi).
+> **Khu vực:** Quận Ba Đình, Hà Nội.  
+> ✅ **ĐÃ XÁC NHẬN ĐẶT PHÒNG:** [Da Tree Homestay](../info/dat_phong.md#ha-noi) *(Mã Booking: `6540221126`, PIN: `3931`, Giá: 348.000 VNĐ, Trả tiền mặt)*
 
-| Tên Homestay / Khách sạn | Khu vực | Giá tham khảo | Điểm nổi bật & Lý do chọn |
+| Tên Homestay / Khách sạn | Khu vực | Giá tham khảo | Điểm nổi bật & Trạng thái |
 |--------------------------|---------|---------------|---------------------------|
+| **Da Tree Homestay** ✅ *(ĐÃ ĐẶT)* | Ngọc Hà, Ba Đình | 348k/đêm | Phòng Giường Đôi Có Phòng Tắm Riêng, gần Lăng Bác & trung tâm, thanh toán tiền mặt tại chỗ khi check-in. |
 | **The Westlake Housing / Apartment** | Quảng An, Hồ Tây | 700k - 1.100k/đêm | View Hồ Tây cực chill ngắm hoàng hôn, phòng căn hộ có ban công lãng mạn cho 2 người. |
 | **Little Hanoi Deluxe Hotel** | Hàng Bè, Phố Cổ | 800k - 1.200k/đêm | Bước ra cửa là Phố Cổ & Phố đi bộ Hồ Gươm, dịch vụ ăn sáng ngon, hỗ trợ gửi vali hành lý. |
-| **Oriental Suites Hotel & Spa** | Hàng Đào, Phố Cổ | 900k - 1.400k/đêm | Khách sạn boutique cổ điển sang trọng, phòng cách âm tốt giữa lòng phố cổ. |
+
 
 ---
 
 ## <a id="homestay-yenminh"></a>📍 2. Yên Minh — Hà Giang (1 đêm: 30/08)
 
-> **Khu vực:** Thị trấn Yên Minh (chặng nghỉ chân sau 100km từ TP Hà Giang).
+> **Khu vực:** Thị trấn Yên Minh (chặng nghỉ chân sau 100km từ TP Hà Giang).  
+> ✅ **ĐÃ XÁC NHẬN ĐẶT PHÒNG:** [Bong Bang homestay 2](../info/dat_phong.md#yen-minh) *(Mã Booking: `6874088766`, PIN: `0868`, Giá: 400.000 VNĐ)*
 
-| Tên Homestay / Khách sạn | Loại hình | Giá tham khảo | Điểm nổi bật & Lý do chọn |
+| Tên Homestay / Khách sạn | Loại hình | Giá tham khảo | Điểm nổi bật & Trạng thái |
 |--------------------------|-----------|---------------|---------------------------|
-| **BongBong Homestay Yên Minh** ⭐ *(TOP 1)* | Homestay sân vườn | 450k - 650k/đêm | Sân vườn đồi thông xinh xắn, phòng đôi gỗ ấm cúng, chủ nhà nhiệt tình nấu cơm tối dân tộc ngon. |
+| **Bong Bang homestay 2** ✅ *(ĐÃ ĐẶT)* | Homestay sân vườn | 400k/đêm | Phòng Giường Đôi Nhỏ, thanh toán tiền mặt tại chỗ khi check-in, có tùy chọn ăn tối/sáng tại chỗ. |
 | **Du Già Panorama / Yên Minh Homestay** | Homestay gỗ | 400k - 600k/đêm | Phong cách mộc mạc vùng cao, view ngắm thung lũng lúa Yên Minh. |
 | **Khách sạn Thảo Nguyên Yên Minh** | Khách sạn tiêu chuẩn | 500k - 700k/đêm | Khách sạn lớn nhất Yên Minh, tiện nghi đầy đủ, có bãi đậu xe máy an toàn. |
 
@@ -35,6 +38,7 @@
 | Tên Homestay / Khách sạn | Khu vực | Giá tham khảo | Điểm nổi bật & Lý do chọn |
 |--------------------------|---------|---------------|---------------------------|
 | **Lo Lo Chai Homestay** ⭐ *(TOP 1 Lũng Cú)* | Làng Lô Lô Chải | 600k - 900k/đêm | Nhà trình tường đá 100 năm cổ kính, ngay sát Cà phê Cực Bắc, không gian cổ tích thần tiên đêm vùng cao. |
+| **Giang Sơn Hill Hotel 3⭐** 🎁 *(Ưu đãi cọc xe)* | Phố Cổ Đồng Văn | Giá giảm 20% cho khách thuê xe | Khách sạn 3⭐ mới xây ở trung tâm Đồng Văn. **Đặc quyền giảm 20% giá phòng dành riêng cho khách thuê xe Giang Sơn**. |
 | **Lô Lô Homestay / Cực Bắc Homestay** | Làng Lô Lô Chải | 500k - 800k/đêm | Phòng đôi ấm áp, trải nghiệm đời sống văn hóa người Lô Lô Đen. |
 | **Triệu Vũ Homestay / Plum Homestay** | Phố Cổ Đồng Văn | 550k - 850k/đêm | Ngay trung tâm Phố Cổ Đồng Văn, tiện bước ra phố đi bộ ăn thắng cố & lẩu dê đêm. |
 
