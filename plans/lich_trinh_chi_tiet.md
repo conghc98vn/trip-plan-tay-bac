@@ -74,7 +74,7 @@
 | 11:00 - 14:30 | Thăm gia đình, ăn trưa, nghỉ ngơi | |
 | 14:30 - 16:30 | Chạy xe từ Mỹ Đức về lại trung tâm Hà Nội (Ngọc Hà, Ba Đình) | Về tới homestay trước 16:30 |
 | 16:30 - 18:30 | Check-in **Da Tree Homestay** (1B Ngõ 168 Phố Ngọc Hà, Ba Đình), nghỉ ngơi, cất đồ, tắm rửa hồi sức | 🏨 [Chi tiết voucher đặt phòng](../info/dat_phong.md#ha-noi) |
-| 18:30 - 23:00 | Foodtour Phố Cổ: Phở cuốn Hương Mai / Bún chả / Chè Gỗ. Bia hơi Tạ Hiện, phố đi bộ Hồ Gươm | 📸 Phố Hàng Mã, Chợ đêm |
+| 18:30 - 23:00 | **Foodtour & Lượn phố tối Hà Nội:** Lựa chọn món ăn tối theo sở thích trong Master Food List (Vân Nầm Bò Nướng Ba Đình / Bún Đậu Tuấn Trọc / Phở cuốn Hương Mai Ngũ Xá / Bún Chả Bình Minh Bát Sứ) → Nem chua rán 36 Tạm Thương & Trà chanh Đào Duy Từ / Bia hơi Tạ Hiện / Chè Gỗ | 🍜 Tra cứu chi tiết & địa chỉ các quán tại [Master Food List](../notes/dac_san_am_thuc.md#food-hn) |
 
 ---
 

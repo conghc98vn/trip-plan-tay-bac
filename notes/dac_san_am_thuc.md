@@ -13,42 +13,69 @@
   - *Phở 10 Lý Quốc Sư* — 10 Lý Quốc Sư (Phở bò truyền thống chuẩn vị, nước dùng trong ngọt).
   - *Phở Bát Đàn* — 49 Bát Đàn (Phở gia truyền xếp hàng nổi tiếng Phố Cổ).
   - *Phở Tư Lùn* — 23 Hai Bà Trưng (Nước phở béo ngậy gầu giòn).
-- **Bún Thang & Bún Chả:**
+  - *Phở bưng Hàng Trống* — 1 Hàng Trống, Hoàn Kiếm (Trải nghiệm ngồi ghế nhựa bưng bát phở nóng phố cổ).
+  - *Phở bò Cô Yến* — Phố Cổ Hà Nội.
+- **Bún Thang, Bún Riêu & Bún Nước:**
   - *Bún Thang Cầu Gỗ* — 32 Cầu Gỗ (Bún thang tinh tế chuẩn vị người Hà Nội).
-  - *Bún chả Tuyết 34 Hàng Than* — 34 Hàng Than (Chả nướng kẹp que tre ngon xuất sắc, chả nướng than hoa thơm lừng).
-  - *Bún chả Đắc Kim* — 1 Hàng Mành (Quán bún chả nổi tiếng nhất Phố Cổ).
-  - *Bún chả Hương Liên (Obama)* — 24 Lê Văn Hưu (Quán tổng thống Obama từng ăn).
+  - *Bún Riêu Cô Đốp / Bún Ziu Gánh* — Hà Nội (Bún riêu cua đồng gánh lề đường ngọt đậm thanh).
+  - *Bún Mọc Thủy / Quán Bún Thủy* — Phố Cổ Hà Nội.
+  - *Bún Bung Cô Ban A7 Khương Thượng* — Đống Đa, Hà Nội.
+  - *Bún Cá Chấm Ngon / Bún Cá Chấm Hằng Béo* — Phố Cổ / Ba Đình (Cá chiên giòn chấm mắm tỏi ớt kèm bún lá).
 
-### 🥢 Món Ăn Trưa & Bữa Chính Nổi Tiếng
-- **Chả Cá Lăng (Must-try):**
-  - *Chả cá Thăng Long* — 6B Đường Thành ⭐ *(Michelin Selected — TOP 1 đề xuất)*.
-  - *Chả cá Lão Ngư* — 36 Thái Hà.
-- **Phở Cuốn & Bún Đậu Mắm Tôm:**
-  - *Phở cuốn Hương Mai* — 25 Ngũ Xá (Phở cuốn thịt bò nướng thơm lừng, phở chiên phồng).
-  - *Bún đậu mắm tôm Trung Hương* — Ngõ Phất Lộc, Hàng Bè (Mắm tôm ngon nhất Phố Cổ, đậu mộc chiên giòn).
+### 🥢 Món Bò Nầm Nướng, Bún Đậu, Bún Chả & Chả Cá (Buổi Tối Ngày 1 & 2)
+- **Bò Nầm Nướng Than Hoa (Món tối ấm cúng, béo thơm):**
+  - *Vân Nầm Bò Nướng* — Phó Đức Chính / 200 P. Nguyễn Trung Trực, Ba Đình ⭐ *(Cực gần Da Tree Homestay Ngọc Hà ~2km, siêu tiện ăn tối Ngày 1)*.
+  - *Bò Nầm Nướng Sốt Me Kiên Kồ (CS1)* — 225a Đ. Nguyễn Ngọc Vũ, Yên Hòa, Cầu Giấy.
+- **Bún Đậu Mắm Tôm (Món ngon nhẹ nhàng chuẩn vị Hà Thành):**
+  - *Bún Đậu Mẹt Tuấn Trọc (CS1)* — 23 P. Phan Huy Ích, Ba Đình *(Gần homestay Ba Đình ~2km)*.
+  - *Bún Đậu Tuấn Trọc (CS2)* — 72 P. Ngọc Khánh, Giảng Võ, Ba Đình *(Gần homestay Ba Đình ~2.5km)*.
+  - *Bún Đậu Thanh Hằng* — 5 Mã Mây, Phố Cổ, Hoàn Kiếm *(Tiện lượn phố cổ)*.
+  - *Bún Đậu Thu Hương* — 2 ngõ 126 Hào Nam, Ô Chợ Dừa, Đống Đa.
+  - *Bún Đậu Cây Đa* — 235b Đ. Thụy Khuê, Tây Hồ *(Gần Hồ Tây)*.
+  - *Bún Đậu Cô Thủy Thương Mại* — 2 Ngõ 31 P. Nguyễn Khả Trạc, Phú Diễn, Bắc Từ Liêm / Cầu Giấy.
+  - *Bún Đậu Trung Hương* — Ngõ Phất Lộc, Hàng Bè, Hoàn Kiếm.
+- **Bún Chả & Nem Cua Bể:**
+  - *Bún Chả, Nem Cua Bể Bà Sâm* — 47C P. Bùi Thị Xuân / Mai Hắc Đế, Hai Bà Trưng.
+  - *Bún Chả Bình Minh - Nem Cua Bể* — 23 P. Bát Sứ, Phố Cổ, Hoàn Kiếm.
+  - *Bún Chả Tuyết 34 Hàng Than* — 34 Hàng Than, Ba Đình *(Chả kẹp que tre nướng than hoa thơm lừng)*.
+  - *Bún Chả Ty Béo* — Phố Cổ Hà Nội.
+  - *Bún Chả Ngọc Xuân* — 102 Đ. Thụy Khuê, Tây Hồ.
+  - *Bún Chả Đắc Kim* — 1 Hàng Mành, Hoàn Kiếm.
+  - *Bún Chả Hương Liên (Obama)* — 24 Lê Văn Hưu, Hai Bà Trưng.
+- **Chả Cá Lăng (Must-try bữa tối đôi bạn):**
+  - *Chả Cá Thăng Long* — 6B Đường Thành, Hoàn Kiếm ⭐ *(Michelin Selected — TOP 1 đề xuất bữa trưa Ngày 2)*.
+  - *Chả Cá Lão Ngư* — 171 P. Thái Hà, Đống Đa.
+  - *Chả Cá Lăng 99* — 144 Nguyễn Văn Tuyết, Đống Đa.
+- **Phở Cuốn Ngũ Xá:**
+  - *Phở Cuốn Hương Mai* — 25 Ngũ Xá, Ba Đình *(Gần Homestay Ngọc Hà ~2.5km, chiên phồng & cuốn bò nướng)*.
 
-### ☕ Cà Phê & Đồ Uống Phố Cổ
-- *Cà phê trứng Giảng* — 39 Nguyễn Hữu Huân *(Nơi sáng tạo ra Cà phê trứng từ năm 1946)*.
-- *Cà phê Đinh* — 13 Đinh Tiên Hoàng (Tầng 2 cổ kính view thẳng ra Hồ Gươm).
-- *Lâm Cafe* — 60 Nguyễn Hữu Huân (Cà phê phin đậm đặc không gian tranh nghệ thuật).
-- *Cà phê view Hồ Tây* — Đường Trích Sài / Quảng An (Ngắm hoàng hôn Hồ Tây lãng mạn).
-
-### 🍢 Ăn Vặt Tối & Bia Hơi Phố Cổ
-- *Trà chanh Đào Duy Từ* — 31 Đào Duy Từ *(Trà chanh & chè thạch phố cổ truyền thống)*.
-- *Chè Gỗ* — 9 Trần Phú (Chè khúc bạch & chè thạch dừa thanh mát).
-- *Nộm bò khô Long Thủy* — 23 Hàng Giầy (Cạnh Hồ Gươm, nộm bò khô giòn ngon).
-- *Bia hơi Hà Nội Tạ Hiện* — Phố Tạ Hiện / Lương Ngọc Quyến (Bia hơi Phố Cổ náo nhiệt về đêm).
+### 🍢 Nem Chua Rán, Ăn Vặt & Xôi / Lòng / Ốc Đêm
+- **Nem Chua Rán & Ăn Vặt Phố Cổ:**
+  - *Cửa Hàng Nem Chua Rán 36 Tạm Thương* — 36 Ngõ Tạm Thương, Phố Cổ, Hoàn Kiếm ⭐ *(Phố nem chua rán ngõ hẻm huyền thoại Hà Nội)*.
+  - *Trà Chanh Đào Duy Từ* — 31 P. Đào Duy Từ, Phố Cổ, Hoàn Kiếm.
+  - *Chè Gỗ* — 9 Trần Phú, Ba Đình.
+  - *Nộm Bò Khố Long Thủy* — 23 Hàng Giầy, Hoàn Kiếm.
+  - *Bia Hơi Hà Nội Tạ Hiện* — Phố Tạ Hiện / Lương Ngọc Quyến.
+- **Xôi Đêm & Quán Lòng / Ốc:**
+  - *Xôi Nguyệt* — 30 Phương Liệt / Đào Tấn, Ba Đình *(Xôi tim mề lạp xưởng nổi tiếng Ba Đình)*.
+  - *Xôi Mây* — Tầng 1, Hàng Bài / Lý Thường Kiệt (Xôi xéo rưới mỡ hành thơm phức).
+  - *Xôi Gia Truyền Bà Thu* — 57 Nguyễn Hữu Huân, Hoàn Kiếm.
+  - *Quán Ốc Hiền Béo* — 26 P. Thanh Yên, Hồng Hà, Hoàn Kiếm.
+  - *Ốc Lê La* — Hà Nội.
+  - *Quán Lòng Bà Tình / Quán Cháo Lòng* — Hà Nội.
 
 ---
 
-## 📍 2. HÀ NỘI — Danh Sách Quán Cafe & Ăn Vặt Do Bạn Tìm Hiểu (Google Maps Saved Lists)
+## 📍 2. HÀ NỘI — Danh Sách Quán Saved Lists (Google Maps)
 
-> 📌 **Lưu trữ dữ liệu:** Dưới đây là các vị trí bạn đã lưu trên Google Maps để tiện xem lại và lựa chọn trực tiếp trong chuyến đi.
+> 📌 **Lưu trữ dữ liệu:** Dưới đây là các Google Maps list bạn đã lưu để tra cứu trực tiếp.
+
+### 🍢 Food Tour Hà Nội (List 60 Quán Ăn Saved List)
+- 🔗 **Google Maps List:** [Food tour - HN](https://maps.app.goo.gl/RvVn7HpuxU6x5rcR6)
 
 ### 🍵 Quán Trà Chanh & Ăn Vặt Phố Cổ
 - 🔗 **Google Maps:** [Trà chanh - Đào Duy Từ](https://maps.app.goo.gl/bXUaaBuvTYDC3eVCA)
 - **Địa chỉ:** 31 P. Đào Duy Từ, Phố Cổ Hà Nội, Hoàn Kiếm.
-- **Đặc trưng:** Quán trà chanh phố cổ nổi tiếng lâu đời, trà chanh chè thạch thanh mát, góc ngồi vỉa hè ngắm phố đêm rực rỡ.
 
 ### ☕ List 35 Quán Cafe Hà Nội ("Cafe, vài người bạn, vài câu chuyện")
 - 🔗 **Google Maps List:** [Xem danh sách 35 Quán Cafe trên Google Maps](https://maps.app.goo.gl/ZWWJZpXiUK3hDCtG6)

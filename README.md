@@ -53,7 +53,7 @@ plan-trip/
 | **Homestay Đồng Văn** | ⏳ Chưa đặt | Đêm 31/08 (Đang cân nhắc Giang Sơn Hill Hotel giảm 20% / Lo Lo Chai) |
 | **Homestay Mèo Vạc** | ⏳ Chưa đặt | Đêm 01/09 (Cần chốt cọc sớm đợt Lễ 2/9) |
 | **KS Cao Bằng** | ⏳ Chưa đặt | 4 đêm (02, 03, 04, 05/09 - Đêm 02/09 cần chốt cọc sớm) |
-| **Food list Hà Nội** | 🔄 Đang research | Bạn sẽ cung cấp list |
+| **Food list Hà Nội** | ✅ Đã tổng hợp | Đã lưu & phân loại trong [dac_san_am_thuc.md](file:///Users/conghoang/Desktop/plan-trip/notes/dac_san_am_thuc.md#food-hn) |
 | **Photography spots** | ✅ Draft xong | Trong plan chi tiết |
 | **Setup hành lý & chằng xe** | ✅ Đã chốt | Túi chéo máy ảnh + Balo baga trước + Túi ShopeeFood 22L baga sau + 1.5L xăng ([hanh_ly_baga.md](file:///Users/conghoang/Desktop/plan-trip/notes/hanh_ly_baga.md)) |
 
@@ -71,7 +71,7 @@ plan-trip/
 
 6. [ ] Đặt homestay Hà Giang loop (✅ Đã chốt Yên Minh 30/08; cân nhắc Giang Sơn Hill Hotel giảm 20% / Lo Lo Chai Đồng Văn 31/08, Mèo Vạc 01/09) — **CẦN ĐẶT SỚM MÈO VẠC TRONG TUẦN NÀY vì Lễ 2/9**
 7. [ ] Đặt KS/Homestay Cao Bằng (TP Cao Bằng & khu vực Bản Giốc) — **CẦN ĐẶT SỚM TP CAO BẰNG ĐÊM 02/09 vì Lễ 2/9**
-8. [ ] Hoàn thiện food list Hà Nội
+8. [x] Hoàn thiện food list Hà Nội & tổng hợp theo món ăn ([dac_san_am_thuc.md](file:///Users/conghoang/Desktop/plan-trip/notes/dac_san_am_thuc.md#food-hn))
 9. [x] Chuẩn bị packing checklist, phương án chằng xe máy & sạc Type-C Anker 65W
 10. [x] Xây dựng Đánh giá Rủi ro & Kịch bản Backup cho chuyến đi
 

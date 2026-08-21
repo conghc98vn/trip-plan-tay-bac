@@ -153,6 +153,15 @@
 
 ---
 
+## 21/08/2026 — Tổng hợp & Phân loại Master Food List Hà Nội
+
+### Quyết định #17: Tổng hợp & Phân loại danh sách 60+ Quán ăn Hà Nội cho Chiều Tối Ngày 1 & Ngày 2
+- **Dữ liệu tổng hợp:** Tích hợp toàn bộ các quán ăn bạn liệt kê + Google Maps list saved [Food tour - HN](https://maps.app.goo.gl/RvVn7HpuxU6x5rcR6) vào [Master Food List (`notes/dac_san_am_thuc.md`)](file:///Users/conghoang/Desktop/plan-trip/notes/dac_san_am_thuc.md#food-hn).
+- **Cấu trúc phân loại:** Phân nhóm theo 7 chủng loại món chính (Bò nầm nướng, Bún đậu mắm tôm, Bún chả & Nem cua bể, Chả cá lăng, Nem chua rán & Ăn vặt phố cổ, Món nước & Phở/Bún riêu/Bún cá, Xôi & Quán lòng/Ốc).
+- **Tối ưu vị trí chiều tối Ngày 1 (28/08):** Đánh dấu ưu tiên các quán thuộc khu vực Ba Đình (gần Da Tree Homestay Ngọc Hà ~2km) để ăn tối nhẹ nhàng hồi sức hoặc chạy 3km vào trung tâm Phố Cổ.
+
+---
+
 ## Cần quyết định tiếp
 - [x] Đặt vé máy bay lượt đi (✅ **Vietjet Air VJ120** - PNR: UJSG2A / R7AH77)
 - [ ] Mua bổ sung 1 gói hành lý ký gửi (15-20kg) online trên Vietjet Air cho lượt đi VJ120 (trước 28/08)
@@ -163,10 +172,11 @@
 - [x] Đặt xe máy Hà Nội (✅ **MOTOGO Mã #39337** - Sirius 110cc - 260k/2 ngày - Nhận Nội Bài, Trả 1081 Hồng Hà)
 - [x] Chốt & Đặt cọc xe tour Giang Sơn (✅ **Honda Wave 110cc có BH cứu hộ** - Cọc 100k ngày 15/08 - Nhận TP HG, Trả TP CB)
 - [x] Chốt Kế hoạch Đánh giá Rủi ro & Phương án Backup
+- [x] Phân loại & Chốt Master Food List Hà Nội ([dac_san_am_thuc.md](file:///Users/conghoang/Desktop/plan-trip/notes/dac_san_am_thuc.md#food-hn))
 - [ ] Đặt homestay Đồng Văn (đêm 31/08 - Đang cân nhắc Giang Sơn Hill Hotel giảm 20% / Lo Lo Chai Homestay) & Mèo Vạc (đêm 01/09 - **CẦN ĐẶT SỚM trong tuần này vì Lễ 2/9**)
 - [ ] Đặt khách sạn TP Cao Bằng (đêm 02/09 - **CẦN ĐẶT SỚM trong tuần này vì Lễ 2/9**) & Thác Bản Giốc (đêm 03/09)
 - [ ] Đặt xe khách CB → Nội Bài (trưa 06/09)
-- [ ] Food list Hà Nội (bạn đang research)
+
 
 
 
