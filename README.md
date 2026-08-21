@@ -46,7 +46,7 @@ plan-trip/
 | **Vé máy bay về** | ⏳ Chưa đặt | 06/09 23:30 HAN→SGN |
 | **Xe khách HN→HG** | ⏳ Chưa đặt | 29/08 22:30 giường nằm |
 | **Xe khách CB→Nội Bài** | ⏳ Chưa đặt | 06/09 12:30-13:00 (Trừ hao dư thời gian bay) |
-| **Thuê xe HN** | ✅ Đã đặt | MOTOGO (Mã #39337) - Sirius 110cc (260k/2 ngày, nhận Nội Bài, trả 1081 Hồng Hà) |
+| **Thuê xe HN** | ✅ Đã đặt | MOTOGO (Mã #39337) - Sirius 110cc (310k/2 ngày gồm 50k phụ phí trả trái điểm, nhận Nội Bài, trả 1081 Hồng Hà, baga sau) |
 | **Thuê xe máy Giang Sơn** | ✅ **Đã đặt cọc** | Honda Wave 110cc có BH cứu hộ (Đã cọc 100k ngày 15/08; free phòng nghỉ/tắm rửa + ưu đãi 20% Giang Sơn Hill Hotel) |
 | **Homestay Hà Nội** | ✅ Đã xác nhận | Da Tree Homestay Ba Đình (Mã: 6540221126) - 348k (Tiền mặt) |
 | **Homestay Yên Minh** | ✅ Đã xác nhận | Bong Bang Homestay 2 (Mã: 6874088766) - 400k (Tiền mặt) |

@@ -67,10 +67,12 @@
 
 ### Quyết định #8: Chốt booking xe máy Hà Nội — MOTOGO (Mã #39337)
 - **Đơn vị thuê:** MOTOGO Hà Nội (Hotline: 0338.023.344)
-- **Mã đặt xe:** `#39337` | **Xe:** Yamaha Sirius 110cc
-- **Chi phí:** 130.000đ/ngày × 2 ngày = **260.000đ** (Miễn phí baga sau, bộ dụng cụ vá xe, giá đỡ điện thoại)
-- **Nhận xe:** 07:00 AM 28/08/2026 tại MOTOGO gần Nội Bài (6 ngõ 2 Điền Xá, Quang Tiến, Sóc Sơn)
-- **Trả xe:** 10:00 PM 29/08/2026 tại MOTOGO 1081 Hồng Hà, Hoàn Kiếm, Hà Nội (Khu Phố Cổ)
+- **Mã đặt xe:** `#39337` | **Khách đặt:** Hoàng Chí Công (0969910198) | **Xe:** Yamaha Sirius 110cc
+- **Chi phí:** 130.000đ/ngày × 2 ngày = **260.000đ** + **50.000đ phụ phí trả trái điểm** = **310.000đ** (Thanh toán khi trả xe)
+- **Nhận xe:** 07:00 AM 28/08/2026 tại MOTOGO Nội Bài (Địa chỉ: 7 Đường Trục Chính Phía Tây, thôn Điền Xá, Sóc Sơn — [Google Maps](https://maps.app.goo.gl/NGS289a7Yp3k7R427))
+- **Trả xe:** 10:00 PM 29/08/2026 tại MOTOGO 1081 Hồng Hà, Hoàn Kiếm, Hà Nội (Khu Phố Cổ) *(Phụ thu trả trái điểm 50k)*
+- **Thủ tục & Tiền cọc:** Giữ 1 giấy tờ + bằng lái + vé bay/booking KS. *Lưu ý:* Khi trả trái điểm, có thể cọc **2.000.000đ** để **không bị giữ lại giấy tờ gốc** (nhận lại cọc khi trả xe ở Hồng Hà).
+- **Trang bị:** 2 mũ bảo hiểm, 2 áo mưa 1 lần, 1 giá đỡ điện thoại, **Baga dài phía sau** (Miễn phí — đã nhắn CSKH lắp sẵn).
 - **File đính kèm:** [attachments/motogo_hanoi.pdf](../attachments/motogo_hanoi.pdf)
 
 ---

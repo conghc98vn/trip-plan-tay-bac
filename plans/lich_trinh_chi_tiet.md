@@ -24,7 +24,7 @@
 |----------|---------|-------------------|
 | **Bay đi** | ✅ **Vietjet Air VJ120** — 28/08 05:00 AM SGN → 07:10 AM HAN (Mã PNR: UJSG2A / R7AH77)<br>⚠️ *Lưu ý: Cần mua bổ sung 1 gói hành lý ký gửi (15-20kg) online trước ngày bay.* | [Chi tiết chuyến bay](../info/chuyen_bay.md) |
 | **Bay về** | 06/09 23:30 PM HAN → SGN | [Chi tiết chuyến bay](../info/chuyen_bay.md) |
-| **Xe máy HN** | ✅ **MOTOGO (Mã #39337)** — Yamaha Sirius 110cc (260k/2 ngày). Nhận MOTOGO Nội Bài sáng 28/08, trả 1081 Hồng Hà (Hoàn Kiếm) tối 29/08 | [Chi tiết MOTOGO](../info/thue_xe_may.md#1-xe-máy-tại-hà-nội-28-2908) |
+| **Xe máy HN** | ✅ **MOTOGO (Mã #39337)** — Yamaha Sirius 110cc (260k + 50k phụ phí trả trái điểm = 310k/2 ngày). Nhận MOTOGO Nội Bài sáng 28/08, trả 1081 Hồng Hà (Hoàn Kiếm) tối 29/08. (Cọc 2tr lấy lại CCCD). | [Chi tiết MOTOGO](../info/thue_xe_may.md#1-xe-máy-tại-hà-nội-28-2908) |
 | **Xe máy HG** | ✅ **Giang Sơn (Đã cọc 100k)** — Honda Wave 110cc (250k/ngày đã gồm gói BH cứu hộ). Nhận TP HG 30/08, trả TP CB (phí trả 500k). Free phòng nghỉ/tắm rửa + Ưu đãi 20% Giang Sơn Hill Hotel. | [Chi tiết cọc xe Giang Sơn](../info/thue_xe_may.md#2-xe-máy-tour-hà-giang--cao-bằng--giang-sơn-3008---0609) |
 | **Xe khách HN→HG** | Giường nằm 22:30 tối 29/08 (đến TP HG 05:30 sáng 30/08) | [Thông tin nhà xe](../info/xe_khach.md#chặng-1-hà-nội--tp-hà-giang-tối-2908) |
 | **Xe khách CB→Nội Bài** | Giường nằm/Limousine ~12:30 trưa 06/09 (đến Nội Bài ~19:30, trừ hao dư thời gian bay) | [Thông tin xe khách CB](../info/xe_khach.md#chặng-2-tp-cao-bằng--sân-bay-nội-bài-trưa-0609) |

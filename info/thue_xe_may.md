@@ -3,16 +3,17 @@
 ## 1. Xe máy tại Hà Nội (28-29/08) — ✅ Đã xác nhận đặt xe MOTOGO
 | Hạng mục | Chi tiết |
 |----------|---------|
-| **Mã đặt xe** | **#39337** (MOTOGO Hà Nội) |
+| **Mã đặt xe** | **#39337** (MOTOGO Hà Nội) — Khách đặt: **Hoàng Chí Công** (SĐT: 0969910198) |
 | **Loại xe** | **Yamaha Sirius 110cc** |
 | **Thời gian thuê** | 28/08 07:00 AM → 29/08 10:00 PM (2 ngày) |
-| **Giá thuê** | **130.000đ/ngày** × 2 = **260.000đ** (Số tiền chưa thanh toán) |
-| **Phụ kiện đi kèm** | Baga sau (0đ), Bộ dụng cụ vá xe (0đ), Giá đỡ điện thoại (0đ) |
-| **Nhận xe** | **Cửa hàng MOTOGO gần Sân bay Nội Bài** (Địa chỉ: 6 ngõ 2 Điền Xá, Quang Tiến, Sóc Sơn, Hà Nội) |
+| **Giá thuê & Chi phí** | **130.000đ/ngày** × 2 = **260.000đ**<br>➕ **Phụ phí trả xe trái điểm:** **50.000đ** (do nhận Nội Bài, trả Hồng Hà)<br>👉 **Tổng thanh toán:** **310.000đ** (Thanh toán khi trả xe) |
+| **Phụ kiện đi kèm** | 2 mũ bảo hiểm, 2 áo mưa 1 lần, giá đỡ điện thoại, **Baga dài phía sau** (Miễn phí — *đã xác nhận nhắn shop lắp sẵn*) |
+| **Nhận xe (07:00 28/08)** | **Cửa hàng MOTOGO Nội Bài** (cách sân bay ~2km)<br>• **Địa chỉ:** 7 Đường Trục Chính Phía Tây, thôn Điền Xá, Sóc Sơn, Hà Nội<br>• **Google Maps:** [Link định vị Motogo Điền Xá](https://maps.app.goo.gl/NGS289a7Yp3k7R427) |
 | **Quy trình nhận xe** | Hạ cánh Nội Bài (~07:15 sáng 28/08). Bạn gái giữ đồ sảnh T1, bạn đi GrabBike (~2km) ra MOTOGO Điền Xá kiểm tra & lấy xe, chạy về Bãi đỗ xe máy T1 đón bạn gái & chằng đồ xuất phát |
-| **Trả xe** | **MOTOGO 1081 Hồng Hà, Hoàn Kiếm, Hà Nội** (khu Phố Cổ / Hoàn Kiếm, tối 29/08 22:00) |
-| **Liên hệ** | Hotline MOTOGO: **0338.023.344** |
-| **Status** | ✅ **ĐÃ XÁC NHẬN ĐẶT XE** (File PDF: [attachments/motogo_hanoi.pdf](../attachments/motogo_hanoi.pdf)) |
+| **Trả xe (22:00 29/08)** | **Cửa hàng MOTOGO Nội thành** — Địa chỉ: **1081 Hồng Hà, Hoàn Kiếm, Hà Nội** (khu Phố Cổ / Hoàn Kiếm) *(Phụ phí trả trái điểm 50k)* |
+| **Thủ tục thuê & Đặt cọc** | • **Giấy tờ required:** 1 Giấy tờ tùy thân (CCCD / Hộ chiếu / Cà vạt xe) + Kiểm tra bằng lái xe máy + Chụp vé máy bay / Booking khách sạn.<br>• **💡 Tùy chọn Cọc khi Trả trái điểm:** Đặt cọc **2.000.000 VNĐ** thì cửa hàng **KHÔNG giữ giấy tờ gốc**. Tiền cọc 2tr được hoàn trả ngay khi bàn giao xe tại 1081 Hồng Hà. |
+| **Liên hệ Hotline** | Hotline MOTOGO: **0338.023.344** |
+| **Status** | ✅ **ĐÃ XÁC NHẬN ĐẶT XE & XÁC NHẬN BAGA + TRẢ TRÁI ĐIỂM (19/08/2026)** (File PDF: [attachments/motogo_hanoi.pdf](../attachments/motogo_hanoi.pdf)) |
 
 ---
 
