@@ -162,6 +162,18 @@
 
 ---
 
+## 24/08/2026 — Cập nhật Dự báo thời tiết chi tiết từng ngày (28/08 – 06/09/2026)
+
+### Quyết định #18: Tích hợp thông tin thời tiết & nhiệt độ dự báo cho toàn bộ 10 ngày di chuyển
+- **Nguồn dữ liệu:** Cập nhật thông tin dự báo khí tượng thủy văn khu vực Hà Nội, Hà Giang, Đồng Văn, Mèo Vạc, Cao Bằng & Trùng Khánh / Bản Giốc.
+- **Tổng quan xu hướng:** 
+  - **Hà Nội (28-29/08 & 06/09):** Mây, oi nhẹ 26–33°C, chiều tối dông rải rác.
+  - **Hà Giang Loop (30/08 - 01/09):** Trở mát 19–31°C (Đồng Văn / Lũng Cú đêm trở lạnh 18–19°C). Sương mù sớm tại Quản Bạ, trưa hửng nắng (rất đẹp chụp ảnh Sông Nho Quế & Dốc Thẩm Mã).
+  - **Chặng QL34 & Cao Bằng (02/09 - 05/09):** Trời thu mát mẻ 20–31°C, nắng thu xanh ngọc tại Suối Lê-Nin & Thác Bản Giốc.
+- **Cập nhật đồng bộ:** Đã bổ sung cột thời tiết vào bảng tổng quan và chi tiết từng mục Ngày 1 đến Ngày 10 trong [`plans/lich_trinh_chi_tiet.md`](file:///Users/conghoang/Desktop/plan-trip/plans/lich_trinh_chi_tiet.md).
+
+---
+
 ## Cần quyết định tiếp
 - [x] Đặt vé máy bay lượt đi (✅ **Vietjet Air VJ120** - PNR: UJSG2A / R7AH77)
 - [ ] Mua bổ sung 1 gói hành lý ký gửi (15-20kg) online trên Vietjet Air cho lượt đi VJ120 (trước 28/08)
@@ -173,6 +185,7 @@
 - [x] Chốt & Đặt cọc xe tour Giang Sơn (✅ **Honda Wave 110cc có BH cứu hộ** - Cọc 100k ngày 15/08 - Nhận TP HG, Trả TP CB)
 - [x] Chốt Kế hoạch Đánh giá Rủi ro & Phương án Backup
 - [x] Phân loại & Chốt Master Food List Hà Nội ([dac_san_am_thuc.md](file:///Users/conghoang/Desktop/plan-trip/notes/dac_san_am_thuc.md#food-hn))
+- [x] Cập nhật dự báo thời tiết chi tiết từng ngày ([lich_trinh_chi_tiet.md](file:///Users/conghoang/Desktop/plan-trip/plans/lich_trinh_chi_tiet.md))
 - [ ] Đặt homestay Đồng Văn (đêm 31/08 - Đang cân nhắc Giang Sơn Hill Hotel giảm 20% / Lo Lo Chai Homestay) & Mèo Vạc (đêm 01/09 - **CẦN ĐẶT SỚM trong tuần này vì Lễ 2/9**)
 - [ ] Đặt khách sạn TP Cao Bằng (đêm 02/09 - **CẦN ĐẶT SỚM trong tuần này vì Lễ 2/9**) & Thác Bản Giốc (đêm 03/09)
 - [ ] Đặt xe khách CB → Nội Bài (trưa 06/09)

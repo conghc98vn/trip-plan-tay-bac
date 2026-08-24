@@ -1,7 +1,7 @@
 # 🗺️ Plan Trip — HCM → Hà Nội → Hà Giang → Cao Bằng
 > **Chuyến đi:** 28/08/2026 – 06/09/2026 (10 ngày)
 > **Thành viên:** 2 người (Cong Hoang + Bạn gái)
-> **Cập nhật lần cuối:** 14/08/2026 16:32
+> **Cập nhật lần cuối:** 24/08/2026 17:15
 
 ---
 
@@ -39,6 +39,7 @@ plan-trip/
 | Hạng mục | Status | Ghi chú |
 |----------|--------|---------|
 | **Plan tổng thể** | ✅ Đã chốt | Lái xe xuyên HG sang CB, trả xe ở CB (PA1: Pác Bó ngày 05/09) |
+| **Dự báo thời tiết 10 ngày** | ✅ Đã cập nhật | Chi tiết từng ngày từ 28/08 đến 06/09 trong [lich_trinh_chi_tiet.md](file:///Users/conghoang/Desktop/plan-trip/plans/lich_trinh_chi_tiet.md) |
 | **Kế hoạch Rủi ro & Backup** | ✅ Đã chốt | 5 nhóm rủi ro & kịch bản dự phòng trong [lich_trinh_chi_tiet.md](file:///Users/conghoang/Desktop/plan-trip/plans/lich_trinh_chi_tiet.md#-đánh-giá-rủi-ro--kịch-bản-dự-phòng-contingency-plans) |
 | **Gợi ý Homestay/Hotel** | ✅ Đã lên list | Trong [goi_y_homestay.md](file:///Users/conghoang/Desktop/plan-trip/notes/goi_y_homestay.md) |
 | **Master Food List** | ✅ Đã tổng hợp | Trong [dac_san_am_thuc.md](file:///Users/conghoang/Desktop/plan-trip/notes/dac_san_am_thuc.md) |
