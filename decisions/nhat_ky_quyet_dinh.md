@@ -207,6 +207,11 @@
   - **Ngày 10 (06/09 — TP CB → Nội Bài → SGN):** Cao Bằng sáng nắng nhẹ, Hà Nội / Nội Bài chiều tối mưa giảm, thời tiết dịu mát (24–32°C).
 - **Cập nhật đồng bộ:** [`plans/lich_trinh_chi_tiet.md`](file:///Users/conghoang/Desktop/plan-trip/plans/lich_trinh_chi_tiet.md) và [`README.md`](file:///Users/conghoang/Desktop/plan-trip/README.md).
 
+### Quyết định #22: Đăng ký bổ sung 1 suất ăn nóng trên chuyến bay lượt đi Vietjet Air VJ120
+- **Chi tiết dịch vụ cộng thêm (Add-on):** 🍱 **1 Suất ăn nóng** — Cơm Thơm Thái Tây Cùng Bò Xào Sốt Bơ (`C.ThaiWBisc`) cho hành khách `HOANG CHI CONG` (PNR **`UJSG2A`**).
+- **Tài liệu đính kèm:** File vé & hành trình xác nhận mới nhất [`attachments/ve_may_bay_luot_di/Itinerary-UJSG2A.pdf`](file:///Users/conghoang/Desktop/plan-trip/attachments/ve_may_bay_luot_di/Itinerary-UJSG2A.pdf).
+- **Cập nhật đồng bộ:** [`info/chuyen_bay.md`](file:///Users/conghoang/Desktop/plan-trip/info/chuyen_bay.md), [`plans/lich_trinh_chi_tiet.md`](file:///Users/conghoang/Desktop/plan-trip/plans/lich_trinh_chi_tiet.md), và [`README.md`](file:///Users/conghoang/Desktop/plan-trip/README.md).
+
 ---
 
 ## Cần quyết định tiếp
