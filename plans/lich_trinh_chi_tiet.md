@@ -61,7 +61,7 @@
 
 ### <a id="ngay-1"></a>📍 Ngày 1 (28/08 - Thứ 6): Sài Gòn → Nội Bài → Chạy Thẳng Mỹ Đức → Phố Cổ Tối (🛵 ~145 km)
 
-> ⛅ **Dự báo thời tiết:** Có mây, nắng gián đoạn, chiều tối dông rải rác | 🌡️ **Nhiệt độ:** 26°C – 33°C  
+> ⛅ **Dự báo thời tiết:** Nhiều mây đan xen, nắng gián đoạn, có lúc có mưa rào và dông rải rác | 🌡️ **Nhiệt độ:** 26°C – 34°C  
 > 🛵 **Quãng đường di chuyển dự kiến:** ~145 km (Nội Bài → Mỹ Đức ~65km + Mỹ Đức → Ba Đình ~65km + lượn phố cổ ~15km)  
 > 🔗 **Gợi ý liên quan:** 🏨 [Da Tree Homestay Ba Đình](../info/dat_phong.md#ha-noi) | 🍜 [Food List Phố Cổ](../notes/dac_san_am_thuc.md#food-hn) | 📸 [Góc chụp Phố Cổ & Ba Đình](../notes/goc_chup_anh.md#photo-hn)
 
@@ -83,7 +83,7 @@
 
 ### <a id="ngay-2"></a>📍 Ngày 2 (29/08 - Thứ 7): Khám Phá Hà Nội → Tối Lên Xe Khách Đi Hà Giang (🛵 ~25 km, 🚌 ~300 km)
 
-> ⛅ **Dự báo thời tiết:** Ngày có mây, oi nhẹ, mưa rào rải rác trưa/chiều | 🌡️ **Nhiệt độ:** 26°C – 33°C  
+> ⛅ **Dự báo thời tiết:** Sáng hửng nắng nhẹ, từ chiều & tối chuyển mây, có mưa rào và dông diện rộng | 🌡️ **Nhiệt độ:** 26°C – 33°C  
 > 🛵 **Quãng đường di chuyển dự kiến:** ~25 km (Xe máy lượn dạo quanh trung tâm Hà Nội) + 🚌 300 km xe khách giường nằm đi TP Hà Giang  
 > 🔗 **Gợi ý liên quan:** 🍜 [Quán Phở & Cà phê Trứng](../notes/dac_san_am_thuc.md#food-hn) | 📸 [Góc chụp Cầu Long Biên](../notes/goc_chup_anh.md#photo-hn) | 🚌 [Thông tin Xe Khách](../info/xe_khach.md#chặng-1-hà-nội--tp-hà-giang-tối-2908)
 
@@ -103,7 +103,7 @@
 
 ### <a id="ngay-3"></a>📍 Ngày 3 (30/08 - CN): TP Hà Giang → Quản Bạ → Yên Minh (🛵 ~100 km)
 
-> 🌤️ **Dự báo thời tiết:** Sương mù đèo cao sáng sớm, trưa hửng nắng, mưa rào ngắn rải rác | 🌡️ **Nhiệt độ:** TP HG 25°C–31°C, Quản Bạ/Yên Minh 20°C–27°C (đêm mát)  
+> 🌤️ **Dự báo thời tiết:** Sương mù đèo Bắc Sum sáng sớm, ngày nhiều mây, mưa rào và dông rải rác trưa/chiều | 🌡️ **Nhiệt độ:** TP HG 25°C–32°C, Quản Bạ/Yên Minh 21°C–28°C  
 > 🛵 **Quãng đường di chuyển dự kiến:** ~100 km (TP Hà Giang → Dốc Bắc Sum → Quản Bạ ~46km → Can Tỷ → Yên Minh ~54km) — *Cập bến Yên Minh trước 16:30!*  
 > 🔗 **Gợi ý liên quan:** 🏨 [Bong Bang Homestay 2 (✅ Đã xác nhận)](../info/dat_phong.md#yen-minh) | 🍜 [Lẩu Gà Đen Tam Sơn](../notes/dac_san_am_thuc.md#food-hagiang) | 📸 [Góc chụp Cổng Trời](../notes/goc_chup_anh.md#photo-hagiang)
 
@@ -120,7 +120,7 @@
 
 ### <a id="ngay-4"></a>📍 Ngày 4 (31/08 - T2): Yên Minh → Đồng Văn (🛵 ~95 km)
 
-> ⛅ **Dự báo thời tiết:** Vùng cao núi đá nhiều mây, sáng sương mờ đẹp, trưa hửng nắng, đêm trở lạnh | 🌡️ **Nhiệt độ:** 19°C – 26°C (đêm 18°C–19°C)  
+> ⛅ **Dự báo thời tiết:** Vùng cao núi đá nhiều mây, giảm mưa nhẹ, hửng nắng ngắt quãng, đêm trở lạnh | 🌡️ **Nhiệt độ:** 19°C – 26°C (đêm Lũng Cú / Đồng Văn ~18°C)  
 > 🛵 **Quãng đường di chuyển dự kiến:** ~95 km (Yên Minh → Thẩm Mã → Sà Phìn ~40km → Cột cờ Lũng Cú ~26km → Đồng Văn ~29km) — *Cập bến Đồng Văn trước 16:30!*  
 > 🔗 **Gợi ý liên quan:** 🏨 [Lo Lo Chai Homestay](../notes/goi_y_homestay.md#homestay-dongvan) | 🍜 [Thắng cố Tiến Lộc](../notes/dac_san_am_thuc.md#food-hagiang) | 📸 [Góc chụp Dốc Thẩm Mã](../notes/goc_chup_anh.md#photo-hagiang)
 
@@ -139,7 +139,7 @@
 
 ### <a id="ngay-5"></a>📍 Ngày 5 (01/09 - T3): Đồng Văn → Mã Pí Lèng → Mèo Vạc (🛵 ~50 km)
 
-> ☀️ **Dự báo thời tiết:** Nắng rực rỡ gián đoạn, hẻm Tu Sản gió mát (rất đẹp đi thuyền Nho Quế xanh ngọc) | 🌡️ **Nhiệt độ:** 20°C – 28°C  
+> ☀️ **Dự báo thời tiết:** Mây rải rác, hửng nắng gián đoạn, hẻm Tu Sản gió mát (rất đẹp đi thuyền Nho Quế xanh ngọc) | 🌡️ **Nhiệt độ:** 20°C – 28°C  
 > 🛵 **Quãng đường di chuyển dự kiến:** ~50 km (Đồng Văn → Đèo Mã Pí Lèng ~15km → Bến thuyền Nho Quế khứ hồi ~15km → Pả Vi / Mèo Vạc ~20km) — *Cập bến Pả Vi trước 16:00!*  
 > 🔗 **Gợi ý liên quan:** 🏨 [O'Châu Homestay Pả Vi](../notes/goi_y_homestay.md#homestay-pavi) ⚠️ | 🍜 [Lợn đen nướng Pả Vi](../notes/dac_san_am_thuc.md#food-hagiang) | 📸 [Góc chụp Nho Quế CPL](../notes/goc_chup_anh.md#photo-hagiang)
 
@@ -156,7 +156,7 @@
 
 ### <a id="ngay-6"></a>📍 Ngày 6 (02/09 - T4 🇻🇳): Mèo Vạc → Bảo Lâm → Bảo Lạc → TP Cao Bằng (🛵 ~185 km)
 
-> ⛅ **Dự báo thời tiết:** Trời mát, nhiều mây, mưa rào nhẹ chặng sông Gâm / QL34, tối TP Cao Bằng khô ráo mừng Lễ 2/9 | 🌡️ **Nhiệt độ:** 22°C – 30°C  
+> ⛅ **Dự báo thời tiết:** Trời mát, nhiều mây, mưa rào nhẹ vài nơi ven sông Gâm / QL34, tối TP Cao Bằng khô ráo | 🌡️ **Nhiệt độ:** 22°C – 30°C  
 > 🛵 **Quãng đường di chuyển dự kiến:** ~185 km (Mèo Vạc → Bảo Lạc ~75km → Nguyên Bình → TP Cao Bằng ~110km qua QL34) — *Chặng di chuyển êm ái, thong thả ngắm sông Gâm & đèo Khau Liêu. Cập bến TP Cao Bằng trước 16:00!*  
 > 🔗 **Gợi ý liên quan:** 🏨 [Mường Thanh 4⭐ / Max Hotel 3⭐](../notes/goi_y_homestay.md#homestay-caobang) | 🍜 [Phở Vịt Quay Quyên](../notes/dac_san_am_thuc.md#food-caobang) | 📸 [Góc chụp đèo Khau Liêu](../notes/goc_chup_anh.md#photo-caobang)
 
@@ -173,7 +173,7 @@
 
 ### <a id="ngay-7"></a>📍 Ngày 7 (03/09 - T5): Hồ Thang Hen → Núi Mắt Thần → Thác Bản Giốc (🛵 ~95 km)
 
-> 🌤️ **Dự báo thời tiết:** Sáng hửng nắng ngắt quãng (tuyệt đẹp ngắm Núi Mắt Thần), chiều mát mẻ, đêm sương mỏng Bản Giốc | 🌡️ **Nhiệt độ:** 20°C – 29°C  
+> 🌤️ **Dự báo thời tiết:** Sáng mây hửng nắng nhẹ (tuyệt đẹp ngắm thung lũng Núi Mắt Thần), chiều mát mẻ, đêm sương mỏng | 🌡️ **Nhiệt độ:** 20°C – 29°C  
 > 🛵 **Quãng đường di chuyển dự kiến:** ~95 km (TP Cao Bằng → Hồ Thang Hen / Núi Mắt Thần ~30km → Đèo Mã Phục → Trùng Khánh → Bản Giốc ~65km) — *Cập bến Bản Giốc trước 16:30!*  
 > 🔗 **Gợi ý liên quan:** 🏨 [Yến Nhi Homestay Bản Giốc](../notes/goi_y_homestay.md#homestay-bangioc) | 🍜 [Cá Trầm Hương Bản Giốc](../notes/dac_san_am_thuc.md#food-caobang) | 📸 [Góc chụp Núi Mắt Thần](../notes/goc_chup_anh.md#photo-caobang)
 
@@ -190,7 +190,7 @@
 
 ### <a id="ngay-8"></a>📍 Ngày 8 (04/09 - T6): Thác Bản Giốc → Động Ngườm Ngao → TP Cao Bằng (🛵 ~90 km)
 
-> ☀️ **Dự báo thời tiết:** Nắng sáng đẹp rực rỡ Thác Bản Giốc (8-10h), trưa mát, động Ngườm Ngao se lạnh 18°C | 🌡️ **Nhiệt độ:** 22°C – 30°C  
+> ☀️ **Dự báo thời tiết:** Nắng sáng rực rỡ Thác Bản Giốc (7-9h), trưa mát, động Ngườm Ngao se lạnh 18°C | 🌡️ **Nhiệt độ:** 22°C – 30°C  
 > 🛵 **Quãng đường di chuyển dự kiến:** ~90 km (Bản Giốc ↔ Ngườm Ngao ↔ Trúc Lâm ~5km → Trùng Khánh → TP Cao Bằng ~85km) — *Về TP Cao Bằng trước 16:30!*  
 > 🔗 **Gợi ý liên quan:** 🏨 [Max Hotel / Mường Thanh CB](../notes/goi_y_homestay.md#homestay-caobang) | 🍜 [Lợn quay da giòn Dân Dân](../notes/dac_san_am_thuc.md#food-caobang) | 📸 [Góc chụp Thác Bản Giốc 7-9h](../notes/goc_chup_anh.md#photo-caobang)
 
@@ -208,7 +208,7 @@
 
 ### <a id="ngay-9"></a>📍 Ngày 9 (05/09 - T7): TP Cao Bằng ↔ Khám Phá Pác Bó & Suối Lê-Nin → Mua Quà (🛵 ~100 km)
 
-> ☀️ **Dự báo thời tiết:** Nắng thu trong xanh, suối Lê-Nin mờ sương nhẹ sáng sớm, cực trong mát | 🌡️ **Nhiệt độ:** 21°C – 31°C  
+> ☀️ **Dự báo thời tiết:** Nắng thu xanh mát, mây mỏng, suối Lê-Nin nước trong xanh ngọc bích | 🌡️ **Nhiệt độ:** 21°C – 31°C  
 > 🛵 **Quãng đường di chuyển dự kiến:** ~100 km khứ hồi (TP Cao Bằng ↔ Pác Bó ~50km/chiều trên đường ĐT203 bằng phẳng đẹp như lụa) — *Tham quan Pác Bó thong thả trọn vẹn!*  
 > 🔗 **Gợi ý liên quan:** 🏨 [Max Hotel / Mường Thanh CB](../notes/goi_y_homestay.md#homestay-caobang) | 🍜 [Gà nướng suối Pác Bó & Quà đặc sản](../notes/dac_san_am_thuc.md#food-caobang) | 📸 [Góc chụp Suối Lê-Nin CPL](../notes/goc_chup_anh.md#photo-caobang)
 
@@ -226,7 +226,7 @@
 
 ### <a id="ngay-10"></a>📍 Ngày 10 (06/09 - CN): TP Cao Bằng → Nội Bài → Bay Về HCM (🛵 ~5 km, 🚌 ~280 km)
 
-> ⛅ **Dự báo thời tiết:** TP Cao Bằng sáng nắng nhẹ mát mẻ; Hà Nội / Nội Bài chiều tối mây dông rải rác | 🌡️ **Nhiệt độ:** 24°C – 32°C  
+> ⛅ **Dự báo thời tiết:** TP Cao Bằng sáng nắng nhẹ mát mẻ; Hà Nội / Nội Bài chiều tối mưa giảm, thời tiết dịu mát | 🌡️ **Nhiệt độ:** 24°C – 32°C  
 > 🛵 **Quãng đường di chuyển dự kiến:** ~5 km (Di chuyển trả xe máy tại TP CB) + 🚌 280 km xe khách giường nằm CB → Nội Bài  
 > 🔗 **Gợi ý liên quan:** 🚌 [Vé xe khách Cao Bằng - Nội Bài](../info/xe_khach.md#chặng-2-tp-cao-bằng--sân-bay-nội-bài-trưa-0609) | ✈️ [Chuyến bay HAN-SGN 23:30](../info/chuyen_bay.md)
 

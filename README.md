@@ -39,7 +39,7 @@ plan-trip/
 | Hạng mục | Status | Ghi chú |
 |----------|--------|---------|
 | **Plan tổng thể** | ✅ Đã chốt | Lái xe xuyên HG sang CB, trả xe ở CB (PA1: Pác Bó ngày 05/09) |
-| **Dự báo thời tiết 10 ngày** | ✅ Đã cập nhật (27/08) | Cập nhật mới nhất trước khởi hành 1 ngày trong [lich_trinh_chi_tiet.md](file:///Users/conghoang/Desktop/plan-trip/plans/lich_trinh_chi_tiet.md) |
+| **Dự báo thời tiết 10 ngày** | ✅ Đã cập nhật (Tối 27/08) | Cập nhật mới nhất tối 27/08 trước khởi hành trong [lich_trinh_chi_tiet.md](file:///Users/conghoang/Desktop/plan-trip/plans/lich_trinh_chi_tiet.md) |
 | **Kế hoạch Rủi ro & Backup** | ✅ Đã chốt | 5 nhóm rủi ro & kịch bản dự phòng trong [lich_trinh_chi_tiet.md](file:///Users/conghoang/Desktop/plan-trip/plans/lich_trinh_chi_tiet.md#-đánh-giá-rủi-ro--kịch-bản-dự-phòng-contingency-plans) |
 | **Gợi ý Homestay/Hotel** | ✅ Đã lên list | Trong [goi_y_homestay.md](file:///Users/conghoang/Desktop/plan-trip/notes/goi_y_homestay.md) |
 | **Master Food List** | ✅ Đã tổng hợp | Trong [dac_san_am_thuc.md](file:///Users/conghoang/Desktop/plan-trip/notes/dac_san_am_thuc.md) |

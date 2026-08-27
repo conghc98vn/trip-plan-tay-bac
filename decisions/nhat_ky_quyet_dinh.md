@@ -192,12 +192,19 @@
   - **Chằng đồ xe máy:** Bỏ túi ShopeeFood 22L. Đổi sang **2 Balo** (1 balo chằng baga đằng trước, 1 balo chằng baga đằng sau/ngồi sau có bọc cover chống mưa) + **1 Túi đeo chéo nhỏ** (chứa bóp/ví, giấy tờ, 2x iPhone 16 Pro Max, máy ảnh Sony A7R3, lens 28mm & flash iT32).
 - **Cập nhật đồng bộ:** [`notes/hanh_ly_baga.md`](file:///Users/conghoang/Desktop/plan-trip/notes/hanh_ly_baga.md), [`info/chuyen_bay.md`](file:///Users/conghoang/Desktop/plan-trip/info/chuyen_bay.md), [`plans/lich_trinh_chi_tiet.md`](file:///Users/conghoang/Desktop/plan-trip/plans/lich_trinh_chi_tiet.md), và [`README.md`](file:///Users/conghoang/Desktop/plan-trip/README.md).
 
-### Quyết định #21: Cập nhật thông tin Dự báo thời tiết mới nhất (27/08/2026 — Trực tiếp trước ngày đi 1 ngày)
-- **Nguồn:** Trung tâm Dự báo Khí tượng Thủy văn Quốc gia.
-- **Tổng quan thời tiết:**
-  - **Hà Nội (28-29/08):** Nắng đan xen mây, có mưa rào rải rác trưa/chiều (27–33°C).
-  - **Hà Giang Loop (30/08 - 01/09):** Sương mù đèo Bắc Sum sáng sớm. Nắng đan xen mây, mưa ngắn rải rác. Đi thuyền Nho Quế ngày 01/09 nắng gián đoạn, hẻm Tu Sản gió mát rất đẹp (20–28°C). Đêm Lũng Cú se lạnh ~18–19°C.
-  - **Cao Bằng & Bản Giốc (02/09 - 05/09):** Nắng thu trong xanh tuyệt đẹp ngắm Núi Mắt Thần, Thác Bản Giốc & Suối Lê-Nin (20–31°C).
+### Quyết định #21: Cập nhật thông tin Dự báo thời tiết mới nhất (Tối 27/08/2026 — Trực tiếp trước ngày đi)
+- **Nguồn dữ liệu:** Trung tâm Dự báo Khí tượng Thủy văn Quốc gia (Bản tin tối 27/08).
+- **Chi tiết thời tiết 10 ngày tại các địa điểm dự kiến:**
+  - **Ngày 1 (28/08 — Nội Bài / Cầu Giấy / Mỹ Đức / Ba Đình):** Mây đan xen, nắng gián đoạn, có lúc có mưa rào & dông rải rác (26–34°C).
+  - **Ngày 2 (29/08 — Nội thành Hà Nội & Xe khách HN→HG):** Sáng hửng nắng nhẹ, chiều & tối chuyển mây, có mưa rào và dông diện rộng (26–33°C).
+  - **Ngày 3 (30/08 — TP Hà Giang / Quản Bạ / Can Tỷ / Yên Minh):** Sương mù đèo Bắc Sum sáng sớm, ngày nhiều mây, mưa rào và dông rải rác trưa/chiều (21–32°C).
+  - **Ngày 4 (31/08 — Yên Minh / Thẩm Mã / Lũng Cú / Đồng Văn):** Vùng cao mây rải rác, hửng nắng ngắt quãng, đêm Lũng Cú / Đồng Văn trở lạnh (~18–19°C).
+  - **Ngày 5 (01/09 — Mã Pí Lèng / Sông Nho Quế / Mèo Vạc):** Mây rải rác, hửng nắng gián đoạn, hẻm Tu Sản gió mát, Nho Quế xanh ngọc rất đẹp (20–28°C).
+  - **Ngày 6 (02/09 — Mèo Vạc / QL34 / TP Cao Bằng):** Trời mát, có mưa rào nhẹ vài nơi ven sông Gâm / QL34, tối TP Cao Bằng khô ráo (22–30°C).
+  - **Ngày 7 (03/09 — TP Cao Bằng / Núi Mắt Thần / Bản Giốc):** Sáng mây hửng nắng nhẹ (tuyệt đẹp ngắm thung lũng cỏ Núi Mắt Thần), chiều mát mẻ (20–29°C).
+  - **Ngày 8 (04/09 — Thác Bản Giốc / Ngườm Ngao / TP Cao Bằng):** Nắng sáng rực rỡ Thác Bản Giốc (7–9h), động Ngườm Ngao 18°C (22–30°C).
+  - **Ngày 9 (05/09 — TP Cao Bằng ↔ Pác Bó / Suối Lê-Nin):** Nắng thu xanh mát, mây mỏng, suối Lê-Nin nước trong xanh ngọc bích (21–31°C).
+  - **Ngày 10 (06/09 — TP CB → Nội Bài → SGN):** Cao Bằng sáng nắng nhẹ, Hà Nội / Nội Bài chiều tối mưa giảm, thời tiết dịu mát (24–32°C).
 - **Cập nhật đồng bộ:** [`plans/lich_trinh_chi_tiet.md`](file:///Users/conghoang/Desktop/plan-trip/plans/lich_trinh_chi_tiet.md) và [`README.md`](file:///Users/conghoang/Desktop/plan-trip/README.md).
 
 ---
