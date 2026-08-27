@@ -1,10 +1,10 @@
 # 🎒 Packing Checklist — Chuyến đi 10 ngày (Hè, Mùa mưa vùng núi phía Bắc)
 
-> **Nguyên tắc:** Gọn nhẹ — Tối ưu đóng gói trên xe máy Honda Wave 110cc (~50L tổng dung tích).
+> **Nguyên tắc:** 100% Hành lý xách tay (7kg/người), không ký gửi. Gọn nhẹ — Tối ưu đóng gói trên xe máy Honda Wave 110cc (~50L tổng dung tích).
 > **Setup hành lý đã chốt:**
-> 1. 👝 **Túi đeo chéo (ngực/hông):** Bóp/ví, đồ lặt vặt + Máy ảnh Sony A7R3 + Lens 28mm + Flash iT32.
-> 2. 🎒 **Balo chính (baga đằng trước):** Đồ dùng chính, quần áo khô cuộn túi zip.
-> 3. 📦 **Túi giữ nhiệt 22L ShopeeFood (baga đằng sau):** Đồ dự phòng/quần áo bẩn/đồ lặt vặt (chống mưa 100% + tựa lưng cho bạn gái) + 1 chai nhựa 1.5L xăng dự phòng.
+> 1. 👝 **Túi đeo chéo nhỏ (ngực/hông):** Bóp/ví, giấy tờ, 2x iPhone 16 Pro Max + Máy ảnh Sony A7R3 + Lens 28mm + Flash iT32.
+> 2. 🎒 **Balo 1 (baga đằng trước):** Đồ dùng chính, quần áo khô cuộn túi zip (có cover chống mưa).
+> 3. 🎒 **Balo 2 (baga đằng sau / bạn gái đeo/tựa):** Đồ dùng cá nhân còn lại, đồ lặt vặt (có cover chống mưa) + 1 chai nhựa 1.5L xăng dự phòng chằng kèm baga sau.
 
 ---
 
@@ -70,7 +70,7 @@
 
 ## 🏍️ Phụ kiện xe máy & chằng đồ
 - [ ] **1 chai nhựa 1.5L xăng dự phòng** (chằng sau baga xe chặng Mèo Vạc - Bảo Lạc)
-- [ ] **Dây ràng co giãn / dây chun chằng xe:** 2-3 sợi chằng chắc túi ShopeeFood 22L & balo đằng trước
+- [ ] **Dây ràng co giãn / dây chun chằng xe:** 2-3 sợi chằng chắc 2 balo (baga trước & baga sau)
 - [ ] Găng tay xe máy hạt cao su (2 đôi chống lạnh + bám tay lái)
 - [ ] Khăn đa năng Buff scarf (2-3 cái chống bụi + che cổ)
 - [ ] Kính râm / kính mát chống chói nắng đèo

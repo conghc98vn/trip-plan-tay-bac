@@ -8,11 +8,14 @@
 | **Sân bay đi** | Sân bay Tân Sơn Nhất (SGN) - Ga Quốc nội |
 | **Sân bay đến** | Sân bay Nội Bài (HAN) - Ga Quốc nội |
 | **Hãng bay** | ✅ **Vietjet Air** (Chuyến bay **VJ120**) |
-| **Hạng vé & Hành lý** | Eco (Mặc định 7kg xách tay/người)<br>⚠️ **Lưu ý quan trọng:** Cần mua bổ sung 1 gói hành lý ký gửi (15-20kg) online trên website/app Vietjet Air trước ngày bay 28/08 để tiết kiệm chi phí (tránh mua tại sân bay giá cao). |
+| **Hạng vé & Hành lý** | Eco (**100% Hành lý xách tay**, 7kg xách tay/người — Không có hành lý ký gửi) |
 | **Mã đặt chỗ (PNR)** | • HOANG CHI CONG: **`UJSG2A`**<br>• PHAM HUYNH TRUC ANH: **`R7AH77`** |
+| **Trạng thái Check-in** | ✅ **Đã Check-in Online thành công** (27/08/2026) |
+| **Giờ ra cửa (Boarding)** | ⏰ **04:10 AM** (Cửa khởi hành sẽ đóng 15 phút trước giờ bay) |
+| **Số ghế & Boarding Group** | • HOANG CHI CONG: **Ghế 37E** (Group 4, Seq #65)<br>• PHAM HUYNH TRUC ANH: **Ghế 37F** (Group 4, Seq #66) |
 | **Chi phí 2 vé** | 10,000 SkyPoint + 1,435,162 VNĐ (Đã thanh toán 18/08/2026) |
-| **Tài liệu đính kèm** | [`attachments/ve_may_bay_luot_di/`](file:///Users/conghoang/Desktop/plan-trip/attachments/ve_may_bay_luot_di) |
-| **Di chuyển từ nhà** | 03:30 AM (Có mặt SGN ~04:00 AM) |
+| **Thẻ lên tàu (Boarding Pass)** | • [`ChiCong_BPass20260827062726428.pdf`](file:///Users/conghoang/Desktop/plan-trip/attachments/ve_may_bay_luot_di/ChiCong_BPass20260827062726428.pdf)<br>• [`TrucAnh_BPass20260827062729463.pdf`](file:///Users/conghoang/Desktop/plan-trip/attachments/ve_may_bay_luot_di/TrucAnh_BPass20260827062729463.pdf) |
+| **Di chuyển từ nhà** | 03:30 AM (Có mặt sân bay SGN ~04:00 AM, đi thẳng qua cửa an ninh vì 100% xách tay & đã check-in online) |
 
 ## Lượt về: HAN → SGN
 | Hạng mục | Chi tiết |

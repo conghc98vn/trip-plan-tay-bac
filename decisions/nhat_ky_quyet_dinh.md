@@ -174,18 +174,47 @@
 
 ---
 
+## 27/08/2026 — Check-in Online thành công lượt đi Vietjet Air VJ120
+
+### Quyết định #19: Hoàn tất Check-in online & nhận Thẻ lên tàu (Boarding Pass) cho 2 người
+- **Chuyến bay:** Vietjet Air **VJ120** (SGN → HAN 05:00 – 07:10 ngày 28/08/2026)
+- **Thông tin chỗ ngồi & Boarding Pass:**
+  - `HOANG CHI CONG`: **Ghế 37E** | Boarding Group: **4** | Seq #: **65** | Thẻ lên tàu: [`ChiCong_BPass20260827062726428.pdf`](file:///Users/conghoang/Desktop/plan-trip/attachments/ve_may_bay_luot_di/ChiCong_BPass20260827062726428.pdf)
+  - `PHAM HUYNH TRUC ANH`: **Ghế 37F** | Boarding Group: **4** | Seq #: **66** | Thẻ lên tàu: [`TrucAnh_BPass20260827062729463.pdf`](file:///Users/conghoang/Desktop/plan-trip/attachments/ve_may_bay_luot_di/TrucAnh_BPass20260827062729463.pdf)
+- **Lưu ý di chuyển Sân bay SGN sáng 28/08:**
+  - **Giờ ra cửa khởi hành (Boarding Time):** **04:10 AM** (Cửa khởi hành sẽ đóng 15 phút trước giờ khởi hành).
+  - Vì đã check-in online, 2 bạn di chuyển ra sân bay lúc **03:30 AM**, có mặt lúc **04:00 AM** và có thể đi thẳng qua cổng soi chiếu an ninh hàng không (nếu không gửi hành lý) hoặc ghé nhanh quầy drop-bag.
+- **Cập nhật đồng bộ:** [`info/chuyen_bay.md`](file:///Users/conghoang/Desktop/plan-trip/info/chuyen_bay.md), [`plans/lich_trinh_chi_tiet.md`](file:///Users/conghoang/Desktop/plan-trip/plans/lich_trinh_chi_tiet.md), và [`README.md`](file:///Users/conghoang/Desktop/plan-trip/README.md).
+
+### Quyết định #20: Chốt 100% Hành lý xách tay lượt đi & Đổi phương án đóng gói hành lý xe máy
+- **Chi tiết thay đổi:**
+  - **Hành lý máy bay lượt đi:** 100% xách tay (7kg/người), **không sử dụng hành lý ký gửi** và không mua bổ sung hành lý ký gửi. Đáp ứng đi thẳng cổng an ninh soi chiếu tại SGN và ra sảnh T1 Nội Bài nhanh chóng (tiết kiệm 15-20 phút chờ lấy đồ).
+  - **Chằng đồ xe máy:** Bỏ túi ShopeeFood 22L. Đổi sang **2 Balo** (1 balo chằng baga đằng trước, 1 balo chằng baga đằng sau/ngồi sau có bọc cover chống mưa) + **1 Túi đeo chéo nhỏ** (chứa bóp/ví, giấy tờ, 2x iPhone 16 Pro Max, máy ảnh Sony A7R3, lens 28mm & flash iT32).
+- **Cập nhật đồng bộ:** [`notes/hanh_ly_baga.md`](file:///Users/conghoang/Desktop/plan-trip/notes/hanh_ly_baga.md), [`info/chuyen_bay.md`](file:///Users/conghoang/Desktop/plan-trip/info/chuyen_bay.md), [`plans/lich_trinh_chi_tiet.md`](file:///Users/conghoang/Desktop/plan-trip/plans/lich_trinh_chi_tiet.md), và [`README.md`](file:///Users/conghoang/Desktop/plan-trip/README.md).
+
+### Quyết định #21: Cập nhật thông tin Dự báo thời tiết mới nhất (27/08/2026 — Trực tiếp trước ngày đi 1 ngày)
+- **Nguồn:** Trung tâm Dự báo Khí tượng Thủy văn Quốc gia.
+- **Tổng quan thời tiết:**
+  - **Hà Nội (28-29/08):** Nắng đan xen mây, có mưa rào rải rác trưa/chiều (27–33°C).
+  - **Hà Giang Loop (30/08 - 01/09):** Sương mù đèo Bắc Sum sáng sớm. Nắng đan xen mây, mưa ngắn rải rác. Đi thuyền Nho Quế ngày 01/09 nắng gián đoạn, hẻm Tu Sản gió mát rất đẹp (20–28°C). Đêm Lũng Cú se lạnh ~18–19°C.
+  - **Cao Bằng & Bản Giốc (02/09 - 05/09):** Nắng thu trong xanh tuyệt đẹp ngắm Núi Mắt Thần, Thác Bản Giốc & Suối Lê-Nin (20–31°C).
+- **Cập nhật đồng bộ:** [`plans/lich_trinh_chi_tiet.md`](file:///Users/conghoang/Desktop/plan-trip/plans/lich_trinh_chi_tiet.md) và [`README.md`](file:///Users/conghoang/Desktop/plan-trip/README.md).
+
+---
+
 ## Cần quyết định tiếp
 - [x] Đặt vé máy bay lượt đi (✅ **Vietjet Air VJ120** - PNR: UJSG2A / R7AH77)
-- [ ] Mua bổ sung 1 gói hành lý ký gửi (15-20kg) online trên Vietjet Air cho lượt đi VJ120 (trước 28/08)
+- [x] Check-in online lượt đi VJ120 (✅ Ghế 37E & 37F, Boarding 04:10 AM)
+- [x] Chốt 100% Hành lý xách tay lượt đi (Không ký gửi)
 - [ ] Đặt vé máy bay lượt về (06/09 23:30 HAN-SGN)
 - [x] Đặt homestay Yên Minh (Bong Bang homestay 2 - Đã xác nhận đêm 30/08)
 - [x] Đặt homestay Hà Nội (Da Tree Homestay Ba Đình - Đã xác nhận đêm 28/08)
-- [x] Chốt phương án hành lý & đóng gói (1 túi đeo chéo máy ảnh + 1 balo baga trước + 1 túi ShopeeFood 22L baga sau + chai xăng 1.5L)
+- [x] Chốt phương án hành lý & đóng gói (1 túi đeo chéo nhỏ máy ảnh + 2 Balo baga trước/sau + chai xăng 1.5L)
 - [x] Đặt xe máy Hà Nội (✅ **MOTOGO Mã #39337** - Sirius 110cc - 260k/2 ngày - Nhận Nội Bài, Trả 1081 Hồng Hà)
 - [x] Chốt & Đặt cọc xe tour Giang Sơn (✅ **Honda Wave 110cc có BH cứu hộ** - Cọc 100k ngày 15/08 - Nhận TP HG, Trả TP CB)
 - [x] Chốt Kế hoạch Đánh giá Rủi ro & Phương án Backup
 - [x] Phân loại & Chốt Master Food List Hà Nội ([dac_san_am_thuc.md](file:///Users/conghoang/Desktop/plan-trip/notes/dac_san_am_thuc.md#food-hn))
-- [x] Cập nhật dự báo thời tiết chi tiết từng ngày ([lich_trinh_chi_tiet.md](file:///Users/conghoang/Desktop/plan-trip/plans/lich_trinh_chi_tiet.md))
+- [x] Cập nhật dự báo thời tiết chi tiết từng ngày (✅ Cập nhật mới nhất 27/08/2026 trong [lich_trinh_chi_tiet.md](file:///Users/conghoang/Desktop/plan-trip/plans/lich_trinh_chi_tiet.md))
 - [ ] Đặt homestay Đồng Văn (đêm 31/08 - Đang cân nhắc Giang Sơn Hill Hotel giảm 20% / Lo Lo Chai Homestay) & Mèo Vạc (đêm 01/09 - **CẦN ĐẶT SỚM trong tuần này vì Lễ 2/9**)
 - [ ] Đặt khách sạn TP Cao Bằng (đêm 02/09 - **CẦN ĐẶT SỚM trong tuần này vì Lễ 2/9**) & Thác Bản Giốc (đêm 03/09)
 - [ ] Đặt xe khách CB → Nội Bài (trưa 06/09)

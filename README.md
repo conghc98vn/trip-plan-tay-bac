@@ -39,11 +39,11 @@ plan-trip/
 | Hạng mục | Status | Ghi chú |
 |----------|--------|---------|
 | **Plan tổng thể** | ✅ Đã chốt | Lái xe xuyên HG sang CB, trả xe ở CB (PA1: Pác Bó ngày 05/09) |
-| **Dự báo thời tiết 10 ngày** | ✅ Đã cập nhật | Chi tiết từng ngày từ 28/08 đến 06/09 trong [lich_trinh_chi_tiet.md](file:///Users/conghoang/Desktop/plan-trip/plans/lich_trinh_chi_tiet.md) |
+| **Dự báo thời tiết 10 ngày** | ✅ Đã cập nhật (27/08) | Cập nhật mới nhất trước khởi hành 1 ngày trong [lich_trinh_chi_tiet.md](file:///Users/conghoang/Desktop/plan-trip/plans/lich_trinh_chi_tiet.md) |
 | **Kế hoạch Rủi ro & Backup** | ✅ Đã chốt | 5 nhóm rủi ro & kịch bản dự phòng trong [lich_trinh_chi_tiet.md](file:///Users/conghoang/Desktop/plan-trip/plans/lich_trinh_chi_tiet.md#-đánh-giá-rủi-ro--kịch-bản-dự-phòng-contingency-plans) |
 | **Gợi ý Homestay/Hotel** | ✅ Đã lên list | Trong [goi_y_homestay.md](file:///Users/conghoang/Desktop/plan-trip/notes/goi_y_homestay.md) |
 | **Master Food List** | ✅ Đã tổng hợp | Trong [dac_san_am_thuc.md](file:///Users/conghoang/Desktop/plan-trip/notes/dac_san_am_thuc.md) |
-| **Vé máy bay đi** | ✅ **Đã đặt** | **Vietjet Air VJ120** (28/08 05:00 SGN→07:10 HAN - PNR: `UJSG2A` / `R7AH77`) |
+| **Vé máy bay đi** | ✅ **Đã check-in online** | **Vietjet Air VJ120** (28/08 05:00 SGN→07:10 HAN - 100% xách tay - PNR: `UJSG2A`/`R7AH77` - Ghế **37E** & **37F**, Boarding 04:10 AM) |
 | **Vé máy bay về** | ⏳ Chưa đặt | 06/09 23:30 HAN→SGN |
 | **Xe khách HN→HG** | ⏳ Chưa đặt | 29/08 22:30 giường nằm |
 | **Xe khách CB→Nội Bài** | ⏳ Chưa đặt | 06/09 12:30-13:00 (Trừ hao dư thời gian bay) |
@@ -56,14 +56,14 @@ plan-trip/
 | **KS Cao Bằng** | ⏳ Chưa đặt | 4 đêm (02, 03, 04, 05/09 - Đêm 02/09 cần chốt cọc sớm) |
 | **Food list Hà Nội** | ✅ Đã tổng hợp | Đã lưu & phân loại trong [dac_san_am_thuc.md](file:///Users/conghoang/Desktop/plan-trip/notes/dac_san_am_thuc.md#food-hn) |
 | **Photography spots** | ✅ Draft xong | Trong plan chi tiết |
-| **Setup hành lý & chằng xe** | ✅ Đã chốt | Túi chéo máy ảnh + Balo baga trước + Túi ShopeeFood 22L baga sau + 1.5L xăng ([hanh_ly_baga.md](file:///Users/conghoang/Desktop/plan-trip/notes/hanh_ly_baga.md)) |
+| **Setup hành lý & chằng xe** | ✅ Đã chốt | 1 Túi đeo chéo nhỏ máy ảnh + 2 Balo (1 baga trước + 1 baga sau/ngồi sau) + 1.5L xăng ([hanh_ly_baga.md](file:///Users/conghoang/Desktop/plan-trip/notes/hanh_ly_baga.md)) |
 
 ---
 
 ## ⚡ Việc cần làm tiếp
 
-1. [x] Đặt vé máy bay lượt đi (✅ **Vietjet Air VJ120** 05:00 - 07:10 ngày 28/08)
-2. [ ] Mua bổ sung 1 gói hành lý ký gửi (15-20kg) online trên Vietjet Air cho lượt đi VJ120 (trước ngày 28/08)
+1. [x] Đặt vé máy bay lượt đi (✅ **Vietjet Air VJ120** 05:00 - 07:10 ngày 28/08 — 100% xách tay, không ký gửi)
+2. [x] Check-in online lượt đi VJ120 (✅ Ghế 37E & 37F, Boarding 04:10 AM)
 3. [ ] Đặt vé máy bay lượt về (06/09 23:30 HAN→SGN)
 4. [ ] Đặt xe khách HN→HG (tối 29/08)
 3. [x] Liên hệ Giang Sơn đặt xe Wave 110cc + BH (✅ **Đã cọc 100.000 VNĐ** ngày 15/08/2026, nhận TP HG - trả TP Cao Bằng)

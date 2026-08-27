@@ -22,30 +22,32 @@
 
 | Hạng mục | Chi tiết | Ghi chú & Liên kết |
 |----------|---------|-------------------|
-| **Bay đi** | ✅ **Vietjet Air VJ120** — 28/08 05:00 AM SGN → 07:10 AM HAN (Mã PNR: UJSG2A / R7AH77)<br>⚠️ *Lưu ý: Cần mua bổ sung 1 gói hành lý ký gửi (15-20kg) online trước ngày bay.* | [Chi tiết chuyến bay](../info/chuyen_bay.md) |
+| **Bay đi** | ✅ **Vietjet Air VJ120** — 28/08 05:00 AM SGN → 07:10 AM HAN (Mã PNR: UJSG2A / R7AH77)<br>✅ *Đã check-in online: Ghế 37E (Công) & 37F (Trúc Anh), Boarding: 04:10 AM, Group 4.* | [Chi tiết chuyến bay](../info/chuyen_bay.md) |
 | **Bay về** | 06/09 23:30 PM HAN → SGN | [Chi tiết chuyến bay](../info/chuyen_bay.md) |
 | **Xe máy HN** | ✅ **MOTOGO (Mã #39337)** — Yamaha Sirius 110cc (260k + 50k phụ phí trả trái điểm = 310k/2 ngày). Nhận MOTOGO Nội Bài sáng 28/08, trả 1081 Hồng Hà (Hoàn Kiếm) tối 29/08. (Cọc 2tr lấy lại CCCD). | [Chi tiết MOTOGO](../info/thue_xe_may.md#1-xe-máy-tại-hà-nội-28-2908) |
 | **Xe máy HG** | ✅ **Giang Sơn (Đã cọc 100k)** — Honda Wave 110cc (250k/ngày đã gồm gói BH cứu hộ). Nhận TP HG 30/08, trả TP CB (phí trả 500k). Free phòng nghỉ/tắm rửa + Ưu đãi 20% Giang Sơn Hill Hotel. | [Chi tiết cọc xe Giang Sơn](../info/thue_xe_may.md#2-xe-máy-tour-hà-giang--cao-bằng--giang-sơn-3008---0609) |
 | **Xe khách HN→HG** | Giường nằm 22:30 tối 29/08 (đến TP HG 05:30 sáng 30/08) | [Thông tin nhà xe](../info/xe_khach.md#chặng-1-hà-nội--tp-hà-giang-tối-2908) |
 | **Xe khách CB→Nội Bài** | Giường nằm/Limousine ~12:30 trưa 06/09 (đến Nội Bài ~19:30, trừ hao dư thời gian bay) | [Thông tin xe khách CB](../info/xe_khach.md#chặng-2-tp-cao-bằng--sân-bay-nội-bài-trưa-0609) |
-| **Hành lý & Chằng xe** | 👝 Túi chéo (Sony A7R3+28mm+iT32) + 🎒 Balo baga trước + 📦 Túi ShopeeFood 22L baga sau (+ 1.5L xăng dự phòng) | [Checklist hành lý](../notes/hanh_ly_baga.md) |
+| **Hành lý & Chằng xe** | 👝 1 Túi đeo chéo nhỏ (Sony A7R3+28mm+iT32) + 🎒 2 Balo (1 balo baga trước + 1 balo baga sau/ngồi sau + 1.5L xăng dự phòng) | [Checklist hành lý](../notes/hanh_ly_baga.md) |
 
 ---
 
 ## 📊 Lịch trình tổng quan
 
+> 🌤️ **Dự báo thời tiết cập nhật mới nhất ngày 27/08/2026 (Trung tâm KTTV Quốc gia - Trước khởi hành 1 ngày):**
+
 | Ngày | Thứ | Nội dung tóm tắt | Thời tiết dự báo | Quãng đường (km) | Lưu trú đề xuất |
 |------|------|------------------|-------------------|-------------------|-----------------|
-| **28/08** | T6 | SGN 05:00 → HAN ~07:15 → Nhận xe máy tại Nội Bài → Chạy thẳng Mỹ Đức thăm người thân → Chiều về HN check-in homestay → Tối foodtour phố cổ | ⛅ Có mây, dông chiều (26–33°C) | 🛵 **~145 km** *(xe máy HN)* | [Da Tree Homestay Ba Đình (✅ Đã xác nhận)](../info/dat_phong.md#ha-noi) |
-| **29/08** | T7 | Khám phá HN (Phở Thìn, Hoàng Thành, Ba Đình) → **18:00 Dự Thánh lễ Vọng tại Nhà thờ Lớn** → Trả xe máy HN → 22:30 xe khách đi HG | ⛅ Mây, oi nhẹ, mưa rào trưa/chiều (26–33°C) | 🛵 **~25 km** *(xe máy HN)*<br>🚌 **~300 km** *(xe khách)* | [Trên xe khách giường nằm](../info/xe_khach.md#chặng-1-hà-nội--tp-hà-giang-tối-2908) |
-| **30/08** | CN | Sáng đến TP HG → Nhận xe Giang Sơn (Wave 110cc + BH) → Cổng Trời Quản Bạ, Núi Đôi → Can Tỷ → Rừng thông Yên Minh | 🌤️ Sương mù sớm, trưa hửng nắng, mưa ngắn (20–31°C) | 🛵 **~100 km** | [Bong Bang Homestay 2 (✅ Đã xác nhận)](../info/dat_phong.md#yen-minh) |
-| **31/08** | T2 | Dốc Thẩm Mã → Dinh Vua Mèo Sà Phìn → Cột cờ Lũng Cú → Làng Lô Lô Chải → Phố cổ Đồng Văn | ⛅ Vùng cao se lạnh, mây ngắt quãng (19–26°C) | 🛵 **~95 km** | [Lo Lo Chai Homestay Lũng Cú](../notes/goi_y_homestay.md#homestay-dongvan) |
-| **01/09** | T3 | Đèo Mã Pí Lèng → Đi thuyền Sông Nho Quế & Hẻm Tu Sản → Làng H'Mông Pả Vi → Mèo Vạc | ☀️ Nắng đẹp, thích hợp đi thuyền Nho Quế (20–28°C) | 🛵 **~50 km** | [O'Châu Homestay Pả Vi](../notes/goi_y_homestay.md#homestay-pavi) ⚠️ |
-| **02/09** | T4 🇻🇳 | Mèo Vạc → Bảo Lâm → Bảo Lạc → Chạy QL34 thong thả ngắm sông Gâm → TP Cao Bằng | ⛅ Trời mát, mưa rào nhẹ ven sông Gâm (22–30°C) | 🛵 **~185 km** *(chặng êm êm)* | [Mường Thanh 4⭐ / Max Hotel 3⭐](../notes/goi_y_homestay.md#homestay-caobang) |
-| **03/09** | T5 | Hồ Thang Hen & Núi Mắt Thần (Tuyệt Tình Cốc) → Đèo Mã Phục → Làng đá Khuổi Ky / Thác Bản Giốc | 🌤️ Nắng đẹp bãi cỏ Mắt Thần, chiều mát (20–29°C) | 🛵 **~95 km** | [Yến Nhi Homestay Bản Giốc](../notes/goi_y_homestay.md#homestay-bangioc) |
-| **04/09** | T6 | Thác Bản Giốc + Thiền Viện Trúc Lâm + Động Ngườm Ngao → Về lại TP Cao Bằng | ☀️ Nắng sáng lung linh Thác Bản Giốc (22–30°C) | 🛵 **~90 km** | [Max Hotel / Mường Thanh CB](../notes/goi_y_homestay.md#homestay-caobang) |
-| **05/09** | T7 | Khám phá Pác Bó & Suối Lê-Nin → Chiều về TP CB mua quà đặc sản & foodtour phở vịt quay | ☀️ Nắng thu trong xanh, suối Lê-Nin xanh ngọc (21–31°C) | 🛵 **~100 km** *(đường phẳng đẹp)* | [Max Hotel / Mường Thanh CB](../notes/goi_y_homestay.md#homestay-caobang) |
-| **06/09** | CN | Trả xe máy TP CB → Trả phòng → Xe khách 12:30 → Nội Bài ~19:30 → Bay 23:30 HAN-SGN | ⛅ CB sáng nắng nhẹ; HN chiều tối mưa dông (24–32°C) | 🛵 **~5 km** *(xe máy)*<br>🚌 **~280 km** *(xe khách)* | — |
+| **28/08** | T6 | SGN 05:00 → HAN ~07:15 → Nhận xe máy tại Nội Bài → Chạy thẳng Mỹ Đức thăm người thân → Chiều về HN check-in homestay → Tối foodtour phố cổ | ⛅ Mây đan xen, nắng gián đoạn, mưa rào nhẹ (28–33°C) | 🛵 **~145 km** *(xe máy HN)* | [Da Tree Homestay Ba Đình (✅ Đã xác nhận)](../info/dat_phong.md#ha-noi) |
+| **29/08** | T7 | Khám phá HN (Phở Thìn, Hoàng Thành, Ba Đình) → **18:00 Dự Thánh lễ Vọng tại Nhà thờ Lớn** → Trả xe máy HN → 22:30 xe khách đi HG | ⛅ Hửng nắng sáng, chiều tối mưa rào rải rác (27–33°C) | 🛵 **~25 km** *(xe máy HN)*<br>🚌 **~300 km** *(xe khách)* | [Trên xe khách giường nằm](../info/xe_khach.md#chặng-1-hà-nội--tp-hà-giang-tối-2908) |
+| **30/08** | CN | Sáng đến TP HG → Nhận xe Giang Sơn (Wave 110cc + BH) → Cổng Trời Quản Bạ, Núi Đôi → Can Tỷ → Rừng thông Yên Minh | 🌤️ Sương mù đèo sáng sớm, trưa hửng nắng, mưa ngắn (25–33°C) | 🛵 **~100 km** | [Bong Bang Homestay 2 (✅ Đã xác nhận)](../info/dat_phong.md#yen-minh) |
+| **31/08** | T2 | Dốc Thẩm Mã → Dinh Vua Mèo Sà Phìn → Cột cờ Lũng Cú → Làng Lô Lô Chải → Phố cổ Đồng Văn | ⛅ Vùng cao mây rải rác, hửng nắng, đêm trở lạnh (19–26°C) | 🛵 **~95 km** | [Lo Lo Chai Homestay Lũng Cú](../notes/goi_y_homestay.md#homestay-dongvan) |
+| **01/09** | T3 | Đèo Mã Pí Lèng → Đi thuyền Sông Nho Quế & Hẻm Tu Sản → Làng H'Mông Pả Vi → Mèo Vạc | ☀️ Nắng gián đoạn, gió mát, Nho Quế xanh ngọc đi thuyền đẹp (20–28°C) | 🛵 **~50 km** | [O'Châu Homestay Pả Vi](../notes/goi_y_homestay.md#homestay-pavi) ⚠️ |
+| **02/09** | T4 🇻🇳 | Mèo Vạc → Bảo Lâm → Bảo Lạc → Chạy QL34 thong thả ngắm sông Gâm → TP Cao Bằng | ⛅ Trời mát, mưa rào nhẹ vài nơi ven sông Gâm / QL34 (22–30°C) | 🛵 **~185 km** *(chặng êm êm)* | [Mường Thanh 4⭐ / Max Hotel 3⭐](../notes/goi_y_homestay.md#homestay-caobang) |
+| **03/09** | T5 | Hồ Thang Hen & Núi Mắt Thần (Tuyệt Tình Cốc) → Đèo Mã Phục → Làng đá Khuổi Ky / Thác Bản Giốc | 🌤️ Sáng hửng nắng đẹp Núi Mắt Thần, chiều mát mẻ (20–29°C) | 🛵 **~95 km** | [Yến Nhi Homestay Bản Giốc](../notes/goi_y_homestay.md#homestay-bangioc) |
+| **04/09** | T6 | Thác Bản Giốc + Thiền Viện Trúc Lâm + Động Ngườm Ngao → Về lại TP Cao Bằng | ☀️ Nắng sáng lung linh Thác Bản Giốc, động Ngườm Ngao 18°C (22–30°C) | 🛵 **~90 km** | [Max Hotel / Mường Thanh CB](../notes/goi_y_homestay.md#homestay-caobang) |
+| **05/09** | T7 | Khám phá Pác Bó & Suối Lê-Nin → Chiều về TP CB mua quà đặc sản & foodtour phở vịt quay | ☀️ Nắng thu xanh mát, Suối Lê-Nin xanh ngọc bích (21–31°C) | 🛵 **~100 km** *(đường phẳng đẹp)* | [Max Hotel / Mường Thanh CB](../notes/goi_y_homestay.md#homestay-caobang) |
+| **06/09** | CN | Trả xe máy TP CB → Trả phòng → Xe khách 12:30 → Nội Bài ~19:30 → Bay 23:30 HAN-SGN | ⛅ CB sáng nắng nhẹ; Hà Nội thời tiết ổn định mát mẻ (24–32°C) | 🛵 **~5 km** *(xe máy)*<br>🚌 **~280 km** *(xe khách)* | — |
 
 > - 🏁 **Tổng quãng đường xe máy cả chuyến:** **~885 km**
 
@@ -65,10 +67,10 @@
 
 | Thời gian | Hoạt động | Ghi chú |
 |-----------|-----------|---------|
-| 03:30 | Di chuyển từ nhà ra sân bay SGN | [Vé Vietjet VJ120](../info/chuyen_bay.md) |
-| 05:00 - 07:10 | Bay SGN → HAN (Chuyến bay Vietjet Air VJ120) | PNR: UJSG2A (Công) / R7AH77 (Trúc Anh) |
-| 07:15 - 07:45 | Hạ cánh Sân bay Nội Bài, nhận hành lý. Bạn gái giữ đồ tại khu vực sảnh nhà ga T1 | |
-| 07:45 - 08:15 | Bạn bắt GrabBike (~2km) ra tiệm nhận & kiểm tra xe máy. Chạy xe về Bãi đỗ xe máy Ga T1 (hoặc điểm đón xe máy T1) đón bạn gái & chằng đồ | Buộc túi ShopeeFood 22L baga sau & balo baga trước (tránh làn ô tô) |
+| 03:30 | Di chuyển từ nhà ra sân bay SGN (Có mặt SGN ~04:00 AM, qua thẳng cửa an ninh soi chiếu vì đã check-in online) | [Vé Vietjet VJ120](../info/chuyen_bay.md) |
+| 05:00 - 07:10 | Bay SGN → HAN (Chuyến bay Vietjet Air VJ120) | PNR: UJSG2A (Công - Ghế **37E**) / R7AH77 (Trúc Anh - Ghế **37F**) |
+| 07:15 - 07:35 | Hạ cánh Sân bay Nội Bài, đi thẳng ra sảnh Ga T1 (100% xách tay, không cần chờ lấy hành lý ký gửi) | Giúp tiết kiệm 15-20 phút |
+| 07:35 - 08:05 | Bạn bắt GrabBike (~2km) ra tiệm nhận & kiểm tra xe máy MOTOGO. Chạy xe về điểm đón xe máy T1 đón bạn gái & chằng đồ | Chằng 1 balo baga trước & 1 balo baga sau/ngồi sau |
 | 08:15 - 09:00 | Chạy xe từ Bãi xe máy T1 Nội Bài về khu Cầu Giấy (~24km) | Tuyến đường Cầu Nhật Tân → Võ Chí Công → Đường Xuân Thủy |
 | 09:00 - 09:45 | Ghé ăn sáng tại **Phở Hiệu** (58 P. Dịch Vọng Hậu, Cầu Giấy) | 🍜 📍 [Định vị Google Maps Phở Hiệu](https://maps.app.goo.gl/W4V8zgqYMQCXYLUk8) |
 | 09:45 - 11:00 | Tiếp tục chạy xe từ Cầu Giấy về nhà ở quê Mỹ Đức (~45km) | 📍 [Định vị nhà ở quê](https://maps.app.goo.gl/HscnRUDPn4ycySTz7) ([Chi tiết địa chỉ](../info/nguoi_than.md)) |
