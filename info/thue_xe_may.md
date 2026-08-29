@@ -28,7 +28,7 @@
 | **Giá thuê** | **250k/ngày (đã gồm gói BH cứu hộ)** × 8 ngày = **2.000.000đ** |
 | **Phụ phí trả xe tại CB** | **500k** (phụ phí trả xe khác tỉnh cho xe số 110cc) |
 | **Tổng chi phí xe** | **2.500.000đ** *(tiền thuê xe + BH cứu hộ + phụ phí trả Cao Bằng)* |
-| **Đặt cọc** | ✅ **100.000 VNĐ** (Chuyển khoản ngày 15/08/2026 — File: [`attachments/giang_son_ha_giang/bien_lai_chuyen_khoan.jpg`](file:///Users/conghoang/Desktop/plan-trip/attachments/giang_son_ha_giang/bien_lai_chuyen_khoan.jpg)) |
+| **Đặt cọc** | ✅ **100.000 VNĐ** (Chuyển khoản ngày 15/08/2026 — File: [`attachments/giang_son_ha_giang/bien_lai_chuyen_khoan.jpg`](file:///Users/trucanh/Desktop/chicong-trip-plan/attachments/giang_son_ha_giang/bien_lai_chuyen_khoan.jpg)) |
 | **Đặc quyền & Dịch vụ đi kèm** | • **Phòng nghỉ & tắm rửa miễn phí:** Đón khách lên TP Hà Giang sáng 30/08 nghỉ ngơi free và trả xe tắm rửa free tại cửa hàng.<br>• **Baga sau chằng đồ:** 100% xe trang bị gác baga kéo dài phía sau chắc chắn.<br>• **Cứu hộ dọc đường 24/7:** Hệ thống 360 hotline hỗ trợ, sẵn sàng gọi thợ sửa chữa gần nhất đến xử lý tận nơi.<br>• **Chất lượng xe cam kết:** Xe mới thay 2 năm/lần, bảo dưỡng định kỳ & đội thợ check xe kỹ trước khi giao.<br>• **Ưu đãi Giang Sơn Hill Hotel (Đồng Văn):** **Giảm 20%** giá phòng khách sạn 3⭐ mới xây ở trung tâm Đồng Văn dành riêng cho khách thuê xe. |
 | **Status** | ✅ **ĐÃ XÁC NHẬN ĐẶT XE (ĐÃ CỌC 100K)** |
 

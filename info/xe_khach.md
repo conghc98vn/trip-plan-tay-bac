@@ -18,12 +18,15 @@
 | Hạng mục | Chi tiết |
 |----------|---------|
 | **Ngày** | 06/09/2026 |
-| **Giờ xuất phát** | ~12:30-13:00 (linh hoạt) |
+| **Giờ xuất phát** | ~12:30 - 13:00 (Trưa Chủ Nhật) |
 | **Điểm đón** | Bến xe TP Cao Bằng |
-| **Thời gian di chuyển** | ~7-7.5 tiếng |
-| **Giờ đến dự kiến** | ~19:30-20:30 (Nội Bài) |
+| **Thời gian di chuyển** | ~7 - 7.5 tiếng |
+| **Giờ đến dự kiến** | ~19:30 - 20:30 (Sân bay Nội Bài - Sảnh T1) |
+| **Chuyến bay kết nối** | ✅ [Sun PhuQuoc Airways 9G893 (23:30 HAN T1 → 01:40 SGN T3)](chuyen_bay.md#lượt-về-han--sgn) |
+| **Thời gian dự phòng** | ~3.5 - 4 tiếng (Rất an toàn để gửi hành lý ký gửi 1PC/người và ăn tối nhẹ) |
 | **Hãng xe** | ⏳ Chưa đặt |
 | **Giá vé** | ⏳ Chưa xác nhận |
 | **Mã vé** | ⏳ Chưa đặt |
 
-> Cần xác nhận: Xe chạy thẳng đến Nội Bài hay chỉ vào HN (cần Grab ra sân bay)?
+> 💡 **Lưu ý:** Ưu tiên chọn nhà xe có hỗ trợ trả khách trực tiếp tại **Sân bay Nội Bài** (hoặc ngã tư Kim Anh / trạm soát vé Nội Bài để đón xe ôm/Grab 5 phút vào sảnh Ga T1).
+

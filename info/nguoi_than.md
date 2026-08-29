@@ -13,9 +13,11 @@
 - Nội Bài → QL2 → Cầu Thăng Long → Đại lộ Thăng Long → QL21A → ĐT419 → Mỹ Đức
 - Hoặc: HN → Hà Đông → QL21B → Mỹ Đức
 
-## Lịch trình ngày 28/08
-- Sáng sớm: Đáp sân bay Nội Bài → Về HN gửi vali KS → Thuê xe máy
-- ~09:00: Xuất phát đi Mỹ Đức
-- ~10:30: Đến nơi
-- 10:30-14:30: Thăm gia đình, ăn trưa
-- 14:30-16:30: Chạy xe về HN
+## Lộ trình ngày 28/08 đã chốt
+- **07:10 - 07:45:** Hạ cánh Sân bay Nội Bài (VJ120), đi thẳng ra sảnh (100% hành lý xách tay).
+- **07:45 - 08:30:** Nhận xe máy Sirius 110cc tại MOTOGO Nội Bài (Mã #39337).
+- **08:30 - 09:45:** Chạy xe từ Nội Bài ghé ăn sáng tại **Phở Hiệu** (58 P. Dịch Vọng Hậu, Cầu Giấy).
+- **09:45 - 11:00:** Chạy xe từ Cầu Giấy về nhà người thân ở quê Mỹ Đức (~45km, [Định vị Maps](https://maps.app.goo.gl/HscnRUDPn4ycySTz7)).
+- **11:00 - 14:00:** Thăm gia đình, nghỉ ngơi và ăn trưa sum họp tại Mỹ Đức.
+- **14:00 - 15:45:** Chạy xe từ Mỹ Đức về trung tâm Hà Nội, check-in **Da Tree Homestay** (Ba Đình).
+

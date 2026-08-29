@@ -23,7 +23,7 @@
 | Hạng mục | Chi tiết | Ghi chú & Liên kết |
 |----------|---------|-------------------|
 | **Bay đi** | ✅ **Vietjet Air VJ120** — 28/08 05:00 AM SGN → 07:10 AM HAN (Mã PNR: UJSG2A / R7AH77)<br>✅ *Đã check-in online: Ghế 37E (Công) & 37F (Trúc Anh), Boarding: 04:10 AM, Group 4. Đã đăng ký thêm 1 suất ăn nóng (C.ThaiWBisc cho PNR UJSG2A).* | [Chi tiết chuyến bay](../info/chuyen_bay.md) |
-| **Bay về** | 06/09 23:30 PM HAN → SGN | [Chi tiết chuyến bay](../info/chuyen_bay.md) |
+| **Bay về** | ✅ **Sun PhuQuoc Airways 9G893** — 06/09 23:30 HAN (T1) → 01:40 (07/09) SGN (T3) (Mã PNR: **`7TGDE6`**)<br>✅ *Đã đặt chỗ & chọn ghế: 36J (Công) & 36K (Trúc Anh). Bao gồm 1PC hành lý ký gửi/người.* | [Chi tiết chuyến bay](../info/chuyen_bay.md#lượt-về-han--sgn) |
 | **Xe máy HN** | ✅ **MOTOGO (Mã #39337)** — Yamaha Sirius 110cc (260k + 50k phụ phí trả trái điểm = 310k/2 ngày). Nhận MOTOGO Nội Bài sáng 28/08, trả 1081 Hồng Hà (Hoàn Kiếm) tối 29/08. (Cọc 2tr lấy lại CCCD). | [Chi tiết MOTOGO](../info/thue_xe_may.md#1-xe-máy-tại-hà-nội-28-2908) |
 | **Xe máy HG** | ✅ **Giang Sơn (Đã cọc 100k)** — Honda Wave 110cc (250k/ngày đã gồm gói BH cứu hộ). Nhận TP HG 30/08, trả TP CB (phí trả 500k). Free phòng nghỉ/tắm rửa + Ưu đãi 20% Giang Sơn Hill Hotel. | [Chi tiết cọc xe Giang Sơn](../info/thue_xe_may.md#2-xe-máy-tour-hà-giang--cao-bằng--giang-sơn-3008---0609) |
 | **Xe khách HN→HG** | Giường nằm 22:30 tối 29/08 (đến TP HG 05:30 sáng 30/08) | [Thông tin nhà xe](../info/xe_khach.md#chặng-1-hà-nội--tp-hà-giang-tối-2908) |
@@ -47,7 +47,7 @@
 | **03/09** | T5 | Hồ Thang Hen & Núi Mắt Thần (Tuyệt Tình Cốc) → Đèo Mã Phục → Làng đá Khuổi Ky / Thác Bản Giốc | 🌤️ Sáng hửng nắng đẹp Núi Mắt Thần, chiều mát mẻ (20–29°C) | 🛵 **~95 km** | [Yến Nhi Homestay Bản Giốc](../notes/goi_y_homestay.md#homestay-bangioc) |
 | **04/09** | T6 | Thác Bản Giốc + Thiền Viện Trúc Lâm + Động Ngườm Ngao → Về lại TP Cao Bằng | ☀️ Nắng sáng lung linh Thác Bản Giốc, động Ngườm Ngao 18°C (22–30°C) | 🛵 **~90 km** | [Max Hotel / Mường Thanh CB](../notes/goi_y_homestay.md#homestay-caobang) |
 | **05/09** | T7 | Khám phá Pác Bó & Suối Lê-Nin → Chiều về TP CB mua quà đặc sản & foodtour phở vịt quay | ☀️ Nắng thu xanh mát, Suối Lê-Nin xanh ngọc bích (21–31°C) | 🛵 **~100 km** *(đường phẳng đẹp)* | [Max Hotel / Mường Thanh CB](../notes/goi_y_homestay.md#homestay-caobang) |
-| **06/09** | CN | Trả xe máy TP CB → Trả phòng → Xe khách 12:30 → Nội Bài ~19:30 → Bay 23:30 HAN-SGN | ⛅ CB sáng nắng nhẹ; Hà Nội thời tiết ổn định mát mẻ (24–32°C) | 🛵 **~5 km** *(xe máy)*<br>🚌 **~280 km** *(xe khách)* | — |
+| **06/09** | CN | Trả xe máy TP CB → Trả phòng → Xe khách 12:30 → Nội Bài ~19:30 → Gửi hành lý & Bay 23:30 HAN-SGN (Sun PhuQuoc Airways 9G893) | ⛅ CB sáng nắng nhẹ; Hà Nội thời tiết ổn định mát mẻ (24–32°C) | 🛵 **~5 km** *(xe máy)*<br>🚌 **~280 km** *(xe khách)* | — |
 
 > - 🏁 **Tổng quãng đường xe máy cả chuyến:** **~885 km**
 
@@ -224,21 +224,22 @@
 
 ---
 
-### <a id="ngay-10"></a>📍 Ngày 10 (06/09 - CN): TP Cao Bằng → Nội Bài → Bay Về HCM (🛵 ~5 km, 🚌 ~280 km)
+### <a id="ngay-10"></a>📍 Ngày 10 (06/09 - CN): TP Cao Bằng → Nội Bài → Bay Về TP.HCM (🛵 ~5 km, 🚌 ~280 km)
 
 > ⛅ **Dự báo thời tiết:** TP Cao Bằng sáng nắng nhẹ mát mẻ; Hà Nội / Nội Bài chiều tối mưa giảm, thời tiết dịu mát | 🌡️ **Nhiệt độ:** 24°C – 32°C  
 > 🛵 **Quãng đường di chuyển dự kiến:** ~5 km (Di chuyển trả xe máy tại TP CB) + 🚌 280 km xe khách giường nằm CB → Nội Bài  
-> 🔗 **Gợi ý liên quan:** 🚌 [Vé xe khách Cao Bằng - Nội Bài](../info/xe_khach.md#chặng-2-tp-cao-bằng--sân-bay-nội-bài-trưa-0609) | ✈️ [Chuyến bay HAN-SGN 23:30](../info/chuyen_bay.md)
+> 🔗 **Gợi ý liên quan:** 🚌 [Vé xe khách Cao Bằng - Nội Bài](../info/xe_khach.md#chặng-2-tp-cao-bằng--sân-bay-nội-bài-trưa-0609) | ✈️ [Chuyến bay HAN-SGN 23:30 (Sun PhuQuoc Airways 9G893)](../info/chuyen_bay.md#lượt-về-han--sgn)
 
 | Thời gian | Hoạt động | Ghi chú |
 |-----------|-----------|---------|
-| 08:00 - 11:00 | Cà phê sáng cuối cùng phố núi, soạn balo | |
-| 11:00 - 11:45 | Trả phòng khách sạn, trả xe máy tại TP Cao Bằng | Kiểm tra hành lý, giấy tờ |
-| 12:00 - 12:30 | Có mặt bến xe / văn phòng nhà xe khách Cao Bằng | [Bến xe TP CB](../info/xe_khach.md) |
-| 12:30 - 19:30 | Xe khách giường nằm CB → Sân bay Nội Bài (~7-7.5h) | Ngủ nghỉ trên xe |
-| 19:30 - 20:30 | Đến Sân bay Nội Bài | |
-| 20:30 - 23:30 | Ăn tối nhẹ tại sân bay, check-in chuyến bay | [Vé bay 23:30](../info/chuyen_bay.md) |
-| 23:30 | Bay HAN → SGN. KẾT THÚC CHUYẾN ĐI 🎉 | |
+| 08:00 - 11:00 | Cà phê sáng cuối cùng phố núi, ăn sáng bánh cuốn Cao Bằng, hoàn tất đóng gói hành lý & đặc sản làm quà | Sắp xếp đồ vào balo & kiện ký gửi |
+| 11:00 - 11:45 | Trả phòng khách sạn, chạy xe đến điểm hẹn trả xe máy tour cho Giang Sơn tại TP Cao Bằng | Nhận lại giấy tờ/tiền thế chân (nếu có) |
+| 12:00 - 12:30 | Có mặt tại bến xe / văn phòng nhà xe khách TP Cao Bằng | [Bến xe TP CB](../info/xe_khach.md) |
+| 12:30 - 19:30 | Xe khách giường nằm CB → Sân bay Nội Bài (~7-7.5h) | Nghỉ ngơi, ngủ hồi phục sức sau chuyến đi |
+| 19:30 - 20:30 | Đến Sân bay Quốc tế Nội Bài (Sảnh Nhà Ga T1). Di chuyển đến quầy Sun PhuQuoc Airways làm thủ tục ký gửi hành lý (1PC/người) và nhận vé | PNR: **`7TGDE6`** (Chuyến bay **9G893**) |
+| 20:30 - 22:30 | Ăn tối nhẹ & uống cà phê tại Ga T1 Nội Bài, qua cửa kiểm tra an ninh vào khu vực cách ly phòng chờ | Thư thả chờ lên máy bay |
+| 22:45 - 23:15 | Boarding lên tàu bay (Chỗ ngồi đã chọn: **Ghế 36J & 36K**) | |
+| 23:30 - 01:40 (+1) | Bay HAN → SGN (Thời gian bay 2h10m). Đến Sân bay Tân Sơn Nhất (Nhà Ga T3) lúc 01:40 sáng 07/09, lấy hành lý ký gửi. KẾT THÚC CHUYẾN ĐI TRỌN VẸN & AN TOÀN 🎉 | |
 
 ---
 
@@ -308,3 +309,38 @@
 - **Phí trả xe Cao Bằng (Wave 110cc):** 500k
 - **Thời gian thuê tối thiểu trả khác tỉnh:** 4 ngày
 - **Cọc:** Tiền hoặc giấy tờ (giấy tờ sẽ gửi lại bưu điện)
+
+---
+
+## <a id="-đánh-giá-rủi-ro--kịch-bản-dự-phòng-contingency-plans"></a>🛡️ Đánh Giá Rủi Ro & Kịch Bản Dự Phòng (Contingency Plans)
+
+> [!IMPORTANT]
+> Toàn bộ 5 kịch bản dự phòng chi tiết đã được chuẩn bị kỹ lưỡng để đảm bảo chuyến đi 10 ngày luôn an toàn, đúng giờ và thuận lợi:
+
+### 1. Rủi ro hỏng hóc kỹ thuật xe máy & thủng lốp đèo vắng
+- **Kịch bản xử lý:** Đã mua gói **Bảo hiểm cứu hộ Giang Sơn 24/7** (Hotline: Mr Sơn: `0983 380 333` / Mrs Giang: `0988 470 863`). 
+- Khi gặp sự cố đèo vắng (thủng săm, đứt xích, bó phanh): Gọi ngay tiệm để điều thợ sửa xe địa phương gần nhất đến hỗ trợ tận nơi.
+- Luôn có **1 chai nhựa 1.5L xăng dự phòng** chằng baga sau chặng đèo vắng Mèo Vạc - Bảo Lạc.
+
+### 2. Rủi ro thời tiết xấu (Mưa dông lớn / Sương mù dày trên đèo)
+- **Kịch bản xử lý:** Luôn để **2 bộ áo mưa 2 mảnh** ở vị trí dễ lấy nhất trên baga.
+- Nếu gặp mưa dông lớn: Tấp vào quán nước/nhà dân/lều nghỉ ven đèo chờ qua cơn mưa to (tuyệt đối không cố chạy khi đường ngập bùn hoặc trơn trượt).
+- Nếu gặp sương mù dày: Bật đèn chiếu gần (cos), giảm tốc độ 20-30 km/h, bóp còi trước các khúc cua tay áo và tuân thủ nguyên tắc về nơi lưu trú **trước 16:30 - 17:00**.
+
+### 3. Rủi ro trễ xe khách & lỡ chuyến bay về SGN (Ngày 10 - 06/09)
+- **Kịch bản xử lý:** Chuyến xe khách từ TP Cao Bằng khởi hành lúc 12:30 trưa, dự kiến đến Nội Bài lúc ~19:30. Chuyến bay **Sun PhuQuoc Airways 9G893** cất cánh lúc **23:30** tại Ga T1.
+- Khoảng đệm thời gian dự phòng là **3.5 - 4 tiếng** — hoàn toàn an toàn ngay cả khi xe khách gặp sự cố hoặc tắc đường đến 21:00 vẫn kịp gửi hành lý ký gửi (1PC/người) và lên máy bay.
+
+### 4. Rủi ro sức khỏe, sốc nhiệt & say đèo
+- **Kịch bản xử lý:** Luôn có sẵn gói bột điện giải **Pocari Sweat** bổ sung nước/khoáng dọc đường đèo.
+- Thuốc y tế cá nhân mang theo: Paracetamol (hạ sốt/đau đầu), Smecta/Berberin (tiêu hóa), thuốc chống say xe cho bạn gái, bông băng sát trùng.
+- Chia nhỏ lộ trình: Nghỉ chân ngắm cảnh 15-20 phút sau mỗi 60-80km di chuyển.
+
+### 5. Rủi ro quá tải phòng ốc & dịch vụ dịp Lễ Quốc Khánh 2/9
+- **Kịch bản xử lý:**
+  - Đêm 28/08 (Hà Nội): Đã xác nhận **Da Tree Homestay Ba Đình** (Mã: `6540221126`).
+  - Đêm 30/08 (Yên Minh): Đã xác nhận **Bong Bang Homestay 2** (Mã: `6874088766`).
+  - Đêm 31/08 (Đồng Văn): Ưu tiên chốt **Giang Sơn Hill Hotel 3⭐** (giảm 20%) hoặc **Lo Lo Chai Homestay**.
+  - Đêm 01/09 (Mèo Vạc - Lễ): Ưu tiên cọc sớm **O'Châu Homestay Pả Vi**.
+  - Đêm 02/09 (TP Cao Bằng - Lễ): Ưu tiên cọc sớm **Mường Thanh Luxury 4⭐** hoặc **Max Hotel 3⭐**.
+

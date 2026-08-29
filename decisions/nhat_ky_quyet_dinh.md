@@ -128,13 +128,13 @@
   - **Họ tên khách:** Chí Công | **SĐT:** 0969910198
   - **Loại xe:** 1 x Honda Wave 110cc (Có mua gói Bảo hiểm cứu hộ)
   - **Thời gian thuê:** Từ 30/08/2026 đến 05-06/09/2026 (Nhận xe TP Hà Giang, Trả xe TP Cao Bằng)
-  - **Số tiền cọc:** **100.000 VNĐ** (Chuyển khoản thành công lúc 19:38 ngày 15/08/2026 — [biên lai chuyển khoản](file:///Users/conghoang/Desktop/plan-trip/attachments/giang_son_ha_giang/bien_lai_chuyen_khoan.jpg))
+  - **Số tiền cọc:** **100.000 VNĐ** (Chuyển khoản thành công lúc 19:38 ngày 15/08/2026 — [biên lai chuyển khoản](file:///Users/trucanh/Desktop/chicong-trip-plan/attachments/giang_son_ha_giang/bien_lai_chuyen_khoan.jpg))
 - **Đặc quyền & Hỗ trợ xác nhận từ tiệm Giang Sơn:**
   - **Phòng nghỉ & Tắm rửa free:** Khách lên TP HG sáng 30/08 bằng xe giường nằm được nghỉ ngơi/tắm rửa miễn phí tại tiệm; chiều trả xe cũng được tắm rửa/nghỉ ngơi free.
   - **Giảm 20% phòng tại Giang Sơn Hill Hotel (Đồng Văn):** Khách thuê xe được ưu đãi giảm 20% giá niêm yết tại khách sạn 3⭐ mới xây của Giang Sơn ở trung tâm Đồng Văn (đêm 31/08).
   - **Trang bị gác baga kéo dài:** 100% xe trang bị sẵn baga sau để chằng túi đồ/balo gọn gàng.
   - **Cứu hộ 24/7:** Hotline 360 số điện thoại hỗ trợ dọc đường, điều thợ sửa xe gần nhất nếu gặp sự cố.
-- **Tài liệu đính kèm:** [`attachments/giang_son_ha_giang/`](file:///Users/conghoang/Desktop/plan-trip/attachments/giang_son_ha_giang) & [`info/thue_xe_may.md`](file:///Users/conghoang/Desktop/plan-trip/info/thue_xe_may.md#2-xe-máy-tour-hà-giang--cao-bằng--giang-sơn-3008---0609)
+- **Tài liệu đính kèm:** [`attachments/giang_son_ha_giang/`](file:///Users/trucanh/Desktop/chicong-trip-plan/attachments/giang_son_ha_giang) & [`info/thue_xe_may.md`](file:///Users/trucanh/Desktop/chicong-trip-plan/info/thue_xe_may.md#2-xe-máy-tour-hà-giang--cao-bằng--giang-sơn-3008---0609)
 
 ---
 
@@ -148,15 +148,15 @@
   - `PHAM HUYNH TRUC ANH`: PNR **`R7AH77`**
 - **Hạng vé & Hành lý:** Eco (gồm 7kg hành lý xách tay/người; ⚠️ **Cần mua bổ sung:** 1 gói hành lý ký gửi 15-20kg online trên website/app Vietjet Air trước ngày 28/08 để tiết kiệm chi phí).
 - **Tổng chi phí:** 10,000 SkyPoint + 1,435,162 VNĐ (Thanh toán thành công ngày 18/08/2026).
-- **Tài liệu đính kèm:** [`attachments/ve_may_bay_luot_di/`](file:///Users/conghoang/Desktop/plan-trip/attachments/ve_may_bay_luot_di)
-- **Tham chiếu thông tin:** [`info/chuyen_bay.md`](file:///Users/conghoang/Desktop/plan-trip/info/chuyen_bay.md)
+- **Tài liệu đính kèm:** [`attachments/ve_may_bay_luot_di/`](file:///Users/trucanh/Desktop/chicong-trip-plan/attachments/ve_may_bay_luot_di)
+- **Tham chiếu thông tin:** [`info/chuyen_bay.md`](file:///Users/trucanh/Desktop/chicong-trip-plan/info/chuyen_bay.md)
 
 ---
 
 ## 21/08/2026 — Tổng hợp & Phân loại Master Food List Hà Nội
 
 ### Quyết định #17: Tổng hợp & Phân loại danh sách 60+ Quán ăn Hà Nội cho Chiều Tối Ngày 1 & Ngày 2
-- **Dữ liệu tổng hợp:** Tích hợp toàn bộ các quán ăn bạn liệt kê + Google Maps list saved [Food tour - HN](https://maps.app.goo.gl/RvVn7HpuxU6x5rcR6) vào [Master Food List (`notes/dac_san_am_thuc.md`)](file:///Users/conghoang/Desktop/plan-trip/notes/dac_san_am_thuc.md#food-hn).
+- **Dữ liệu tổng hợp:** Tích hợp toàn bộ các quán ăn bạn liệt kê + Google Maps list saved [Food tour - HN](https://maps.app.goo.gl/RvVn7HpuxU6x5rcR6) vào [Master Food List (`notes/dac_san_am_thuc.md`)](file:///Users/trucanh/Desktop/chicong-trip-plan/notes/dac_san_am_thuc.md#food-hn).
 - **Cấu trúc phân loại:** Phân nhóm theo 7 chủng loại món chính (Bò nầm nướng, Bún đậu mắm tôm, Bún chả & Nem cua bể, Chả cá lăng, Nem chua rán & Ăn vặt phố cổ, Món nước & Phở/Bún riêu/Bún cá, Xôi & Quán lòng/Ốc).
 - **Tối ưu vị trí chiều tối Ngày 1 (28/08):** Đánh dấu ưu tiên các quán thuộc khu vực Ba Đình (gần Da Tree Homestay Ngọc Hà ~2km) để ăn tối nhẹ nhàng hồi sức hoặc chạy 3km vào trung tâm Phố Cổ.
 
@@ -170,7 +170,7 @@
   - **Hà Nội (28-29/08 & 06/09):** Mây, oi nhẹ 26–33°C, chiều tối dông rải rác.
   - **Hà Giang Loop (30/08 - 01/09):** Trở mát 19–31°C (Đồng Văn / Lũng Cú đêm trở lạnh 18–19°C). Sương mù sớm tại Quản Bạ, trưa hửng nắng (rất đẹp chụp ảnh Sông Nho Quế & Dốc Thẩm Mã).
   - **Chặng QL34 & Cao Bằng (02/09 - 05/09):** Trời thu mát mẻ 20–31°C, nắng thu xanh ngọc tại Suối Lê-Nin & Thác Bản Giốc.
-- **Cập nhật đồng bộ:** Đã bổ sung cột thời tiết vào bảng tổng quan và chi tiết từng mục Ngày 1 đến Ngày 10 trong [`plans/lich_trinh_chi_tiet.md`](file:///Users/conghoang/Desktop/plan-trip/plans/lich_trinh_chi_tiet.md).
+- **Cập nhật đồng bộ:** Đã bổ sung cột thời tiết vào bảng tổng quan và chi tiết từng mục Ngày 1 đến Ngày 10 trong [`plans/lich_trinh_chi_tiet.md`](file:///Users/trucanh/Desktop/chicong-trip-plan/plans/lich_trinh_chi_tiet.md).
 
 ---
 
@@ -179,18 +179,18 @@
 ### Quyết định #19: Hoàn tất Check-in online & nhận Thẻ lên tàu (Boarding Pass) cho 2 người
 - **Chuyến bay:** Vietjet Air **VJ120** (SGN → HAN 05:00 – 07:10 ngày 28/08/2026)
 - **Thông tin chỗ ngồi & Boarding Pass:**
-  - `HOANG CHI CONG`: **Ghế 37E** | Boarding Group: **4** | Seq #: **65** | Thẻ lên tàu: [`ChiCong_BPass20260827062726428.pdf`](file:///Users/conghoang/Desktop/plan-trip/attachments/ve_may_bay_luot_di/ChiCong_BPass20260827062726428.pdf)
-  - `PHAM HUYNH TRUC ANH`: **Ghế 37F** | Boarding Group: **4** | Seq #: **66** | Thẻ lên tàu: [`TrucAnh_BPass20260827062729463.pdf`](file:///Users/conghoang/Desktop/plan-trip/attachments/ve_may_bay_luot_di/TrucAnh_BPass20260827062729463.pdf)
+  - `HOANG CHI CONG`: **Ghế 37E** | Boarding Group: **4** | Seq #: **65** | Thẻ lên tàu: [`ChiCong_BPass20260827062726428.pdf`](file:///Users/trucanh/Desktop/chicong-trip-plan/attachments/ve_may_bay_luot_di/ChiCong_BPass20260827062726428.pdf)
+  - `PHAM HUYNH TRUC ANH`: **Ghế 37F** | Boarding Group: **4** | Seq #: **66** | Thẻ lên tàu: [`TrucAnh_BPass20260827062729463.pdf`](file:///Users/trucanh/Desktop/chicong-trip-plan/attachments/ve_may_bay_luot_di/TrucAnh_BPass20260827062729463.pdf)
 - **Lưu ý di chuyển Sân bay SGN sáng 28/08:**
   - **Giờ ra cửa khởi hành (Boarding Time):** **04:10 AM** (Cửa khởi hành sẽ đóng 15 phút trước giờ khởi hành).
   - Vì đã check-in online, 2 bạn di chuyển ra sân bay lúc **03:30 AM**, có mặt lúc **04:00 AM** và có thể đi thẳng qua cổng soi chiếu an ninh hàng không (nếu không gửi hành lý) hoặc ghé nhanh quầy drop-bag.
-- **Cập nhật đồng bộ:** [`info/chuyen_bay.md`](file:///Users/conghoang/Desktop/plan-trip/info/chuyen_bay.md), [`plans/lich_trinh_chi_tiet.md`](file:///Users/conghoang/Desktop/plan-trip/plans/lich_trinh_chi_tiet.md), và [`README.md`](file:///Users/conghoang/Desktop/plan-trip/README.md).
+- **Cập nhật đồng bộ:** [`info/chuyen_bay.md`](file:///Users/trucanh/Desktop/chicong-trip-plan/info/chuyen_bay.md), [`plans/lich_trinh_chi_tiet.md`](file:///Users/trucanh/Desktop/chicong-trip-plan/plans/lich_trinh_chi_tiet.md), và [`README.md`](file:///Users/trucanh/Desktop/chicong-trip-plan/README.md).
 
 ### Quyết định #20: Chốt 100% Hành lý xách tay lượt đi & Đổi phương án đóng gói hành lý xe máy
 - **Chi tiết thay đổi:**
   - **Hành lý máy bay lượt đi:** 100% xách tay (7kg/người), **không sử dụng hành lý ký gửi** và không mua bổ sung hành lý ký gửi. Đáp ứng đi thẳng cổng an ninh soi chiếu tại SGN và ra sảnh T1 Nội Bài nhanh chóng (tiết kiệm 15-20 phút chờ lấy đồ).
   - **Chằng đồ xe máy:** Bỏ túi ShopeeFood 22L. Đổi sang **2 Balo** (1 balo chằng baga đằng trước, 1 balo chằng baga đằng sau/ngồi sau có bọc cover chống mưa) + **1 Túi đeo chéo nhỏ** (chứa bóp/ví, giấy tờ, 2x iPhone 16 Pro Max, máy ảnh Sony A7R3, lens 28mm & flash iT32).
-- **Cập nhật đồng bộ:** [`notes/hanh_ly_baga.md`](file:///Users/conghoang/Desktop/plan-trip/notes/hanh_ly_baga.md), [`info/chuyen_bay.md`](file:///Users/conghoang/Desktop/plan-trip/info/chuyen_bay.md), [`plans/lich_trinh_chi_tiet.md`](file:///Users/conghoang/Desktop/plan-trip/plans/lich_trinh_chi_tiet.md), và [`README.md`](file:///Users/conghoang/Desktop/plan-trip/README.md).
+- **Cập nhật đồng bộ:** [`notes/hanh_ly_baga.md`](file:///Users/trucanh/Desktop/chicong-trip-plan/notes/hanh_ly_baga.md), [`info/chuyen_bay.md`](file:///Users/trucanh/Desktop/chicong-trip-plan/info/chuyen_bay.md), [`plans/lich_trinh_chi_tiet.md`](file:///Users/trucanh/Desktop/chicong-trip-plan/plans/lich_trinh_chi_tiet.md), và [`README.md`](file:///Users/trucanh/Desktop/chicong-trip-plan/README.md).
 
 ### Quyết định #21: Cập nhật thông tin Dự báo thời tiết mới nhất (Tối 27/08/2026 — Trực tiếp trước ngày đi)
 - **Nguồn dữ liệu:** Trung tâm Dự báo Khí tượng Thủy văn Quốc gia (Bản tin tối 27/08).
@@ -205,12 +205,32 @@
   - **Ngày 8 (04/09 — Thác Bản Giốc / Ngườm Ngao / TP Cao Bằng):** Nắng sáng rực rỡ Thác Bản Giốc (7–9h), động Ngườm Ngao 18°C (22–30°C).
   - **Ngày 9 (05/09 — TP Cao Bằng ↔ Pác Bó / Suối Lê-Nin):** Nắng thu xanh mát, mây mỏng, suối Lê-Nin nước trong xanh ngọc bích (21–31°C).
   - **Ngày 10 (06/09 — TP CB → Nội Bài → SGN):** Cao Bằng sáng nắng nhẹ, Hà Nội / Nội Bài chiều tối mưa giảm, thời tiết dịu mát (24–32°C).
-- **Cập nhật đồng bộ:** [`plans/lich_trinh_chi_tiet.md`](file:///Users/conghoang/Desktop/plan-trip/plans/lich_trinh_chi_tiet.md) và [`README.md`](file:///Users/conghoang/Desktop/plan-trip/README.md).
+- **Cập nhật đồng bộ:** [`plans/lich_trinh_chi_tiet.md`](file:///Users/trucanh/Desktop/chicong-trip-plan/plans/lich_trinh_chi_tiet.md) và [`README.md`](file:///Users/trucanh/Desktop/chicong-trip-plan/README.md).
 
 ### Quyết định #22: Đăng ký bổ sung 1 suất ăn nóng trên chuyến bay lượt đi Vietjet Air VJ120
 - **Chi tiết dịch vụ cộng thêm (Add-on):** 🍱 **1 Suất ăn nóng** — Cơm Thơm Thái Tây Cùng Bò Xào Sốt Bơ (`C.ThaiWBisc`) cho hành khách `HOANG CHI CONG` (PNR **`UJSG2A`**).
-- **Tài liệu đính kèm:** File vé & hành trình xác nhận mới nhất [`attachments/ve_may_bay_luot_di/Itinerary-UJSG2A.pdf`](file:///Users/conghoang/Desktop/plan-trip/attachments/ve_may_bay_luot_di/Itinerary-UJSG2A.pdf).
-- **Cập nhật đồng bộ:** [`info/chuyen_bay.md`](file:///Users/conghoang/Desktop/plan-trip/info/chuyen_bay.md), [`plans/lich_trinh_chi_tiet.md`](file:///Users/conghoang/Desktop/plan-trip/plans/lich_trinh_chi_tiet.md), và [`README.md`](file:///Users/conghoang/Desktop/plan-trip/README.md).
+- **Tài liệu đính kèm:** File vé & hành trình xác nhận mới nhất [`attachments/ve_may_bay_luot_di/Itinerary-UJSG2A.pdf`](file:///Users/trucanh/Desktop/chicong-trip-plan/attachments/ve_may_bay_luot_di/Itinerary-UJSG2A.pdf).
+- **Cập nhật đồng bộ:** [`info/chuyen_bay.md`](file:///Users/trucanh/Desktop/chicong-trip-plan/info/chuyen_bay.md), [`plans/lich_trinh_chi_tiet.md`](file:///Users/trucanh/Desktop/chicong-trip-plan/plans/lich_trinh_chi_tiet.md), và [`README.md`](file:///Users/trucanh/Desktop/chicong-trip-plan/README.md).
+
+---
+
+## 30/08/2026 — Đặt thành công 2 vé máy bay lượt về (Hà Nội → HCM)
+
+### Quyết định #23: Chốt vé máy bay lượt về Sun PhuQuoc Airways 9G893 (HAN → SGN)
+- **Hãng bay & Số hiệu chuyến bay:** Sun PhuQuoc Airways **9G893**
+- **Ngày bay:** **06/09/2026**
+- **Khung giờ bay:** **23:30** (06/09/2026) → **01:40** (07/09/2026) | Thời gian bay: **02 giờ 10 phút**
+- **Sân bay:** Sân bay Quốc tế Nội Bài (Ga Quốc nội - **Nhà Ga T1**) → Sân bay Quốc tế Tân Sơn Nhất (Ga Quốc nội - **Nhà Ga T3**)
+- **Mã đặt chỗ (PNR):** **`7TGDE6`** (Dùng chung cho cả 2 người)
+- **Thông tin hành khách, số vé & chỗ ngồi:**
+  - `HOANG CHI CONG`: Vé điện tử **`809 2400867602`** — Ghế **`36J`** (Hạng Economy Lite, V)
+  - `PHAM HUYNH TRUC ANH`: Vé điện tử **`809 2400867601`** — Ghế **`36K`** (Hạng Economy Lite, V — Dịch vụ chọn ghế EMD `809 4200212088`)
+- **Quyền lợi hành lý đặc biệt:** Đã bao gồm **1PC (1 Kiện hành lý ký gửi)** cho mỗi người (thuận lợi tối đa để gửi các kiện quà đặc sản Cao Bằng như Hạt dẻ Trùng Khánh, miến đao, lạp xưởng,...).
+- **Tổng chi phí thanh toán:** 1,143,181 VNĐ x 2 + 60,000 VNĐ (chọn chỗ) = **2,346,362 VNĐ** (Thanh toán qua QR).
+- **Tài liệu đính kèm:**
+  - [`attachments/ve_may_bay_luot_ve/CHI CONG HOANG, 809-2400867602, 7TGDE6.pdf`](file:///Users/trucanh/Desktop/chicong-trip-plan/attachments/ve_may_bay_luot_ve/CHI%20CONG%20HOANG,%20809-2400867602,%207TGDE6.pdf)
+  - [`attachments/ve_may_bay_luot_ve/HUYNH TRUC ANH PHAM, 809-2400867601, 7TGDE6.pdf`](file:///Users/trucanh/Desktop/chicong-trip-plan/attachments/ve_may_bay_luot_ve/HUYNH%20TRUC%20ANH%20PHAM,%20809-2400867601,%207TGDE6.pdf)
+- **Cập nhật đồng bộ:** [`info/chuyen_bay.md`](file:///Users/trucanh/Desktop/chicong-trip-plan/info/chuyen_bay.md), [`plans/lich_trinh_chi_tiet.md`](file:///Users/trucanh/Desktop/chicong-trip-plan/plans/lich_trinh_chi_tiet.md), [`notes/hanh_ly_baga.md`](file:///Users/trucanh/Desktop/chicong-trip-plan/notes/hanh_ly_baga.md) và [`README.md`](file:///Users/trucanh/Desktop/chicong-trip-plan/README.md).
 
 ---
 
@@ -218,18 +238,19 @@
 - [x] Đặt vé máy bay lượt đi (✅ **Vietjet Air VJ120** - PNR: UJSG2A / R7AH77)
 - [x] Check-in online lượt đi VJ120 (✅ Ghế 37E & 37F, Boarding 04:10 AM)
 - [x] Chốt 100% Hành lý xách tay lượt đi (Không ký gửi)
-- [ ] Đặt vé máy bay lượt về (06/09 23:30 HAN-SGN)
+- [x] Đặt vé máy bay lượt về (✅ **Sun PhuQuoc Airways 9G893** 23:30 06/09 HAN-SGN — PNR: `7TGDE6` — Ghế 36J/36K — Có 1PC ký gửi)
 - [x] Đặt homestay Yên Minh (Bong Bang homestay 2 - Đã xác nhận đêm 30/08)
 - [x] Đặt homestay Hà Nội (Da Tree Homestay Ba Đình - Đã xác nhận đêm 28/08)
 - [x] Chốt phương án hành lý & đóng gói (1 túi đeo chéo nhỏ máy ảnh + 2 Balo baga trước/sau + chai xăng 1.5L)
 - [x] Đặt xe máy Hà Nội (✅ **MOTOGO Mã #39337** - Sirius 110cc - 260k/2 ngày - Nhận Nội Bài, Trả 1081 Hồng Hà)
 - [x] Chốt & Đặt cọc xe tour Giang Sơn (✅ **Honda Wave 110cc có BH cứu hộ** - Cọc 100k ngày 15/08 - Nhận TP HG, Trả TP CB)
 - [x] Chốt Kế hoạch Đánh giá Rủi ro & Phương án Backup
-- [x] Phân loại & Chốt Master Food List Hà Nội ([dac_san_am_thuc.md](file:///Users/conghoang/Desktop/plan-trip/notes/dac_san_am_thuc.md#food-hn))
-- [x] Cập nhật dự báo thời tiết chi tiết từng ngày (✅ Cập nhật mới nhất 27/08/2026 trong [lich_trinh_chi_tiet.md](file:///Users/conghoang/Desktop/plan-trip/plans/lich_trinh_chi_tiet.md))
+- [x] Phân loại & Chốt Master Food List Hà Nội ([dac_san_am_thuc.md](file:///Users/trucanh/Desktop/chicong-trip-plan/notes/dac_san_am_thuc.md#food-hn))
+- [x] Cập nhật dự báo thời tiết chi tiết từng ngày (✅ Cập nhật mới nhất 27/08/2026 trong [lich_trinh_chi_tiet.md](file:///Users/trucanh/Desktop/chicong-trip-plan/plans/lich_trinh_chi_tiet.md))
 - [ ] Đặt homestay Đồng Văn (đêm 31/08 - Đang cân nhắc Giang Sơn Hill Hotel giảm 20% / Lo Lo Chai Homestay) & Mèo Vạc (đêm 01/09 - **CẦN ĐẶT SỚM trong tuần này vì Lễ 2/9**)
 - [ ] Đặt khách sạn TP Cao Bằng (đêm 02/09 - **CẦN ĐẶT SỚM trong tuần này vì Lễ 2/9**) & Thác Bản Giốc (đêm 03/09)
 - [ ] Đặt xe khách CB → Nội Bài (trưa 06/09)
+
 
 
 
