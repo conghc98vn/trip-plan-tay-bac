@@ -103,18 +103,25 @@
 
 ### <a id="ngay-3"></a>📍 Ngày 3 (30/08 - CN): TP Hà Giang → Quản Bạ → Yên Minh (🛵 ~100 km)
 
-> 🌤️ **Dự báo thời tiết:** Sương mù đèo Bắc Sum sáng sớm, ngày nhiều mây, mưa rào và dông rải rác trưa/chiều | 🌡️ **Nhiệt độ:** TP HG 25°C–32°C, Quản Bạ/Yên Minh 21°C–28°C  
-> 🛵 **Quãng đường di chuyển dự kiến:** ~100 km (TP Hà Giang → Dốc Bắc Sum → Quản Bạ ~46km → Can Tỷ → Yên Minh ~54km) — *Cập bến Yên Minh trước 16:30!*  
-> 🔗 **Gợi ý liên quan:** 🏨 [Bong Bang Homestay 2 (✅ Đã xác nhận)](../info/dat_phong.md#yen-minh) | 🍜 [Lẩu Gà Đen Tam Sơn](../notes/dac_san_am_thuc.md#food-hagiang) | 📸 [Góc chụp Cổng Trời](../notes/goc_chup_anh.md#photo-hagiang)
+> ⛅ **Dự báo thời tiết:** Sương mù đèo Bắc Sum sáng sớm, ngày nhiều mây, mưa rào và dông rải rác trưa/chiều | 🌡️ **Nhiệt độ:** TP HG 25°C–32°C, Quản Bạ/Yên Minh 21°C–28°C  
+> 🛵 **Quãng đường di chuyển dự kiến:** ~100 km (TP Hà Giang → Dốc Bắc Sum → Quản Bạ ~46km → Can Tỷ → Yên Minh ~54km)  
+> 🔗 **Gợi ý liên quan:** 🏨 [Bong Bang Homestay 2 (✅ Đã xác nhận)](../info/dat_phong.md#yen-minh) | 🍜 [Ẩm thực Hà Giang](../notes/dac_san_am_thuc.md#food-hagiang) | 📸 [Góc chụp Cổng Trời](../notes/goc_chup_anh.md#photo-hagiang)
+
+> ✅ **NHẬT KÝ THỰC TẾ (ĐÃ HOÀN THÀNH NGÀY 30/08):**
+> - **Lộ trình thực tế:** Xuất phát từ Cột mốc Km0 Hà Giang lúc **08:00** → Vượt Dốc Bắc Sum, Cổng Trời Quản Bạ, Cây cô đơn Can Tỷ → Cập bến Yên Minh an toàn lúc **~13:00** (về đích sớm & an toàn tuyệt đối).
+> - **Chi tiêu thực tế Ngày 3 (Tổng: 690.000 VNĐ):**
+>   - 🍜 **Sáng:** Bún riêu Bống (100.000đ)
+>   - 🍚 **Trưa:** Cơm bình dân thịt lợn + rau xào (150.000đ)
+>   - 🥤 **Dọc đường:** Nước suối & nước giải khát (100.000đ)
+>   - 🍢 **Tối:** Lợn nướng + chim cút nướng (100.000đ) + cá viên (90.000đ) + trái cây (50.000đ) = 340.000đ
 
 | Thời gian | Hoạt động | Ghi chú |
 |-----------|-----------|---------|
-| 05:30 - 07:00 | Đến TP HG. Nhận xe Giang Sơn (Wave 110cc + BH). Ăn sáng bánh cuốn canh Bà Lý | [Xe Giang Sơn 250k/ngày](../info/thue_xe_may.md#2-xe-máy-tour-hà-giang--cao-bằng--giang-sơn-3008---0609) |
-| 07:30 - 11:30 | Dốc Bắc Sum → Cổng Trời Quản Bạ → Núi Đôi Cô Tiên | 📸 Thung lũng Tam Sơn panorama |
-| 11:30 - 12:45 | Ăn trưa Tam Sơn (Lẩu gà đen Mông / Thịt lợn tên tên) | 🍲 Đặc sản Quản Bạ |
-| 12:45 - 16:00 | Quản Bạ → Cây cô đơn Can Tỷ → Rừng thông Yên Minh → Homestay | 📸 Cây cô đơn, đồi thông |
-| 16:00 - 17:00 | Check-in Homestay Yên Minh, tắm rửa, nghỉ ngơi trà chiều | 🌅 An toàn tuyệt đối trước 17:00 |
-| 18:30 - 21:00 | Ăn tối món dân tộc, rượu ngô nếp tại homestay | |
+| 07:00 - 08:00 | Nhận xe Wave 110cc Giang Sơn, ăn sáng bún riêu Bống (100k) | Check-in Cột mốc Km0 |
+| 08:00 - 13:00 | Chạy xe TP Hà Giang → Dốc Bắc Sum → Cổng Trời Quản Bạ → Can Tỷ → Rừng thông Yên Minh | Hoàn thành 100km đèo núi |
+| 13:00 | Đến Yên Minh, ăn trưa cơm bình dân (150k), check-in Bong Bang Homestay 2 nghỉ ngơi | Về đích an toàn lúc 13h |
+| 18:30 - 21:00 | Ăn tối đồ nướng phố núi Yên Minh (lợn nướng, chim cút nướng, cá viên, trái cây: 340k) | Nghỉ ngơi hồi sức |
+
 
 ---
 

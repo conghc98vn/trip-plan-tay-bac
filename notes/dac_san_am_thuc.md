@@ -116,13 +116,18 @@
 ## <a id="food-hagiang"></a>📍 3. HÀ GIANG (30/08 – 01/09) — Đồng Văn, Mèo Vạc & Quản Bạ
 
 ### 🥢 Đặc Sản Ăn Sáng local
+- **Bún Riêu & Bún Nước Hà Giang:**
+  - *Bún Riêu Bống* — TP Hà Giang ⭐ *(Món ăn sáng thực tế Ngày 3 trước khi lên Cột mốc Km0 — 100k/2 người)*.
 - **Bánh Cuốn Canh Hà Giang:**
-  - *Quánh Bánh cuốn Bà Hà* — Phố Cổ Đồng Văn (Bánh cuốn nóng tráng mỏng, ăn kèm bát nước dùng xương hầm béo ngọt đậm đà & chả lụa).
+  - *Quán Bánh cuốn Bà Hà* — Phố Cổ Đồng Văn (Bánh cuốn nóng tráng mỏng, ăn kèm bát nước dùng xương hầm béo ngọt đậm đà & chả lụa).
   - *Quán Bánh cuốn Bà Lý* — TP Hà Giang (Ăn sáng ngay khi vừa xuống xe khách).
 - **Phở Tráng Tay Đồng Văn:**
   - *Quán Phở tráng tay bến xe Đồng Văn* (Bánh phở tự tráng bằng tay dai thơm, thịt bò núi đá).
 
 ### 🍲 Món Ăn Trưa & Bữa Tối Nhậu Vùng Cao
+- **Cơm Bình Dân & Đồ Nướng Phố Núi Yên Minh:**
+  - *Cơm bình dân Yên Minh:* Cơm thịt lợn bản & rau xào thanh đạm hồi sức sau đèo Bắc Sum.
+  - *Đồ nướng phố đêm Yên Minh:* Lợn nướng xiên than hoa, chim cút nướng mật ong, cá viên chiên & trái cây vùng cao.
 - **Lẩu Gà Đen Mông:**
   - *Tam Sơn (Quản Bạ):* Quán ăn Tam Sơn (Lẩu gà đen nấu nấm rừng & rau cải mèo đắng ngọt).
   - *Phố Cổ Đồng Văn:* Quán Ẩm thực Đồng Văn / Nhà hàng Oanh Lộc.
@@ -131,6 +136,7 @@
   - *Lẩu dê núi Đồng Văn.*
 - **Lợn Đen Nướng & Lạp Xưởng Hun Khói (Mèo Vạc):**
   - *Làng H'Mông Pả Vi (Mèo Vạc):* Đặt ăn trực tiếp tại Homestay Pả Vi (Lợn đen nướng than hoa, lạp xưởng gác bếp, cải mèo xào thịt bò khô, rượu ngô nếp).
+
 
 ### ☕ Cà Phê Độc Đáo Vùng Cao
 - *Cà phê Cực Bắc* — Làng Lô Lô Chải, Lũng Cú (Quán cà phê nhỏ siêu xinh do ông Ogura Yasushi người Nhật xây dựng).

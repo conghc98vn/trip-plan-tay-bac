@@ -234,6 +234,20 @@
 
 ---
 
+## 30/08/2026 — Hoàn Thành Ngày 3: TP Hà Giang → Quản Bạ → Yên Minh (~100 km)
+
+### 📝 Nhật ký thực tế Ngày 3 (30/08/2026):
+- **Thời gian di chuyển:** Xuất phát từ Cột mốc Km0 Hà Giang lúc **08:00** → Vượt Dốc Bắc Sum, Cổng Trời Quản Bạ, Núi Đôi Cô Tiên, Cán Tỷ → Cập bến thị trấn Yên Minh an toàn lúc **~13:00** (về đích sớm hơn dự kiến, lái xe an toàn, thời tiết thuận lợi).
+- **Lưu trú:** Check-in [Bong Bang Homestay 2](file:///Users/trucanh/Desktop/chicong-trip-plan/info/dat_phong.md#yen-minh) (Yên Minh).
+- **Chi tiêu thực tế Ngày 3 (Tổng cộng: 690.000 VNĐ):**
+  - 🍜 **Ăn sáng:** Bún riêu Bống (TP Hà Giang): **100.000 VNĐ**
+  - 🍚 **Ăn trưa:** Cơm bình dân thịt lợn + rau xào: **150.000 VNĐ**
+  - 🥤 **Dọc đường:** Nước suối & nước giải khát: **100.000 VNĐ**
+  - 🍢 **Ăn tối & Ăn vặt:** Lợn nướng + chim cút nướng (100k) + cá viên (90k) + trái cây (50k): **340.000 VNĐ**
+- **Cập nhật đồng bộ:** [`plans/lich_trinh_chi_tiet.md`](file:///Users/trucanh/Desktop/chicong-trip-plan/plans/lich_trinh_chi_tiet.md) và [`notes/dac_san_am_thuc.md`](file:///Users/trucanh/Desktop/chicong-trip-plan/notes/dac_san_am_thuc.md).
+
+---
+
 ## Cần quyết định tiếp
 - [x] Đặt vé máy bay lượt đi (✅ **Vietjet Air VJ120** - PNR: UJSG2A / R7AH77)
 - [x] Check-in online lượt đi VJ120 (✅ Ghế 37E & 37F, Boarding 04:10 AM)
