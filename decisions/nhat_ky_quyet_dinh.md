@@ -264,11 +264,27 @@
 
 ---
 
+## 31/08/2026 — Bổ sung xác nhận vé xe khách Hà Nội → TP Hà Giang
+
+### Quyết định #25: Chốt vé xe khách giường nằm Hà Nội → TP Hà Giang (Vexere)
+- **Kênh đặt vé:** Vexere
+- **Mã đơn hàng (Booking Code):** **`23BQ04L`**
+- **Thông tin khách:** Hoàng Chí Công — `0969 910 198` | `chicong.1998vn@gmail.com`
+- **Thời gian khởi hành:** Tối 29/08/2026 (~22:30)
+- **Loại xe:** Xe khách giường nằm chất lượng cao đi TP Hà Giang (đến TP HG sáng 30/08)
+- **Tổng chi phí:** **550.000 VNĐ** (Đã thanh toán thành công qua Ví MoMo lúc 11:10 ngày 29/08/2026)
+- **Trạng thái:** ✅ **Paid (Đã thanh toán)**
+- **Tài liệu tham chiếu:** [`info/xe_khach.md`](file:///Users/trucanh/Desktop/chicong-trip-plan/info/xe_khach.md#chặng-1-hà-nội--tp-hà-giang-tối-2908-)
+- **Cập nhật đồng bộ:** [`plans/lich_trinh_chi_tiet.md`](file:///Users/trucanh/Desktop/chicong-trip-plan/plans/lich_trinh_chi_tiet.md), [`info/xe_khach.md`](file:///Users/trucanh/Desktop/chicong-trip-plan/info/xe_khach.md) và [`README.md`](file:///Users/trucanh/Desktop/chicong-trip-plan/README.md).
+
+---
+
 ## Cần quyết định tiếp
 - [x] Đặt vé máy bay lượt đi (✅ **Vietjet Air VJ120** - PNR: UJSG2A / R7AH77)
 - [x] Check-in online lượt đi VJ120 (✅ Ghế 37E & 37F, Boarding 04:10 AM)
 - [x] Chốt 100% Hành lý xách tay lượt đi (Không ký gửi)
 - [x] Đặt vé máy bay lượt về (✅ **Sun PhuQuoc Airways 9G893** 23:30 06/09 HAN-SGN — PNR: `7TGDE6` — Ghế 36J/36K — Có 1PC ký gửi)
+- [x] Đặt xe khách HN → HG (✅ **Vexere Mã `23BQ04L`** - 550.000 VNĐ MoMo)
 - [x] Đặt homestay Yên Minh (Bong Bang homestay 2 - Đã xác nhận đêm 30/08)
 - [x] Đặt homestay Hà Nội (Da Tree Homestay Ba Đình - Đã xác nhận đêm 28/08)
 - [x] Chốt phương án hành lý & đóng gói (1 túi đeo chéo nhỏ máy ảnh + 2 Balo baga trước/sau + chai xăng 1.5L)

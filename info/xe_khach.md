@@ -1,16 +1,17 @@
 # 🚌 Thông Tin Xe Khách
 
-## Chặng 1: Hà Nội → TP Hà Giang (Tối 29/08)
-| Hạng mục | Chi tiết |
-|----------|---------|
-| **Ngày** | 29/08/2026 |
-| **Loại xe** | Giường nằm chất lượng cao |
-| **Giờ xuất phát** | ~22:30-23:00 |
-| **Điểm đón** | Bến xe Mỹ Đình / Điểm đón gần Nội Bài |
-| **Giờ đến** | ~05:30-06:00 sáng 30/08 |
-| **Hãng xe** | ⏳ Chưa đặt |
-| **Giá vé** | ⏳ Chưa xác nhận |
-| **Mã vé** | ⏳ Chưa đặt |
+## Chặng 1: Hà Nội → TP Hà Giang (Tối 29/08) ✅ *(Đã đặt & hoàn thành)*
+| Hạng mục | Chi tiết xác nhận |
+|----------|-------------------|
+| **Ngày khởi hành** | **Tối 29/08/2026** |
+| **Kênh đặt vé** | **Vexere** ✅ |
+| **Mã đơn hàng (Booking Code)** | `23BQ04L` |
+| **Khách đặt / SĐT** | Hoàng Chí Công — `0969 910 198` |
+| **Email nhận vé** | `chicong.1998vn@gmail.com` |
+| **Loại xe** | Xe khách giường nằm đi TP Hà Giang |
+| **Tổng tiền thanh toán** | **550.000 VNĐ** *(Thanh toán thành công qua Ví MoMo)* |
+| **Trạng thái** | ✅ **Đã thanh toán (Paid)** |
+| **Link tra cứu đơn hàng** | [Xem chi tiết vé trên Vexere](https://vexere.com/vi-VN/booking/ticketinfo?code=23BQ04L&phone=0969910198) |
 
 ---
 

@@ -39,7 +39,7 @@
 | Ngày | Thứ | Nội dung tóm tắt | Thời tiết dự báo | Quãng đường (km) | Lưu trú đề xuất |
 |------|------|------------------|-------------------|-------------------|-----------------|
 | **28/08** | T6 | SGN 05:00 → HAN ~07:15 → Nhận xe máy tại Nội Bài → Chạy thẳng Mỹ Đức thăm người thân → Chiều về HN check-in homestay → Tối foodtour phố cổ | ⛅ Mây đan xen, nắng gián đoạn, mưa rào nhẹ (28–33°C) | 🛵 **~145 km** *(xe máy HN)* | [Da Tree Homestay Ba Đình (✅ Đã xác nhận)](../info/dat_phong.md#ha-noi) |
-| **29/08** | T7 | Khám phá HN (Phở Thìn, Hoàng Thành, Ba Đình) → **18:00 Dự Thánh lễ Vọng tại Nhà thờ Lớn** → Trả xe máy HN → 22:30 xe khách đi HG | ⛅ Hửng nắng sáng, chiều tối mưa rào rải rác (27–33°C) | 🛵 **~25 km** *(xe máy HN)*<br>🚌 **~300 km** *(xe khách)* | [Trên xe khách giường nằm](../info/xe_khach.md#chặng-1-hà-nội--tp-hà-giang-tối-2908) |
+| **29/08** | T7 | Khám phá HN (Phở Thìn, Hoàng Thành, Ba Đình) → **18:00 Dự Thánh lễ Vọng tại Nhà thờ Lớn** → Trả xe máy HN → 22:30 xe khách đi HG | ⛅ Hửng nắng sáng, chiều tối mưa rào rải rác (27–33°C) | 🛵 **~25 km** *(xe máy HN)*<br>🚌 **~300 km** *(xe khách)* | [Xe khách giường nằm Vexere 23BQ04L (✅ Đã xác nhận)](../info/xe_khach.md#chặng-1-hà-nội--tp-hà-giang-tối-2908-) |
 | **30/08** | CN | Sáng đến TP HG → Nhận xe Giang Sơn (Wave 110cc + BH) → Cổng Trời Quản Bạ, Núi Đôi → Can Tỷ → Rừng thông Yên Minh | 🌤️ Sương mù đèo sáng sớm, trưa hửng nắng, mưa ngắn (25–33°C) | 🛵 **~100 km** | [Bong Bang Homestay 2 (✅ Đã xác nhận)](../info/dat_phong.md#yen-minh) |
 | **31/08** | T2 | Dốc Thẩm Mã → Dinh Vua Mèo Sà Phìn → Cột cờ Lũng Cú → Làng Lô Lô Chải → Phố cổ Đồng Văn | ⛅ Vùng cao mây rải rác, hửng nắng, đêm trở lạnh (19–26°C) | 🛵 **~95 km** | [ToTo-Chan Hotel Đồng Văn (✅ Đã xác nhận)](../info/dat_phong.md#dong-van) |
 | **01/09** | T3 | Đèo Mã Pí Lèng → Đi thuyền Sông Nho Quế & Hẻm Tu Sản → Làng H'Mông Pả Vi → Mèo Vạc | ☀️ Nắng gián đoạn, gió mát, Nho Quế xanh ngọc đi thuyền đẹp (20–28°C) | 🛵 **~50 km** | [O'Châu Homestay Pả Vi](../notes/goi_y_homestay.md#homestay-pavi) ⚠️ |
@@ -291,7 +291,7 @@
 | Ngày | Đêm lưu trú tại | Loại hình đề xuất | Homestay / Hotel gợi ý hàng đầu |
 |------|-----------------|-------------------|----------------------------------|
 | **28/08** | Hà Nội (1 đêm) | Homestay trung tâm Ba Đình | ✅ **Da Tree Homestay** *(Mã: 6540221126, 348k tiền mặt, [Chi tiết voucher](../info/dat_phong.md#ha-noi))* |
-| **29/08** | Trên xe khách (1 đêm) | Xe khách giường nằm HN → HG | Xe khách giường nằm 22:30 (*đến TP HG 05:30 sáng 30/08*) |
+| **29/08** | Trên xe khách (1 đêm) | Xe khách giường nằm HN → HG | ✅ **Vexere (Mã: `23BQ04L`)** — 550k MoMo (*[Chi tiết vé](../info/xe_khach.md#chặng-1-hà-nội--tp-hà-giang-tối-2908-)*) |
 | **30/08** | Yên Minh (1 đêm) | Homestay đồi thông sân vườn | ✅ **Bong Bang Homestay 2** *(Mã: 6874088766, 400k tiền mặt, [Chi tiết voucher](../info/dat_phong.md#yen-minh))* |
 | **31/08** | Đồng Văn (1 đêm) | Khách sạn trung tâm thị trấn | ✅ **ToTo-Chan Hotel** *(Mã: 6840372362, 446.4k gồm ăn sáng, [Chi tiết voucher](../info/dat_phong.md#dong-van))* |
 | **01/09** | Mèo Vạc (1 đêm 🇻🇳) | Homestay Làng H'Mông Pả Vi | **O'Châu Homestay Pả Vi** *(Đẹp nhất làng Pả Vi, phòng áp mái ấm cúng)* ⚠️ *Nên đặt sớm!* |
