@@ -246,6 +246,22 @@
   - 🍢 **Ăn tối & Ăn vặt:** Lợn nướng + chim cút nướng (100k) + cá viên (90k) + trái cây (50k): **340.000 VNĐ**
 - **Cập nhật đồng bộ:** [`plans/lich_trinh_chi_tiet.md`](file:///Users/trucanh/Desktop/chicong-trip-plan/plans/lich_trinh_chi_tiet.md) và [`notes/dac_san_am_thuc.md`](file:///Users/trucanh/Desktop/chicong-trip-plan/notes/dac_san_am_thuc.md).
 
+## 30/08/2026 — Xác nhận lưu trú đêm 31/08 (ToTo-Chan Hotel — Đồng Văn)
+
+### Quyết định #24: Chốt phòng ToTo-Chan Hotel (Thị trấn Đồng Văn)
+- **Tên chỗ nghỉ:** ToTo-Chan Hotel
+- **Mã xác nhận Booking:** `6840372362` | **Mã PIN:** `5676`
+- **Địa chỉ:** Số 354, Tổ 1, thị trấn Đồng Văn, huyện Đồng Văn, tỉnh Hà Giang
+- **Điện thoại chỗ nghỉ:** `+84 367 753 686`
+- **Email chỗ nghỉ:** `6840372362-kh7u.azkb.6pjc.y85g@property.booking.com`
+- **Thời gian lưu trú:** 1 đêm (Nhận phòng: T2 31/08/2026 13:00 - 00:00 — Trả phòng: T3 01/09/2026 05:00 - 11:00)
+- **Loại phòng:** 1 x Phòng Deluxe Giường Đôi (2 người lớn)
+- **Dịch vụ ăn uống:** Đã bao gồm bữa sáng trong giá cuối cùng.
+- **Tổng chi phí:** **446.400 VNĐ** (Gồm 413.333 VNĐ phòng + 33.067 VNĐ thuế GTGT — Thanh toán tiền mặt tại chỗ nghỉ khi nhận phòng).
+- **Chính sách hủy:** Không hoàn tiền (Phí hủy từ 30/08/2026 là 100%).
+- **Tài liệu tham chiếu:** [`info/dat_phong.md`](file:///Users/trucanh/Desktop/chicong-trip-plan/info/dat_phong.md#dong-van)
+- **Cập nhật đồng bộ:** [`plans/lich_trinh_chi_tiet.md`](file:///Users/trucanh/Desktop/chicong-trip-plan/plans/lich_trinh_chi_tiet.md), [`notes/goi_y_homestay.md`](file:///Users/trucanh/Desktop/chicong-trip-plan/notes/goi_y_homestay.md) và [`README.md`](file:///Users/trucanh/Desktop/chicong-trip-plan/README.md).
+
 ---
 
 ## Cần quyết định tiếp
@@ -261,7 +277,8 @@
 - [x] Chốt Kế hoạch Đánh giá Rủi ro & Phương án Backup
 - [x] Phân loại & Chốt Master Food List Hà Nội ([dac_san_am_thuc.md](file:///Users/trucanh/Desktop/chicong-trip-plan/notes/dac_san_am_thuc.md#food-hn))
 - [x] Cập nhật dự báo thời tiết chi tiết từng ngày (✅ Cập nhật mới nhất 27/08/2026 trong [lich_trinh_chi_tiet.md](file:///Users/trucanh/Desktop/chicong-trip-plan/plans/lich_trinh_chi_tiet.md))
-- [ ] Đặt homestay Đồng Văn (đêm 31/08 - Đang cân nhắc Giang Sơn Hill Hotel giảm 20% / Lo Lo Chai Homestay) & Mèo Vạc (đêm 01/09 - **CẦN ĐẶT SỚM trong tuần này vì Lễ 2/9**)
+- [x] Đặt homestay/khách sạn Đồng Văn (✅ **ToTo-Chan Hotel** - Đã xác nhận đêm 31/08 - 446.4k gồm ăn sáng)
+- [ ] Đặt homestay Mèo Vạc (đêm 01/09 - **CẦN ĐẶT SỚM trong tuần này vì Lễ 2/9**)
 - [ ] Đặt khách sạn TP Cao Bằng (đêm 02/09 - **CẦN ĐẶT SỚM trong tuần này vì Lễ 2/9**) & Thác Bản Giốc (đêm 03/09)
 - [ ] Đặt xe khách CB → Nội Bài (trưa 06/09)
 

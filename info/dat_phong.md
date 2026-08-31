@@ -49,8 +49,26 @@
 
 ---
 
-## ⏳ Đêm 2: 31/08/2026 (Thứ Hai) — Đồng Văn / Làng Lô Lô Chải
-*⏳ Chưa đặt — Đang cân nhắc Lo Lo Chai Homestay (Lũng Cú) hoặc **Giang Sơn Hill Hotel 3⭐** (Đồng Văn - được ưu đãi **giảm 20%** dành cho khách cọc xe Giang Sơn)*
+## <a id="dong-van"></a>📍 Đêm 2: 31/08/2026 (Thứ Hai) — Thị trấn Đồng Văn (Hà Giang)
+
+| Hạng mục | Chi tiết xác nhận |
+|----------|-------------------|
+| **Tên chỗ nghỉ** | **ToTo-Chan Hotel** ✅ *(Đã xác nhận trên Booking.com)* |
+| **Số xác nhận (Booking ID)** | `6840372362` |
+| **Mã PIN (Bảo mật)** | `5676` |
+| **Địa chỉ** | Số 354, Tổ 1, thị trấn Đồng Văn, huyện Đồng Văn, tỉnh Hà Giang, Việt Nam |
+| **Điện thoại chỗ nghỉ** | `+84 367 753 686` |
+| **Email chỗ nghỉ** | `6840372362-kh7u.azkb.6pjc.y85g@property.booking.com` |
+| **Thời gian nhận phòng** | **T2, 31/08/2026** (13:00 - 00:00) |
+| **Thời gian trả phòng** | **T3, 01/09/2026** (05:00 - 11:00) |
+| **Loại phòng** | 1 x Phòng Deluxe Giường Đôi (2 người lớn) |
+| **Tên khách đặt** | Chí Công |
+| **Tổng giá tiền** | **446.400 VNĐ** *(Gồm 413.333 VNĐ phòng + 33.067 VNĐ thuế GTGT)* |
+| **Dịch vụ ăn uống** | **Đã bao gồm bữa sáng** trong giá phòng |
+| **Hình thức thanh toán** | **Thanh toán tiền mặt tại chỗ nghỉ** *(Không chấp nhận thẻ tín dụng)* |
+| **Chính sách hủy phòng** | **Không hoàn tiền** *(Phí hủy từ 30/08/2026 21:59 là 100% - 446.400 VNĐ)* |
+| **Ghi chú quan trọng** | • Thanh toán bằng đồng bản địa (VND) khi nhận phòng.<br>• Chỗ nghỉ không nhận tổ chức tiệc chia tay cuộc đời độc thân hoặc tiệc tương tự. |
+| **Link quản lý Booking** | [Chỉnh sửa / Quản lý đặt phòng](https://secure.booking.com/confirmation.vi.html?bn=6840372362&pbsource=conf_email_modify&pbtrack=email_mainCTA&source=conf_email) |
 
 ---
 

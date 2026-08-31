@@ -33,10 +33,12 @@
 
 ## <a id="homestay-dongvan"></a>📍 3. Đồng Văn / Làng Lô Lô Chải (1 đêm: 31/08)
 
-> **Khu vực:** Ưu tiên Làng Lô Lô Chải (chân Cột cờ Lũng Cú - thơ mộng) hoặc Phố Cổ Đồng Văn.
+> **Khu vực:** Thị trấn Đồng Văn (tiện dạo Phố Cổ & ăn uống tối) hoặc Làng Lô Lô Chải.  
+> ✅ **ĐÃ XÁC NHẬN ĐẶT PHÒNG:** [ToTo-Chan Hotel](../info/dat_phong.md#dong-van) *(Mã Booking: `6840372362`, PIN: `5676`, Giá: 446.400 VNĐ, Đã gồm ăn sáng, Tiền mặt)*
 
-| Tên Homestay / Khách sạn | Khu vực | Giá tham khảo | Điểm nổi bật & Lý do chọn |
+| Tên Homestay / Khách sạn | Khu vực | Giá tham khảo | Điểm nổi bật & Trạng thái |
 |--------------------------|---------|---------------|---------------------------|
+| **ToTo-Chan Hotel** ✅ *(ĐÃ ĐẶT)* | 354 Tổ 1, TT Đồng Văn | 446.4k/đêm | Phòng Deluxe Giường Đôi, vị trí trung tâm tiện dạo phố cổ, **đã bao gồm bữa sáng**, thanh toán tiền mặt khi check-in. |
 | **Lo Lo Chai Homestay** ⭐ *(TOP 1 Lũng Cú)* | Làng Lô Lô Chải | 600k - 900k/đêm | Nhà trình tường đá 100 năm cổ kính, ngay sát Cà phê Cực Bắc, không gian cổ tích thần tiên đêm vùng cao. |
 | **Giang Sơn Hill Hotel 3⭐** 🎁 *(Ưu đãi cọc xe)* | Phố Cổ Đồng Văn | Giá giảm 20% cho khách thuê xe | Khách sạn 3⭐ mới xây ở trung tâm Đồng Văn. **Đặc quyền giảm 20% giá phòng dành riêng cho khách thuê xe Giang Sơn**. |
 | **Lô Lô Homestay / Cực Bắc Homestay** | Làng Lô Lô Chải | 500k - 800k/đêm | Phòng đôi ấm áp, trải nghiệm đời sống văn hóa người Lô Lô Đen. |

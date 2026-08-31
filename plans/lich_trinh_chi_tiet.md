@@ -41,7 +41,7 @@
 | **28/08** | T6 | SGN 05:00 → HAN ~07:15 → Nhận xe máy tại Nội Bài → Chạy thẳng Mỹ Đức thăm người thân → Chiều về HN check-in homestay → Tối foodtour phố cổ | ⛅ Mây đan xen, nắng gián đoạn, mưa rào nhẹ (28–33°C) | 🛵 **~145 km** *(xe máy HN)* | [Da Tree Homestay Ba Đình (✅ Đã xác nhận)](../info/dat_phong.md#ha-noi) |
 | **29/08** | T7 | Khám phá HN (Phở Thìn, Hoàng Thành, Ba Đình) → **18:00 Dự Thánh lễ Vọng tại Nhà thờ Lớn** → Trả xe máy HN → 22:30 xe khách đi HG | ⛅ Hửng nắng sáng, chiều tối mưa rào rải rác (27–33°C) | 🛵 **~25 km** *(xe máy HN)*<br>🚌 **~300 km** *(xe khách)* | [Trên xe khách giường nằm](../info/xe_khach.md#chặng-1-hà-nội--tp-hà-giang-tối-2908) |
 | **30/08** | CN | Sáng đến TP HG → Nhận xe Giang Sơn (Wave 110cc + BH) → Cổng Trời Quản Bạ, Núi Đôi → Can Tỷ → Rừng thông Yên Minh | 🌤️ Sương mù đèo sáng sớm, trưa hửng nắng, mưa ngắn (25–33°C) | 🛵 **~100 km** | [Bong Bang Homestay 2 (✅ Đã xác nhận)](../info/dat_phong.md#yen-minh) |
-| **31/08** | T2 | Dốc Thẩm Mã → Dinh Vua Mèo Sà Phìn → Cột cờ Lũng Cú → Làng Lô Lô Chải → Phố cổ Đồng Văn | ⛅ Vùng cao mây rải rác, hửng nắng, đêm trở lạnh (19–26°C) | 🛵 **~95 km** | [Lo Lo Chai Homestay Lũng Cú](../notes/goi_y_homestay.md#homestay-dongvan) |
+| **31/08** | T2 | Dốc Thẩm Mã → Dinh Vua Mèo Sà Phìn → Cột cờ Lũng Cú → Làng Lô Lô Chải → Phố cổ Đồng Văn | ⛅ Vùng cao mây rải rác, hửng nắng, đêm trở lạnh (19–26°C) | 🛵 **~95 km** | [ToTo-Chan Hotel Đồng Văn (✅ Đã xác nhận)](../info/dat_phong.md#dong-van) |
 | **01/09** | T3 | Đèo Mã Pí Lèng → Đi thuyền Sông Nho Quế & Hẻm Tu Sản → Làng H'Mông Pả Vi → Mèo Vạc | ☀️ Nắng gián đoạn, gió mát, Nho Quế xanh ngọc đi thuyền đẹp (20–28°C) | 🛵 **~50 km** | [O'Châu Homestay Pả Vi](../notes/goi_y_homestay.md#homestay-pavi) ⚠️ |
 | **02/09** | T4 🇻🇳 | Mèo Vạc → Bảo Lâm → Bảo Lạc → Chạy QL34 thong thả ngắm sông Gâm → TP Cao Bằng | ⛅ Trời mát, mưa rào nhẹ vài nơi ven sông Gâm / QL34 (22–30°C) | 🛵 **~185 km** *(chặng êm êm)* | [Mường Thanh 4⭐ / Max Hotel 3⭐](../notes/goi_y_homestay.md#homestay-caobang) |
 | **03/09** | T5 | Hồ Thang Hen & Núi Mắt Thần (Tuyệt Tình Cốc) → Đèo Mã Phục → Làng đá Khuổi Ky / Thác Bản Giốc | 🌤️ Sáng hửng nắng đẹp Núi Mắt Thần, chiều mát mẻ (20–29°C) | 🛵 **~95 km** | [Yến Nhi Homestay Bản Giốc](../notes/goi_y_homestay.md#homestay-bangioc) |
@@ -129,7 +129,7 @@
 
 > ⛅ **Dự báo thời tiết:** Vùng cao núi đá nhiều mây, giảm mưa nhẹ, hửng nắng ngắt quãng, đêm trở lạnh | 🌡️ **Nhiệt độ:** 19°C – 26°C (đêm Lũng Cú / Đồng Văn ~18°C)  
 > 🛵 **Quãng đường di chuyển dự kiến:** ~95 km (Yên Minh → Thẩm Mã → Sà Phìn ~40km → Cột cờ Lũng Cú ~26km → Đồng Văn ~29km) — *Cập bến Đồng Văn trước 16:30!*  
-> 🔗 **Gợi ý liên quan:** 🏨 [Lo Lo Chai Homestay](../notes/goi_y_homestay.md#homestay-dongvan) | 🍜 [Thắng cố Tiến Lộc](../notes/dac_san_am_thuc.md#food-hagiang) | 📸 [Góc chụp Dốc Thẩm Mã](../notes/goc_chup_anh.md#photo-hagiang)
+> 🔗 **Gợi ý liên quan:** 🏨 [ToTo-Chan Hotel Đồng Văn](../info/dat_phong.md#dong-van) | 🍜 [Thắng cố Tiến Lộc](../notes/dac_san_am_thuc.md#food-hagiang) | 📸 [Góc chụp Dốc Thẩm Mã](../notes/goc_chup_anh.md#photo-hagiang)
 
 | Thời gian | Hoạt động | Ghi chú |
 |-----------|-----------|---------|
@@ -139,7 +139,7 @@
 | 12:00 - 13:00 | Ăn trưa tại Sà Phìn | |
 | 13:00 - 15:30 | Cột cờ Lũng Cú → Làng Lô Lô Chải (Cà phê Cực Bắc) | 📸 Cực Bắc, nhà trình tường |
 | 15:30 - 16:30 | Chạy xe từ Lô Lô Chải về Phố Cổ Đồng Văn (~25km) | Về phố cổ trước 16:30 |
-| 16:30 - 18:30 | Check-in Homestay Đồng Văn, dạo chơi không gian phố cổ | 🌅 An toàn tuyệt đối trước 17:00 |
+| 16:30 - 18:30 | Check-in ToTo-Chan Hotel (354 Tổ 1 Đồng Văn), dạo chơi không gian phố cổ | 🌅 An toàn tuyệt đối trước 17:00 |
 | 18:30 - 22:00 | Ăn tối thắng cố Tiến Lộc, lẩu dê, bánh tam giác mạch | Đèn lồng phố cổ đêm |
 
 ---
@@ -293,7 +293,7 @@
 | **28/08** | Hà Nội (1 đêm) | Homestay trung tâm Ba Đình | ✅ **Da Tree Homestay** *(Mã: 6540221126, 348k tiền mặt, [Chi tiết voucher](../info/dat_phong.md#ha-noi))* |
 | **29/08** | Trên xe khách (1 đêm) | Xe khách giường nằm HN → HG | Xe khách giường nằm 22:30 (*đến TP HG 05:30 sáng 30/08*) |
 | **30/08** | Yên Minh (1 đêm) | Homestay đồi thông sân vườn | ✅ **Bong Bang Homestay 2** *(Mã: 6874088766, 400k tiền mặt, [Chi tiết voucher](../info/dat_phong.md#yen-minh))* |
-| **31/08** | Đồng Văn (1 đêm) | Homestay Làng cổ Lô Lô Chải | **Lo Lo Chai Homestay** *(Nhà trình tường 100 năm dưới chân Cột cờ Lũng Cú)* |
+| **31/08** | Đồng Văn (1 đêm) | Khách sạn trung tâm thị trấn | ✅ **ToTo-Chan Hotel** *(Mã: 6840372362, 446.4k gồm ăn sáng, [Chi tiết voucher](../info/dat_phong.md#dong-van))* |
 | **01/09** | Mèo Vạc (1 đêm 🇻🇳) | Homestay Làng H'Mông Pả Vi | **O'Châu Homestay Pả Vi** *(Đẹp nhất làng Pả Vi, phòng áp mái ấm cúng)* ⚠️ *Nên đặt sớm!* |
 | **02/09** | TP Cao Bằng (1 đêm 🇻🇳) | Khách sạn trung tâm TP | **Mường Thanh Luxury 4⭐** hoặc **Max Hotel 3⭐** *(Ngay phố ẩm thực)* |
 | **03/09** | Thác Bản Giốc (1 đêm) | Homestay Làng cổ đá Khuổi Ky | **Yến Nhi Homestay Bản Giốc** *(Nằm trong làng đá cổ 400 năm, ven sông Quay Sơn)* |
@@ -347,7 +347,7 @@
 - **Kịch bản xử lý:**
   - Đêm 28/08 (Hà Nội): Đã xác nhận **Da Tree Homestay Ba Đình** (Mã: `6540221126`).
   - Đêm 30/08 (Yên Minh): Đã xác nhận **Bong Bang Homestay 2** (Mã: `6874088766`).
-  - Đêm 31/08 (Đồng Văn): Ưu tiên chốt **Giang Sơn Hill Hotel 3⭐** (giảm 20%) hoặc **Lo Lo Chai Homestay**.
+  - Đêm 31/08 (Đồng Văn): Đã xác nhận **ToTo-Chan Hotel Đồng Văn** (Mã: `6840372362`).
   - Đêm 01/09 (Mèo Vạc - Lễ): Ưu tiên cọc sớm **O'Châu Homestay Pả Vi**.
   - Đêm 02/09 (TP Cao Bằng - Lễ): Ưu tiên cọc sớm **Mường Thanh Luxury 4⭐** hoặc **Max Hotel 3⭐**.
 

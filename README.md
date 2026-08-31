@@ -53,7 +53,7 @@ chicong-trip-plan/
 | **Thuê xe máy Giang Sơn** | ✅ **Đã đặt cọc** | Honda Wave 110cc có BH cứu hộ (Đã cọc 100k ngày 15/08; free phòng nghỉ/tắm rửa + ưu đãi 20% Giang Sơn Hill Hotel) |
 | **Homestay Hà Nội** | ✅ Đã xác nhận | Da Tree Homestay Ba Đình (Mã: 6540221126) - 348k (Tiền mặt) |
 | **Homestay Yên Minh** | ✅ Đã xác nhận | Bong Bang Homestay 2 (Mã: 6874088766) - 400k (Tiền mặt) |
-| **Homestay Đồng Văn** | ⏳ Chưa đặt | Đêm 31/08 (Đang cân nhắc Giang Sơn Hill Hotel giảm 20% / Lo Lo Chai) |
+| **Homestay Đồng Văn** | ✅ Đã xác nhận | ToTo-Chan Hotel (Mã: 6840372362) - 446.4k (Tiền mặt, gồm ăn sáng) |
 | **Homestay Mèo Vạc** | ⏳ Chưa đặt | Đêm 01/09 (Cần chốt cọc sớm đợt Lễ 2/9) |
 | **KS Cao Bằng** | ⏳ Chưa đặt | 4 đêm (02, 03, 04, 05/09 - Đêm 02/09 cần chốt cọc sớm) |
 | **Food list Hà Nội** | ✅ Đã tổng hợp | Đã lưu & phân loại trong [dac_san_am_thuc.md](file:///Users/trucanh/Desktop/chicong-trip-plan/notes/dac_san_am_thuc.md#food-hn) |
@@ -71,7 +71,7 @@ chicong-trip-plan/
 5. [x] Liên hệ Giang Sơn đặt xe Wave 110cc + BH (✅ **Đã cọc 100.000 VNĐ** ngày 15/08/2026, nhận TP HG - trả TP Cao Bằng)
 6. [ ] Đặt xe khách CB→Nội Bài (trưa 06/09)
 7. [x] Đặt Homestay Hà Nội (✅ Da Tree Homestay Ba Đình - Đêm 28/08)
-8. [ ] Đặt homestay Hà Giang loop (✅ Đã chốt Yên Minh 30/08; cân nhắc Giang Sơn Hill Hotel giảm 20% / Lo Lo Chai Đồng Văn 31/08, Mèo Vạc 01/09) — **CẦN ĐẶT SỚM MÈO VẠC TRONG TUẦN NÀY vì Lễ 2/9**
+8. [ ] Đặt homestay Hà Giang loop (✅ Đã chốt Yên Minh 30/08 & Đồng Văn 31/08; cần đặt Mèo Vạc 01/09) — **CẦN ĐẶT SỚM MÈO VẠC TRONG TUẦN NÀY vì Lễ 2/9**
 9. [ ] Đặt KS/Homestay Cao Bằng (TP Cao Bằng & khu vực Bản Giốc) — **CẦN ĐẶT SỚM TP CAO BẰNG ĐÊM 02/09 vì Lễ 2/9**
 10. [x] Hoàn thiện food list Hà Nội & tổng hợp theo món ăn ([dac_san_am_thuc.md](file:///Users/trucanh/Desktop/chicong-trip-plan/notes/dac_san_am_thuc.md#food-hn))
 11. [x] Chuẩn bị packing checklist, phương án chằng xe máy & sạc Type-C Anker 65W
