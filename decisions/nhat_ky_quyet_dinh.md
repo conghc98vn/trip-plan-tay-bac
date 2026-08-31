@@ -266,15 +266,18 @@
 
 ## 31/08/2026 — Bổ sung xác nhận vé xe khách Hà Nội → TP Hà Giang
 
-### Quyết định #25: Chốt vé xe khách giường nằm Hà Nội → TP Hà Giang (Vexere)
-- **Kênh đặt vé:** Vexere
-- **Mã đơn hàng (Booking Code):** **`23BQ04L`**
+### Quyết định #25: Chốt vé xe khách Limousine giường phòng Hà Nội → TP Hà Giang (Quang Tuyến)
+- **Hãng xe / Nhà xe:** **Quang Tuyến (Hà Giang)** ✅
+- **Loại xe:** **Limousine giường phòng 24 chỗ** (Cabin VIP)
+- **Mã vé:** **`RN34WQ`** | **Mã đơn hàng Vexere:** `23BQ04L`
 - **Thông tin khách:** Hoàng Chí Công — `0969 910 198` | `chicong.1998vn@gmail.com`
-- **Thời gian khởi hành:** Tối 29/08/2026 (~22:30)
-- **Loại xe:** Xe khách giường nằm chất lượng cao đi TP Hà Giang (đến TP HG sáng 30/08)
+- **Thời gian khởi hành:** **23:05 • Thứ Bảy, 29/08/2026**
+- **Điểm đón tại Hà Nội:** 55 Nguyễn Hoàng, Phường Mỹ Đình 2, Nam Từ Liêm, Hà Nội
+- **Thời gian đến dự kiến:** 05:45 • Chủ Nhật, 30/08/2026
+- **Điểm trả tại TP Hà Giang:** Trả tận nơi tại **Giang Sơn HomeStay** (tiện nhận xe máy & phòng tắm rửa nghỉ ngơi)
 - **Tổng chi phí:** **550.000 VNĐ** (Đã thanh toán thành công qua Ví MoMo lúc 11:10 ngày 29/08/2026)
-- **Trạng thái:** ✅ **Paid (Đã thanh toán)**
-- **Tài liệu tham chiếu:** [`info/xe_khach.md`](file:///Users/trucanh/Desktop/chicong-trip-plan/info/xe_khach.md#chặng-1-hà-nội--tp-hà-giang-tối-2908-)
+- **Trạng thái:** ✅ **Đã xác nhận & Thanh toán (Paid)**
+- **Tài liệu tham chiếu:** [`info/xe_khach.md`](file:///Users/trucanh/Desktop/chicong-trip-plan/info/xe_khach.md#chặng-1-hà-nội--tp-hà-giang-tối-2908-), [`attachments/ve_xe_khach_ha_noi_di_ha_giang/Screenshot 2026-08-31 at 15.55.41.png`](file:///Users/trucanh/Desktop/chicong-trip-plan/attachments/ve_xe_khach_ha_noi_di_ha_giang/Screenshot%202026-08-31%20at%2015.55.41.png)
 - **Cập nhật đồng bộ:** [`plans/lich_trinh_chi_tiet.md`](file:///Users/trucanh/Desktop/chicong-trip-plan/plans/lich_trinh_chi_tiet.md), [`info/xe_khach.md`](file:///Users/trucanh/Desktop/chicong-trip-plan/info/xe_khach.md) và [`README.md`](file:///Users/trucanh/Desktop/chicong-trip-plan/README.md).
 
 ---

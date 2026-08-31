@@ -47,7 +47,7 @@ chicong-trip-plan/
 | **Master Food List** | ✅ Đã tổng hợp | Trong [dac_san_am_thuc.md](file:///Users/trucanh/Desktop/chicong-trip-plan/notes/dac_san_am_thuc.md) |
 | **Vé máy bay đi** | ✅ **Đã check-in online** | **Vietjet Air VJ120** (28/08 05:00 SGN→07:10 HAN - 100% xách tay - PNR: `UJSG2A`/`R7AH77` - Ghế **37E** & **37F**, Boarding 04:10 AM - Đã thêm 1 suất ăn nóng `C.ThaiWBisc`) |
 | **Vé máy bay về** | ✅ **Đã đặt & chọn chỗ** | **Sun PhuQuoc Airways 9G893** (06/09 23:30 HAN T1→01:40 SGN T3 - PNR: **`7TGDE6`** - Ghế **36J** & **36K** - Đã gồm **1PC hành lý ký gửi/người**) |
-| **Xe khách HN→HG** | ✅ Đã đặt | Vexere (Mã: `23BQ04L`) - 550k (Đã thanh toán MoMo ngày 29/08) |
+| **Xe khách HN→HG** | ✅ Đã đặt | **Quang Tuyến Limousine** 24 phòng (Mã vé: `RN34WQ` / Vexere: `23BQ04L`) - 550k (Đón 55 Nguyễn Hoàng 23:05, Trả tận nơi Giang Sơn Homestay 05:45) |
 | **Xe khách CB→Nội Bài** | ⏳ Chưa đặt | 06/09 12:30-13:00 (Trừ hao dư thời gian bay) |
 | **Thuê xe HN** | ✅ Đã đặt | MOTOGO (Mã #39337) - Sirius 110cc (310k/2 ngày gồm 50k phụ phí trả trái điểm, nhận Nội Bài, trả 1081 Hồng Hà, baga sau) |
 | **Thuê xe máy Giang Sơn** | ✅ **Đã đặt cọc** | Honda Wave 110cc có BH cứu hộ (Đã cọc 100k ngày 15/08; free phòng nghỉ/tắm rửa + ưu đãi 20% Giang Sơn Hill Hotel) |
@@ -67,7 +67,7 @@ chicong-trip-plan/
 1. [x] Đặt vé máy bay lượt đi (✅ **Vietjet Air VJ120** 05:00 - 07:10 ngày 28/08 — 100% xách tay, không ký gửi)
 2. [x] Check-in online lượt đi VJ120 (✅ Ghế 37E & 37F, Boarding 04:10 AM)
 3. [x] Đặt vé máy bay lượt về (✅ **Sun PhuQuoc Airways 9G893** 23:30 HAN→01:40 SGN — Ghế **36J & 36K** — Có **1PC hành lý ký gửi**)
-4. [x] Đặt xe khách HN→HG (✅ **Vexere Mã `23BQ04L`** - Tối 29/08 - 550.000 VNĐ)
+4. [x] Đặt xe khách HN→HG (✅ **Quang Tuyến Limousine Mã `RN34WQ`** - 23:05 Tối 29/08 - 550.000 VNĐ)
 5. [x] Liên hệ Giang Sơn đặt xe Wave 110cc + BH (✅ **Đã cọc 100.000 VNĐ** ngày 15/08/2026, nhận TP HG - trả TP Cao Bằng)
 6. [ ] Đặt xe khách CB→Nội Bài (trưa 06/09)
 7. [x] Đặt Homestay Hà Nội (✅ Da Tree Homestay Ba Đình - Đêm 28/08)

@@ -96,8 +96,8 @@
 | 17:00 - 17:45 | Di chuyển về khu Nhà thờ Lớn (40 Nhà Chung), gửi xe máy, ổn định chỗ ngồi | ⛪ Đến sớm 15-20p vì lễ chiều T7 rất đông |
 | 18:00 - 18:50 | **Tham dự Thánh lễ Vọng Chúa Nhật tại Nhà thờ Lớn Hà Nội** | ⛪ Đáp ứng Luật Thánh lễ buộc hàng tuần |
 | 18:50 - 20:30 | Ăn tối / gặp bạn bè Phố Cổ quanh Nhà thờ (Nem nướng Ấu Triệu / Bún chả / Phở Bố Trọng) | 😋 Foodtour phố cổ ngay cạnh Nhà thờ |
-| 20:30 - 21:30 | Trả xe máy HN tại 1081 Hồng Hà. Grab ra bến xe Mỹ Đình | [Thông tin trả xe máy](../info/thue_xe_may.md#1-xe-máy-tại-hà-nội-28-2908) |
-| 22:30 | Lên xe khách giường nằm đi TP Hà Giang | [Chi tiết chuyến xe khách](../info/xe_khach.md#chặng-1-hà-nội--tp-hà-giang-tối-2908) |
+| 20:30 - 21:30 | Trả xe máy HN tại 1081 Hồng Hà. Grab ra điểm đón 55 Nguyễn Hoàng (Mỹ Đình) | [Thông tin trả xe máy](../info/thue_xe_may.md#1-xe-máy-tại-hà-nội-28-2908) |
+| 23:05 | Lên xe **Limousine giường phòng Quang Tuyến** (Mã vé: `RN34WQ`) đi TP Hà Giang | [Chi tiết vé Quang Tuyến](../info/xe_khach.md#chặng-1-hà-nội--tp-hà-giang-tối-2908-) |
 
 ---
 
@@ -117,6 +117,7 @@
 
 | Thời gian | Hoạt động | Ghi chú |
 |-----------|-----------|---------|
+| 05:45 - 07:00 | Xe Quang Tuyến trả thẳng tận cửa Giang Sơn Homestay. Nghỉ ngơi, rửa mặt, tắm rửa miễn phí | Tiện ích free của Giang Sơn |
 | 07:00 - 08:00 | Nhận xe Wave 110cc Giang Sơn, ăn sáng bún riêu Bống (100k) | Check-in Cột mốc Km0 |
 | 08:00 - 13:00 | Chạy xe TP Hà Giang → Dốc Bắc Sum → Cổng Trời Quản Bạ → Can Tỷ → Rừng thông Yên Minh | Hoàn thành 100km đèo núi |
 | 13:00 | Đến Yên Minh, ăn trưa cơm bình dân (150k), check-in Bong Bang Homestay 2 nghỉ ngơi | Về đích an toàn lúc 13h |
@@ -291,7 +292,7 @@
 | Ngày | Đêm lưu trú tại | Loại hình đề xuất | Homestay / Hotel gợi ý hàng đầu |
 |------|-----------------|-------------------|----------------------------------|
 | **28/08** | Hà Nội (1 đêm) | Homestay trung tâm Ba Đình | ✅ **Da Tree Homestay** *(Mã: 6540221126, 348k tiền mặt, [Chi tiết voucher](../info/dat_phong.md#ha-noi))* |
-| **29/08** | Trên xe khách (1 đêm) | Xe khách giường nằm HN → HG | ✅ **Vexere (Mã: `23BQ04L`)** — 550k MoMo (*[Chi tiết vé](../info/xe_khach.md#chặng-1-hà-nội--tp-hà-giang-tối-2908-)*) |
+| **29/08** | Trên xe khách (1 đêm) | Limousine VIP HN → HG | ✅ **Quang Tuyến Limousine (Mã: `RN34WQ`)** — 550k (*[Chi tiết vé](../info/xe_khach.md#chặng-1-hà-nội--tp-hà-giang-tối-2908-)*) |
 | **30/08** | Yên Minh (1 đêm) | Homestay đồi thông sân vườn | ✅ **Bong Bang Homestay 2** *(Mã: 6874088766, 400k tiền mặt, [Chi tiết voucher](../info/dat_phong.md#yen-minh))* |
 | **31/08** | Đồng Văn (1 đêm) | Khách sạn trung tâm thị trấn | ✅ **ToTo-Chan Hotel** *(Mã: 6840372362, 446.4k gồm ăn sáng, [Chi tiết voucher](../info/dat_phong.md#dong-van))* |
 | **01/09** | Mèo Vạc (1 đêm 🇻🇳) | Homestay Làng H'Mông Pả Vi | **O'Châu Homestay Pả Vi** *(Đẹp nhất làng Pả Vi, phòng áp mái ấm cúng)* ⚠️ *Nên đặt sớm!* |
