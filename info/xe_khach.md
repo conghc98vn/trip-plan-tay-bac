@@ -15,7 +15,7 @@
 | **Email nhận vé** | `chicong.1998vn@gmail.com` |
 | **Tổng tiền thanh toán** | **550.000 VNĐ** *(Thanh toán qua Ví MoMo)* |
 | **Trạng thái** | ✅ **Đã xác nhận & Thanh toán (Paid)** |
-| **Ảnh vé gốc** | [`attachments/ve_xe_khach_ha_noi_di_ha_giang/Screenshot 2026-08-31 at 15.55.41.png`](../attachments/ve_xe_khach_ha_noi_di_ha_giang/Screenshot%202026-08-31%20at%2015.55.41.png) |
+| **Ảnh vé gốc** | [`attachments/ve_xe_khach_ha_noi_di_ha_giang/xac_nhan_ve_quang_tuyen_hn_hg.png`](../attachments/ve_xe_khach_ha_noi_di_ha_giang/xac_nhan_ve_quang_tuyen_hn_hg.png) |
 | **Link tra cứu đơn hàng** | [Xem chi tiết vé trên Vexere](https://vexere.com/vi-VN/booking/ticketinfo?code=23BQ04L&phone=0969910198) |
 
 ---

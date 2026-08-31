@@ -277,7 +277,7 @@
 - **Điểm trả tại TP Hà Giang:** Trả tận nơi tại **Giang Sơn HomeStay** (tiện nhận xe máy & phòng tắm rửa nghỉ ngơi)
 - **Tổng chi phí:** **550.000 VNĐ** (Đã thanh toán thành công qua Ví MoMo lúc 11:10 ngày 29/08/2026)
 - **Trạng thái:** ✅ **Đã xác nhận & Thanh toán (Paid)**
-- **Tài liệu tham chiếu:** [`info/xe_khach.md`](file:///Users/trucanh/Desktop/chicong-trip-plan/info/xe_khach.md#chặng-1-hà-nội--tp-hà-giang-tối-2908-), [`attachments/ve_xe_khach_ha_noi_di_ha_giang/Screenshot 2026-08-31 at 15.55.41.png`](file:///Users/trucanh/Desktop/chicong-trip-plan/attachments/ve_xe_khach_ha_noi_di_ha_giang/Screenshot%202026-08-31%20at%2015.55.41.png)
+- **Tài liệu tham chiếu:** [`info/xe_khach.md`](file:///Users/trucanh/Desktop/chicong-trip-plan/info/xe_khach.md#chặng-1-hà-nội--tp-hà-giang-tối-2908-), [`attachments/ve_xe_khach_ha_noi_di_ha_giang/xac_nhan_ve_quang_tuyen_hn_hg.png`](file:///Users/trucanh/Desktop/chicong-trip-plan/attachments/ve_xe_khach_ha_noi_di_ha_giang/xac_nhan_ve_quang_tuyen_hn_hg.png)
 - **Cập nhật đồng bộ:** [`plans/lich_trinh_chi_tiet.md`](file:///Users/trucanh/Desktop/chicong-trip-plan/plans/lich_trinh_chi_tiet.md), [`info/xe_khach.md`](file:///Users/trucanh/Desktop/chicong-trip-plan/info/xe_khach.md) và [`README.md`](file:///Users/trucanh/Desktop/chicong-trip-plan/README.md).
 
 ---
