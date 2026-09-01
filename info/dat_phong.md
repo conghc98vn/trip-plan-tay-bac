@@ -114,7 +114,7 @@
 | **Yêu cầu đặc biệt** | Dự kiến giờ đến (ETA): khoảng 12:00 - 13:00 |
 | **Tiện ích & Đỗ xe** | Wi-Fi miễn phí, bãi đỗ xe riêng miễn phí tại chỗ (không cần đặt trước), có thang máy, điều hòa, TV |
 | **Tài liệu đính kèm** | [`attachments/booking/xac_nhan_booking_cao_bang_minh_hoang.pdf`](../attachments/booking/xac_nhan_booking_cao_bang_minh_hoang.pdf) |
-| **Link quản lý Booking** | [Chỉnh sửa / Quản lý đặt phòng](https://your.booking.com) |
+| **Link quản lý Booking** | [Chỉnh sửa / Quản lý đặt phòng](https://secure.booking.com/confirmation.vi.html?bn=6307802042&pincode=9687) |
 
 ---
 
