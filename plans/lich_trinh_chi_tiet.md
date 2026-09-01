@@ -42,8 +42,8 @@
 | **29/08** | T7 | Khám phá HN (Phở Thìn, Hoàng Thành, Ba Đình) → **18:00 Dự Thánh lễ Vọng tại Nhà thờ Lớn** → Trả xe máy HN → 22:30 xe khách đi HG | ⛅ Hửng nắng sáng, chiều tối mưa rào rải rác (27–33°C) | 🛵 **~25 km** *(xe máy HN)*<br>🚌 **~300 km** *(xe khách)* | [Xe khách giường nằm Vexere 23BQ04L (✅ Đã xác nhận)](../info/xe_khach.md#chặng-1-hà-nội--tp-hà-giang-tối-2908-) |
 | **30/08** | CN | Sáng đến TP HG → Nhận xe Giang Sơn (Wave 110cc + BH) → Cổng Trời Quản Bạ, Núi Đôi → Can Tỷ → Rừng thông Yên Minh | 🌤️ Sương mù đèo sáng sớm, trưa hửng nắng, mưa ngắn (25–33°C) | 🛵 **~100 km** | [Bong Bang Homestay 2 (✅ Đã xác nhận)](../info/dat_phong.md#yen-minh) |
 | **31/08** | T2 | Dốc Thẩm Mã → Dinh Vua Mèo Sà Phìn → Cột cờ Lũng Cú → Làng Lô Lô Chải → Phố cổ Đồng Văn | ⛅ Vùng cao mây rải rác, hửng nắng, đêm trở lạnh (19–26°C) | 🛵 **~95 km** | [ToTo-Chan Hotel Đồng Văn (✅ Đã xác nhận)](../info/dat_phong.md#dong-van) |
-| **01/09** | T3 | Đèo Mã Pí Lèng → Đi thuyền Sông Nho Quế & Hẻm Tu Sản → Làng H'Mông Pả Vi → Mèo Vạc | ☀️ Nắng gián đoạn, gió mát, Nho Quế xanh ngọc đi thuyền đẹp (20–28°C) | 🛵 **~50 km** | [O'Châu Homestay Pả Vi](../notes/goi_y_homestay.md#homestay-pavi) ⚠️ |
-| **02/09** | T4 🇻🇳 | Mèo Vạc → Bảo Lâm → Bảo Lạc → Chạy QL34 thong thả ngắm sông Gâm → TP Cao Bằng | ⛅ Trời mát, mưa rào nhẹ vài nơi ven sông Gâm / QL34 (22–30°C) | 🛵 **~185 km** *(chặng êm êm)* | [Mường Thanh 4⭐ / Max Hotel 3⭐](../notes/goi_y_homestay.md#homestay-caobang) |
+| **01/09** | T3 | Đèo Mã Pí Lèng → Đi thuyền Sông Nho Quế & Hẻm Tu Sản → Làng H'Mông Pả Vi → Mèo Vạc | ☀️ Nắng gián đoạn, gió mát, Nho Quế xanh ngọc đi thuyền đẹp (20–28°C) | 🛵 **~50 km** | [Phương Anh Hotel Mèo Vạc (✅ Đã xác nhận)](../info/dat_phong.md#meo-vac) |
+| **02/09** | T4 🇻🇳 | Mèo Vạc → Bảo Lâm → Bảo Lạc → Chạy QL34 thong thả ngắm sông Gâm → TP Cao Bằng | ⛅ Trời mát, mưa rào nhẹ vài nơi ven sông Gâm / QL34 (22–30°C) | 🛵 **~185 km** *(chặng êm êm)* | [Minh Hoang Hotel & Homestay (✅ Đã xác nhận)](../info/dat_phong.md#cao-bang-1) |
 | **03/09** | T5 | Hồ Thang Hen & Núi Mắt Thần (Tuyệt Tình Cốc) → Đèo Mã Phục → Làng đá Khuổi Ky / Thác Bản Giốc | 🌤️ Sáng hửng nắng đẹp Núi Mắt Thần, chiều mát mẻ (20–29°C) | 🛵 **~95 km** | [Yến Nhi Homestay Bản Giốc](../notes/goi_y_homestay.md#homestay-bangioc) |
 | **04/09** | T6 | Thác Bản Giốc + Thiền Viện Trúc Lâm + Động Ngườm Ngao → Về lại TP Cao Bằng | ☀️ Nắng sáng lung linh Thác Bản Giốc, động Ngườm Ngao 18°C (22–30°C) | 🛵 **~90 km** | [Max Hotel / Mường Thanh CB](../notes/goi_y_homestay.md#homestay-caobang) |
 | **05/09** | T7 | Khám phá Pác Bó & Suối Lê-Nin → Chiều về TP CB mua quà đặc sản & foodtour phở vịt quay | ☀️ Nắng thu xanh mát, Suối Lê-Nin xanh ngọc bích (21–31°C) | 🛵 **~100 km** *(đường phẳng đẹp)* | [Max Hotel / Mường Thanh CB](../notes/goi_y_homestay.md#homestay-caobang) |
@@ -64,6 +64,20 @@
 > ⛅ **Dự báo thời tiết:** Nhiều mây đan xen, nắng gián đoạn, có lúc có mưa rào và dông rải rác | 🌡️ **Nhiệt độ:** 26°C – 34°C  
 > 🛵 **Quãng đường di chuyển dự kiến:** ~145 km (Nội Bài → Mỹ Đức ~65km + Mỹ Đức → Ba Đình ~65km + lượn phố cổ ~15km)  
 > 🔗 **Gợi ý liên quan:** 🏨 [Da Tree Homestay Ba Đình](../info/dat_phong.md#ha-noi) | 🍜 [Food List Phố Cổ](../notes/dac_san_am_thuc.md#food-hn) | 📸 [Góc chụp Phố Cổ & Ba Đình](../notes/goc_chup_anh.md#photo-hn)
+
+> ✅ **NHẬT KÝ & CHI TIÊU THỰC TẾ (28/08/2026 — Tổng: 2.010.000 VNĐ):**
+> - 🚕 **Di chuyển:** Taxi ra Sân bay Tân Sơn Nhất: **100.000đ** • Taxi Nội Bài ra tiệm thuê xe MOTOGO: **40.000đ**
+> - ⛽ **Xăng xe:** Đổ xăng ở Nội Bài: **50.000đ**
+> - 🍜 **Ăn uống & Cà phê:**
+>   - Ăn sáng Phở Hiệu (Cầu Giấy): **150.000đ**
+>   - Bánh ngọt: **50.000đ**
+>   - Ăn trưa Bún đậu Cô Hương: **80.000đ**
+>   - Nước uống dọc đường: **50.000đ**
+>   - Ăn tối Nầm bò nướng than hoa: **390.000đ**
+> - 🎁 **Quà biếu & Thăm thân:**
+>   - Mua trái cây thăm ông bà (Mỹ Đức): **300.000đ**
+>   - Mua Yến, bánh, sữa thăm bà và các bác: **650.000đ**
+>   - Mua bánh cho các cháu: **150.000đ**
 
 | Thời gian | Hoạt động | Ghi chú |
 |-----------|-----------|---------|
@@ -87,6 +101,18 @@
 > 🛵 **Quãng đường di chuyển dự kiến:** ~25 km (Xe máy lượn dạo quanh trung tâm Hà Nội) + 🚌 300 km xe khách giường nằm đi TP Hà Giang  
 > 🔗 **Gợi ý liên quan:** 🍜 [Quán Phở & Cà phê Trứng](../notes/dac_san_am_thuc.md#food-hn) | 📸 [Góc chụp Cầu Long Biên](../notes/goc_chup_anh.md#photo-hn) | 🚌 [Thông tin Xe Khách](../info/xe_khach.md#chặng-1-hà-nội--tp-hà-giang-tối-2908)
 
+> ✅ **NHẬT KÝ & CHI TIÊU THỰC TẾ (29/08/2026 — Tổng: 1.220.000 VNĐ):**
+> - 🏨 **Phát sinh:** Phụ phí thêm giờ tại Khách sạn (Da Tree Homestay): **100.000đ**
+> - ⛽ **Xăng xe:** Đổ xăng xe máy trung tâm Hà Nội: **30.000đ**
+> - 🎟️ **Tham quan:** Vé tham quan Hoàng Thành Thăng Long (2 vé SV): **100.000đ** *(50k/vé)*
+> - 🍜 **Ăn uống & Ăn vặt:**
+>   - Bún chả: **125.000đ**
+>   - Bún cá chấm: **90.000đ**
+>   - Nem chua rán: **125.000đ**
+>   - Ăn tối Chả cá Thăng Long: **0đ** *(Anh Long mời)*
+>   - Sữa chua trân châu Hạ Long: **150.000đ**
+> - 🎁 **Quà biếu:** Mua bánh trung thu biếu anh chị: **500.000đ**
+
 | Thời gian | Hoạt động | Ghi chú |
 |-----------|-----------|---------|
 | 07:00 - 09:00 | Phở Thìn Bờ Hồ / Bún thang. Cà phê trứng Giảng / Lâm Cafe | 📸 Quán cà phê hoài cổ |
@@ -107,13 +133,15 @@
 > 🛵 **Quãng đường di chuyển dự kiến:** ~100 km (TP Hà Giang → Dốc Bắc Sum → Quản Bạ ~46km → Can Tỷ → Yên Minh ~54km)  
 > 🔗 **Gợi ý liên quan:** 🏨 [Bong Bang Homestay 2 (✅ Đã xác nhận)](../info/dat_phong.md#yen-minh) | 🍜 [Ẩm thực Hà Giang](../notes/dac_san_am_thuc.md#food-hagiang) | 📸 [Góc chụp Cổng Trời](../notes/goc_chup_anh.md#photo-hagiang)
 
-> ✅ **NHẬT KÝ THỰC TẾ (ĐÃ HOÀN THÀNH NGÀY 30/08):**
+> ✅ **NHẬT KÝ & CHI TIÊU THỰC TẾ (30/08/2026 — Tổng: 835.000 VNĐ):**
 > - **Lộ trình thực tế:** Xuất phát từ Cột mốc Km0 Hà Giang lúc **08:00** → Vượt Dốc Bắc Sum, Cổng Trời Quản Bạ, Cây cô đơn Can Tỷ → Cập bến Yên Minh an toàn lúc **~13:00** (về đích sớm & an toàn tuyệt đối).
-> - **Chi tiêu thực tế Ngày 3 (Tổng: 690.000 VNĐ):**
+> - ⛽ **Xăng xe:** Đổ xăng xe Wave 110cc: **70.000đ**
+> - 🍜 **Ăn uống & Nước nôi:**
 >   - 🍜 **Sáng:** Bún riêu Bống (100.000đ)
->   - 🍚 **Trưa:** Cơm bình dân thịt lợn + rau xào (150.000đ)
->   - 🥤 **Dọc đường:** Nước suối & nước giải khát (100.000đ)
->   - 🍢 **Tối:** Lợn nướng + chim cút nướng (100.000đ) + cá viên (90.000đ) + trái cây (50.000đ) = 340.000đ
+>   - 🍚 **Trưa:** Cơm bình dân thịt lợn bản + rau xào tại Yên Minh (150.000đ)
+>   - 🥤 **Dọc đường:** Nước suối & nước giải khát nạp năng lượng (100.000đ)
+>   - 🍢 **Tối & Ăn vặt:** Lợn nướng + chim cút nướng (100.000đ) + cá viên (90.000đ) + trái cây (50.000đ) = **340.000đ**
+>   - ☕ **Cà phê & Giải khát:** 2 ly Nước sấu + 1 ly Café Bạc xỉu = **75.000đ**
 
 | Thời gian | Hoạt động | Ghi chú |
 |-----------|-----------|---------|
@@ -132,6 +160,16 @@
 > 🛵 **Quãng đường di chuyển dự kiến:** ~95 km (Yên Minh → Thẩm Mã → Sà Phìn ~40km → Cột cờ Lũng Cú ~26km → Đồng Văn ~29km) — *Cập bến Đồng Văn trước 16:30!*  
 > 🔗 **Gợi ý liên quan:** 🏨 [ToTo-Chan Hotel Đồng Văn](../info/dat_phong.md#dong-van) | 🍜 [Thắng cố Tiến Lộc](../notes/dac_san_am_thuc.md#food-hagiang) | 📸 [Góc chụp Dốc Thẩm Mã](../notes/goc_chup_anh.md#photo-hagiang)
 
+> ✅ **NHẬT KÝ & CHI TIÊU THỰC TẾ (31/08/2026 — Tổng: 795.000 VNĐ):**
+> - ⛽ **Xăng xe & Nước nôi:** Đổ xăng ở Yên Minh: **50.000đ** • Nước uống dọc đường: **50.000đ**
+> - ☕ **Cà phê sáng:** Café Bạc xỉu: **35.000đ**
+> - 🍜 **Ăn uống & Đặc sản vùng cao:**
+>   - Ăn sáng Phở tráng tay: **80.000đ**
+>   - Ăn trưa tại Làng Lô Lô Chải: Xiên nướng + 2 ly Trà sữa Shan Tuyết = **250.000đ**
+>   - Ăn chiều: Cơm rang dưa bò + Lòng xào dưa = **200.000đ**
+>   - Tối phố cổ Đồng Văn: Trà chanh + cắn Hạt dưa = **80.000đ**
+>   - Ăn đêm: Cháo Ấu Tẩu Đồng Văn = **50.000đ**
+
 | Thời gian | Hoạt động | Ghi chú |
 |-----------|-----------|---------|
 | 07:00 - 08:00 | Xôi ngũ sắc / phở tráng tay. Xuất phát sớm | Sáng sương mờ rất đẹp |
@@ -149,16 +187,29 @@
 
 > ☀️ **Dự báo thời tiết:** Mây rải rác, hửng nắng gián đoạn, hẻm Tu Sản gió mát (rất đẹp đi thuyền Nho Quế xanh ngọc) | 🌡️ **Nhiệt độ:** 20°C – 28°C  
 > 🛵 **Quãng đường di chuyển dự kiến:** ~50 km (Đồng Văn → Đèo Mã Pí Lèng ~15km → Bến thuyền Nho Quế khứ hồi ~15km → Pả Vi / Mèo Vạc ~20km) — *Cập bến Pả Vi trước 16:00!*  
-> 🔗 **Gợi ý liên quan:** 🏨 [O'Châu Homestay Pả Vi](../notes/goi_y_homestay.md#homestay-pavi) ⚠️ | 🍜 [Lợn đen nướng Pả Vi](../notes/dac_san_am_thuc.md#food-hagiang) | 📸 [Góc chụp Nho Quế CPL](../notes/goc_chup_anh.md#photo-hagiang)
+> 🔗 **Gợi ý liên quan:** 🏨 [Phương Anh Hotel Mèo Vạc (✅ Đã xác nhận)](../info/dat_phong.md#meo-vac) | 🍜 [Lợn đen nướng / Lẩu dê Mèo Vạc](../notes/dac_san_am_thuc.md#food-hagiang) | 📸 [Góc chụp Nho Quế CPL](../notes/goc_chup_anh.md#photo-hagiang)
+
+> ✅ **NHẬT KÝ & CHI TIÊU THỰC TẾ (01/09/2026 — Tổng: 660.000 VNĐ):**
+> - 🏍️ **Di chuyển & Xăng xe:**
+>   - Đổ xăng sáng ở Đồng Văn + Đổ xăng chiều ở Mèo Vạc: **40.000đ**
+>   - Mua thêm chai xăng nhỏ dự phòng 500ml: **10.000đ**
+>   - Xe ôm trung chuyển lên Vách đá tử thần: **100.000đ**
+> - 💆 **Thư giãn & Chăm sóc:** Gội đầu thư giãn: **60.000đ**
+> - 🍜 **Ăn uống & Cà phê:**
+>   - Sáng: Bánh mì ốp la + Café tại ToTo-Chan Hotel: **0đ** *(free)* + Ăn thêm Bánh cuốn nóng: **35.000đ**
+>   - Trưa: Cơm thịt rang + Bò lá lốt + Rau luộc: **100.000đ**
+>   - Chiều: Kem + Nước ngọt WinMart: **70.000đ**
+>   - Tối: Vịt nướng 1/2 con (125.000đ) + 2 ly Trà chanh Vườn Đào (40.000đ) = **165.000đ**
+>   - Ăn thêm đêm: Lợn nướng (50.000đ) + 1 ly Café sữa (30.000đ) = **80.000đ**
 
 | Thời gian | Hoạt động | Ghi chú |
 |-----------|-----------|---------|
 | 07:00 - 08:00 | Bánh cuốn canh Bà Hà. Chợ phiên Đồng Văn | 🍜 Đặc sản bánh cuốn nóng |
 | 08:00 - 10:30 | Đèo Mã Pí Lèng → Panorama ngắm hẻm vực Tu Sản | 📸 Kính CPL chụp nước xanh ngọc |
 | 10:30 - 14:00 | Xuống bến thuyền Tà Làng → Đi thuyền Sông Nho Quế & Ăn trưa | 📸 Thuyền qua hẻm Tu Sản |
-| 14:00 - 15:30 | Rời bến thuyền Tà Làng → Chạy xe về Làng H'Mông Pả Vi / Mèo Vạc | Đường leo dốc chạy thong thả |
-| 15:30 - 17:00 | Check-in Homestay Pả Vi, dạo chơi chụp ảnh kiến trúc làng H'Mông | 🌅 Cập bến 15:30 rất an toàn |
-| 18:30 - 21:30 | Ăn tối: Lợn đen nướng, cải mèo, lạp xưởng tại Pả Vi | Đốt lửa sàn homestay đêm Lễ |
+| 14:00 - 15:30 | Rời bến thuyền Tà Làng → Chạy xe về thị trấn Mèo Vạc / ghé Làng Pả Vi | Đường leo dốc chạy thong thả |
+| 15:30 - 17:00 | Check-in Phương Anh Hotel Mèo Vạc, nghỉ ngơi, dạo chơi chụp ảnh | 🌅 Cập bến 15:30 rất an toàn |
+| 18:30 - 21:30 | Ăn tối: Lợn đen nướng, thắng cố / lẩu dê đêm tại TT Mèo Vạc | Không khí đêm vùng cao trước Lễ |
 
 ---
 
@@ -166,7 +217,7 @@
 
 > ⛅ **Dự báo thời tiết:** Trời mát, nhiều mây, mưa rào nhẹ vài nơi ven sông Gâm / QL34, tối TP Cao Bằng khô ráo | 🌡️ **Nhiệt độ:** 22°C – 30°C  
 > 🛵 **Quãng đường di chuyển dự kiến:** ~185 km (Mèo Vạc → Bảo Lạc ~75km → Nguyên Bình → TP Cao Bằng ~110km qua QL34) — *Chặng di chuyển êm ái, thong thả ngắm sông Gâm & đèo Khau Liêu. Cập bến TP Cao Bằng trước 16:00!*  
-> 🔗 **Gợi ý liên quan:** 🏨 [Mường Thanh 4⭐ / Max Hotel 3⭐](../notes/goi_y_homestay.md#homestay-caobang) | 🍜 [Phở Vịt Quay Quyên](../notes/dac_san_am_thuc.md#food-caobang) | 📸 [Góc chụp đèo Khau Liêu](../notes/goc_chup_anh.md#photo-caobang)
+> 🔗 **Gợi ý liên quan:** 🏨 [Minh Hoang Hotel & Homestay (✅ Đã xác nhận)](../info/dat_phong.md#cao-bang-1) | 🍜 [Phở Vịt Quay Quyên](../notes/dac_san_am_thuc.md#food-caobang) | 📸 [Góc chụp đèo Khau Liêu](../notes/goc_chup_anh.md#photo-caobang)
 
 | Thời gian | Hoạt động | Ghi chú |
 |-----------|-----------|---------|
@@ -174,7 +225,7 @@
 | 08:00 - 11:30 | Mèo Vạc → Bảo Lâm → Bảo Lạc (~75km đèo núi) | Dừng nghỉ ngắm cảnh sông Gâm |
 | 11:30 - 12:45 | Ăn trưa nghỉ ngơi tại thị trấn Bảo Lạc | Rest point ăn uống |
 | 12:45 - 15:45 | Bảo Lạc → Đèo Khau Liêu → Nguyên Bình → TP Cao Bằng (~110km QL34) | Đường QL34 chạy rất dễ chịu |
-| 15:45 - 18:30 | Check-in Khách sạn TP Cao Bằng, nghỉ ngơi khỏe khoắn | 🌅 Cập bến 15:45 trước 17:00 |
+| 15:45 - 18:30 | Check-in Minh Hoang Hotel (98 Kim Đồng), nghỉ ngơi khỏe khoắn | 🌅 Cập bến 15:45 trước 17:00 |
 | 18:30 - 21:30 | Tối 2/9: Dạo không khí Lễ Quốc Khánh TP CB. Ăn Phở vịt quay Quyên / Bánh áp chao Cô Thảo | 🎆 Không khí lễ náo nhiệt |
 
 ---
@@ -295,8 +346,8 @@
 | **29/08** | Trên xe khách (1 đêm) | Limousine VIP HN → HG | ✅ **Quang Tuyến Limousine (Mã: `RN34WQ`)** — 550k (*[Chi tiết vé](../info/xe_khach.md#chặng-1-hà-nội--tp-hà-giang-tối-2908-)*) |
 | **30/08** | Yên Minh (1 đêm) | Homestay đồi thông sân vườn | ✅ **Bong Bang Homestay 2** *(Mã: 6874088766, 400k tiền mặt, [Chi tiết voucher](../info/dat_phong.md#yen-minh))* |
 | **31/08** | Đồng Văn (1 đêm) | Khách sạn trung tâm thị trấn | ✅ **ToTo-Chan Hotel** *(Mã: 6840372362, 446.4k gồm ăn sáng, [Chi tiết voucher](../info/dat_phong.md#dong-van))* |
-| **01/09** | Mèo Vạc (1 đêm 🇻🇳) | Homestay Làng H'Mông Pả Vi | **O'Châu Homestay Pả Vi** *(Đẹp nhất làng Pả Vi, phòng áp mái ấm cúng)* ⚠️ *Nên đặt sớm!* |
-| **02/09** | TP Cao Bằng (1 đêm 🇻🇳) | Khách sạn trung tâm TP | **Mường Thanh Luxury 4⭐** hoặc **Max Hotel 3⭐** *(Ngay phố ẩm thực)* |
+| **01/09** | Mèo Vạc (1 đêm 🇻🇳) | Khách sạn trung tâm thị trấn | ✅ **Phương Anh Hotel** *(Mã: 5152255450, 300k tiền mặt, [Chi tiết voucher](../info/dat_phong.md#meo-vac))* |
+| **02/09** | TP Cao Bằng (1 đêm 🇻🇳) | Khách sạn trung tâm TP | ✅ **Minh Hoang Hotel & Homestay** *(Mã: `6307.802.042`, 369k tiền mặt, [Chi tiết voucher](../info/dat_phong.md#cao-bang-1))* |
 | **03/09** | Thác Bản Giốc (1 đêm) | Homestay Làng cổ đá Khuổi Ky | **Yến Nhi Homestay Bản Giốc** *(Nằm trong làng đá cổ 400 năm, ven sông Quay Sơn)* |
 | **04/09 & 05/09** | TP Cao Bằng (2 đêm) | Khách sạn trung tâm TP | **Max Hotel Cao Bằng** hoặc **Mường Thanh Luxury Cao Bằng** |
 
@@ -349,6 +400,6 @@
   - Đêm 28/08 (Hà Nội): Đã xác nhận **Da Tree Homestay Ba Đình** (Mã: `6540221126`).
   - Đêm 30/08 (Yên Minh): Đã xác nhận **Bong Bang Homestay 2** (Mã: `6874088766`).
   - Đêm 31/08 (Đồng Văn): Đã xác nhận **ToTo-Chan Hotel Đồng Văn** (Mã: `6840372362`).
-  - Đêm 01/09 (Mèo Vạc - Lễ): Ưu tiên cọc sớm **O'Châu Homestay Pả Vi**.
-  - Đêm 02/09 (TP Cao Bằng - Lễ): Ưu tiên cọc sớm **Mường Thanh Luxury 4⭐** hoặc **Max Hotel 3⭐**.
+  - Đêm 01/09 (Mèo Vạc - Lễ): Đã xác nhận **Phương Anh Hotel Mèo Vạc** (Mã: `5152255450`).
+  - Đêm 02/09 (TP Cao Bằng - Lễ): Đã xác nhận **Minh Hoang Hotel & Homestay** (Mã: `6307.802.042`).
 

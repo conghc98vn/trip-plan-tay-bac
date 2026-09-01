@@ -1,0 +1,835 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Realtime Trip Expense Tracker — HCM • Hà Giang • Cao Bằng</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --bg: #0b0f19;
+      --card-bg: rgba(22, 30, 49, 0.75);
+      --card-border: rgba(255, 255, 255, 0.08);
+      --primary: #38bdf8;
+      --primary-glow: rgba(56, 189, 248, 0.35);
+      --accent: #10b981;
+      --accent-glow: rgba(16, 185, 129, 0.3);
+      --warning: #f59e0b;
+      --danger: #f43f5e;
+      --purple: #a855f7;
+      --text: #f1f5f9;
+      --text-muted: #94a3b8;
+      --radius: 16px;
+    }
+
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+      font-family: 'Plus Jakarta Sans', sans-serif;
+    }
+
+    body {
+      background: radial-gradient(circle at 15% 10%, #1e1b4b 0%, #0b0f19 50%, #060911 100%);
+      color: var(--text);
+      min-height: 100vh;
+      padding: 24px 16px 80px;
+    }
+
+    .container {
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+
+    /* Header */
+    header {
+      text-align: center;
+      margin-bottom: 32px;
+      position: relative;
+    }
+
+    .badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      padding: 6px 14px;
+      background: rgba(56, 189, 248, 0.12);
+      border: 1px solid rgba(56, 189, 248, 0.3);
+      border-radius: 999px;
+      font-size: 0.85rem;
+      font-weight: 600;
+      color: var(--primary);
+      margin-bottom: 12px;
+    }
+
+    .pulse {
+      width: 8px;
+      height: 8px;
+      background: #10b981;
+      border-radius: 50%;
+      box-shadow: 0 0 0 0 rgba(16, 185, 129, 0.7);
+      animation: pulse 1.6s infinite;
+    }
+
+    @keyframes pulse {
+      0% { transform: scale(0.95); box-shadow: 0 0 0 0 rgba(16, 185, 129, 0.7); }
+      70% { transform: scale(1); box-shadow: 0 0 0 10px rgba(16, 185, 129, 0); }
+      100% { transform: scale(0.95); box-shadow: 0 0 0 0 rgba(16, 185, 129, 0); }
+    }
+
+    h1 {
+      font-size: clamp(1.8rem, 4vw, 2.6rem);
+      font-weight: 800;
+      background: linear-gradient(135deg, #ffffff 30%, #38bdf8 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      margin-bottom: 8px;
+    }
+
+    .subtitle {
+      color: var(--text-muted);
+      font-size: 0.95rem;
+    }
+
+    /* KPI Grid */
+    .kpi-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+      gap: 16px;
+      margin-bottom: 28px;
+    }
+
+    .kpi-card {
+      background: var(--card-bg);
+      border: 1px solid var(--card-border);
+      border-radius: var(--radius);
+      padding: 20px;
+      backdrop-filter: blur(16px);
+      box-shadow: 0 10px 30px -10px rgba(0,0,0,0.5);
+      position: relative;
+      overflow: hidden;
+      transition: transform 0.2s, border-color 0.2s;
+    }
+
+    .kpi-card:hover {
+      transform: translateY(-2px);
+      border-color: rgba(56, 189, 248, 0.4);
+    }
+
+    .kpi-card::before {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      height: 3px;
+      background: var(--accent-gradient, linear-gradient(90deg, #38bdf8, #818cf8));
+    }
+
+    .kpi-label {
+      font-size: 0.82rem;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      color: var(--text-muted);
+      margin-bottom: 6px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+
+    .kpi-val {
+      font-size: 1.6rem;
+      font-weight: 800;
+      color: #fff;
+    }
+
+    .kpi-sub {
+      font-size: 0.78rem;
+      color: var(--text-muted);
+      margin-top: 4px;
+    }
+
+    /* Main Grid */
+    .main-grid {
+      display: grid;
+      grid-template-columns: 360px 1fr;
+      gap: 24px;
+    }
+
+    @media (max-width: 900px) {
+      .main-grid {
+        grid-template-columns: 1fr;
+      }
+    }
+
+    /* Glass Panels */
+    .panel {
+      background: var(--card-bg);
+      border: 1px solid var(--card-border);
+      border-radius: var(--radius);
+      padding: 24px;
+      backdrop-filter: blur(16px);
+      box-shadow: 0 10px 30px -10px rgba(0,0,0,0.5);
+      margin-bottom: 24px;
+    }
+
+    .panel-title {
+      font-size: 1.15rem;
+      font-weight: 700;
+      margin-bottom: 18px;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      color: #fff;
+    }
+
+    /* Form Styles */
+    .form-group {
+      margin-bottom: 14px;
+    }
+
+    label {
+      display: block;
+      font-size: 0.8rem;
+      font-weight: 600;
+      color: var(--text-muted);
+      margin-bottom: 6px;
+    }
+
+    input, select, textarea {
+      width: 100%;
+      background: rgba(15, 23, 42, 0.8);
+      border: 1px solid rgba(255, 255, 255, 0.12);
+      border-radius: 10px;
+      padding: 10px 14px;
+      color: #fff;
+      font-size: 0.92rem;
+      outline: none;
+      transition: all 0.2s;
+    }
+
+    input:focus, select:focus, textarea:focus {
+      border-color: var(--primary);
+      box-shadow: 0 0 0 3px var(--primary-glow);
+    }
+
+    .btn {
+      width: 100%;
+      padding: 12px;
+      border-radius: 10px;
+      border: none;
+      font-weight: 700;
+      font-size: 0.95rem;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 8px;
+      transition: all 0.2s;
+    }
+
+    .btn-primary {
+      background: linear-gradient(135deg, #0284c7, #38bdf8);
+      color: #fff;
+      box-shadow: 0 4px 15px var(--primary-glow);
+    }
+
+    .btn-primary:hover {
+      transform: translateY(-1px);
+      box-shadow: 0 6px 20px rgba(56, 189, 248, 0.5);
+    }
+
+    .btn-secondary {
+      background: rgba(255, 255, 255, 0.08);
+      color: var(--text);
+      border: 1px solid rgba(255, 255, 255, 0.1);
+      margin-top: 8px;
+    }
+
+    .btn-secondary:hover {
+      background: rgba(255, 255, 255, 0.12);
+    }
+
+    /* Filter Chips */
+    .filter-bar {
+      display: flex;
+      gap: 8px;
+      flex-wrap: wrap;
+      margin-bottom: 18px;
+    }
+
+    .chip {
+      padding: 6px 12px;
+      border-radius: 20px;
+      background: rgba(255, 255, 255, 0.06);
+      border: 1px solid rgba(255, 255, 255, 0.08);
+      font-size: 0.78rem;
+      font-weight: 600;
+      color: var(--text-muted);
+      cursor: pointer;
+      transition: all 0.2s;
+    }
+
+    .chip:hover, .chip.active {
+      background: var(--primary);
+      color: #0f172a;
+      border-color: var(--primary);
+      font-weight: 700;
+    }
+
+    /* Table Styles */
+    .table-container {
+      overflow-x: auto;
+      max-height: 480px;
+      overflow-y: auto;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.88rem;
+    }
+
+    th {
+      text-align: left;
+      padding: 12px 14px;
+      background: rgba(15, 23, 42, 0.9);
+      color: var(--text-muted);
+      font-weight: 600;
+      font-size: 0.78rem;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      position: sticky;
+      top: 0;
+      z-index: 2;
+    }
+
+    td {
+      padding: 12px 14px;
+      border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+    }
+
+    tr:hover td {
+      background: rgba(255, 255, 255, 0.03);
+    }
+
+    .tag {
+      display: inline-block;
+      padding: 3px 8px;
+      border-radius: 6px;
+      font-size: 0.72rem;
+      font-weight: 600;
+    }
+
+    .tag-food { background: rgba(245, 158, 11, 0.2); color: #fbbf24; }
+    .tag-transport { background: rgba(56, 189, 248, 0.2); color: #38bdf8; }
+    .tag-hotel { background: rgba(168, 85, 247, 0.2); color: #c084fc; }
+    .tag-gift { background: rgba(244, 63, 94, 0.2); color: #fb7185; }
+    .tag-ticket { background: rgba(16, 185, 129, 0.2); color: #34d399; }
+    .tag-other { background: rgba(148, 163, 184, 0.2); color: #cbd5e1; }
+
+    .action-btn {
+      background: none;
+      border: none;
+      color: var(--text-muted);
+      cursor: pointer;
+      padding: 4px;
+      border-radius: 4px;
+      transition: color 0.2s;
+    }
+
+    .action-btn:hover {
+      color: var(--danger);
+    }
+
+    /* Category Progress Bars */
+    .cat-bar {
+      margin-bottom: 14px;
+    }
+
+    .cat-meta {
+      display: flex;
+      justify-content: space-between;
+      font-size: 0.82rem;
+      margin-bottom: 4px;
+    }
+
+    .bar-bg {
+      height: 8px;
+      background: rgba(255, 255, 255, 0.08);
+      border-radius: 4px;
+      overflow: hidden;
+    }
+
+    .bar-fill {
+      height: 100%;
+      border-radius: 4px;
+      transition: width 0.5s ease;
+    }
+
+    /* Floating Toast */
+    .toast {
+      position: fixed;
+      bottom: 24px;
+      right: 24px;
+      background: #1e293b;
+      border: 1px solid var(--accent);
+      color: #fff;
+      padding: 12px 20px;
+      border-radius: 12px;
+      box-shadow: 0 10px 25px rgba(0,0,0,0.5);
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      font-size: 0.88rem;
+      font-weight: 600;
+      transform: translateY(100px);
+      opacity: 0;
+      transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+      z-index: 100;
+    }
+
+    .toast.show {
+      transform: translateY(0);
+      opacity: 1;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="container">
+    <header>
+      <div class="badge">
+        <span class="pulse"></span>
+        Hà Giang • Cao Bằng Loop 2026
+      </div>
+      <h1>💰 Realtime Trip Expense Tracker</h1>
+      <p class="subtitle">Tổng hợp & cập nhật tức thì chi phí thực tế chuyến đi của Chí Công & Trúc Anh</p>
+    </header>
+
+    <!-- KPI Cards -->
+    <div class="kpi-grid">
+      <div class="kpi-card" style="--accent-gradient: linear-gradient(90deg, #10b981, #34d399);">
+        <div class="kpi-label">
+          <span>Tổng Đã Chi Thực Tế</span>
+          <span>🏆</span>
+        </div>
+        <div class="kpi-val" id="kpi-total">0 đ</div>
+        <div class="kpi-sub" id="kpi-per-person">~0 đ / người (2 người)</div>
+      </div>
+
+      <div class="kpi-card" style="--accent-gradient: linear-gradient(90deg, #38bdf8, #818cf8);">
+        <div class="kpi-label">
+          <span>Chi Phí Cố Định</span>
+          <span>✈️ 🏍️</span>
+        </div>
+        <div class="kpi-val" id="kpi-fixed">6.694.024 đ</div>
+        <div class="kpi-sub">Vé bay, xe khách & thuê 2 xe máy</div>
+      </div>
+
+      <div class="kpi-card" style="--accent-gradient: linear-gradient(90deg, #a855f7, #ec4899);">
+        <div class="kpi-label">
+          <span>Khách Sạn & Homestay</span>
+          <span>🏨</span>
+        </div>
+        <div class="kpi-val" id="kpi-hotel">1.863.400 đ</div>
+        <div class="kpi-sub">Đã chốt 6 đêm (Còn 3 đêm)</div>
+      </div>
+
+      <div class="kpi-card" style="--accent-gradient: linear-gradient(90deg, #f59e0b, #fbbf24);">
+        <div class="kpi-label">
+          <span>Sinh Hoạt & Ẩm Thực</span>
+          <span>🍜 ☕</span>
+        </div>
+        <div class="kpi-val" id="kpi-daily">5.520.000 đ</div>
+        <div class="kpi-sub">Ăn uống, xăng, quà biếu, vé</div>
+      </div>
+
+      <div class="kpi-card" style="--accent-gradient: linear-gradient(90deg, #64748b, #94a3b8);">
+        <div class="kpi-label">
+          <span>Tiền Cọc Hoàn Lại</span>
+          <span>🔄</span>
+        </div>
+        <div class="kpi-val" id="kpi-deposit">+3.000.000 đ</div>
+        <div class="kpi-sub">Nhận lại trưa 06/09 tại TP Cao Bằng</div>
+      </div>
+    </div>
+
+    <!-- Main Section -->
+    <div class="main-grid">
+      <!-- Sidebar / Add Form -->
+      <div>
+        <div class="panel">
+          <div class="panel-title">
+            <span>➕</span> Thêm Khoản Chi Mới
+          </div>
+          <form id="add-form">
+            <div class="form-group">
+              <label>Ngày / Chặng</label>
+              <select id="expense-day" required>
+                <option value="1">Ngày 1 (28/08) — SGN → Hà Nội → Mỹ Đức</option>
+                <option value="2">Ngày 2 (29/08) — Hà Nội → Xe đêm HG</option>
+                <option value="3">Ngày 3 (30/08) — TP Hà Giang → Yên Minh</option>
+                <option value="4">Ngày 4 (31/08) — Yên Minh → Lũng Cú → Đồng Văn</option>
+                <option value="5">Ngày 5 (01/09) — Đồng Văn → Nho Quế → Mèo Vạc</option>
+                <option value="6" selected>Ngày 6 (02/09) — Mèo Vạc → QL34 → Cao Bằng</option>
+                <option value="7">Ngày 7 (03/09) — TP Cao Bằng → Bản Giốc</option>
+                <option value="8">Ngày 8 (04/09) — Bản Giốc → Ngườm Ngao → TP CB</option>
+                <option value="9">Ngày 9 (05/09) — TP Cao Bằng ↔ Pác Bó</option>
+                <option value="10">Ngày 10 (06/09) — Trả xe → Nội Bài → SGN</option>
+              </select>
+            </div>
+
+            <div class="form-group">
+              <label>Tên khoản chi / Món ăn / Địa điểm</label>
+              <input type="text" id="expense-title" placeholder="VD: Bánh cuốn Cao Bằng, Đổ xăng QL34..." required />
+            </div>
+
+            <div class="form-group">
+              <label>Số tiền (VNĐ)</label>
+              <input type="number" id="expense-amount" placeholder="VD: 70000" min="1000" step="1000" required />
+            </div>
+
+            <div class="form-group">
+              <label>Phân loại danh mục</label>
+              <select id="expense-cat" required>
+                <option value="food">🍜 Ẩm thực & Cà phê</option>
+                <option value="transport">🏍️ Xăng xe & Di chuyển</option>
+                <option value="hotel">🏨 Lưu trú / Khách sạn</option>
+                <option value="ticket">🎟️ Vé tham quan & Trải nghiệm</option>
+                <option value="gift">🎁 Quà biếu & Đặc sản</option>
+                <option value="other">💆 Tiện ích & Khác</option>
+              </select>
+            </div>
+
+            <div class="form-group">
+              <label>Ghi chú chi tiết (Không bắt buộc)</label>
+              <input type="text" id="expense-note" placeholder="VD: 2 người ăn, kèm trà đá..." />
+            </div>
+
+            <button type="submit" class="btn btn-primary">
+              <span>⚡</span> Lưu Khoản Chi Ngay
+            </button>
+            <button type="button" id="btn-copy-md" class="btn btn-secondary">
+              📋 Sao chép dòng Markdown
+            </button>
+          </form>
+        </div>
+
+        <!-- Category Breakdown Panel -->
+        <div class="panel">
+          <div class="panel-title">
+            <span>📊</span> Cơ Cấu Chi Phí Sinh Hoạt
+          </div>
+          <div id="category-stats">
+            <!-- Rendered by JS -->
+          </div>
+        </div>
+      </div>
+
+      <!-- Right Column: Expense Table & Filter -->
+      <div>
+        <div class="panel">
+          <div class="panel-title" style="justify-content: space-between;">
+            <div style="display: flex; align-items: center; gap: 8px;">
+              <span>📝</span> Danh Sách Chi Tiêu Theo Ngày
+            </div>
+            <span id="filtered-total" style="font-size: 0.95rem; color: var(--accent); font-weight: 700;"></span>
+          </div>
+
+          <!-- Day Filter Chips -->
+          <div class="filter-bar" id="day-filters">
+            <div class="chip active" data-day="all">Tất cả (10 ngày)</div>
+            <div class="chip" data-day="1">Ngày 1</div>
+            <div class="chip" data-day="2">Ngày 2</div>
+            <div class="chip" data-day="3">Ngày 3</div>
+            <div class="chip" data-day="4">Ngày 4</div>
+            <div class="chip" data-day="5">Ngày 5</div>
+            <div class="chip" data-day="6">Ngày 6</div>
+            <div class="chip" data-day="7">Ngày 7</div>
+            <div class="chip" data-day="8">Ngày 8</div>
+            <div class="chip" data-day="9">Ngày 9</div>
+            <div class="chip" data-day="10">Ngày 10</div>
+          </div>
+
+          <div class="table-container">
+            <table>
+              <thead>
+                <tr>
+                  <th>Ngày</th>
+                  <th>Khoản chi & Chi tiết</th>
+                  <th>Danh mục</th>
+                  <th style="text-align: right;">Số tiền</th>
+                  <th style="text-align: center;">Xóa</th>
+                </tr>
+              </thead>
+              <tbody id="expense-tbody">
+                <!-- Rendered dynamically -->
+              </tbody>
+            </table>
+          </div>
+
+          <div style="margin-top: 18px; display: flex; gap: 10px; justify-content: flex-end;">
+            <button class="btn btn-secondary" style="width: auto;" id="btn-export-json">💾 Xuất JSON</button>
+            <button class="btn btn-secondary" style="width: auto; color: var(--danger);" id="btn-reset">🔄 Khôi phục mặc định</button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div id="toast" class="toast">
+    <span id="toast-icon">✅</span>
+    <span id="toast-msg">Đã cập nhật chi phí!</span>
+  </div>
+
+  <script>
+    // Initial Dataset
+    const initialExpenses = [
+      // Day 1
+      { id: 1, day: 1, title: 'Taxi ra Sân bay Tân Sơn Nhất', note: 'Grab sáng sớm SGN', amount: 100000, cat: 'transport' },
+      { id: 2, day: 1, title: 'Taxi ra MOTOGO Nội Bài', note: 'Từ T1 sang Điền Xá', amount: 40000, cat: 'transport' },
+      { id: 3, day: 1, title: 'Đổ xăng xe máy tại Nội Bài', note: 'Bình xăng đầu Sirius', amount: 50000, cat: 'transport' },
+      { id: 4, day: 1, title: 'Ăn sáng Phở Hiệu Cầu Giấy', note: '2 bát phở bò', amount: 150000, cat: 'food' },
+      { id: 5, day: 1, title: 'Bánh ngọt ăn nhẹ', note: 'Dọc đường', amount: 50000, cat: 'food' },
+      { id: 6, day: 1, title: 'Ăn trưa Bún đậu Cô Hương', note: 'Thập cẩm', amount: 80000, cat: 'food' },
+      { id: 7, day: 1, title: 'Nước uống giải khát', note: 'Đường về Mỹ Đức', amount: 50000, cat: 'food' },
+      { id: 8, day: 1, title: 'Trái cây biếu ông bà', note: 'Chợ quê Mỹ Đức', amount: 300000, cat: 'gift' },
+      { id: 9, day: 1, title: 'Yến sào, bánh, sữa biếu bà & các bác', note: 'Thăm họ hàng', amount: 650000, cat: 'gift' },
+      { id: 10, day: 1, title: 'Bánh kẹo cho các cháu', note: 'Quà trẻ em', amount: 150000, cat: 'gift' },
+      { id: 11, day: 1, title: 'Ăn tối Nầm bò nướng than hoa', note: 'Quán nướng Ba Đình', amount: 390000, cat: 'food' },
+
+      // Day 2
+      { id: 12, day: 2, title: 'Phụ phí quá giờ Da Tree Homestay', note: 'Nghỉ ngơi thêm giờ', amount: 100000, cat: 'hotel' },
+      { id: 13, day: 2, title: 'Đổ xăng xe máy trung tâm Hà Nội', note: 'Chạy phố cổ', amount: 30000, cat: 'transport' },
+      { id: 14, day: 2, title: 'Vé tham quan Hoàng Thành Thăng Long', note: '2 vé sinh viên', amount: 100000, cat: 'ticket' },
+      { id: 15, day: 2, title: 'Ăn trưa Bún chả Hà Nội', note: 'Nướng than hoa', amount: 125000, cat: 'food' },
+      { id: 16, day: 2, title: 'Ăn Bún cá chấm giòn', note: 'Phố cổ', amount: 90000, cat: 'food' },
+      { id: 17, day: 2, title: 'Nem chua rán phố cổ', note: 'Hàng Bông / Tạm Thương', amount: 125000, cat: 'food' },
+      { id: 18, day: 2, title: 'Sữa chua trân châu Hạ Long', note: 'Tráng miệng', amount: 150000, cat: 'food' },
+      { id: 19, day: 2, title: 'Bánh trung thu biếu anh chị', note: 'Quà biếu Hà Nội', amount: 500000, cat: 'gift' },
+
+      // Day 3
+      { id: 20, day: 3, title: 'Ăn sáng Bún riêu Bống (TP Hà Giang)', note: 'Bún riêu bến xe', amount: 100000, cat: 'food' },
+      { id: 21, day: 3, title: 'Đổ xăng xe Wave 110cc Giang Sơn', note: 'Đầy bình Km0', amount: 70000, cat: 'transport' },
+      { id: 22, day: 3, title: 'Cơm trưa bình dân Yên Minh', note: 'Lợn bản xào rau cải', amount: 150000, cat: 'food' },
+      { id: 23, day: 3, title: 'Nước suối & Nước ngọt leo đèo', note: 'Quản Bạ', amount: 100000, cat: 'food' },
+      { id: 24, day: 3, title: 'Nước sấu đá & Cà phê Bạc xỉu', note: 'Ngắm cảnh đèo', amount: 75000, cat: 'food' },
+      { id: 25, day: 3, title: 'Đồ nướng đêm Yên Minh', note: 'Lợn nướng + chim cút', amount: 100000, cat: 'food' },
+      { id: 26, day: 3, title: 'Cá viên chiên & ăn vặt', note: 'Phố đêm', amount: 90000, cat: 'food' },
+      { id: 27, day: 3, title: 'Trái cây tươi', note: 'Tráng miệng', amount: 50000, cat: 'food' },
+
+      // Day 4
+      { id: 28, day: 4, title: 'Đổ xăng xe máy ở Yên Minh', note: 'Trước đèo Thẩm Mã', amount: 50000, cat: 'transport' },
+      { id: 29, day: 4, title: 'Cà phê Bạc xỉu sáng', note: 'Yên Minh', amount: 35000, cat: 'food' },
+      { id: 30, day: 4, title: 'Ăn sáng Phở tráng tay', note: 'Nóng hổi', amount: 80000, cat: 'food' },
+      { id: 31, day: 4, title: 'Nước suối dọc đường Lũng Cú', note: 'Bổ sung nước', amount: 50000, cat: 'food' },
+      { id: 32, day: 4, title: 'Xiên nướng & Trà sữa Shan Tuyết', note: 'Làng Lô Lô Chải', amount: 250000, cat: 'food' },
+      { id: 33, day: 4, title: 'Cơm chiều Phố Cổ Đồng Văn', note: 'Cơm rang dưa bò + lòng', amount: 200000, cat: 'food' },
+      { id: 34, day: 4, title: 'Trà chanh & cắn hạt dưa Phố Cổ', note: 'Cafe Đồng Văn', amount: 80000, cat: 'food' },
+      { id: 35, day: 4, title: 'Cháo Ấu Tẩu Đồng Văn', note: 'Đặc sản hồi sức', amount: 50000, cat: 'food' },
+
+      // Day 5
+      { id: 36, day: 5, title: 'Bánh mì + Bánh cuốn nóng', note: 'Sáng Đồng Văn', amount: 35000, cat: 'food' },
+      { id: 37, day: 5, title: 'Đổ xăng Đồng Văn & Mèo Vạc', note: 'Đèo Mã Pí Lèng', amount: 40000, cat: 'transport' },
+      { id: 38, day: 5, title: 'Chai xăng phụ 500ml', note: 'Dự phòng đèo', amount: 10000, cat: 'transport' },
+      { id: 39, day: 5, title: 'Xe ôm lên Vách Đá Tử Thần', note: 'Khứ hồi 2 người', amount: 100000, cat: 'ticket' },
+      { id: 40, day: 5, title: 'Cơm trưa bình dân Mèo Vạc', note: 'Thịt rang + bò lá lốt', amount: 100000, cat: 'food' },
+      { id: 41, day: 5, title: 'Gội đầu thư giãn Mèo Vạc', note: 'Tiệm tóc trung tâm', amount: 60000, cat: 'other' },
+      { id: 42, day: 5, title: 'Kem & Nước ngọt WinMart', note: 'Đồ lặt vặt', amount: 70000, cat: 'food' },
+      { id: 43, day: 5, title: 'Ăn tối Vịt nướng than hoa', note: '1/2 con + 2 trà chanh', amount: 165000, cat: 'food' },
+      { id: 44, day: 5, title: 'Thịt lợn xiên nướng đêm + Cafe', note: 'Mèo Vạc', amount: 80000, cat: 'food' }
+    ];
+
+    const FIXED_COSTS = 6694024; // 1435162 (VJ) + 2346362 (Sun) + 550000 (Quang Tuyen) + 2362500 (Giang Son)
+    const HOTEL_BOOKED = 1863400; // 348k (Da Tree) + 400k (Bong Bang 2) + 446.4k (ToTo-Chan) + 300k (Phuong Anh) + 369k (Minh Hoang)
+
+    // Categories Meta
+    const catMeta = {
+      food: { label: 'Ẩm thực & Thức uống', tagClass: 'tag-food', color: '#f59e0b', icon: '🍜' },
+      transport: { label: 'Xăng xe & Di chuyển', tagClass: 'tag-transport', color: '#38bdf8', icon: '🏍️' },
+      hotel: { label: 'Lưu trú phát sinh', tagClass: 'tag-hotel', color: '#a855f7', icon: '🏨' },
+      gift: { label: 'Quà biếu & Đặc sản', tagClass: 'tag-gift', color: '#f43f5e', icon: '🎁' },
+      ticket: { label: 'Vé & Trải nghiệm', tagClass: 'tag-ticket', color: '#10b981', icon: '🎟️' },
+      other: { label: 'Tiện ích & Khác', tagClass: 'tag-other', color: '#94a3b8', icon: '💆' }
+    };
+
+    // Load from LocalStorage
+    let expenses = JSON.parse(localStorage.getItem('trip_expenses_realtime')) || initialExpenses;
+    let currentFilterDay = 'all';
+
+    function formatVND(val) {
+      return new Intl.NumberFormat('vi-VN').format(val) + ' đ';
+    }
+
+    function saveExpenses() {
+      localStorage.setItem('trip_expenses_realtime', JSON.stringify(expenses));
+      render();
+    }
+
+    function showToast(msg, icon = '✅') {
+      const toast = document.getElementById('toast');
+      document.getElementById('toast-msg').textContent = msg;
+      document.getElementById('toast-icon').textContent = icon;
+      toast.classList.add('show');
+      setTimeout(() => toast.classList.remove('show'), 2500);
+    }
+
+    function render() {
+      // 1. Calculate Daily Total
+      const totalDaily = expenses.reduce((sum, item) => sum + Number(item.amount), 0);
+      const grandTotal = totalDaily + FIXED_COSTS + HOTEL_BOOKED;
+
+      document.getElementById('kpi-daily').textContent = formatVND(totalDaily);
+      document.getElementById('kpi-total').textContent = formatVND(grandTotal);
+      document.getElementById('kpi-per-person').textContent = `~${formatVND(Math.round(grandTotal / 2))} / người (2 người)`;
+
+      // 2. Render Table Rows
+      const tbody = document.getElementById('expense-tbody');
+      tbody.innerHTML = '';
+
+      const filtered = expenses.filter(item => currentFilterDay === 'all' || item.day.toString() === currentFilterDay);
+      
+      const filteredSum = filtered.reduce((s, i) => s + Number(i.amount), 0);
+      document.getElementById('filtered-total').textContent = `Tổng lọc: ${formatVND(filteredSum)}`;
+
+      if (filtered.length === 0) {
+        tbody.innerHTML = `<tr><td colspan="5" style="text-align: center; color: var(--text-muted); padding: 32px;">Chưa có khoản chi nào trong ngày này. Hãy thêm mới bên trái!</td></tr>`;
+      } else {
+        filtered.forEach((item) => {
+          const cat = catMeta[item.cat] || catMeta.other;
+          const tr = document.createElement('tr');
+          tr.innerHTML = `
+            <td><strong style="color: var(--primary)">Ngày ${item.day}</strong></td>
+            <td>
+              <div><strong>${item.title}</strong></div>
+              ${item.note ? `<div style="font-size: 0.76rem; color: var(--text-muted);">${item.note}</div>` : ''}
+            </td>
+            <td><span class="tag ${cat.tagClass}">${cat.icon} ${cat.label}</span></td>
+            <td style="text-align: right; font-weight: 700; color: #fff;">${formatVND(item.amount)}</td>
+            <td style="text-align: center;">
+              <button class="action-btn" onclick="deleteExpense(${item.id})" title="Xóa">✕</button>
+            </td>
+          `;
+          tbody.appendChild(tr);
+        });
+      }
+
+      // 3. Render Category Breakdown
+      const catTotals = {};
+      Object.keys(catMeta).forEach(k => catTotals[k] = 0);
+      expenses.forEach(item => {
+        catTotals[item.cat] = (catTotals[item.cat] || 0) + Number(item.amount);
+      });
+
+      const catContainer = document.getElementById('category-stats');
+      catContainer.innerHTML = '';
+
+      Object.entries(catTotals).forEach(([key, sum]) => {
+        const cat = catMeta[key];
+        const pct = totalDaily > 0 ? ((sum / totalDaily) * 100).toFixed(1) : 0;
+        const barDiv = document.createElement('div');
+        barDiv.className = 'cat-bar';
+        barDiv.innerHTML = `
+          <div class="cat-meta">
+            <span>${cat.icon} ${cat.label}</span>
+            <span style="font-weight: 700; color: #fff;">${formatVND(sum)} <span style="color: var(--text-muted); font-size: 0.75rem;">(${pct}%)</span></span>
+          </div>
+          <div class="bar-bg">
+            <div class="bar-fill" style="width: ${pct}%; background: ${cat.color};"></div>
+          </div>
+        `;
+        catContainer.appendChild(barDiv);
+      });
+    }
+
+    // Global Delete
+    window.deleteExpense = function(id) {
+      if (confirm('Bạn có chắc muốn xóa khoản chi này?')) {
+        expenses = expenses.filter(i => i.id !== id);
+        saveExpenses();
+        showToast('Đã xóa khoản chi thành công!', '🗑️');
+      }
+    };
+
+    // Form Submit
+    document.getElementById('add-form').addEventListener('submit', (e) => {
+      e.preventDefault();
+      const day = document.getElementById('expense-day').value;
+      const title = document.getElementById('expense-title').value.trim();
+      const amount = Number(document.getElementById('expense-amount').value);
+      const cat = document.getElementById('expense-cat').value;
+      const note = document.getElementById('expense-note').value.trim();
+
+      const newExpense = {
+        id: Date.now(),
+        day: Number(day),
+        title,
+        amount,
+        cat,
+        note
+      };
+
+      expenses.unshift(newExpense);
+      saveExpenses();
+
+      // Reset Inputs
+      document.getElementById('expense-title').value = '';
+      document.getElementById('expense-amount').value = '';
+      document.getElementById('expense-note').value = '';
+
+      showToast(`Đã thêm: ${title} (${formatVND(amount)})`);
+    });
+
+    // Filter Chips
+    document.getElementById('day-filters').addEventListener('click', (e) => {
+      if (e.target.classList.contains('chip')) {
+        document.querySelectorAll('.chip').forEach(c => c.classList.remove('active'));
+        e.target.classList.add('active');
+        currentFilterDay = e.target.dataset.day;
+        render();
+      }
+    });
+
+    // Copy as Markdown
+    document.getElementById('btn-copy-md').addEventListener('click', () => {
+      const title = document.getElementById('expense-title').value.trim() || 'Khoản chi';
+      const amount = document.getElementById('expense-amount').value || '0';
+      const note = document.getElementById('expense-note').value.trim() || 'Chi tiết';
+      const cat = document.getElementById('expense-cat').options[document.getElementById('expense-cat').selectedIndex].text;
+
+      const mdRow = `| ${title} | ${note} | ${formatVND(amount)} | ${cat} |`;
+      navigator.clipboard.writeText(mdRow).then(() => {
+        showToast('Đã copy dòng Markdown vào Clipboard!', '📋');
+      });
+    });
+
+    // Export JSON
+    document.getElementById('btn-export-json').addEventListener('click', () => {
+      const dataStr = "data:text/json;charset=utf-8," + encodeURIComponent(JSON.stringify(expenses, null, 2));
+      const downloadAnchor = document.createElement('a');
+      downloadAnchor.setAttribute("href", dataStr);
+      downloadAnchor.setAttribute("download", `chi_phi_chuyen_di_${new Date().toISOString().slice(0,10)}.json`);
+      document.body.appendChild(downloadAnchor);
+      downloadAnchor.click();
+      downloadAnchor.remove();
+      showToast('Đã xuất file JSON thành công!', '💾');
+    });
+
+    // Reset Defaults
+    document.getElementById('btn-reset').addEventListener('click', () => {
+      if (confirm('Khôi phục danh sách chi tiêu ban đầu (5 ngày đầu)? Mọi khoản chi tự thêm sẽ bị đặt lại.')) {
+        expenses = [...initialExpenses];
+        saveExpenses();
+        showToast('Đã khôi phục dữ liệu mặc định!', '🔄');
+      }
+    });
+
+    // Init Render
+    render();
+  </script>
+</body>
+</html>

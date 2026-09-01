@@ -46,12 +46,14 @@
 
 ---
 
-## <a id="homestay-pavi"></a>📍 4. Mèo Vạc — Làng Văn Hoá H'Mông Pả Vi (1 đêm: 01/09 - Đêm sát Lễ Quốc Khánh!)
+## <a id="homestay-pavi"></a>📍 4. Mèo Vạc (1 đêm: 01/09 - Đêm sát Lễ Quốc Khánh!)
 
-> ⚠️ **ĐẶC BIỆT LƯU Ý:** Đêm 01/09 trùng đợt Lễ 2/9, khu Pả Vi rất nhanh cháy phòng. **NÊN ĐẶT SỚM BẮT ĐẦU TỪ BÂY GIỜ!**
+> **Khu vực:** Thị trấn Mèo Vạc / Làng Văn Hoá H'Mông Pả Vi.  
+> ✅ **ĐÃ XÁC NHẬN ĐẶT PHÒNG:** [Phương Anh Hotel](../info/dat_phong.md#meo-vac) *(Mã Booking: `5152255450`, PIN: `5143`, Giá: 300.000 VNĐ, Thanh toán tại chỗ)*
 
-| Tên Homestay | Khu vực | Giá tham khảo | Điểm nổi bật & Lý do chọn |
-|--------------|---------|---------------|---------------------------|
+| Tên Homestay / Khách sạn | Khu vực | Giá tham khảo | Điểm nổi bật & Trạng thái |
+|--------------------------|---------|---------------|---------------------------|
+| **Phương Anh Hotel** ✅ *(ĐÃ ĐẶT)* | Trung tâm TT Mèo Vạc | 300k/đêm | Phòng Giường Đôi, sạch sẽ, giá cực tốt đêm cận Lễ 2/9, trung tâm thị trấn tiện ăn uống dạo phố. |
 | **O'Châu Homestay Pả Vi** ⭐ *(TOP 1 Pả Vi)* | Làng H'Mông Pả Vi | 700k - 1.000k/đêm | Nằm ở vị trí trung tâm làng Pả Vi, nhà sàn mái âm dương cực đẹp, phòng áp mái lãng mạn, đốt lửa sàn đêm. |
 | **ViVi Homestay Pả Vi** | Làng H'Mông Pả Vi | 600k - 900k/đêm | Thiết kế chỉn chu, phòng đôi view núi đá hùng vĩ, dịch vụ ăn tối lợn đen nướng rất ngon. |
 | **Meo Vac Clay House (Pả Vi Resort)** | Làng H'Mông Pả Vi | 1.100k - 1.800k/đêm | Khu nghỉ dưỡng nhà đất sét cao cấp trong làng, có không gian spa/tắm lá thuốc dân tộc. |
@@ -60,12 +62,14 @@
 
 ## <a id="homestay-caobang"></a>📍 5. TP Cao Bằng (3 đêm: 02/09, 04/09, 05/09)
 
-> **Khu vực:** Trung tâm TP Cao Bằng (tiện di chuyển, dạo phố sông Hiến & ăn tối).
+> **Khu vực:** Trung tâm TP Cao Bằng (tiện di chuyển, dạo phố sông Hiến & ăn tối).  
+> ✅ **ĐÃ XÁC NHẬN ĐẶT PHÒNG ĐÊM 02/09 (LỄ 2/9):** [Minh Hoang Hotel & Homestay](../info/dat_phong.md#cao-bang-1) *(Mã Booking: `6307.802.042`, PIN: `9687`, Giá: 369.000 VNĐ, Trả tiền mặt)*
 
-| Tên Khách sạn | Hạng sao | Giá tham khảo | Điểm nổi bật & Lý do chọn |
-|---------------|----------|---------------|---------------------------|
-| **Mường Thanh Luxury Cao Bằng** ⭐ *(TOP 1)* | 4 sao cao cấp | 1.100k - 1.600k/đêm | Khách sạn 4 sao lớn nhất tỉnh, phòng êm ái tuyệt đối, buffet sáng đa dạng, hồ bơi & spa hồi sức sau đèo. |
-| **Max Hotel Cao Bằng** ⭐ *(Boutique)* | 3 sao hiện đại | 700k - 1.000k/đêm | Khách sạn mới tinh, thiết kế hiện đại sang trọng, nằm ngay phố ẩm thực trung tâm TP Cao Bằng. |
+| Tên Khách sạn | Hạng sao / Loại hình | Giá tham khảo | Điểm nổi bật & Trạng thái |
+|---------------|----------------------|---------------|---------------------------|
+| **Minh Hoang Hotel & Homestay** ✅ *(ĐÃ ĐẶT 02/09)* | Khách sạn & Homestay | 369k/đêm | 98 Kim Đồng, Hợp Giang. Phòng Giường Đôi Tiết Kiệm, trung tâm TP Cao Bằng, bãi đỗ xe riêng miễn phí, thang máy, giá siêu tiết kiệm đêm Lễ 2/9. |
+| **Mường Thanh Luxury Cao Bằng** ⭐ *(TOP 1)* | 4 sao cao cấp | 1.100k - 1.600k/đêm | Khách sạn 4 sao lớn nhất tỉnh, phòng êm ái tuyệt đối, buffet sáng đa dạng, hồ bơi & spa hồi sức sau đèo (Gợi ý cho đêm 04-05/09). |
+| **Max Hotel Cao Bằng** ⭐ *(Boutique)* | 3 sao hiện đại | 700k - 1.000k/đêm | Khách sạn mới tinh, thiết kế hiện đại sang trọng, nằm ngay phố ẩm thực trung tâm TP Cao Bằng (Gợi ý cho đêm 04-05/09). |
 | **Lux Hotel / Highland Hotel Cao Bằng** | 3 sao trung tâm | 600k - 850k/đêm | Phòng sạch sẽ, tiện nghi đầy đủ, vị trí thuận tiện di chuyển. |
 
 ---

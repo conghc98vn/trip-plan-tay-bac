@@ -179,8 +179,8 @@
 ### Quyết định #19: Hoàn tất Check-in online & nhận Thẻ lên tàu (Boarding Pass) cho 2 người
 - **Chuyến bay:** Vietjet Air **VJ120** (SGN → HAN 05:00 – 07:10 ngày 28/08/2026)
 - **Thông tin chỗ ngồi & Boarding Pass:**
-  - `HOANG CHI CONG`: **Ghế 37E** | Boarding Group: **4** | Seq #: **65** | Thẻ lên tàu: [`ChiCong_BPass20260827062726428.pdf`](file:///Users/trucanh/Desktop/chicong-trip-plan/attachments/ve_may_bay_luot_di/ChiCong_BPass20260827062726428.pdf)
-  - `PHAM HUYNH TRUC ANH`: **Ghế 37F** | Boarding Group: **4** | Seq #: **66** | Thẻ lên tàu: [`TrucAnh_BPass20260827062729463.pdf`](file:///Users/trucanh/Desktop/chicong-trip-plan/attachments/ve_may_bay_luot_di/TrucAnh_BPass20260827062729463.pdf)
+  - `HOANG CHI CONG`: **Ghế 37E** | Boarding Group: **4** | Seq #: **65** | Thẻ lên tàu: [`boarding_pass_vj120_chi_cong.pdf`](file:///Users/trucanh/Desktop/chicong-trip-plan/attachments/ve_may_bay_luot_di/boarding_pass_vj120_chi_cong.pdf)
+  - `PHAM HUYNH TRUC ANH`: **Ghế 37F** | Boarding Group: **4** | Seq #: **66** | Thẻ lên tàu: [`boarding_pass_vj120_truc_anh.pdf`](file:///Users/trucanh/Desktop/chicong-trip-plan/attachments/ve_may_bay_luot_di/boarding_pass_vj120_truc_anh.pdf)
 - **Lưu ý di chuyển Sân bay SGN sáng 28/08:**
   - **Giờ ra cửa khởi hành (Boarding Time):** **04:10 AM** (Cửa khởi hành sẽ đóng 15 phút trước giờ khởi hành).
   - Vì đã check-in online, 2 bạn di chuyển ra sân bay lúc **03:30 AM**, có mặt lúc **04:00 AM** và có thể đi thẳng qua cổng soi chiếu an ninh hàng không (nếu không gửi hành lý) hoặc ghé nhanh quầy drop-bag.
@@ -209,7 +209,7 @@
 
 ### Quyết định #22: Đăng ký bổ sung 1 suất ăn nóng trên chuyến bay lượt đi Vietjet Air VJ120
 - **Chi tiết dịch vụ cộng thêm (Add-on):** 🍱 **1 Suất ăn nóng** — Cơm Thơm Thái Tây Cùng Bò Xào Sốt Bơ (`C.ThaiWBisc`) cho hành khách `HOANG CHI CONG` (PNR **`UJSG2A`**).
-- **Tài liệu đính kèm:** File vé & hành trình xác nhận mới nhất [`attachments/ve_may_bay_luot_di/Itinerary-UJSG2A.pdf`](file:///Users/trucanh/Desktop/chicong-trip-plan/attachments/ve_may_bay_luot_di/Itinerary-UJSG2A.pdf).
+- **Tài liệu đính kèm:** File vé & hành trình xác nhận mới nhất [`attachments/ve_may_bay_luot_di/ve_di_vj120_chi_cong_suat_an.pdf`](file:///Users/trucanh/Desktop/chicong-trip-plan/attachments/ve_may_bay_luot_di/ve_di_vj120_chi_cong_suat_an.pdf).
 - **Cập nhật đồng bộ:** [`info/chuyen_bay.md`](file:///Users/trucanh/Desktop/chicong-trip-plan/info/chuyen_bay.md), [`plans/lich_trinh_chi_tiet.md`](file:///Users/trucanh/Desktop/chicong-trip-plan/plans/lich_trinh_chi_tiet.md), và [`README.md`](file:///Users/trucanh/Desktop/chicong-trip-plan/README.md).
 
 ---
@@ -228,23 +228,132 @@
 - **Quyền lợi hành lý đặc biệt:** Đã bao gồm **1PC (1 Kiện hành lý ký gửi)** cho mỗi người (thuận lợi tối đa để gửi các kiện quà đặc sản Cao Bằng như Hạt dẻ Trùng Khánh, miến đao, lạp xưởng,...).
 - **Tổng chi phí thanh toán:** 1,143,181 VNĐ x 2 + 60,000 VNĐ (chọn chỗ) = **2,346,362 VNĐ** (Thanh toán qua QR).
 - **Tài liệu đính kèm:**
-  - [`attachments/ve_may_bay_luot_ve/CHI CONG HOANG, 809-2400867602, 7TGDE6.pdf`](file:///Users/trucanh/Desktop/chicong-trip-plan/attachments/ve_may_bay_luot_ve/CHI%20CONG%20HOANG,%20809-2400867602,%207TGDE6.pdf)
-  - [`attachments/ve_may_bay_luot_ve/HUYNH TRUC ANH PHAM, 809-2400867601, 7TGDE6.pdf`](file:///Users/trucanh/Desktop/chicong-trip-plan/attachments/ve_may_bay_luot_ve/HUYNH%20TRUC%20ANH%20PHAM,%20809-2400867601,%207TGDE6.pdf)
+  - [`attachments/ve_may_bay_luot_ve/ve_ve_9g893_chi_cong_7tgde6.pdf`](file:///Users/trucanh/Desktop/chicong-trip-plan/attachments/ve_may_bay_luot_ve/ve_ve_9g893_chi_cong_7tgde6.pdf)
+  - [`attachments/ve_may_bay_luot_ve/ve_ve_9g893_truc_anh_7tgde6.pdf`](file:///Users/trucanh/Desktop/chicong-trip-plan/attachments/ve_may_bay_luot_ve/ve_ve_9g893_truc_anh_7tgde6.pdf)
 - **Cập nhật đồng bộ:** [`info/chuyen_bay.md`](file:///Users/trucanh/Desktop/chicong-trip-plan/info/chuyen_bay.md), [`plans/lich_trinh_chi_tiet.md`](file:///Users/trucanh/Desktop/chicong-trip-plan/plans/lich_trinh_chi_tiet.md), [`notes/hanh_ly_baga.md`](file:///Users/trucanh/Desktop/chicong-trip-plan/notes/hanh_ly_baga.md) và [`README.md`](file:///Users/trucanh/Desktop/chicong-trip-plan/README.md).
+
+---
+
+## 28/08/2026 — Hoàn Thành Ngày 1: Sài Gòn → Nội Bài → Mỹ Đức → Ba Đình Hà Nội
+
+### 📝 Nhật ký & Chi tiêu thực tế Ngày 1 (28/08/2026 — Tổng: 2.010.000 VNĐ):
+- **Di chuyển & Xăng xe (190.000 VNĐ):**
+  - Taxi ra Sân bay Tân Sơn Nhất (SGN): **100.000 VNĐ**
+  - Taxi từ Nội Bài ra điểm nhận xe máy MOTOGO: **40.000 VNĐ**
+  - Đổ xăng xe máy tại Nội Bài: **50.000 VNĐ**
+- **Ẩm thực & Cà phê (720.000 VNĐ):**
+  - Ăn sáng Phở Hiệu (Cầu Giấy): **150.000 VNĐ**
+  - Bánh ngọt: **50.000 VNĐ**
+  - Ăn trưa Bún đậu Cô Hương: **80.000 VNĐ**
+  - Nước uống giải khát dọc đường: **50.000 VNĐ**
+  - Ăn tối Nầm bò nướng than hoa: **390.000 VNĐ**
+- **Quà biếu & Thăm gia đình (1.100.000 VNĐ):**
+  - Mua trái cây thăm ông bà (Mỹ Đức): **300.000 VNĐ**
+  - Mua Yến, bánh, sữa thăm bà và các bác: **650.000 VNĐ**
+  - Mua bánh cho các cháu: **150.000 VNĐ**
+
+---
+
+## 29/08/2026 — Hoàn Thành Ngày 2: Khám Phá Hà Nội → Tối Lên Xe Đi Hà Giang
+
+### 📝 Nhật ký & Chi tiêu thực tế Ngày 2 (29/08/2026 — Tổng: 1.220.000 VNĐ):
+- **Lưu trú & Xăng xe (130.000 VNĐ):**
+  - Phụ phí phát sinh thêm giờ tại Da Tree Homestay Ba Đình: **100.000 VNĐ**
+  - Đổ xăng xe máy ở trung tâm Hà Nội: **30.000 VNĐ**
+- **Tham quan di tích (100.000 VNĐ):**
+  - Vé tham quan Hoàng Thành Thăng Long (2 vé SV có thẻ): **100.000 VNĐ** *(50k/vé)*
+- **Ẩm thực & Ăn vặt (490.000 VNĐ):**
+  - Bún chả: **125.000 VNĐ**
+  - Bún cá chấm: **90.000 VNĐ**
+  - Nem chua rán phố cổ: **125.000 VNĐ**
+  - Ăn tối Chả cá Thăng Long: **0 VNĐ** *(Anh Long mời)*
+  - Sữa chua trân châu Hạ Long: **150.000 VNĐ**
+- **Quà biếu (500.000 VNĐ):**
+  - Mua bánh trung thu biếu anh chị: **500.000 VNĐ**
+
+## 30/08/2026 — Ký Hợp Đồng #45 & Hoàn Tất Thanh Toán Thuê Xe Máy Giang Sơn
+
+### Quyết định #27: Ký Hợp đồng #45 & Chuyển khoản 5.262.500 VNĐ cho tiệm Giang Sơn (Hà Giang)
+- **Thông tin hợp đồng:** **HỢP ĐỒNG SỐ 45** (Nhân viên phụ trách: **Hương**)
+- **Khách hàng:** Hoàng Chí Công — SĐT: `0969 910 198`
+- **Thời gian thuê:** **30/08/2026 đến 05/09/2026** (7.0 ngày)
+- **Loại xe bàn giao:** 1 x **Honda Wave 110cc** (Xe số)
+- **Chi phí thuê xe trọn gói:**
+  - Tiền thuê xe: 180.000đ/ngày × 7 ngày = **1.260.000 VNĐ**
+  - Gói bảo vệ rủi ro (RR): 100.000đ/ngày
+  - Phụ phí vận chuyển trả xe tại TP Cao Bằng
+  - Thuế VAT (5%): **112.500 VNĐ**
+  - Tổng tiền thuê xe trọn gói: **2.362.500 VNĐ** *(Đã trừ 100.000 VNĐ cọc trước ngày 15/08 = còn lại 2.262.500 VNĐ)*
+- **Tiền cọc hợp đồng (Hoàn lại):** **3.000.000 VNĐ** *(Sẽ nhận lại khi bàn giao trả xe tại TP Cao Bằng)*
+- **Hình thức thanh toán:** Chuyển khoản thành công **5.262.500 VNĐ** qua **MBBank** *(Gồm 2.262.500đ tiền thuê còn lại + 3.000.000đ cọc hợp đồng)*.
+- **Tình trạng:** ✅ **Đã ký hợp đồng & Khách nợ: 0 VNĐ**
+- **Tài liệu đính kèm:** [`attachments/giang_son_ha_giang/hop_dong_thue_xe_45_giang_son.jpg`](file:///Users/trucanh/Desktop/chicong-trip-plan/attachments/giang_son_ha_giang/hop_dong_thue_xe_45_giang_son.jpg)
+- **Tham chiếu chi tiết:** [`info/thue_xe_may.md`](file:///Users/trucanh/Desktop/chicong-trip-plan/info/thue_xe_may.md#2-xe-máy-tour-hà-giang--cao-bằng--giang-sơn-3008---0509--đã-ký-hợp-đồng-45)
 
 ---
 
 ## 30/08/2026 — Hoàn Thành Ngày 3: TP Hà Giang → Quản Bạ → Yên Minh (~100 km)
 
-### 📝 Nhật ký thực tế Ngày 3 (30/08/2026):
-- **Thời gian di chuyển:** Xuất phát từ Cột mốc Km0 Hà Giang lúc **08:00** → Vượt Dốc Bắc Sum, Cổng Trời Quản Bạ, Núi Đôi Cô Tiên, Cán Tỷ → Cập bến thị trấn Yên Minh an toàn lúc **~13:00** (về đích sớm hơn dự kiến, lái xe an toàn, thời tiết thuận lợi).
-- **Lưu trú:** Check-in [Bong Bang Homestay 2](file:///Users/trucanh/Desktop/chicong-trip-plan/info/dat_phong.md#yen-minh) (Yên Minh).
-- **Chi tiêu thực tế Ngày 3 (Tổng cộng: 690.000 VNĐ):**
-  - 🍜 **Ăn sáng:** Bún riêu Bống (TP Hà Giang): **100.000 VNĐ**
-  - 🍚 **Ăn trưa:** Cơm bình dân thịt lợn + rau xào: **150.000 VNĐ**
+### 📝 Nhật ký & Chi tiêu thực tế Ngày 3 (30/08/2026 — Tổng: 835.000 VNĐ):
+- **Lộ trình:** Cột mốc Km0 Hà Giang (08:00) → Dốc Bắc Sum → Cổng Trời Quản Bạ → Can Tỷ → Cập bến Yên Minh an toàn lúc ~13:00. Check-in Bong Bang Homestay 2.
+- **Xăng xe (70.000 VNĐ):**
+  - Đổ xăng xe máy Wave 110cc: **70.000 VNĐ**
+- **Ẩm thực & Cà phê (765.000 VNĐ):**
+  - 🍜 **Sáng:** Bún riêu Bống (TP Hà Giang): **100.000 VNĐ**
+  - 🍚 **Trưa:** Cơm bình dân thịt lợn bản + rau xào tại Yên Minh: **150.000 VNĐ**
   - 🥤 **Dọc đường:** Nước suối & nước giải khát: **100.000 VNĐ**
-  - 🍢 **Ăn tối & Ăn vặt:** Lợn nướng + chim cút nướng (100k) + cá viên (90k) + trái cây (50k): **340.000 VNĐ**
-- **Cập nhật đồng bộ:** [`plans/lich_trinh_chi_tiet.md`](file:///Users/trucanh/Desktop/chicong-trip-plan/plans/lich_trinh_chi_tiet.md) và [`notes/dac_san_am_thuc.md`](file:///Users/trucanh/Desktop/chicong-trip-plan/notes/dac_san_am_thuc.md).
+  - 🍢 **Tối & Ăn vặt:** Lợn nướng + chim cút nướng (100k) + cá viên (90k) + trái cây (50k): **340.000 VNĐ**
+  - ☕ **Giải khát & Cà phê:** 2 ly Nước sấu + 1 ly Café Bạc xỉu: **75.000 VNĐ**
+
+---
+
+## 31/08/2026 — Hoàn Thành Ngày 4: Yên Minh → Dốc Thẩm Mã → Lũng Cú → Lô Lô Chải → Đồng Văn (~95 km)
+
+### 📝 Nhật ký & Chi tiêu thực tế Ngày 4 (31/08/2026 — Tổng: 795.000 VNĐ):
+- **Lộ trình:** Yên Minh → Dốc Thẩm Mã → Dinh Vua Mèo Sà Phìn → Cột cờ Lũng Cú → Làng Lô Lô Chải → Phố Cổ Đồng Văn. Check-in ToTo-Chan Hotel an toàn lúc 16:30.
+- **Xăng xe & Nước uống dọc đường (100.000 VNĐ):**
+  - Đổ xăng ở Yên Minh: **50.000 VNĐ**
+  - Nước uống dọc đường: **50.000 VNĐ**
+- **Ẩm thực, Cà phê & Ăn vặt (695.000 VNĐ):**
+  - ☕ **Sáng:** Café Bạc xỉu: **35.000 VNĐ**
+  - 🍜 **Sáng:** Phở tráng tay: **80.000 VNĐ**
+  - 🍢 **Trưa (Lô Lô Chải):** Xiên nướng bản địa + 2 ly Trà sữa Shan Tuyết: **250.000 VNĐ**
+  - 🍚 **Chiều:** Cơm rang dưa bò + Lòng xào dưa: **200.000 VNĐ**
+  - 🍵 **Tối Phố Cổ Đồng Văn:** Trà chanh + cắn Hạt dưa: **80.000 VNĐ**
+  - 🍲 **Ăn đêm:** Cháo Ấu Tẩu Đồng Văn: **50.000 VNĐ**
+
+---
+
+## 01/09/2026 — Hoàn Thành Ngày 5: Đồng Văn → Mã Pí Lèng → Vách Đá Tử Thần → Sông Nho Quế → Mèo Vạc (~50 km)
+
+### 📝 Nhật ký & Chi tiêu thực tế Ngày 5 (01/09/2026 — Tổng: 660.000 VNĐ):
+- **Lộ trình:** Đồng Văn → Đèo Mã Pí Lèng → Vách đá tử thần → Đi thuyền ngắm Hẻm Tu Sản Sông Nho Quế → TT Mèo Vạc. Check-in Phương Anh Hotel Mèo Vạc.
+- **Xăng xe & Di chuyển (150.000 VNĐ):**
+  - Đổ xăng sáng ở Đồng Văn + Đổ xăng chiều ở Mèo Vạc: **40.000 VNĐ**
+  - Mua thêm chai xăng nhỏ dự phòng 500ml: **10.000 VNĐ**
+  - Xe ôm trung chuyển lên Vách đá tử thần: **100.000 VNĐ**
+- **Thư giãn & Dịch vụ (60.000 VNĐ):**
+  - Gội đầu thư giãn: **60.000 VNĐ**
+- **Ẩm thực & Thức uống (450.000 VNĐ):**
+  - 🍞 **Sáng:** Bánh mì ốp la + Café tại ToTo-Chan Hotel (Free) + Bánh cuốn nóng: **35.000 VNĐ**
+  - 🍚 **Trưa:** Cơm thịt rang + Bò lá lốt + Rau luộc: **100.000 VNĐ**
+  - 🍦 **Chiều:** Kem + Nước ngọt WinMart: **70.000 VNĐ**
+  - 🦆 **Tối:** Vịt nướng 1/2 con (125k) + 2 ly Trà chanh Vườn Đào (40k): **165.000 VNĐ**
+  - 🍢 **Ăn thêm đêm:** Lợn nướng (50k) + 1 ly Café sữa (30k): **80.000 VNĐ**
+
+---
+
+### 💰 BẢNG TỔNG KẾT CHI TIÊU THỰC TẾ 5 NGÀY ĐẦU (28/08 – 01/09/2026)
+
+| Ngày | Chặng di chuyển | Chi phí thực tế (VNĐ) | Hạng mục chi tiêu chính |
+|:---|:---|:---:|:---|
+| **Ngày 1 (28/08)** | SGN → Nội Bài → Mỹ Đức → Hà Nội | **2.010.000đ** | Quà biếu thăm thân (1.100k) + Nầm bò nướng (390k) + Phở Hiệu & Bún đậu + Taxi & Xăng (190k) |
+| **Ngày 2 (29/08)** | Khám phá Hà Nội → Xe đêm đi HG | **1.220.000đ** | Bánh trung thu biếu (500k) + Sữa chua Hạ Long + Bún chả/Bún cá/Nem chua + Vé Hoàng Thành (100k) + KS quá giờ (100k) |
+| **Ngày 3 (30/08)** | TP Hà Giang → Quản Bạ → Yên Minh | **835.000đ** | Đồ nướng & trái cây Yên Minh (340k) + Cơm trưa (150k) + Bún riêu Bống (100k) + Nước sấu/bạc xỉu (75k) + Xăng (70k) |
+| **Ngày 4 (31/08)** | Yên Minh → Lũng Cú → Đồng Văn | **795.000đ** | Xiên nướng & trà sữa Lô Lô Chải (250k) + Cơm rang dưa bò/lòng (200k) + Phở tráng tay (80k) + Trà chanh + Cháo ấu tẩu (50k) + Xăng (50k) |
+| **Ngày 5 (01/09)** | Đồng Văn → Nho Quế → Mèo Vạc | **660.000đ** | Vịt nướng & Trà chanh Vườn Đào (165k) + Cơm trưa (100k) + Xe ôm Vách đá (100k) + Lợn nướng/cafe (80k) + Gội đầu (60k) + Xăng & Chai phụ (50k) |
+| **TỔNG CỘNG (5 NGÀY)** | **Hà Nội — Hà Giang Loop** | 🏆 **5.520.000 VNĐ** | *Chi tiêu sinh hoạt, ẩm thực, xăng xe, quà biếu và trải nghiệm thực tế dọc đường.* |
+
 
 ## 30/08/2026 — Xác nhận lưu trú đêm 31/08 (ToTo-Chan Hotel — Đồng Văn)
 
@@ -280,6 +389,50 @@
 - **Tài liệu tham chiếu:** [`info/xe_khach.md`](file:///Users/trucanh/Desktop/chicong-trip-plan/info/xe_khach.md#chặng-1-hà-nội--tp-hà-giang-tối-2908-), [`attachments/ve_xe_khach_ha_noi_di_ha_giang/xac_nhan_ve_quang_tuyen_hn_hg.png`](file:///Users/trucanh/Desktop/chicong-trip-plan/attachments/ve_xe_khach_ha_noi_di_ha_giang/xac_nhan_ve_quang_tuyen_hn_hg.png)
 - **Cập nhật đồng bộ:** [`plans/lich_trinh_chi_tiet.md`](file:///Users/trucanh/Desktop/chicong-trip-plan/plans/lich_trinh_chi_tiet.md), [`info/xe_khach.md`](file:///Users/trucanh/Desktop/chicong-trip-plan/info/xe_khach.md) và [`README.md`](file:///Users/trucanh/Desktop/chicong-trip-plan/README.md).
 
+## 31/08/2026 — Xác nhận lưu trú đêm 01/09 (Phương Anh Hotel — Mèo Vạc)
+
+### Quyết định #26: Chốt phòng Phương Anh Hotel (Thị trấn Mèo Vạc)
+- **Tên chỗ nghỉ:** **Phương Anh Hotel** ✅ *(Đã xác nhận trên Booking.com)*
+- **Mã xác nhận Booking:** `5152255450` | **Mã PIN:** `5143`
+- **Địa chỉ:** Trung tâm thị trấn Mèo Vạc, huyện Mèo Vạc, tỉnh Hà Giang
+- **Điện thoại chỗ nghỉ:** `+84 979 730 780` *(hoặc `+84 963 625 998`)*
+- **Thời gian lưu trú:** 1 đêm (Nhận phòng: T3 01/09/2026 14:00 - 23:30 — Trả phòng: T4 02/09/2026 05:00 - 12:00)
+- **Loại phòng:** 1 x Phòng Giường Đôi (2 người lớn)
+- **Tổng chi phí:** **300.000 VNĐ** (Thanh toán tại chỗ nghỉ)
+- **Tài liệu tham chiếu:** [`info/dat_phong.md`](file:///Users/trucanh/Desktop/chicong-trip-plan/info/dat_phong.md#meo-vac)
+- **Tài liệu đính kèm:** [`attachments/booking/xac_nhan_booking_meo_vac_phuong_anh.pdf`](file:///Users/trucanh/Desktop/chicong-trip-plan/attachments/booking/xac_nhan_booking_meo_vac_phuong_anh.pdf)
+- **Cập nhật đồng bộ:** [`plans/lich_trinh_chi_tiet.md`](file:///Users/trucanh/Desktop/chicong-trip-plan/plans/lich_trinh_chi_tiet.md), [`notes/goi_y_homestay.md`](file:///Users/trucanh/Desktop/chicong-trip-plan/notes/goi_y_homestay.md) và [`README.md`](file:///Users/trucanh/Desktop/chicong-trip-plan/README.md).
+
+## 01/09/2026 — Thiết lập Bảng Tổng Hợp Chi Phí Toàn Chuyến & Interactive Dashboard Realtime
+
+### Quyết định #28: Khởi tạo Master Expense Tracker & Công cụ Interactive Dashboard cập nhật realtime
+- **Mục tiêu:** Tổng hợp toàn bộ các khoản chi cố định (vé bay, xe khách, thuê xe máy, lưu trú) và toàn bộ chi phí sinh hoạt phát sinh thực tế từng ngày (Ngày 1 đến Ngày 10), hỗ trợ nhập liệu và tính tổng tự động tức thì.
+- **Tài liệu mới khởi tạo:**
+  1. [`info/tong_hop_chi_phi.md`](file:///Users/trucanh/Desktop/chicong-trip-plan/info/tong_hop_chi_phi.md): Bảng biểu Markdown chi tiết phân bổ theo 6 nhóm danh mục, phân bổ từng ngày và mẫu quick-log.
+  2. [`info/expense_tracker.html`](file:///Users/trucanh/Desktop/chicong-trip-plan/info/expense_tracker.html): Interactive Web Dashboard hiện đại, chạy trực tiếp trên mobile/desktop, tự động tính tổng, lọc theo ngày, lưu LocalStorage và hỗ trợ sao chép dòng Markdown.
+- **Tổng chi phí ghi nhận đến hết Ngày 5 (01/09/2026):**
+  - Chi phí cố định (vé bay + xe khách + thuê 2 xe máy): **6.694.024 VNĐ**
+  - Chi phí lưu trú (5 đêm đầu): **1.494.400 VNĐ**
+  - Chi phí sinh hoạt, ẩm thực, xăng xe, quà biếu (5 ngày đầu): **5.520.000 VNĐ**
+  - 👉 **Tổng đã chi thực tế:** **13.708.424 VNĐ** (~6.854.212 VNĐ / người).
+  - 🔄 **Khoản cọc xe Giang Sơn hoàn lại:** **+3.000.000 VNĐ** (nhận lại trưa 06/09 tại TP Cao Bằng).
+- **Cập nhật đồng bộ:** [`README.md`](file:///Users/trucanh/Desktop/chicong-trip-plan/README.md).
+
+## 01/09/2026 — Chốt lưu trú đêm 02/09 (Minh Hoang Hotel & Homestay — TP Cao Bằng)
+
+### Quyết định #29: Chốt phòng Minh Hoang Hotel & Homestay (TP Cao Bằng) cho đêm Lễ 2/9
+- **Tên chỗ nghỉ:** **Minh Hoang Hotel & Homestay** ✅ *(Đã xác nhận trên Booking.com)*
+- **Mã xác nhận Booking:** `6307.802.042` | **Mã PIN:** `9687`
+- **Địa chỉ:** 98 Kim Đồng, Phường Hợp Giang, TP Cao Bằng, Tỉnh Cao Bằng, Việt Nam
+- **Tọa độ GPS:** `N 022° 39.752, E 106° 15.629`
+- **Điện thoại chỗ nghỉ:** `+84 978 596 508`
+- **Thời gian lưu trú:** 1 đêm (Nhận phòng: T4 02/09/2026 14:00 - 23:30 — Trả phòng: T5 03/09/2026 00:00 - 12:00)
+- **Loại phòng:** 1 x Phòng Giường Đôi Hạng Tiết Kiệm (2 người lớn, giường đôi 151-180cm, phòng tắm riêng, điều hòa, TV, thang máy, bãi đỗ xe miễn phí)
+- **Tổng chi phí:** **369.000 VNĐ** (Thanh toán tiền mặt tại chỗ nghỉ)
+- **Tài liệu tham chiếu:** [`info/dat_phong.md`](file:///Users/trucanh/Desktop/chicong-trip-plan/info/dat_phong.md#cao-bang-1)
+- **Tài liệu đính kèm:** [`attachments/booking/xac_nhan_booking_cao_bang_minh_hoang.pdf`](file:///Users/trucanh/Desktop/chicong-trip-plan/attachments/booking/xac_nhan_booking_cao_bang_minh_hoang.pdf)
+- **Cập nhật đồng bộ:** [`plans/lich_trinh_chi_tiet.md`](file:///Users/trucanh/Desktop/chicong-trip-plan/plans/lich_trinh_chi_tiet.md), [`info/tong_hop_chi_phi.md`](file:///Users/trucanh/Desktop/chicong-trip-plan/info/tong_hop_chi_phi.md), [`info/expense_tracker.html`](file:///Users/trucanh/Desktop/chicong-trip-plan/info/expense_tracker.html), [`notes/goi_y_homestay.md`](file:///Users/trucanh/Desktop/chicong-trip-plan/notes/goi_y_homestay.md) và [`README.md`](file:///Users/trucanh/Desktop/chicong-trip-plan/README.md).
+
 ---
 
 ## Cần quyết định tiếp
@@ -297,9 +450,14 @@
 - [x] Phân loại & Chốt Master Food List Hà Nội ([dac_san_am_thuc.md](file:///Users/trucanh/Desktop/chicong-trip-plan/notes/dac_san_am_thuc.md#food-hn))
 - [x] Cập nhật dự báo thời tiết chi tiết từng ngày (✅ Cập nhật mới nhất 27/08/2026 trong [lich_trinh_chi_tiet.md](file:///Users/trucanh/Desktop/chicong-trip-plan/plans/lich_trinh_chi_tiet.md))
 - [x] Đặt homestay/khách sạn Đồng Văn (✅ **ToTo-Chan Hotel** - Đã xác nhận đêm 31/08 - 446.4k gồm ăn sáng)
-- [ ] Đặt homestay Mèo Vạc (đêm 01/09 - **CẦN ĐẶT SỚM trong tuần này vì Lễ 2/9**)
-- [ ] Đặt khách sạn TP Cao Bằng (đêm 02/09 - **CẦN ĐẶT SỚM trong tuần này vì Lễ 2/9**) & Thác Bản Giốc (đêm 03/09)
+- [x] Đặt homestay/khách sạn Mèo Vạc (✅ **Phương Anh Hotel** - Đã xác nhận đêm 01/09 - 300k)
+- [x] Đặt khách sạn TP Cao Bằng đêm 02/09 (✅ **Minh Hoang Hotel & Homestay** - Đã xác nhận đêm 02/09 - 369k)
+- [x] Khởi tạo Bảng tổng hợp chi phí & Web App Expense Tracker Realtime ([tong_hop_chi_phi.md](file:///Users/trucanh/Desktop/chicong-trip-plan/info/tong_hop_chi_phi.md))
+- [ ] Đặt homestay Thác Bản Giốc (đêm 03/09) & Khách sạn TP Cao Bằng (đêm 04/09, 05/09)
 - [ ] Đặt xe khách CB → Nội Bài (trưa 06/09)
+
+
+
 
 
 

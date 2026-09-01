@@ -17,20 +17,25 @@
 
 ---
 
-## 2. Xe máy tour Hà Giang → Cao Bằng — Giang Sơn (30/08 - 06/09)
+## 2. Xe máy tour Hà Giang → Cao Bằng — Giang Sơn (30/08 - 05/09) — ✅ Đã ký Hợp đồng #45
 | Hạng mục | Chi tiết |
 |----------|---------|
-| **Tên khách đặt** | **Chí Công** — SĐT: **0969910198** |
-| **Thời gian thuê** | 30/08 sáng (nhận TP HG) → 05/09 - 06/09 (trả TP CB) — **7 - 8 ngày** |
-| **Tiệm thuê** | **Giang Sơn** (TP Hà Giang) |
-| **Hotline** | Mr Sơn: **0983 380 333** / Mrs Giang: **0988 470 863** / Hotline cứu hộ 24/7 |
-| **Loại xe** | **Honda Wave 110cc (xe số, có gói Bảo hiểm của Giang Sơn)** |
-| **Giá thuê** | **250k/ngày (đã gồm gói BH cứu hộ)** × 8 ngày = **2.000.000đ** |
-| **Phụ phí trả xe tại CB** | **500k** (phụ phí trả xe khác tỉnh cho xe số 110cc) |
-| **Tổng chi phí xe** | **2.500.000đ** *(tiền thuê xe + BH cứu hộ + phụ phí trả Cao Bằng)* |
-| **Đặt cọc** | ✅ **100.000 VNĐ** (Chuyển khoản ngày 15/08/2026 — File: [`attachments/giang_son_ha_giang/bien_lai_chuyen_khoan.jpg`](file:///Users/trucanh/Desktop/chicong-trip-plan/attachments/giang_son_ha_giang/bien_lai_chuyen_khoan.jpg)) |
-| **Đặc quyền & Dịch vụ đi kèm** | • **Phòng nghỉ & tắm rửa miễn phí:** Đón khách lên TP Hà Giang sáng 30/08 nghỉ ngơi free và trả xe tắm rửa free tại cửa hàng.<br>• **Baga sau chằng đồ:** 100% xe trang bị gác baga kéo dài phía sau chắc chắn.<br>• **Cứu hộ dọc đường 24/7:** Hệ thống 360 hotline hỗ trợ, sẵn sàng gọi thợ sửa chữa gần nhất đến xử lý tận nơi.<br>• **Chất lượng xe cam kết:** Xe mới thay 2 năm/lần, bảo dưỡng định kỳ & đội thợ check xe kỹ trước khi giao.<br>• **Ưu đãi Giang Sơn Hill Hotel (Đồng Văn):** **Giảm 20%** giá phòng khách sạn 3⭐ mới xây ở trung tâm Đồng Văn dành riêng cho khách thuê xe. |
-| **Status** | ✅ **ĐÃ XÁC NHẬN ĐẶT XE (ĐÃ CỌC 100K)** |
+| **Hợp đồng & Nhân viên** | **HỢP ĐỒNG SỐ 45** — Nhân viên phụ trách: **Hương** |
+| **Tên khách đặt** | **Hoàng Chí Công (Chí Công)** — SĐT: **0969910198** |
+| **Thời gian thuê** | **30/08/2026 → 05/09/2026** (**7.0 ngày**) |
+| **Tiệm thuê** | **Giang Sơn** (TP Hà Giang) — Mr Sơn: `0983 380 333` / Mrs Giang: `0988 470 863` |
+| **Loại xe** | **Xe số 110cc (Honda Wave 110cc)** (Số lượng: 1 xe) |
+| **Giá thuê xe** | **180.000đ/ngày** × 7 ngày = **1.260.000đ** |
+| **Gói dịch vụ đi kèm** | • **Gói bảo vệ rủi ro (RR):** 100.000đ/ngày (Cứu hộ 24/7 & hỗ trợ rủi ro hỏng hóc dọc đường)<br>• **Vận chuyển:** Phụ phí trả xe khác tỉnh tại TP Cao Bằng |
+| **Cọc giữ xe trước đó** | **100.000đ** (Đã chuyển khoản ngày 15/08/2026) |
+| **Tổng tiền trước VAT** | **2.250.000đ** |
+| **Thuế VAT** | **112.500đ** |
+| **Tổng chi phí thuê xe trọn gói** | **2.362.500 VNĐ** *(Đã gồm tiền xe 7 ngày + Gói BV rủi ro + Phụ phí trả Cao Bằng + VAT)* |
+| **Tiền cọc hợp đồng (Hoàn lại)** | **3.000.000 VNĐ** *(Sẽ nhận lại khi bàn giao trả xe tại TP Cao Bằng)* |
+| **Thanh toán chuyển khoản** | ✅ **5.262.500 VNĐ** (Chuyển khoản qua **MBBank**) = *2.262.500đ tiền thuê còn lại + 3.000.000đ tiền cọc hoàn lại* |
+| **Tình trạng hợp đồng** | ✅ **ĐÃ KÝ & THANH TOÁN ĐỦ (Khách nợ: 0đ)** |
+| **Tài liệu đính kèm** | • Ảnh hợp đồng: [`attachments/giang_son_ha_giang/hop_dong_thue_xe_45_giang_son.jpg`](file:///Users/trucanh/Desktop/chicong-trip-plan/attachments/giang_son_ha_giang/hop_dong_thue_xe_45_giang_son.jpg)<br>• Biên lai cọc 100k trước đó: [`attachments/giang_son_ha_giang/bien_lai_chuyen_khoan.jpg`](file:///Users/trucanh/Desktop/chicong-trip-plan/attachments/giang_son_ha_giang/bien_lai_chuyen_khoan.jpg) |
+| **Đặc quyền & Dịch vụ đi kèm** | • **Phòng nghỉ & tắm rửa miễn phí:** Đón khách lên TP Hà Giang sáng 30/08 nghỉ ngơi free và trả xe tắm rửa free tại cửa hàng.<br>• **Baga sau chằng đồ:** 100% xe trang bị gác baga kéo dài phía sau chắc chắn.<br>• **Cứu hộ dọc đường 24/7:** Hệ thống 360 hotline hỗ trợ, sẵn sàng gọi thợ sửa chữa gần nhất đến xử lý tận nơi.<br>• **Ưu đãi Giang Sơn Hill Hotel (Đồng Văn):** Giảm 20% giá phòng khách sạn 3⭐ mới xây ở trung tâm Đồng Văn. |
 
 ### Bảng giá Giang Sơn (tham khảo)
 | Loại xe | Giá/ngày (không BH) | Giá/ngày (có BH) |

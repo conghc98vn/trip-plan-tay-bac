@@ -72,15 +72,58 @@
 
 ---
 
-## ⏳ Đêm 3: 01/09/2026 (Thứ Ba) — Mèo Vạc (Làng H'Mông Pả Vi)
-*⚠️ Cần đặt sớm — Trùng đợt Lễ 2/9! Đang ưu tiên O'Châu Homestay / ViVi Homestay*
+## <a id="meo-vac"></a>📍 Đêm 3: 01/09/2026 (Thứ Ba) — Thị trấn Mèo Vạc (Hà Giang)
+
+| Hạng mục | Chi tiết xác nhận |
+|----------|-------------------|
+| **Tên chỗ nghỉ** | **Phương Anh Hotel** ✅ *(Đã xác nhận trên Booking.com)* |
+| **Số xác nhận (Booking ID)** | `5152255450` |
+| **Mã PIN (Bảo mật)** | `5143` |
+| **Địa chỉ** | Trung tâm Thị trấn Mèo Vạc, huyện Mèo Vạc, tỉnh Hà Giang, Việt Nam |
+| **Điện thoại chỗ nghỉ** | `+84 979 730 780` *(hoặc `+84 963 625 998`)* |
+| **Thời gian nhận phòng** | **T3, 01/09/2026** (14:00 - 23:30) |
+| **Thời gian trả phòng** | **T4, 02/09/2026** (05:00 - 12:00) |
+| **Loại phòng** | 1 x Phòng Giường Đôi (2 người lớn) |
+| **Tên khách đặt** | Công Chí |
+| **Tổng giá tiền** | **300.000 VNĐ** *(Gồm thuế & phí)* |
+| **Hình thức thanh toán** | **Thanh toán tại chỗ nghỉ** *(Phương Anh Hotel)* |
+| **Chính sách hủy phòng** | Theo chính sách đơn đặt phòng trên Booking.com |
+| **Tài liệu đính kèm** | [`attachments/booking/xac_nhan_booking_meo_vac_phuong_anh.pdf`](../attachments/booking/xac_nhan_booking_meo_vac_phuong_anh.pdf) |
+| **Link quản lý Booking** | [Chỉnh sửa / Quản lý đặt phòng](https://secure.booking.com/confirmation.vi.html?bn=5152255450&pincode=5143) |
 
 ---
 
-## ⏳ Đêm 4 & Đêm 6, 7: 02/09, 04/09, 05/09 — TP Cao Bằng
-*⏳ Chưa đặt — Ưu tiên Mường Thanh Luxury / Max Hotel Cao Bằng*
+## <a id="cao-bang-1"></a>📍 Đêm 4: 02/09/2026 (Thứ Tư 🇻🇳) — TP Cao Bằng (Đêm Lễ Quốc Khánh)
+
+| Hạng mục | Chi tiết xác nhận |
+|----------|-------------------|
+| **Tên chỗ nghỉ** | **Minh Hoang Hotel & Homestay** ✅ *(Đã xác nhận trên Booking.com)* |
+| **Số xác nhận (Booking ID)** | `6307.802.042` |
+| **Mã PIN (Bảo mật)** | `9687` |
+| **Địa chỉ** | 98 Kim Đồng, Phường Hợp Giang, TP Cao Bằng, Tỉnh Cao Bằng, Việt Nam |
+| **Tọa độ GPS** | `N 022° 39.752, E 106° 15.629` |
+| **Điện thoại chỗ nghỉ** | `+84 978 596 508` |
+| **Thời gian nhận phòng** | **T4, 02/09/2026** (14:00 - 23:30) |
+| **Thời gian trả phòng** | **T5, 03/09/2026** (00:00 - 12:00) |
+| **Loại phòng** | 1 x Phòng Giường Đôi Hạng Tiết Kiệm (2 người lớn, giường đôi 151-180cm) |
+| **Tên khách đặt** | Chí Công |
+| **Tổng giá tiền** | **369.000 VNĐ** *(Gồm 325.397 VNĐ phòng + 27.333 VNĐ thuế GTGT 8% + 16.270 VNĐ phí dịch vụ 5%)* |
+| **Hình thức thanh toán** | **Thanh toán tiền mặt tại chỗ nghỉ** *(Chỉ chấp nhận tiền mặt)* |
+| **Dịch vụ ăn uống** | Giá phòng không bao gồm bữa ăn nào |
+| **Chính sách hủy phòng** | **Không hoàn tiền** *(Phí hủy: 369.000 VNĐ từ 01/09/2026 22:10)* |
+| **Yêu cầu đặc biệt** | Dự kiến giờ đến (ETA): khoảng 12:00 - 13:00 |
+| **Tiện ích & Đỗ xe** | Wi-Fi miễn phí, bãi đỗ xe riêng miễn phí tại chỗ (không cần đặt trước), có thang máy, điều hòa, TV |
+| **Tài liệu đính kèm** | [`attachments/booking/xac_nhan_booking_cao_bang_minh_hoang.pdf`](../attachments/booking/xac_nhan_booking_cao_bang_minh_hoang.pdf) |
+| **Link quản lý Booking** | [Chỉnh sửa / Quản lý đặt phòng](https://your.booking.com) |
 
 ---
 
 ## ⏳ Đêm 5: 03/09/2026 (Thứ Năm) — Thác Bản Giốc (Trùng Khánh)
 *⏳ Chưa đặt — Ưu tiên Yến Nhi Homestay (Làng cổ đá Khuổi Ky)*
+
+---
+
+## ⏳ Đêm 6 & Đêm 7: 04/09 & 05/09/2026 — TP Cao Bằng (2 đêm)
+*⏳ Chưa đặt — Ưu tiên Max Hotel / Mường Thanh Luxury Cao Bằng / Minh Hoàng*
+
+
