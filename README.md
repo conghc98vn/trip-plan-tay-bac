@@ -45,8 +45,8 @@ chicong-trip-plan/
 | Hạng mục | Status | Ghi chú |
 |----------|--------|---------|
 | **Tiến độ chuyến đi** | 🟢 **Đã xong 5/10 ngày** | Hoàn thành trọn vẹn cung Hà Giang Loop (HN → HG → Yên Minh → Đồng Văn → Mèo Vạc) |
-| **Tổng chi phí toàn chuyến (Realtime)** | 💰 **14.077.424 VNĐ** | Đã gồm Cố định (6.694k) + Lưu trú 6 đêm đã chốt (1.863k) + Sinh hoạt 5 ngày (5.520k). Xem tại [tong_hop_chi_phi.md](file:///Users/trucanh/Desktop/chicong-trip-plan/info/tong_hop_chi_phi.md) & [Dashboard Web](file:///Users/trucanh/Desktop/chicong-trip-plan/info/expense_tracker.html) |
-| **Plan tổng thể** | ✅ Đã chốt | Lái xe xuyên HG sang CB, trả xe ở CB (PA1: Pác Bó ngày 05/09) |
+| **Tổng chi phí toàn chuyến (Realtime)** | 💰 **14.595.435 VNĐ** | Đã gồm Cố định (6.694k) + Lưu trú 6 đêm đã chốt (2.381k) + Sinh hoạt 5 ngày (5.520k). Xem tại [tong_hop_chi_phi.md](file:///Users/trucanh/Desktop/chicong-trip-plan/info/tong_hop_chi_phi.md) & [Dashboard Web](file:///Users/trucanh/Desktop/chicong-trip-plan/info/expense_tracker.html) |
+| **Plan tổng thể** | ✅ Đã chốt | Lái xe xuyên HG sang CB, trả xe ở CB chiều 04/09 ➔ **21:00 Xe Cabin VIP về Hà Nội đêm 04/09** ➔ Trọn vẹn Thứ 7 (05/09) & Chủ Nhật (06/09) tại Hà Nội |
 | **Dự báo thời tiết 10 ngày** | ✅ Đã cập nhật (Tối 27/08) | Cập nhật mới nhất tối 27/08 trước khởi hành trong [lich_trinh_chi_tiet.md](file:///Users/trucanh/Desktop/chicong-trip-plan/plans/lich_trinh_chi_tiet.md) |
 | **Kế hoạch Rủi ro & Backup** | ✅ Đã chốt | 5 nhóm rủi ro & kịch bản dự phòng trong [lich_trinh_chi_tiet.md](file:///Users/trucanh/Desktop/chicong-trip-plan/plans/lich_trinh_chi_tiet.md#-đánh-giá-rủi-ro--kịch-bản-dự-phòng-contingency-plans) |
 | **Gợi ý Homestay/Hotel** | ✅ Đã lên list | Trong [goi_y_homestay.md](file:///Users/trucanh/Desktop/chicong-trip-plan/notes/goi_y_homestay.md) |
@@ -54,15 +54,16 @@ chicong-trip-plan/
 | **Vé máy bay đi** | ✅ **Đã check-in online** | **Vietjet Air VJ120** (28/08 05:00 SGN→07:10 HAN - 100% xách tay - PNR: `UJSG2A`/`R7AH77` - Ghế **37E** & **37F**, Boarding 04:10 AM - Đã thêm 1 suất ăn nóng `C.ThaiWBisc`) |
 | **Vé máy bay về** | ✅ **Đã đặt & chọn chỗ** | **Sun PhuQuoc Airways 9G893** (06/09 23:30 HAN T1→01:40 SGN T3 - PNR: **`7TGDE6`** - Ghế **36J** & **36K** - Đã gồm **1PC hành lý ký gửi/người**) |
 | **Xe khách HN→HG** | ✅ Đã đặt | **Quang Tuyến Limousine** 24 phòng (Mã vé: `RN34WQ` / Vexere: `23BQ04L`) - 550k (Đón 55 Nguyễn Hoàng 23:05, Trả tận nơi Giang Sơn Homestay 05:45) |
-| **Xe khách CB→Nội Bài** | ⏳ Chưa đặt | 06/09 12:30-13:00 (Trừ hao dư thời gian bay) |
+| **Xe khách CB→Hà Nội** | ⏳ Đang liên hệ đặt | **Xe Cabin VIP 21:00 Tối 04/09** (đến trung tâm HN ~05:00 - 05:30 sáng 05/09) |
 | **Thuê xe HN** | ✅ Đã đặt | MOTOGO (Mã #39337) - Sirius 110cc (310k/2 ngày gồm 50k phụ phí trả trái điểm, nhận Nội Bài, trả 1081 Hồng Hà, baga sau) |
-| **Thuê xe máy Giang Sơn** | ✅ **Đã ký HĐ & Thanh toán** | Honda Wave 110cc HĐ #45 (Thuê 7 ngày 30/08-05/09, đã CK 5.262.500đ gồm 2.262.500đ tiền thuê + 3.000.000đ cọc hoàn lại) |
-| **Homestay Hà Nội** | ✅ Đã xác nhận | Da Tree Homestay Ba Đình (Mã: 6540221126) - 348k (Tiền mặt) |
+| **Thuê xe máy Giang Sơn** | ✅ **Đã ký HĐ & Thanh toán** | Honda Wave 110cc HĐ #45 (Thuê 6 ngày 30/08-04/09, đã CK 5.262.500đ gồm tiền thuê + 3.000.000đ cọc hoàn lại) |
+| **Homestay Hà Nội (Đêm 1)** | ✅ Đã xác nhận | Da Tree Homestay Ba Đình (Mã: 6540221126) - 348k (Tiền mặt) |
 | **Homestay Yên Minh** | ✅ Đã xác nhận | Bong Bang Homestay 2 (Mã: 6874088766) - 400k (Tiền mặt) |
 | **Homestay Đồng Văn** | ✅ Đã xác nhận | ToTo-Chan Hotel (Mã: 6840372362) - 446.4k (Tiền mặt, gồm ăn sáng) |
 | **Homestay Mèo Vạc** | ✅ Đã xác nhận | Phương Anh Hotel Mèo Vạc (Mã: 5152255450) - 300k (Tiền mặt) |
 | **KS TP Cao Bằng (02/09)** | ✅ Đã xác nhận | Minh Hoang Hotel & Homestay (Mã: 6307.802.042) - 369k (Tiền mặt) |
-| **Lưu trú còn lại** | ⏳ Chưa đặt | 3 đêm (Đêm 03/09 Thác Bản Giốc & Đêm 04, 05/09 TP Cao Bằng) |
+| **Homestay Bản Giốc (03/09)** | ✅ Đã xác nhận | A THÁM homestay (Mã: 6515457323) - 518k |
+| **Lưu trú còn lại** | ⏳ Chưa đặt | 1 đêm (Đêm 05/09 Phố Cổ Hà Nội — *Đêm 04/09 ngủ xe Cabin VIP*) |
 | **Food list Hà Nội** | ✅ Đã tổng hợp | Đã lưu & phân loại trong [dac_san_am_thuc.md](file:///Users/trucanh/Desktop/chicong-trip-plan/notes/dac_san_am_thuc.md#food-hn) |
 | **Photography spots** | ✅ Draft xong | Trong plan chi tiết |
 | **Setup hành lý & chằng xe** | ✅ Đã chốt | 1 Túi đeo chéo nhỏ máy ảnh + 2 Balo (1 baga trước + 1 baga sau/ngồi sau) + 1.5L xăng ([hanh_ly_baga.md](file:///Users/trucanh/Desktop/chicong-trip-plan/notes/hanh_ly_baga.md)) |
@@ -75,12 +76,14 @@ chicong-trip-plan/
 2. [x] Check-in online lượt đi VJ120 (✅ Ghế 37E & 37F, Boarding 04:10 AM)
 3. [x] Đặt vé máy bay lượt về (✅ **Sun PhuQuoc Airways 9G893** 23:30 HAN→01:40 SGN — Ghế **36J & 36K** — Có **1PC hành lý ký gửi**)
 4. [x] Đặt xe khách HN→HG (✅ **Quang Tuyến Limousine Mã `RN34WQ`** - 23:05 Tối 29/08 - 550.000 VNĐ)
-5. [x] Ký HĐ & Thanh toán xe Wave Giang Sơn (✅ **Hợp đồng #45** — 7 ngày 30/08-05/09, CK 5.262.500đ MBBank gồm 3tr cọc hoàn lại)
-6. [ ] Đặt xe khách CB→Nội Bài (trưa 06/09)
-7. [x] Đặt Homestay Hà Nội (✅ Da Tree Homestay Ba Đình - Đêm 28/08)
-8. [x] Đặt homestay Hà Giang loop (✅ Đã chốt toàn bộ: Yên Minh 30/08, Đồng Văn 31/08 & Mèo Vạc 01/09)
-9. [x] Đặt KS TP Cao Bằng đêm Lễ 2/9 (✅ Minh Hoang Hotel & Homestay - 02/09)
-10. [ ] Đặt KS/Homestay Cao Bằng các đêm còn lại (Đêm 03/09 Bản Giốc & Đêm 04, 05/09 TP Cao Bằng)
+5. [x] Ký HĐ & Thanh toán xe Wave Giang Sơn (✅ **Hợp đồng #45** — 6 ngày 30/08-04/09, CK 5.262.500đ MBBank gồm 3tr cọc hoàn lại)
+6. [x] Chốt phương án về Hà Nội bằng xe Cabin VIP đêm 21:00 ngày 04/09 & dành trọn 2 ngày cuối tuần tại Hà Nội
+7. [ ] Đặt xe Cabin VIP CB→Hà Nội (21:00 tối 04/09)
+8. [x] Đặt Homestay Hà Nội (✅ Da Tree Homestay Ba Đình - Đêm 28/08)
+9. [x] Đặt homestay Hà Giang loop (✅ Đã chốt toàn bộ: Yên Minh 30/08, Đồng Văn 31/08 & Mèo Vạc 01/09)
+10. [x] Đặt KS TP Cao Bằng đêm Lễ 2/9 (✅ Minh Hoang Hotel & Homestay - 02/09)
+11. [x] Đặt Homestay Thác Bản Giốc đêm 03/09 (✅ A THÁM homestay - 03/09)
+12. [ ] Đặt Homestay / Khách sạn Hà Nội (Đêm 05/09)
 11. [x] Hoàn thiện food list Hà Nội & tổng hợp theo món ăn ([dac_san_am_thuc.md](file:///Users/trucanh/Desktop/chicong-trip-plan/notes/dac_san_am_thuc.md#food-hn))
 12. [x] Chuẩn bị packing checklist, phương án chằng xe máy & sạc Type-C Anker 65W
 13. [x] Xây dựng Đánh giá Rủi ro & Kịch bản Backup cho chuyến đi

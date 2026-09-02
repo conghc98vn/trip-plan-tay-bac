@@ -1,7 +1,7 @@
-# 📝 Bản Nháp Dự Thảo: Phương Án Về Hà Nội Tối 05/09 & Dành Trọn Ngày 06/09 Khám Phá Thủ Đô
+# 📝 Phương Án Về Hà Nội Tối 05/09 & Dành Trọn Ngày 06/09 Khám Phá Thủ Đô
 
-> **Trạng thái:** ⏳ *Bản nháp dự thảo (Draft / For Reference)* — Dành cho bạn & bạn gái xem xét, cân nhắc trước khi cập nhật vào lịch trình chính thức.  
-> **Thời gian đề xuất:** Tối Thứ Bảy (05/09/2026) đến Đêm Chủ Nhật (06/09/2026)  
+> **Trạng thái:** ✅ **ĐÃ CHÍNH THỨC PHÊ DUYỆT & TÍCH HỢP VÀO LỊCH TRÌNH CHUẨN** (Xem tại [`plans/lich_trinh_chi_tiet.md`](file:///Users/trucanh/Desktop/chicong-trip-plan/plans/lich_trinh_chi_tiet.md))  
+> **Thời gian:** Tối Thứ Bảy (05/09/2026) đến Đêm Chủ Nhật (06/09/2026)  
 > **Chuyến bay kết nối đã chốt:** Sun PhuQuoc Airways 9G893 (23:30 HAN T1 → 01:40 SGN T3)
 
 ---

@@ -118,12 +118,33 @@
 
 ---
 
-## ⏳ Đêm 5: 03/09/2026 (Thứ Năm) — Thác Bản Giốc (Trùng Khánh)
-*⏳ Chưa đặt — Ưu tiên Yến Nhi Homestay (Làng cổ đá Khuổi Ky)*
+## <a id="ban-gioc"></a>📍 Đêm 5: 03/09/2026 (Thứ Năm) — Thác Bản Giốc (Trùng Khánh, Cao Bằng)
+
+| Hạng mục | Chi tiết xác nhận |
+|----------|-------------------|
+| **Tên chỗ nghỉ** | **A THÁM homestay** ✅ *(Đã xác nhận trên Booking.com)* |
+| **Số xác nhận (Booking ID)** | `6515457323` |
+| **Mã PIN (Bảo mật)** | `7100` |
+| **Điện thoại chỗ nghỉ** | `+84 373 145 583` |
+| **Thời gian nhận phòng** | **T5, 03/09/2026** |
+| **Thời gian trả phòng** | **T6, 04/09/2026** |
+| **Loại phòng** | 1 x Phòng Gia Đình (2 người lớn) |
+| **Tên khách đặt** | Công Chí |
+| **Email nhận xác nhận** | `chicong.1998vn@gmail.com` |
+| **Tổng giá tiền** | **518.011 VNĐ** |
+| **Hình thức thanh toán** | Thanh toán tại chỗ nghỉ theo chính sách Booking.com |
+| **Tài liệu đính kèm** | [`attachments/booking/xac_nhan_booking_ban_gioc_a_tham.pdf`](../attachments/booking/xac_nhan_booking_ban_gioc_a_tham.pdf) |
+| **Link quản lý Booking** | [Chỉnh sửa / Quản lý đặt phòng](https://secure.booking.com/confirmation.vi.html?bn=6515457323&pincode=7100) |
 
 ---
 
-## ⏳ Đêm 6 & Đêm 7: 04/09 & 05/09/2026 — TP Cao Bằng (2 đêm)
-*⏳ Chưa đặt — Ưu tiên Max Hotel / Mường Thanh Luxury Cao Bằng / Minh Hoàng*
+## 🚌 Đêm 6: 04/09/2026 (Thứ Sáu) — Trên Xe Cabin VIP Đêm (Cao Bằng ➔ Hà Nội)
+*Xe Limousine Cabin VIP đôi lúc 21:00 đêm từ TP Cao Bằng về Hà Nội (sáng 05/09 đến HN).*
+
+---
+
+## ⏳ Đêm 7: 05/09/2026 (Thứ Bảy) — Phố Cổ Hà Nội (Ba Đình / Hoàn Kiếm)
+*⏳ Chưa đặt — Ưu tiên Homestay / Khách sạn trung tâm Phố Cổ (Ba Đình / Hoàn Kiếm / Nhà Thờ Lớn).*
+
 
 

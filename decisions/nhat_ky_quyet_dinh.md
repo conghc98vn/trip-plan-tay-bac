@@ -433,6 +433,34 @@
 - **Tài liệu đính kèm:** [`attachments/booking/xac_nhan_booking_cao_bang_minh_hoang.pdf`](file:///Users/trucanh/Desktop/chicong-trip-plan/attachments/booking/xac_nhan_booking_cao_bang_minh_hoang.pdf)
 - **Cập nhật đồng bộ:** [`plans/lich_trinh_chi_tiet.md`](file:///Users/trucanh/Desktop/chicong-trip-plan/plans/lich_trinh_chi_tiet.md), [`info/tong_hop_chi_phi.md`](file:///Users/trucanh/Desktop/chicong-trip-plan/info/tong_hop_chi_phi.md), [`info/expense_tracker.html`](file:///Users/trucanh/Desktop/chicong-trip-plan/info/expense_tracker.html), [`notes/goi_y_homestay.md`](file:///Users/trucanh/Desktop/chicong-trip-plan/notes/goi_y_homestay.md) và [`README.md`](file:///Users/trucanh/Desktop/chicong-trip-plan/README.md).
 
+## 02/09/2026 — Chốt Phương Án Về Hà Nội Bằng Xe Cabin Đêm 21h (04/09) & Dành Trọn 2 Ngày Cuối Tuần Khám Phá Thủ Đô
+
+### Quyết định #30: Trả xe máy tại TP Cao Bằng chiều 04/09 & Lên xe Cabin VIP 21:00 về Hà Nội
+- **Bối cảnh & Mong muốn:** Bạn không có nhu cầu dành sáng Thứ Bảy mua quà tại TP Cao Bằng, mong muốn tối ưu thời gian để hai bạn có trọn vẹn **2 ngày 2 đêm cuối tuần (Thứ Bảy 05/09 & Chủ Nhật 06/09)** trải nghiệm mùa thu Hà Nội, thư giãn spa dưỡng sinh hồi phục thể lực sau hành trình phượt đèo núi trước khi bay về Sài Gòn.
+- **Phương án thực hiện:**
+  - **Tại Cao Bằng (03/09 - 04/09):** Chạy xe máy nhẹ nhàng 100 - 135 km/ngày.
+    - *Ngày 7 (03/09):* TP CB ➔ Núi Mắt Thần / Hồ Thang Hen ➔ Làng đá Khuổi Ky / Bản Giốc (~95km).
+    - *Ngày 8 (04/09):* Thác Bản Giốc ➔ Động Ngườm Ngao ➔ Tuyến vành đai biên giới ĐT211 Trà Lĩnh ➔ Hà Quảng ➔ Pác Bó & Suối Lê-Nin ➔ 16:45 về TP Cao Bằng (~135km — *Cung đường vòng cung khép kín Border Loop cực đẹp, không lặp lại đường cũ*).
+    - *17:00 chiều 04/09:* Bàn giao trả xe Wave 110cc cho Giang Sơn tại TP Cao Bằng (nhận lại 3.000.000 VNĐ cọc). Ăn tối lẩu vịt quay / phở vịt TP Cao Bằng.
+  - **Di chuyển về Hà Nội:** Lên **Xe Giường nằm Cabin VIP đôi lúc ~20:30 – 21:00 tối Thứ 6 (04/09)** từ TP Cao Bằng về Hà Nội. Ngủ đêm trên xe, sáng sớm 05:00 – 05:30 đến Hà Nội.
+  - **Trọn vẹn 2 ngày khám phá Hà Nội mùa thu:** 
+    - *Thứ Bảy (05/09):* Phở Bát Đàn, Cà phê trứng Giảng, chụp ảnh xe hoa mùa thu Phan Đình Phùng - Hoàng Diệu, Ngan cháy tỏi Hàng Thiếc, **Spa & Gội đầu dưỡng sinh đôi**, dạo Phố đi bộ Hồ Gươm, ăn tối Nầm bò nướng Ba Đình, dạo phố bia Tạ Hiện.
+    - *Chủ Nhật (06/09):* Bún thang Cầu Gỗ, Cà phê view Hồ Tây, Chả cá Lăng, mua bánh cốm Hàng Than làm quà, dạo phố cổ, ăn tối Lẩu riêu cua bắp bò Trúc Bạch.
+    - *21:00 đêm 06/09:* Bắt Grab ra Sân bay Nội Bài Ga T1 ➔ **23:30 Bay về Sài Gòn (Sun PhuQuoc Airways 9G893)**.
+- **Cập nhật đồng bộ:** [`plans/lich_trinh_chi_tiet.md`](file:///Users/trucanh/Desktop/chicong-trip-plan/plans/lich_trinh_chi_tiet.md), [`info/xe_khach.md`](file:///Users/trucanh/Desktop/chicong-trip-plan/info/xe_khach.md), [`notes/du_thao_plan_ha_noi_0609.md`](file:///Users/trucanh/Desktop/chicong-trip-plan/notes/du_thao_plan_ha_noi_0609.md) và [`README.md`](file:///Users/trucanh/Desktop/chicong-trip-plan/README.md).
+
+### Quyết định #31: Xác nhận đặt phòng Homestay Thác Bản Giốc đêm 03/09 (A THÁM homestay)
+- **Tên chỗ nghỉ:** **A THÁM homestay** (Làng đá Khuổi Ky / Đàm Thủy, Trùng Khánh, Cao Bằng)
+- **Kênh đặt:** Booking.com
+- **Mã xác nhận (Booking ID):** `6515457323` | **Mã PIN:** `7100`
+- **Thời gian lưu trú:** 1 đêm (Nhận phòng T5 03/09/2026, Trả phòng T6 04/09/2026)
+- **Loại phòng:** 1 x Phòng Gia Đình (2 người lớn)
+- **Tổng chi phí:** **518.011 VNĐ**
+- **Hotline chỗ nghỉ:** `+84 373 145 583`
+- **Tài liệu tham chiếu:** [`info/dat_phong.md`](file:///Users/trucanh/Desktop/chicong-trip-plan/info/dat_phong.md#ban-gioc)
+- **Tài liệu đính kèm:** [`attachments/booking/xac_nhan_booking_ban_gioc_a_tham.pdf`](file:///Users/trucanh/Desktop/chicong-trip-plan/attachments/booking/xac_nhan_booking_ban_gioc_a_tham.pdf)
+- **Cập nhật đồng bộ:** [`plans/lich_trinh_chi_tiet.md`](file:///Users/trucanh/Desktop/chicong-trip-plan/plans/lich_trinh_chi_tiet.md), [`info/tong_hop_chi_phi.md`](file:///Users/trucanh/Desktop/chicong-trip-plan/info/tong_hop_chi_phi.md), [`info/expense_tracker.html`](file:///Users/trucanh/Desktop/chicong-trip-plan/info/expense_tracker.html), [`notes/goi_y_homestay.md`](file:///Users/trucanh/Desktop/chicong-trip-plan/notes/goi_y_homestay.md) và [`README.md`](file:///Users/trucanh/Desktop/chicong-trip-plan/README.md).
+
 ---
 
 ## Cần quyết định tiếp
@@ -453,8 +481,10 @@
 - [x] Đặt homestay/khách sạn Mèo Vạc (✅ **Phương Anh Hotel** - Đã xác nhận đêm 01/09 - 300k)
 - [x] Đặt khách sạn TP Cao Bằng đêm 02/09 (✅ **Minh Hoang Hotel & Homestay** - Đã xác nhận đêm 02/09 - 369k)
 - [x] Khởi tạo Bảng tổng hợp chi phí & Web App Expense Tracker Realtime ([tong_hop_chi_phi.md](file:///Users/trucanh/Desktop/chicong-trip-plan/info/tong_hop_chi_phi.md))
-- [ ] Đặt homestay Thác Bản Giốc (đêm 03/09) & Khách sạn TP Cao Bằng (đêm 04/09, 05/09)
-- [ ] Đặt xe khách CB → Nội Bài (trưa 06/09)
+- [x] Chốt phương án về Hà Nội bằng xe Cabin VIP đêm 21:00 ngày 04/09 & dành trọn 2 ngày cuối tuần tại Hà Nội
+- [x] Đặt homestay Thác Bản Giốc đêm 03/09 (✅ **A THÁM homestay** - Mã `6515457323` - 518.011 VNĐ)
+- [ ] Đặt homestay / Khách sạn Hà Nội (đêm 05/09)
+- [ ] Đặt vé xe Cabin VIP CB → Hà Nội (21:00 đêm 04/09)
 
 
 

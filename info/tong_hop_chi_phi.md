@@ -12,12 +12,12 @@
 | Chỉ số | Số tiền (VNĐ) | Ghi chú |
 |:---|:---:|:---|
 | ✈️ **Chi phí cố định (Vé bay, xe khách, thuê xe)** | **6.694.024 đ** | Đã gồm 2 vé bay khứ hồi + xe khách + thuê 2 xe máy |
-| 🏨 **Chi phí lưu trú (Homestay/Hotel 6 đêm đã chốt)** | **1.863.400 đ** | Da Tree (348k) + Bong Bang 2 (400k) + ToTo-Chan (446.4k) + Phương Anh (300k) + Minh Hoàng (369k) |
+| 🏨 **Chi phí lưu trú (Homestay/Hotel 6 đêm đã chốt)** | **2.381.411 đ** | Da Tree (348k) + Bong Bang 2 (400k) + ToTo-Chan (446.4k) + Phương Anh (300k) + Minh Hoàng (369k) + A THÁM (518.011đ) |
 | 🍜 **Chi tiêu sinh hoạt & trải nghiệm 5 ngày đầu** | **5.520.000 đ** | Ẩm thực, quà biếu, vé tham quan, xăng cộ, xe ôm, cafe |
-| 💵 **TỔNG ĐÃ CHI & ĐÃ ĐẶT (Đến 02/09)** | 🏆 **14.077.424 đ** | **~7.038.712 đ / người** |
-| 🔮 **Dự toán chi phí còn lại (02/09 – 06/09)** | **~5.100.000 đ** | 3 đêm KS còn lại + Xe khách về + Ăn uống & Quà đặc sản |
+| 💵 **TỔNG ĐÃ CHI & ĐÃ ĐẶT (Đến 03/09)** | 🏆 **14.595.435 đ** | **~7.297.718 đ / người** |
+| 🔮 **Dự toán chi phí còn lại (04/09 – 06/09)** | **~4.600.000 đ** | 1 đêm Homestay HN + Vé xe Cabin VIP đêm + Spa dưỡng sinh + Ăn uống & Quà bánh cốm |
 | 🎯 **TỔNG CHI PHÍ DỰ KIẾN TOÀN CHUYẾN ĐI** | **~19.200.000 đ** | **~9.600.000 đ / người (10 ngày 9 đêm)** |
-| 🔄 **Khoản tiền cọc tạm ứng (Sẽ hoàn lại)** | **+3.000.000 đ** | Tiền cọc xe máy Giang Sơn nhận lại khi trả xe tại TP Cao Bằng |
+| 🔄 **Khoản tiền cọc tạm ứng (Sẽ hoàn lại)** | **+3.000.000 đ** | Tiền cọc xe máy Giang Sơn nhận lại khi trả xe tại TP Cao Bằng chiều 04/09 |
 
 ---
 
@@ -29,9 +29,9 @@
 | 2 | **Vé máy bay lượt về (HAN → SGN)** | Sun PhuQuoc (9G893) • `7TGDE6` | **2.346.362 đ** | ✅ Đã thanh toán | Đã gồm **1 kiện ký gửi/người** + chọn ghế 36J/36K ([chuyen_bay.md](chuyen_bay.md#lượt-về-han--sgn)) |
 | 3 | **Xe khách Hà Nội → TP Hà Giang** | Quang Tuyến Limousine • `RN34WQ` | **550.000 đ** | ✅ Đã thanh toán | 24 Phòng VIP, đón 55 Nguyễn Hoàng, trả tận tiệm Giang Sơn ([xe_khach.md](xe_khach.md#chặng-1-hà-nội--tp-hà-giang-tối-2908-)) |
 | 4 | **Thuê xe máy Hà Nội (2 ngày)** | MOTOGO Nội Bài • Mã `#39337` | **310.000 đ** | ⏳ Trả xe thanh toán | Sirius 110cc: 260k + 50k phụ phí trả 1081 Hồng Hà ([thue_xe_may.md](thue_xe_may.md#1-xe-máy-tại-hà-nội-28-2908--đã-xác-nhận-đặt-xe-motogo)) |
-| 5 | **Thuê xe máy phượt HG → CB (7 ngày)** | Giang Sơn Hà Giang • Hợp đồng `#45` | **2.362.500 đ** | ✅ Đã thanh toán 100% | Wave 110cc có gói BH cứu hộ 24/7 + phụ phí trả Cao Bằng + VAT ([thue_xe_may.md](thue_xe_may.md#2-xe-máy-tour-hà-giang--cao-bằng--giang-sơn-3008---0509--đã-ký-hợp-đồng-45)) |
-| 6 | **Xe khách TP Cao Bằng → Nội Bài** | Bến xe Cao Bằng (Trưa 06/09) | *~600.000 đ* | ⏳ Dự kiến | Chuyến trưa 12:30 ra Nội Bài 19:30 ([xe_khach.md](xe_khach.md#chặng-2-tp-cao-bằng--sân-bay-nội-bài-trưa-0609)) |
-| **TỔNG** | **CỐ ĐỊNH** | | **7.604.024 đ** | *(Đã chi: 6.694.024đ • Còn lại: 910.000đ)* |
+| 5 | **Thuê xe máy phượt HG → CB (6 ngày)** | Giang Sơn Hà Giang • Hợp đồng `#45` | **2.362.500 đ** | ✅ Đã thanh toán 100% | Wave 110cc có gói BH cứu hộ 24/7 + phụ phí trả Cao Bằng + VAT ([thue_xe_may.md](thue_xe_may.md#2-xe-máy-tour-hà-giang--cao-bằng--giang-sơn-3008---0509--đã-ký-hợp-đồng-45)) |
+| 6 | **Xe Cabin VIP Cao Bằng → Hà Nội** | Bến xe Cao Bằng (21:00 Tối 04/09) | *~700.000 đ* | ⏳ Dự kiến | Cabin VIP đôi Thanh Ly / Vĩnh Dung ([xe_khach.md](xe_khach.md#chặng-2-tp-cao-bằng--hà-nội-tối-0409)) |
+| **TỔNG** | **CỐ ĐỊNH** | | **7.704.024 đ** | *(Đã chi: 6.694.024đ • Còn lại: ~1.010.000đ)* |
 
 ---
 
@@ -45,10 +45,10 @@
 | **Đêm 3** | 31/08 | **ToTo-Chan Hotel** (Thị trấn Đồng Văn) | `6840372362` | **446.400 đ** | ✅ Đã thanh toán | Phòng Deluxe giường đôi, **đã bao gồm ăn sáng** ([dat_phong.md](dat_phong.md#dong-van)) |
 | **Đêm 4** | 01/09 | **Phương Anh Hotel** (Thị trấn Mèo Vạc) | `5152255450` | **300.000 đ** | ✅ Đã thanh toán | Phòng đôi trung tâm Mèo Vạc ([dat_phong.md](dat_phong.md#meo-vac)) |
 | **Đêm 5** | 02/09 | **Minh Hoang Hotel & Homestay** (TP Cao Bằng) | `6307802042` | **369.000 đ** | ✅ Đã xác nhận | Phòng Giường Đôi Tiết Kiệm, trả tiền mặt khi check-in ([dat_phong.md](dat_phong.md#cao-bang-1)) |
-| **Đêm 6** | 03/09 | **Yến Nhi Homestay / Bản Giốc** (Làng Khuổi Ky) | *(Ưu tiên làng đá)* | *~450.000 đ* | ⏳ Dự kiến | Trải nghiệm nhà sàn đá cổ Tày |
-| **Đêm 7** | 04/09 | **Khách sạn TP Cao Bằng** (Max Hotel / Minh Hoàng) | *(Đang chọn)* | *~400.000 đ* | ⏳ Dự kiến | Nghỉ ngơi tiện ăn tối phố đêm Cao Bằng |
-| **Đêm 8** | 05/09 | **Khách sạn TP Cao Bằng** | *(Đang chọn)* | *~400.000 đ* | ⏳ Dự kiến | Đêm cuối trước khi lên xe về Nội Bài |
-| **TỔNG** | **LƯU TRÚ (9 ĐÊM)** | | **~3.113.400 đ** | *(Đã chốt: 1.863.400đ • Còn lại: ~1.250.000đ)* |
+| **Đêm 6** | 03/09 | **A THÁM homestay** (Thác Bản Giốc / Khuổi Ky) | `6515457323` | **518.011 đ** | ✅ Đã xác nhận | Phòng Gia Đình (2 người lớn), gần Thác Bản Giốc ([dat_phong.md](dat_phong.md#ban-gioc)) |
+| **Đêm 7** | 04/09 | *Ngủ trên xe Limousine Cabin VIP đêm CB ➔ HN* | *(Thanh Ly / Vĩnh Dung)* | **0 đ** | ✅ Đã bao gồm vé xe | Xuất phát 21:00 về đến HN 05:00 sáng |
+| **Đêm 8** | 05/09 | **Homestay / Khách sạn Phố Cổ Hà Nội** | *(Đang chọn)* | *~400.000 đ* | ⏳ Dự kiến | Trung tâm Ba Đình / Hoàn Kiếm / Nhà Thờ Lớn |
+| **TỔNG** | **LƯU TRÚ (9 ĐÊM)** | | **~2.781.411 đ** | *(Đã chốt: 2.381.411đ • Còn lại: ~400.000đ)* |
 
 ---
 

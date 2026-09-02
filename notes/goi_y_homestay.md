@@ -76,11 +76,13 @@
 
 ## <a id="homestay-bangioc"></a>📍 6. Khu vực Thác Bản Giốc — Trùng Khánh (1 đêm: 03/09)
 
-> **Khu vực:** Làng cổ đá Khuổi Ky (đá 400 năm) hoặc ven Sông Quay Sơn sát Thác Bản Giốc.
+> **Khu vực:** Làng cổ đá Khuổi Ky (đá 400 năm) / Đàm Thủy sát Thác Bản Giốc.  
+> ✅ **ĐÃ XÁC NHẬN ĐẶT PHÒNG:** [A THÁM homestay](../info/dat_phong.md#ban-gioc) *(Mã Booking: `6515457323`, PIN: `7100`, Giá: 518.011 VNĐ, SĐT: `0373 145 583`)*
 
-| Tên Homestay / Resort | Khu vực | Giá tham khảo | Điểm nổi bật & Lý do chọn |
+| Tên Homestay / Resort | Khu vực | Giá tham khảo | Điểm nổi bật & Trạng thái |
 |-----------------------|---------|---------------|---------------------------|
-| **Yến Nhi Homestay Bản Giốc** ⭐ *(TOP 1)* | Làng cổ đá Khuổi Ky | 500k - 750k/đêm | Nằm trong Làng cổ đá Khuổi Ky 400 năm độc nhất vô nhị, cách Động Ngườm Ngao 300m, sát Thác Bản Giốc. |
+| **A THÁM homestay** ✅ *(ĐÃ ĐẶT)* | Làng cổ đá Khuổi Ky / Đàm Thủy | 518k/đêm | Phòng Gia Đình (2 người lớn), không gian nhà đá truyền thống ấm cúng, gần Thác Bản Giốc và Động Ngườm Ngao, chủ nhà thân thiện mến khách. |
+| **Yến Nhi Homestay Bản Giốc** | Làng cổ đá Khuổi Ky | 500k - 750k/đêm | Nằm trong Làng cổ đá Khuổi Ky 400 năm độc nhất vô nhị, cách Động Ngườm Ngao 300m, sát Thác Bản Giốc. |
 | **Bản Giốc Sunrise Homestay** | Ven sông Quay Sơn | 550k - 800k/đêm | Homestay ven sông Quay Sơn thơ mộng, view cánh đồng lúa Trùng Khánh. |
 | **Sài Gòn - Bản Giốc Resort** | Chân Thác Bản Giốc | 1.200k - 1.800k/đêm | Resort 4 sao duy nhất sát chân Thác Bản Giốc, view trực diện thác hùng vĩ từ phòng ngủ. |
 

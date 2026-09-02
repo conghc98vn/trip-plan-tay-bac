@@ -20,19 +20,18 @@
 
 ---
 
-## Chặng 2: TP Cao Bằng → Sân bay Nội Bài (Trưa 06/09)
+## Chặng 2: TP Cao Bằng → Hà Nội (Tối Thứ Sáu, 04/09/2026)
 | Hạng mục | Chi tiết |
 |----------|---------|
-| **Ngày** | 06/09/2026 |
-| **Giờ xuất phát** | ~12:30 - 13:00 (Trưa Chủ Nhật) |
-| **Điểm đón** | Bến xe TP Cao Bằng |
-| **Thời gian di chuyển** | ~7 - 7.5 tiếng |
-| **Giờ đến dự kiến** | ~19:30 - 20:30 (Sân bay Nội Bài - Sảnh T1) |
-| **Chuyến bay kết nối** | ✅ [Sun PhuQuoc Airways 9G893 (23:30 HAN T1 → 01:40 SGN T3)](chuyen_bay.md#lượt-về-han--sgn) |
-| **Thời gian dự phòng** | ~3.5 - 4 tiếng (Rất an toàn để gửi hành lý ký gửi 1PC/người và ăn tối nhẹ) |
-| **Hãng xe** | ⏳ Chưa đặt |
-| **Giá vé** | ⏳ Chưa xác nhận |
-| **Mã vé** | ⏳ Chưa đặt |
-
-> 💡 **Lưu ý:** Ưu tiên chọn nhà xe có hỗ trợ trả khách trực tiếp tại **Sân bay Nội Bài** (hoặc ngã tư Kim Anh / trạm soát vé Nội Bài để đón xe ôm/Grab 5 phút vào sảnh Ga T1).
+| **Ngày khởi hành** | **04/09/2026 (Tối Thứ Sáu)** |
+| **Giờ xuất phát** | **~20:30 – 21:00 (Tối Thứ Sáu)** sau khi trả xe Wave Giang Sơn & ăn tối tại TP Cao Bằng |
+| **Điểm đón** | Bến xe TP Cao Bằng hoặc Văn phòng nhà xe trung tâm TP Cao Bằng |
+| **Loại xe** | **Xe Giường nằm Limousine Cabin VIP đôi** (rèm che riêng tư, đệm êm massage, cổng sạc, điều hòa) |
+| **Thời gian di chuyển** | ~7.5 – 8 tiếng (chạy đêm cao tốc an toàn, êm ái) |
+| **Giờ đến dự kiến** | **~05:00 – 05:30 sáng Thứ Bảy (05/09)** tại Trung tâm Hà Nội (Bến xe Mỹ Đình / Gia Lâm / điểm trả trung tâm) |
+| **Mục đích** | Dành trọn vẹn **Cả 2 ngày cuối tuần (Thứ Bảy 05/09 & Chủ Nhật 06/09)** vui chơi, foodtour, spa dưỡng sinh và tận hưởng mùa thu Hà Nội |
+| **Chuyến bay kết nối** | ✅ [Sun PhuQuoc Airways 9G893 (23:30 HAN T1 → 01:40 SGN T3 đêm 06/09)](chuyen_bay.md#lượt-về-han--sgn) |
+| **Gợi ý hãng xe uy tín** | • **Xe Cabin VIP Đôi / Đơn:** **Thanh Ly** (`0944.266.266` / `0916.121.888`), **Vĩnh Dung** (`0989.263.263`), **Hiệp Sang** (`0915.228.699`)<br>• **Xe Limousine:** **Hà Tuấn** (`0981.828.828`) |
+| **Giá vé dự kiến** | ~300.000 – 400.000 VNĐ / Cabin VIP |
+| **Trạng thái** | ⏳ Đang liên hệ đặt chỗ Cabin VIP đêm 04/09 |
 
