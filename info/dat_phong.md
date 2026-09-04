@@ -143,25 +143,23 @@
 
 ---
 
-## <a id="ha-noi-2"></a>📍 Đêm 7: 05/09/2026 (Thứ Bảy) — Tam Đa, Tây Hồ / Ba Đình (Hà Nội)
+## <a id="ha-noi-2"></a>📍 Đêm 7: 05/09/2026 (Thứ Bảy) — Hoàng Hoa Thám, Ba Đình (Hà Nội)
 
 | Hạng mục | Chi tiết xác nhận |
 |----------|-------------------|
-| **Tên chỗ nghỉ** | **Era Apartment Tam Da** ✅ *(Đã xác nhận trên Booking.com)* |
-| **Số xác nhận (Booking ID)** | `5015910610` |
-| **Mã PIN (Bảo mật)** | `7120` |
-| **Địa chỉ chi tiết** | **Số 4, ngách 13/16, Dốc Tam Đa, Phường Thuỵ Khuê, Quận Tây Hồ, Hà Nội** *(Cách bờ Hồ Tây ~5 phút đi bộ)* |
-| **Điện thoại / Quản lý** | `+84 965 767 358` (Ms. Quỳnh Anh) |
-| **Thời gian nhận phòng** | **T7, 05/09/2026** (Từ 14:00 — Đã gửi request 11:00 - 12:00) |
-| **Thời gian trả phòng** | **CN, 06/09/2026** (07:00 - 12:00, 1 đêm) |
-| **Loại phòng** | 1 x Căn Hộ Nhìn Ra Thành Phố (Căn hộ nguyên căn, 2 người lớn, không hút thuốc, có điều hòa, TV, bếp nhỏ) |
-| **Tên khách đặt** | Công Chí |
-| **Email nhận xác nhận** | `chicong.1998vn@gmail.com` |
-| **Tổng giá tiền** | **452.017 VNĐ** *(Gồm 418.534đ phòng + 33.483đ 8% thuế GTGT, đã áp dụng Genius -13%)* |
-| **Hình thức thanh toán** | Thanh toán trước theo chính sách chỗ nghỉ / Booking.com |
-| **Lưu ý nhận phòng** | Sẽ có người gặp khách tại chỗ nghỉ. Cần liên hệ Hotline/Zalo **Ms. Quỳnh Anh (`0965 767 358`)** trước giờ check-in để xác nhận giờ đến, đặt cọc giữ phòng & nhận hướng dẫn vào phòng. |
-| **Tài liệu đính kèm** | [`attachments/booking/Booking.com_ Xác nhận_hanoi_0509.pdf`](../attachments/booking/Booking.com_%20Xa%CC%81c%20nha%CC%A3%CC%82n_hanoi_0509.pdf) |
-| **Link quản lý Booking** | [Chỉnh sửa / Quản lý đặt phòng](https://secure.booking.com/confirmation.vi.html?bn=5015910610&pincode=7120) |
+| **Tên chỗ nghỉ** | **Hoang Hoa Tham Modern Apartment in Ba Dinh near West Lake and Old Quarter** ✅ *(Đã xác nhận trên Agoda)* |
+| **Mã số đặt phòng (Booking ID)** | `1770541583` |
+| **Mã tham chiếu (Reference ID)** | `6662961894` |
+| **Địa chỉ chi tiết** | **9/80 Ngõ 189 Đường Hoàng Hoa Thám, Quận Ba Đình, Hà Nội, Việt Nam** *(Gần Hồ Tây & Phố Cổ)* |
+| **Thời gian nhận phòng** | **T7, 05/09/2026** (Từ 14:00 — Có thể ghé gửi hành lý buổi sáng) |
+| **Thời gian trả phòng** | **CN, 06/09/2026** (Trước 12:00, 1 đêm) |
+| **Loại phòng** | 1 x Căn Hộ Hướng Vườn (17 m², 1 giường lớn, 2 người lớn, WiFi miễn phí, chỗ đỗ xe, nhận phòng nhanh) |
+| **Tên khách đặt** | Chi Cong Hoang |
+| **Tổng giá tiền** | **500.000 VNĐ** *(Gồm 454.332đ tiền phòng + 45.668đ thuế & phí)* |
+| **Hình thức thanh toán** | **Thanh toán trực tiếp tại chỗ nghỉ khi nhận phòng** *(Đơn đặt phòng không cần thẻ tín dụng)* |
+| **Chính sách hủy phòng** | Không hoàn tiền khi hủy (Không đến khách sạn sẽ tính 100% theo quy định) |
+| **Tài liệu đính kèm** | [`attachments/booking/xac_nhan_booking_hanoi_hoang_hoa_tham.pdf`](../attachments/booking/xac_nhan_booking_hanoi_hoang_hoa_tham.pdf) |
+
 
 
 

@@ -63,8 +63,8 @@ chicong-trip-plan/
 | **Homestay Mèo Vạc** | ✅ Đã xác nhận | Phương Anh Hotel Mèo Vạc (Mã: 5152255450) - 300k (Tiền mặt) |
 | **KS TP Cao Bằng (02/09)** | ✅ Đã xác nhận | Minh Hoang Hotel & Homestay (Mã: 6307.802.042) - 369k (Tiền mặt) |
 | **Homestay Bản Giốc (03/09)** | ✅ Đã xác nhận | A THÁM homestay (Mã: 6515457323) - 518k |
-| **Homestay Hà Nội (Đêm 05/09)** | ✅ **Đã xác nhận** | **Era Apartment Tam Da** (Mã: 5015910610) - 452k *(Gần Hồ Tây)* |
-| **Lưu trú toàn tuyến** | 🏆 **Hoàn tất 100%** | **7/7 đêm KS/Homestay** (2.833.428 VNĐ) + **2 đêm xe khách đường dài** |
+| **Homestay Hà Nội (Đêm 05/09)** | ✅ **Đã xác nhận** | **Hoang Hoa Tham Modern Apartment** (Mã: 1770541583) - 500k *(189 Hoàng Hoa Thám, Ba Đình)* |
+| **Lưu trú toàn tuyến** | 🏆 **Hoàn tất 100%** | **7/7 đêm KS/Homestay** (2.881.411 VNĐ) + **2 đêm xe khách đường dài** |
 | **Food list Hà Nội** | ✅ Đã tổng hợp | Đã lưu & phân loại trong [dac_san_am_thuc.md](notes/dac_san_am_thuc.md#food-hn) |
 | **Photography spots** | ✅ Draft xong | Trong plan chi tiết |
 | **Setup hành lý & chằng xe** | ✅ Đã chốt | 1 Túi đeo chéo nhỏ máy ảnh + 2 Balo (1 baga trước + 1 baga sau/ngồi sau) + 1.5L xăng ([hanh_ly_baga.md](notes/hanh_ly_baga.md)) |
@@ -84,7 +84,7 @@ chicong-trip-plan/
 9. [x] Đặt homestay Hà Giang loop (✅ Đã chốt toàn bộ: Yên Minh 30/08, Đồng Văn 31/08 & Mèo Vạc 01/09)
 10. [x] Đặt KS TP Cao Bằng đêm Lễ 2/9 (✅ Minh Hoang Hotel & Homestay - 02/09)
 11. [x] Đặt Homestay Thác Bản Giốc đêm 03/09 (✅ A THÁM homestay - 03/09)
-12. [x] Đặt Homestay Hà Nội đêm 05/09 (✅ **Era Apartment Tam Da** - 05/09 - 452k)
+12. [x] Đặt Homestay Hà Nội đêm 05/09 (✅ **Hoang Hoa Tham Modern Apartment** - 05/09 - 500k)
 13. [x] Hoàn thiện food list Hà Nội & tổng hợp theo món ăn ([dac_san_am_thuc.md](notes/dac_san_am_thuc.md#food-hn))
 14. [x] Chuẩn bị packing checklist, phương án chằng xe máy & sạc Type-C Anker 65W
 15. [x] Xây dựng Đánh giá Rủi ro & Kịch bản Backup cho chuyến đi

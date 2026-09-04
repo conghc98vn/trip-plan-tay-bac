@@ -88,14 +88,14 @@
 
 ---
 
-## <a id="homestay-hn-2"></a>📍 7. Hà Nội — Hồ Tây / Ba Đình (1 đêm: 05/09)
+## <a id="homestay-hn-2"></a>📍 7. Hà Nội — Ba Đình / Gần Hồ Tây (1 đêm: 05/09)
 
-> **Khu vực:** Tam Đa, Tây Hồ / Ba Đình, Hà Nội *(Cách Hồ Tây ~5 phút đi bộ).*  
-> ✅ **ĐÃ XÁC NHẬN ĐẶT PHÒNG:** [Era Apartment Tam Da](../info/dat_phong.md#ha-noi-2) *(Mã Booking: `5015910610`, PIN: `7120`, Giá: 452.017 VNĐ, Thanh toán Booking.com)*
+> **Khu vực:** 189 Hoàng Hoa Thám, Quận Ba Đình, Hà Nội *(Gần Hồ Tây & Phố Cổ).*  
+> ✅ **ĐÃ XÁC NHẬN ĐẶT PHÒNG:** [Hoang Hoa Tham Modern Apartment](../info/dat_phong.md#ha-noi-2) *(Mã Agoda: `1770541583`, Tham chiếu: `6662961894`, Giá: 500.000 VNĐ, Thanh toán khi nhận phòng)*
 
 | Tên Homestay / Khách sạn | Khu vực | Giá tham khảo | Điểm nổi bật & Trạng thái |
 |--------------------------|---------|---------------|---------------------------|
-| **Era Apartment Tam Da** ✅ *(ĐÃ ĐẶT)* | Tam Đa, Thụy Khuê | 452k/đêm | Căn Hộ Nhìn Ra Thành Phố, đi bộ 5 phút ra Hồ Tây lộng gió, gần Trúc Bạch & Ba Đình, riêng tư & tiện nghi cho 2 người dạo phố cuối tuần. |
+| **Hoang Hoa Tham Modern Apartment** ✅ *(ĐÃ ĐẶT)* | 189 Hoàng Hoa Thám, Ba Đình | 500k/đêm | Căn Hộ Hướng Vườn (17m²), gần Hồ Tây & Ba Đình, vị trí yên tĩnh, riêng tư & tiện nghi cho 2 người dạo phố cuối tuần, thanh toán tại chỗ. |
 | **The Westlake Housing / Apartment** | Quảng An, Hồ Tây | 700k - 1.100k/đêm | Căn hộ view Hồ Tây ngắm hoàng hôn lãng mạn. |
 | **Little Hanoi Deluxe Hotel** | Hàng Bè, Phố Cổ | 800k - 1.200k/đêm | Ngay trung tâm Phố Cổ & Phố đi bộ Hồ Gươm. |
 
@@ -104,5 +104,6 @@
 ## 💡 Lời khuyên & Tổng kết Lưu Trú Toàn Tuyến
 
 1. **Hoàn thành 100% đặt phòng:** Toàn bộ 7 đêm homestay/khách sạn + 2 đêm xe khách đường dài trên cả chuyến đi đã được đặt và xác nhận thành công!
-2. **Chi phí lưu trú tối ưu:** Tổng chi phí 7 đêm lưu trú chỉ **2.833.428 VNĐ** cho cả 2 người (~202k/người/đêm), vừa đảm bảo căn hộ/phòng riêng tư, sạch sẽ, vừa tối ưu ngân sách cho các trải nghiệm ẩm thực & du lịch.
+2. **Chi phí lưu trú tối ưu:** Tổng chi phí 7 đêm lưu trú chỉ **2.881.411 VNĐ** cho cả 2 người (~205k/người/đêm), vừa đảm bảo căn hộ/phòng riêng tư, sạch sẽ, vừa tối ưu ngân sách cho các trải nghiệm ẩm thực & du lịch.
+
 
