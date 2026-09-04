@@ -143,22 +143,23 @@
 
 ---
 
-## <a id="ha-noi-2"></a>📍 Đêm 7: 05/09/2026 (Thứ Bảy) — Dốc Tam Đa, Tây Hồ / Ba Đình (Hà Nội)
+## <a id="ha-noi-2"></a>📍 Đêm 7: 05/09/2026 (Thứ Bảy) — Tam Đa, Tây Hồ / Ba Đình (Hà Nội)
 
 | Hạng mục | Chi tiết xác nhận |
 |----------|-------------------|
-| **Tên chỗ nghỉ** | **Homestay Dốc tam Đa đi bộ 5 phút ra Hồ Tây-Hà Nội** ✅ *(Đã xác nhận trên Booking.com)* |
-| **Số xác nhận (Booking ID)** | `6626597304` |
-| **Mã PIN (Bảo mật)** | `9072` |
-| **Địa chỉ / Khu vực** | Dốc Tam Đa, Phường Thụy Khuê, Quận Tây Hồ / Ba Đình, Hà Nội *(Đi bộ 5 phút ra Hồ Tây)* |
-| **Điện thoại chỗ nghỉ** | `+84 987 606 028` |
-| **Thời gian nhận phòng** | **T7, 05/09/2026** (14:00 - 23:00) |
-| **Thời gian trả phòng** | **CN, 06/09/2026** (08:00 - 12:00) |
-| **Loại phòng** | 1 x Phòng Giường Đôi (2 người lớn) |
+| **Tên chỗ nghỉ** | **Era Apartment Tam Da** ✅ *(Đã xác nhận trên Booking.com)* |
+| **Số xác nhận (Booking ID)** | `5015910610` |
+| **Mã PIN (Bảo mật)** | `7120` |
+| **Địa chỉ / Khu vực** | Tam Đa, Phường Thụy Khuê, Quận Tây Hồ / Ba Đình, Hà Nội *(Cách bờ Hồ Tây ~5 phút đi bộ)* |
+| **Điện thoại chỗ nghỉ** | `+84 965 767 358` |
+| **Thời gian nhận phòng** | **T7, 05/09/2026** |
+| **Thời gian trả phòng** | **CN, 06/09/2026** (1 đêm) |
+| **Loại phòng** | 1 x Căn Hộ Nhìn Ra Thành Phố (2 người lớn) |
 | **Tên khách đặt** | Công Chí |
 | **Email nhận xác nhận** | `chicong.1998vn@gmail.com` |
-| **Tổng giá tiền** | **368.000 VNĐ** *(Gồm thuế & phí)* |
-| **Hình thức thanh toán** | **Thanh toán tại chỗ nghỉ** *(Homestay Dốc Tam Đa xử lý thanh toán)* |
+| **Tổng giá tiền** | **452.017 VNĐ** *(Gồm thuế & phí)* |
+| **Hình thức thanh toán** | Thanh toán theo chính sách Booking.com |
 | **Chính sách hủy phòng** | Theo chính sách đơn đặt phòng trên Booking.com |
-| **Tài liệu đính kèm** | [`attachments/booking/xac_nhan_booking_hanoi_doc_tam_da.pdf`](../attachments/booking/xac_nhan_booking_hanoi_doc_tam_da.pdf) |
-| **Link quản lý Booking** | [Chỉnh sửa / Quản lý đặt phòng](https://secure.booking.com/confirmation.vi.html?bn=6626597304&pincode=9072) |
+| **Tài liệu đính kèm** | [`attachments/booking/Booking.com_ Xác nhận_hanoi_0509.pdf`](../attachments/booking/Booking.com_%20Xa%CC%81c%20nha%CC%A3%CC%82n_hanoi_0509.pdf) |
+| **Link quản lý Booking** | [Chỉnh sửa / Quản lý đặt phòng](https://secure.booking.com/confirmation.vi.html?bn=5015910610&pincode=7120) |
+

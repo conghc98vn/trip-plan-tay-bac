@@ -46,7 +46,7 @@
 | **02/09** | T4 🇻🇳 | Mèo Vạc → Bảo Lâm → Bảo Lạc → Chạy QL34 thong thả ngắm sông Gâm → TP Cao Bằng | ⛅ Trời mát, mưa rào nhẹ vài nơi ven sông Gâm / QL34 (22–30°C) | 🛵 **~185 km** *(chặng êm êm)* | [Minh Hoang Hotel & Homestay (✅ Đã xác nhận)](../info/dat_phong.md#cao-bang-1) |
 | **03/09** | T5 | Hồ Thang Hen & Núi Mắt Thần → Trùng Khánh → Thác Bản Giốc & Động Ngườm Ngao → Homestay A Thám (Làng Khuổi Ky) | 🌤️ Sáng hửng nắng đẹp Núi Mắt Thần, chiều mát mẻ (20–29°C) | 🛵 **~95 km** | [A THÁM homestay (✅ Đã xác nhận)](../info/dat_phong.md#ban-gioc) |
 | **04/09** | T6 | Bản Giốc → Cung vành đai ĐT211 Trà Lĩnh (Chợ Co Sàu) ➔ Pác Bó & Suối Lê-Nin ➔ Phở chua CB ➔ 17:00 Trả xe máy → **21:15 Xe Cabin VIP về Hà Nội** | ☀️ Nắng dịu mát, Suối Lê-Nin xanh ngọc bích (22–30°C) | 🛵 **~135 km**<br>🚌 **~280 km** *(xe đêm)* | 🚌 Ngủ đêm trên Xe Cabin VIP Hiệp Giang (Cabin `B.10`) |
-| **05/09** | T7 | **Trọn ngày Thứ Bảy tại Hà Nội:** Sáng đến HN sớm, Phở Bát Đàn, Cà phê Giảng, Xe hoa Phan Đình Phùng, Ngan cháy tỏi, **Spa & Gội đầu dưỡng sinh đôi**, Tối Phố Đi Bộ & Nầm nướng | ☀️ Hà Nội se mát mùa thu lãng mạn, nắng vàng dịu (24–32°C) | 🚶 Đi bộ / Grab | [Homestay Dốc Tam Đa Hồ Tây (✅ Đã xác nhận)](../info/dat_phong.md#ha-noi-2) |
+| **05/09** | T7 | **Trọn ngày Thứ Bảy tại Hà Nội:** Sáng đến HN sớm, Phở Bát Đàn, Cà phê Giảng, Xe hoa Phan Đình Phùng, Ngan cháy tỏi, **Spa & Gội đầu dưỡng sinh đôi**, Tối Phố Đi Bộ & Nầm nướng | ☀️ Hà Nội se mát mùa thu lãng mạn, nắng vàng dịu (24–32°C) | 🚶 Đi bộ / Grab | [Era Apartment Tam Da Hồ Tây (✅ Đã xác nhận)](../info/dat_phong.md#ha-noi-2) |
 | **06/09** | CN | **Trọn ngày Chủ Nhật tại Hà Nội:** Bún thang, Cà phê view Hồ Tây, Chả cá Lăng, Mua bánh cốm Hàng Than, Lẩu riêu cua Trúc Bạch → **21:00 ra Ga T1 Nội Bài → 23:30 Bay về SGN** | ⛅ Mùa thu Hà Nội mát mẻ, trong veo (24–32°C) | 🚶 Đi bộ / Grab | ✈️ Trên chuyến bay Sun PhuQuoc Airways 9G893 |
 
 > - 🏁 **Tổng quãng đường xe máy cả chuyến:** **~800 km**
@@ -307,11 +307,11 @@
 
 | Thời gian | Hoạt động | Ghi chú |
 |-----------|-----------|---------|
-| 05:30 - 06:15 | Xe Limousine Hiệp Giang đến **Bến xe Mỹ Đình (Hà Nội)**. Bắt Grab về **Homestay Dốc Tam Đa (Tây Hồ / Ba Đình - gần Hồ Tây)** gửi đồ | Đón bình minh Thủ đô |
+| 05:30 - 06:15 | Xe Limousine Hiệp Giang đến **Bến xe Mỹ Đình (Hà Nội)**. Bắt Grab về **Era Apartment Tam Da (Tây Hồ / Ba Đình - gần Hồ Tây)** gửi đồ | Đón bình minh Thủ đô |
 | 06:30 - 08:30 | Ăn sáng **Phở Bát Đàn** (49 Bát Đàn) / Phở sốt vang Tư Lùn + Cà phê trứng **Giảng** (39 Nguyễn Hữu Huân) béo ngậy | ☕ Hương vị Hà Thành sớm mai |
 | 08:30 - 11:30 | Dạo đường rợp bóng sấu cổ thụ **Phan Đình Phùng & Hoàng Diệu**, check-in cùng các gánh **xe hoa mùa thu** rực rỡ; ghé Cầu Long Biên & Hoàng Thành Thăng Long | 📸 Bộ ảnh mùa thu nàng thơ cho bạn gái |
 | 11:30 - 13:00 | Bữa trưa đặc sản: **Ngan cháy tỏi Hàng Thiếc** (hoặc Bún đậu Tuấn Trọc) | 😋 Món ngon nức tiếng |
-| 13:00 - 14:30 | Về **Homestay Dốc Tam Đa** nhận phòng, tắm rửa nghỉ trưa hồi sức (đi bộ 5 phút ra ngắm gió Hồ Tây) | Nghỉ ngơi thoải mái |
+| 13:00 - 14:30 | Về **Era Apartment Tam Da** nhận phòng, tắm rửa nghỉ trưa hồi sức (căn hộ riêng tư, đi bộ 5 phút ra ngắm gió Hồ Tây) | Nghỉ ngơi thoải mái |
 | 14:30 - 16:30 | **Trải nghiệm Spa & Gội đầu dưỡng sinh đôi:** Ghé tiệm spa Đông Y phố cổ ngâm chân thảo dược, massage cổ vai gáy phục hồi cơ thể sau 6 ngày phượt đèo | 💆 Xua tan hoàn toàn ê ẩm mệt mỏi |
 | 16:30 - 18:30 | Dạo **Phố đi bộ Hồ Gươm** chiều Thứ Bảy mát lành, ăn **Kem Tràng Tiền**, ngắm góc Nhà Hát Lớn | 🚶 Thong dong dạo bộ cuối tuần |
 | 18:30 - 21:00 | Bữa tối Thứ Bảy sôi động: **Nầm bò nướng than hoa Ba Đình** / **Phở cuốn Ngũ Xá Hương Mai** | 🍲 Bữa tối ấm cúng |
@@ -386,7 +386,7 @@
 | **02/09** | TP Cao Bằng (1 đêm 🇻🇳) | Khách sạn trung tâm TP | ✅ **Minh Hoang Hotel & Homestay** *(Mã: `6307.802.042`, 369k tiền mặt, [Chi tiết voucher](../info/dat_phong.md#cao-bang-1))* |
 | **03/09** | Thác Bản Giốc (1 đêm) | Homestay Làng cổ đá Khuổi Ky | ✅ **A THÁM homestay** *(Mã: 6515457323, 518k, [Chi tiết voucher](../info/dat_phong.md#ban-gioc))* |
 | **04/09** | Trên xe khách (1 đêm) | Limousine Cabin VIP đôi CB → HN | ✅ **Hiệp Giang Limousine (Mã: `P2DZO3`, Cabin `B.10`)** — 750k (*[Chi tiết vé](../info/xe_khach.md#chặng-2-tp-cao-bằng--hà-nội-tối-thứ-sáu-04092026--đã-thanh-toán-thành-công)*) |
-| **05/09** | Hà Nội (1 đêm) | Homestay gần Hồ Tây | ✅ **Homestay Dốc tam Đa** *(Mã: 6626597304, 368k, [Chi tiết voucher](../info/dat_phong.md#ha-noi-2))* |
+| **05/09** | Hà Nội (1 đêm) | Căn hộ riêng gần Hồ Tây | ✅ **Era Apartment Tam Da** *(Mã: 5015910610, 452k, [Chi tiết voucher](../info/dat_phong.md#ha-noi-2))* |
 
 
 ---

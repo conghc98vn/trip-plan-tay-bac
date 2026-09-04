@@ -12,11 +12,11 @@
 | Chỉ số | Số tiền (VNĐ) | Ghi chú |
 |:---|:---:|:---|
 | ✈️ **Chi phí cố định (Vé bay, xe khách, thuê xe)** | **7.444.024 đ** | Đã gồm 2 vé bay khứ hồi (VJ 1.435k + Sun 2.346k) + 2 vé xe khách (Quang Tuyến 550k + Hiệp Giang 750k) + thuê Wave Giang Sơn (2.362k) |
-| 🏨 **Chi phí lưu trú (Homestay/Hotel 7 đêm đã chốt)** | **2.749.411 đ** | Da Tree (348k) + Bong Bang 2 (400k) + ToTo-Chan (446.4k) + Phương Anh (300k) + Minh Hoàng (369k) + A THÁM (518.011đ) + Homestay Dốc Tam Đa (368k) |
+| 🏨 **Chi phí lưu trú (Homestay/Hotel 7 đêm đã chốt)** | **2.833.428 đ** | Da Tree (348k) + Bong Bang 2 (400k) + ToTo-Chan (446.4k) + Phương Anh (300k) + Minh Hoàng (369k) + A THÁM (518.011đ) + Era Apartment Tam Da (452.017đ) |
 | 🍜 **Chi tiêu sinh hoạt & trải nghiệm 8 ngày thực tế** | **7.390.000 đ** | Ẩm thực, quà biếu, vé tham quan, xăng cộ, xe ôm, phạt giao thông |
-| 💵 **TỔNG ĐÃ CHI & ĐÃ ĐẶT (Đến hiện tại Ngày 8 + Xe về 04/09 + KS HN 05/09)** | 🏆 **17.583.435 đ** | **~8.791.718 đ / người (2 người)** |
+| 💵 **TỔNG ĐÃ CHI & ĐÃ ĐẶT (Đến hiện tại Ngày 8 + Xe về 04/09 + KS HN 05/09)** | 🏆 **17.667.452 đ** | **~8.833.726 đ / người (2 người)** |
 | 🔮 **Dự toán chi phí còn lại (04/09 tối – 06/09)** | **~3.300.000 đ** | MOTOGO (310k) + Spa dưỡng sinh + Foodtour HN + Quà bánh cốm |
-| 🎯 **TỔNG CHI PHÍ DỰ KIẾN TOÀN CHUYẾN ĐI** | **~20.880.000 đ** | **~10.440.000 đ / người (10 ngày 9 đêm)** |
+| 🎯 **TỔNG CHI PHÍ DỰ KIẾN TOÀN CHUYẾN ĐI** | **~20.967.000 đ** | **~10.483.500 đ / người (10 ngày 9 đêm)** |
 | 🔄 **Khoản tiền cọc tạm ứng (Sẽ hoàn lại)** | **+3.000.000 đ** | Tiền cọc xe máy Giang Sơn nhận lại khi trả xe tại TP Cao Bằng chiều 04/09 |
 
 ---
@@ -47,8 +47,8 @@
 | **Đêm 5** | 02/09 | **Minh Hoang Hotel & Homestay** (TP Cao Bằng) | `6307802042` | **369.000 đ** | ✅ Đã xác nhận | Phòng Giường Đôi Tiết Kiệm, trả tiền mặt khi check-in ([dat_phong.md](dat_phong.md#cao-bang-1)) |
 | **Đêm 6** | 03/09 | **A THÁM homestay** (Thác Bản Giốc / Khuổi Ky) | `6515457323` | **518.011 đ** | ✅ Đã xác nhận | Phòng Gia Đình (2 người lớn), gần Thác Bản Giốc ([dat_phong.md](dat_phong.md#ban-gioc)) |
 | **Đêm 7** | 04/09 | *Ngủ trên xe Limousine Cabin VIP Hiệp Giang (B.10)* | `P2DZO3` | **0 đ** | ✅ Đã bao gồm vé xe | Xuất phát 21:15 về đến Bến xe Mỹ Đình 05:30 sáng |
-| **Đêm 8** | 05/09 | **Homestay Dốc tam Đa đi bộ 5 phút ra Hồ Tây** (Tây Hồ / Ba Đình) | `6626597304` | **368.000 đ** | ✅ Đã xác nhận | Phòng Giường Đôi, đi bộ 5p ra Hồ Tây, trả tiền tại chỗ ([dat_phong.md](dat_phong.md#ha-noi-2)) |
-| **TỔNG** | **LƯU TRÚ (9 ĐÊM)** | | **2.749.411 đ** | *(Đã chốt 100% toàn bộ 7 đêm KS/Homestay + 2 đêm xe khách)* |
+| **Đêm 8** | 05/09 | **Era Apartment Tam Da** (Tam Đa, Tây Hồ / Ba Đình) | `5015910610` | **452.017 đ** | ✅ Đã xác nhận | Căn Hộ Nhìn Ra Thành Phố, đi bộ 5p ra Hồ Tây, trả tiền Booking.com ([dat_phong.md](dat_phong.md#ha-noi-2)) |
+| **TỔNG** | **LƯU TRÚ (9 ĐÊM)** | | **2.833.428 đ** | *(Đã chốt 100% toàn bộ 7 đêm KS/Homestay + 2 đêm xe khách)* |
 
 ---
 
@@ -226,13 +226,13 @@ pie title Tỷ trọng chi tiêu thực tế 8 ngày đầu (7.390.000đ)
 |:---|:---:|:---:|:---:|:---:|
 | ✈️ **Vé máy bay & Xe khách liên tỉnh** | 5.081.524 đ | 0 đ | **5.081.524 đ** | 24.3% |
 | 🏍️ **Thuê xe máy & Phụ phí trả khác tỉnh** | 2.362.500 đ | 310.000 đ | **~2.672.500 đ** | 12.8% |
-| 🏨 **Khách sạn / Homestay (9 đêm)** | 2.749.411 đ | 0 đ | **2.749.411 đ** | 13.2% |
-| 🍜 **Ẩm thực & Thức uống** | 4.485.000 đ | ~1.500.000 đ | **~5.985.000 đ** | 28.7% |
-| 🎁 **Quà biếu & Mua đặc sản** | 1.600.000 đ | ~800.000 đ | **~2.400.000 đ** | 11.5% |
+| 🏨 **Khách sạn / Homestay (9 đêm)** | 2.833.428 đ | 0 đ | **2.833.428 đ** | 13.5% |
+| 🍜 **Ẩm thực & Thức uống** | 4.485.000 đ | ~1.500.000 đ | **~5.985.000 đ** | 28.5% |
+| 🎁 **Quà biếu & Mua đặc sản** | 1.600.000 đ | ~800.000 đ | **~2.400.000 đ** | 11.4% |
 | 🎟️ **Vé tham quan & Trải nghiệm** | 475.000 đ | ~150.000 đ | **~625.000 đ** | 3.0% |
 | 🏍️ **Xăng xe & Di chuyển nội thành/địa phương** | 510.000 đ | ~250.000 đ | **~760.000 đ** | 3.6% |
 | 💆 **Dịch vụ, Spa & Phát sinh khác** | 210.000 đ | ~300.000 đ | **~510.000 đ** | 2.9% |
-| **TỔNG CỘNG** | **17.583.435 đ** | **~3.310.000 đ** | **~20.893.435 đ** | **100%** |
+| **TỔNG CỘNG** | **17.667.452 đ** | **~3.310.000 đ** | **~20.977.452 đ** | **100%** |
 
 ---
 

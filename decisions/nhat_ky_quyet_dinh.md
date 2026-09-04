@@ -527,24 +527,24 @@
   3. *Hoàn cọc chuyển khoản:* Gửi STK ngân hàng cho bên Giang Sơn để nhận lại **3.000.000 VNĐ** tiền cọc hợp đồng ngay sau khi nhân viên kiểm tra xác nhận.
 - **Cập nhật đồng bộ:** [`info/thue_xe_may.md`](file:///Users/trucanh/Desktop/chicong-trip-plan/info/thue_xe_may.md), [`plans/lich_trinh_chi_tiet.md`](file:///Users/trucanh/Desktop/chicong-trip-plan/plans/lich_trinh_chi_tiet.md) và [`README.md`](file:///Users/trucanh/Desktop/chicong-trip-plan/README.md).
 
-## 04/09/2026 — Xác Nhận Đặt Phòng Homestay Dốc Tam Đa (Hà Nội — Đêm 05/09)
+## 04/09/2026 — Đổi & Xác Nhận Đặt Phòng Era Apartment Tam Da (Hà Nội — Đêm 05/09)
 
-### Quyết định #34: Chốt đặt phòng Homestay Dốc Tam Đa gần Hồ Tây qua Booking.com (Đêm Thứ Bảy 05/09)
-- **Tên chỗ nghỉ:** **Homestay Dốc tam Đa đi bộ 5 phút ra Hồ Tây-Hà Nội** ✅ *(Đã xác nhận trên Booking.com)*
-- **Mã xác nhận Booking (Booking ID):** **`6626597304`** | **Mã PIN:** **`9072`**
-- **Thời gian lưu trú:** 1 đêm (Nhận phòng: **Thứ Bảy 05/09/2026** từ 14:00 — Trả phòng: **Chủ Nhật 06/09/2026** trước 12:00)
-- **Địa chỉ / Khu vực:** Dốc Tam Đa, Phường Thụy Khuê, Quận Tây Hồ / Ba Đình, Hà Nội *(Cách bờ Hồ Tây 5 phút đi bộ)*
-- **Điện thoại chỗ nghỉ:** **`+84 987 606 028`**
-- **Loại phòng:** 1 x Phòng Giường Đôi (2 người lớn)
+### Quyết định #34: Chốt đặt phòng Era Apartment Tam Da gần Hồ Tây qua Booking.com (Đêm Thứ Bảy 05/09)
+- **Tên chỗ nghỉ:** **Era Apartment Tam Da** ✅ *(Đã xác nhận trên Booking.com, thay thế phòng cũ đã hủy)*
+- **Mã xác nhận Booking (Booking ID):** **`5015910610`** | **Mã PIN:** **`7120`**
+- **Thời gian lưu trú:** 1 đêm (Nhận phòng: **Thứ Bảy 05/09/2026** — Trả phòng: **Chủ Nhật 06/09/2026**)
+- **Địa chỉ / Khu vực:** Tam Đa, Phường Thụy Khuê, Quận Tây Hồ / Ba Đình, Hà Nội *(Cách bờ Hồ Tây ~5 phút đi bộ)*
+- **Điện thoại chỗ nghỉ:** **`+84 965 767 358`**
+- **Loại phòng:** 1 x Căn Hộ Nhìn Ra Thành Phố (2 người lớn)
 - **Khách đặt / Email:** Công Chí — `chicong.1998vn@gmail.com`
-- **Tổng giá tiền:** **368.000 VNĐ** *(Gồm thuế GTGT & phí dịch vụ)*
-- **Hình thức thanh toán:** Thanh toán tại chỗ nghỉ theo chính sách Booking.com
+- **Tổng giá tiền:** **452.017 VNĐ** *(Gồm thuế GTGT & phí dịch vụ)*
+- **Hình thức thanh toán:** Thanh toán theo chính sách Booking.com
 - **Ưu điểm & Vị trí:**
   - Vị trí đắc địa ngay sát Hồ Tây và trục đường Hoàng Hoa Thám / Thụy Khuê, rất tiện di chuyển qua phố Phan Đình Phùng check-in xe hoa mùa thu, dạo ngắm gió Hồ Tây và ăn lẩu Trúc Bạch tối.
-  - Giá phòng cực kỳ tiết kiệm (chỉ 368k/đêm cho phòng đôi riêng tư).
+  - Căn hộ riêng tư, tiện nghi, nhìn ra thành phố thoáng đãng.
   - Hoàn thành trọn vẹn **100% mục tiêu đặt phòng (7/7 đêm lưu trú)** cho toàn bộ chuyến đi!
 - **Tài liệu tham chiếu:** [`info/dat_phong.md`](file:///Users/trucanh/Desktop/chicong-trip-plan/info/dat_phong.md#ha-noi-2)
-- **Tài liệu đính kèm:** [`attachments/booking/xac_nhan_booking_hanoi_doc_tam_da.pdf`](file:///Users/trucanh/Desktop/chicong-trip-plan/attachments/booking/xac_nhan_booking_hanoi_doc_tam_da.pdf)
+- **Tài liệu đính kèm:** [`attachments/booking/Booking.com_ Xác nhận_hanoi_0509.pdf`](file:///Users/trucanh/Desktop/chicong-trip-plan/attachments/booking/Booking.com_%20Xa%CC%81c%20nha%CC%A3%CC%82n_hanoi_0509.pdf)
 - **Cập nhật đồng bộ:** [`plans/lich_trinh_chi_tiet.md`](file:///Users/trucanh/Desktop/chicong-trip-plan/plans/lich_trinh_chi_tiet.md), [`info/tong_hop_chi_phi.md`](file:///Users/trucanh/Desktop/chicong-trip-plan/info/tong_hop_chi_phi.md), [`info/expense_tracker.html`](file:///Users/trucanh/Desktop/chicong-trip-plan/info/expense_tracker.html), [`notes/goi_y_homestay.md`](file:///Users/trucanh/Desktop/chicong-trip-plan/notes/goi_y_homestay.md) và [`README.md`](file:///Users/trucanh/Desktop/chicong-trip-plan/README.md).
 
 ## 04/09/2026 — Cập Nhật Tiến Độ Thực Tế Ngày 7 (Bản Giốc & Ngườm Ngao) & Ngày 8 (Chợ Co Sàu, Pác Bó, Suối Lê-Nin, Phở Chua & Chuẩn Bị Về Hà Nội)
@@ -564,8 +564,8 @@
 - **Tổng kết tài chính realtime sau 8 ngày:**
   - Tổng sinh hoạt 8 ngày: **7.390.000 VNĐ**
   - Chi phí cố định (vé bay + xe khách + thuê 2 xe máy): **7.444.024 VNĐ**
-  - Chi phí lưu trú (7 đêm đã chốt): **2.749.411 VNĐ**
-  - 👉 **Tổng đã chi & đã đặt:** **17.583.435 VNĐ** (~8.791.718 VNĐ / người).
+  - Chi phí lưu trú (7 đêm đã chốt): **2.833.428 VNĐ**
+  - 👉 **Tổng đã chi & đã đặt:** **17.667.452 VNĐ** (~8.833.726 VNĐ / người).
   - 🔄 **Khoản cọc xe Giang Sơn:** Nhận lại **+3.000.000 VNĐ** chiều nay tại TP Cao Bằng.
 - **Cập nhật đồng bộ:** [`plans/lich_trinh_chi_tiet.md`](file:///Users/trucanh/Desktop/chicong-trip-plan/plans/lich_trinh_chi_tiet.md), [`info/tong_hop_chi_phi.md`](file:///Users/trucanh/Desktop/chicong-trip-plan/info/tong_hop_chi_phi.md), [`info/expense_tracker.html`](file:///Users/trucanh/Desktop/chicong-trip-plan/info/expense_tracker.html), [`notes/dac_san_am_thuc.md`](file:///Users/trucanh/Desktop/chicong-trip-plan/notes/dac_san_am_thuc.md) và [`README.md`](file:///Users/trucanh/Desktop/chicong-trip-plan/README.md).
 
@@ -592,7 +592,7 @@
 - [x] Chốt phương án về Hà Nội bằng xe Cabin VIP đêm 21:00 ngày 04/09 & dành trọn 2 ngày cuối tuần tại Hà Nội
 - [x] Đặt homestay Thác Bản Giốc đêm 03/09 (✅ **A THÁM homestay** - Mã `6515457323` - 518.011 VNĐ)
 - [x] Đặt vé xe Cabin VIP CB → Hà Nội (✅ **Hiệp Giang Limousine Cabin B.10** - Mã `P2DZO3` - 750.000 VNĐ)
-- [x] Đặt homestay / Khách sạn Hà Nội đêm 05/09 (✅ **Homestay Dốc Tam Đa** - Mã `6626597304` - 368.000 VNĐ)
+- [x] Đặt homestay / Khách sạn Hà Nội đêm 05/09 (✅ **Era Apartment Tam Da** - Mã `5015910610` - 452.017 VNĐ)
 - [x] Hoàn thành chặng phượt đèo xe máy Hà Giang - Cao Bằng an toàn 100%
 - [ ] Bàn giao trả xe Wave Giang Sơn tại TP Cao Bằng chiều 04/09 & nhận lại cọc 3.000.000 VNĐ
 - [ ] Lên xe Cabin Hiệp Giang lúc 21:15 tối 04/09 về Hà Nội
