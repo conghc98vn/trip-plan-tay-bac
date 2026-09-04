@@ -28,10 +28,12 @@
 | 1 | **Vé máy bay lượt đi (SGN → HAN)** | Vietjet Air (VJ120) • `UJSG2A` & `R7AH77` | **1.435.162 đ** | ✅ Đã thanh toán | 10k SkyPoint + Tiền mặt, gồm 1 suất ăn nóng bò sốt bơ ([chuyen_bay.md](chuyen_bay.md#lượt-đi-sgn--han)) |
 | 2 | **Vé máy bay lượt về (HAN → SGN)** | Sun PhuQuoc (9G893) • `7TGDE6` | **2.346.362 đ** | ✅ Đã thanh toán | Đã gồm **1 kiện ký gửi/người** + chọn ghế 36J/36K ([chuyen_bay.md](chuyen_bay.md#lượt-về-han--sgn)) |
 | 3 | **Xe khách Hà Nội → TP Hà Giang** | Quang Tuyến Limousine • `RN34WQ` | **550.000 đ** | ✅ Đã thanh toán | 24 Phòng VIP, đón 55 Nguyễn Hoàng, trả tận tiệm Giang Sơn ([xe_khach.md](xe_khach.md#chặng-1-hà-nội--tp-hà-giang-tối-2908-)) |
-| 4 | **Thuê xe máy Hà Nội (2 ngày)** | MOTOGO Nội Bài • Mã `#39337` | **310.000 đ** | ⏳ Trả xe thanh toán | Sirius 110cc: 260k + 50k phụ phí trả 1081 Hồng Hà ([thue_xe_may.md](thue_xe_may.md#1-xe-máy-tại-hà-nội-28-2908--đã-xác-nhận-đặt-xe-motogo)) |
+| 4 | **Thuê xe máy Hà Nội lượt đi (2 ngày)** | MOTOGO Nội Bài • Mã `#39337` | **310.000 đ** | ✅ Đã thanh toán | Sirius 110cc: 260k + 50k phụ phí trả 1081 Hồng Hà (đã trả xe tối 29/08) ([thue_xe_may.md](thue_xe_may.md#1-xe-máy-tại-hà-nội-28-2908--đã-xác-nhận-đặt-xe-motogo)) |
 | 5 | **Thuê xe máy phượt HG → CB (6 ngày)** | Giang Sơn Hà Giang • Hợp đồng `#45` | **2.362.500 đ** | ✅ Đã thanh toán 100% | Wave 110cc có gói BH cứu hộ 24/7 + phụ phí trả Cao Bằng + VAT ([thue_xe_may.md](thue_xe_may.md#2-xe-máy-tour-hà-giang--cao-bằng--giang-sơn-3008---0509--đã-ký-hợp-đồng-45)) |
 | 6 | **Xe Cabin VIP Cao Bằng → Hà Nội** | Hiệp Giang Limousine • Mã `P2DZO3` (`77Z1VY8`) | **750.000 đ** | ✅ Đã thanh toán | Cabin Đôi B.10, đón 21:15 VP Bến xe CB, trả Bến xe Mỹ Đình ([xe_khach.md](xe_khach.md#chặng-2-tp-cao-bằng--hà-nội-tối-thứ-sáu-04092026--đã-thanh-toán-thành-công)) |
-| **TỔNG** | **CỐ ĐỊNH** | | **7.754.024 đ** | *(Đã chi: 7.444.024đ • Còn lại: 310.000đ MOTOGO)* |
+| 7 | **Thuê xe máy Hà Nội lượt về (2 ngày)** | MOTOGO Hoàng Hoa Thám | **310.000 đ** | ⏳ Trả xe thanh toán | Xe số 110cc: 260k + 50k phụ phí trả sân bay Nội Bài (nhận 06:00 05/09 tại 267 Hoàng Hoa Thám) ([thue_xe_may.md](thue_xe_may.md#3-xe-máy-tại-hà-nội-lượt-về-05---0609--đã-xác-nhận-đặt-xe-motogo)) |
+| **TỔNG** | **CỐ ĐỊNH (DI CHUYỂN TOÀN CHUYẾN)** | | **8.064.024 đ** | *(Đã chi: 7.754.024đ • Còn lại: 310.000đ MOTOGO Hoàng Hoa Thám trả tối 06/09)* |
+
 
 ---
 

@@ -46,8 +46,8 @@
 | **02/09** | T4 🇻🇳 | Mèo Vạc → Bảo Lâm → Bảo Lạc → Chạy QL34 thong thả ngắm sông Gâm → TP Cao Bằng | ⛅ Trời mát, mưa rào nhẹ vài nơi ven sông Gâm / QL34 (22–30°C) | 🛵 **~185 km** *(chặng êm êm)* | [Minh Hoang Hotel & Homestay (✅ Đã xác nhận)](../info/dat_phong.md#cao-bang-1) |
 | **03/09** | T5 | Hồ Thang Hen & Núi Mắt Thần → Trùng Khánh → Thác Bản Giốc & Động Ngườm Ngao → Homestay A Thám (Làng Khuổi Ky) | 🌤️ Sáng hửng nắng đẹp Núi Mắt Thần, chiều mát mẻ (20–29°C) | 🛵 **~95 km** | [A THÁM homestay (✅ Đã xác nhận)](../info/dat_phong.md#ban-gioc) |
 | **04/09** | T6 | Bản Giốc → Cung vành đai ĐT211 Trà Lĩnh (Chợ Co Sàu) ➔ Pác Bó & Suối Lê-Nin ➔ Phở chua CB ➔ 17:00 Trả xe máy → **21:15 Xe Cabin VIP về Hà Nội** | ☀️ Nắng dịu mát, Suối Lê-Nin xanh ngọc bích (22–30°C) | 🛵 **~135 km**<br>🚌 **~280 km** *(xe đêm)* | 🚌 Ngủ đêm trên Xe Cabin VIP Hiệp Giang (Cabin `B.10`) |
-| **05/09** | T7 | **Trọn ngày Thứ Bảy tại Hà Nội:** Sáng đến HN sớm, Phở Bát Đàn, Cà phê Giảng, Xe hoa Phan Đình Phùng, Ngan cháy tỏi, **Spa & Gội đầu dưỡng sinh đôi**, Tối Phố Đi Bộ & Nầm nướng | ☀️ Hà Nội se mát mùa thu lãng mạn, nắng vàng dịu (24–32°C) | 🚶 Đi bộ / Grab | [Hoang Hoa Tham Modern Apartment Ba Đình (✅ Đã xác nhận)](../info/dat_phong.md#ha-noi-2) |
-| **06/09** | CN | **Trọn ngày Chủ Nhật tại Hà Nội:** Bún thang, Cà phê view Hồ Tây, Chả cá Lăng, Mua bánh cốm Hàng Than, Lẩu riêu cua Trúc Bạch → **21:00 ra Ga T1 Nội Bài → 23:30 Bay về SGN** | ⛅ Mùa thu Hà Nội mát mẻ, trong veo (24–32°C) | 🚶 Đi bộ / Grab | ✈️ Trên chuyến bay Sun PhuQuoc Airways 9G893 |
+| **05/09** | T7 | **Trọn ngày Thứ Bảy tại Hà Nội:** Sáng đến HN sớm, nhận xe máy MOTOGO Hoàng Hoa Thám, Phở Bát Đàn, Cà phê Giảng, Xe hoa Phan Đình Phùng, Ngan cháy tỏi, **Spa & Gội đầu dưỡng sinh đôi**, Tối Phố Đi Bộ & Nầm nướng | ☀️ Hà Nội se mát mùa thu lãng mạn, nắng vàng dịu (24–32°C) | 🛵 Xe máy / Đi bộ | [Hoang Hoa Tham Modern Apartment Ba Đình (✅ Đã xác nhận)](../info/dat_phong.md#ha-noi-2) |
+| **06/09** | CN | **Trọn ngày Chủ Nhật tại Hà Nội:** Bún thang, Cà phê view Hồ Tây, Chả cá Lăng, Mua bánh cốm Hàng Than, Lẩu riêu cua Trúc Bạch → **20:30-21:00 Trả xe máy MOTOGO → Ga T1 Nội Bài → 23:30 Bay về SGN** | ⛅ Mùa thu Hà Nội mát mẻ, trong veo (24–32°C) | 🛵 Xe máy / Grab | ✈️ Trên chuyến bay Sun PhuQuoc Airways 9G893 |
 
 > - 🏁 **Tổng quãng đường xe máy cả chuyến:** **~800 km**
 
@@ -307,7 +307,8 @@
 
 | Thời gian | Hoạt động | Ghi chú |
 |-----------|-----------|---------|
-| 05:30 - 06:15 | Xe Limousine Hiệp Giang đến **Bến xe Mỹ Đình (Hà Nội)**. Bắt Grab về **Hoang Hoa Tham Modern Apartment (189 Hoàng Hoa Thám, Ba Đình - gần Hồ Tây)** gửi đồ | Đón bình minh Thủ đô |
+| 05:30 - 06:00 | Xe Limousine Hiệp Giang đến **Bến xe Mỹ Đình (Hà Nội)**. Bắt Grab về **Hoang Hoa Tham Modern Apartment (189 Hoàng Hoa Thám, Ba Đình)** gửi đồ | Đón bình minh Thủ đô |
+| 06:00 - 06:30 | Đi bộ sang **MOTOGO cơ sở Hoàng Hoa Thám (Số 7 ngõ 267 Hoàng Hoa Thám)** cách ~600m nhận xe số Wave/Sirius, xuất trình CCCD/GPLX. Nhận xe máy vi vu phố phường | [Thông tin thuê xe MOTOGO](../info/thue_xe_may.md#3-xe-máy-tại-hà-nội-lượt-về-05---0609--đã-xác-nhận-đặt-xe-motogo) |
 | 06:30 - 08:30 | Ăn sáng **Phở Bát Đàn** (49 Bát Đàn) / Phở sốt vang Tư Lùn + Cà phê trứng **Giảng** (39 Nguyễn Hữu Huân) béo ngậy | ☕ Hương vị Hà Thành sớm mai |
 | 08:30 - 11:30 | Dạo đường rợp bóng sấu cổ thụ **Phan Đình Phùng & Hoàng Diệu**, check-in cùng các gánh **xe hoa mùa thu** rực rỡ; ghé Cầu Long Biên & Hoàng Thành Thăng Long | 📸 Bộ ảnh mùa thu nàng thơ cho bạn gái |
 | 11:30 - 13:00 | Bữa trưa đặc sản: **Ngan cháy tỏi Hàng Thiếc** (hoặc Bún đậu Tuấn Trọc) | 😋 Món ngon nức tiếng |
@@ -332,8 +333,8 @@
 | 13:30 - 16:00 | **Trải nghiệm Spa & Gội đầu dưỡng sinh đôi:** Ghé tiệm spa Đông Y phố cổ ngâm chân thảo dược, massage cổ vai gáy phục hồi cơ thể sau chuyến phượt | 💆 Hoàn toàn xua tan mệt mỏi |
 | 16:30 - 18:30 | Dạo **Phố đi bộ Hồ Gươm**, thưởng thức **Kem Tràng Tiền**, ngắm hoàng hôn Tháp Rùa và góc Nhà Hát Lớn | 🚶 Thong dong dạo bộ cuối tuần |
 | 18:30 - 20:30 | Bữa tối chia tay Hà Nội: **Lẩu riêu cua bắp bò sườn sụn Trúc Bạch** ven hồ lộng gió | 🍲 Lẩu ấm cúng bên hồ |
-| 21:00 - 21:45 | Bắt Grab/Taxi từ trung tâm qua Cầu Nhật Tân ra **Sân bay Quốc tế Nội Bài (Ga T1)** | ~40-45 phút di chuyển |
-| 21:45 - 22:45 | Làm thủ tục tại quầy **Sun PhuQuoc Airways**, ký gửi hành lý (1PC/người với các kiện hạt dẻ, quà Cao Bằng). Qua an ninh vào phòng chờ | PNR: **`7TGDE6`** (Ghế **36J & 36K**) |
+| 20:30 - 21:15 | **Bàn giao trả xe máy MOTOGO:**<br>• *PA1:* Chạy xe máy qua Cầu Nhật Tân trả tại MOTOGO Điền Xá (gần sân bay Nội Bài) lúc 21:00 rồi sang Ga T1 (phụ phí trả trái điểm 50k).<br>• *PA2:* Trả tại MOTOGO Hoàng Hoa Thám lúc 20:30 rồi bắt Grab ra sân bay. | Tiện lợi & chủ động |
+| 21:15 - 22:45 | Làm thủ tục tại quầy **Sun PhuQuoc Airways (Ga T1 Nội Bài)**, ký gửi hành lý (1PC/người với các kiện hạt dẻ, quà Cao Bằng). Qua an ninh vào phòng chờ | PNR: **`7TGDE6`** (Ghế **36J & 36K**) |
 | 23:30 - 01:40 (+1) | Cất cánh chuyến bay **9G893** về SGN. Hạ cánh Tân Sơn Nhất (Ga T3) lúc 01:40 sáng 07/09. **KẾT THÚC CHUYẾN ĐI 10 NGÀY 9 ĐÊM TRỌN VẸN & AN TOÀN TUYỆT ĐỐI!** 🎉 | |
 
 ---

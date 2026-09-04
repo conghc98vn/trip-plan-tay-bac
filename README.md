@@ -55,7 +55,7 @@ chicong-trip-plan/
 | **Vé máy bay về** | ✅ **Đã đặt & chọn chỗ** | **Sun PhuQuoc Airways 9G893** (06/09 23:30 HAN T1→01:40 SGN T3 - PNR: **`7TGDE6`** - Ghế **36J** & **36K** - Đã gồm **1PC hành lý ký gửi/người**) |
 | **Xe khách HN→HG** | ✅ Đã đặt | **Quang Tuyến Limousine** 24 phòng (Mã vé: `RN34WQ` / Vexere: `23BQ04L`) - 550k (Đón 55 Nguyễn Hoàng 23:05, Trả tận nơi Giang Sơn Homestay 05:45) |
 | **Xe khách CB→Hà Nội** | ✅ **Đã thanh toán** | **Hiệp Giang Limousine** 22 phòng (Mã: `P2DZO3` / `77Z1VY8`) - 750k (Cabin Đôi **`B.10`**, đón 21:15 VP Bến xe CB, trả Bến xe Mỹ Đình 05:30) |
-| **Thuê xe HN** | ✅ Đã đặt | MOTOGO (Mã #39337) - Sirius 110cc (310k/2 ngày gồm 50k phụ phí trả trái điểm, nhận Nội Bài, trả 1081 Hồng Hà, baga sau) |
+| **Thuê xe máy Hà Nội (2 lượt)** | ✅ **Đã đặt & xác nhận** | **MOTOGO** (Lượt 1: 28-29/08 Sirius 310k; Lượt 2: 05-06/09 nhận 06:00 tại 267 Hoàng Hoa Thám - 260k/310k) |
 | **Thuê xe máy Giang Sơn** | ✅ **Đã ký HĐ & Thanh toán** | Honda Wave 110cc HĐ #45 (Thuê 6 ngày 30/08-04/09, đã CK 5.262.500đ gồm tiền thuê + 3.000.000đ cọc hoàn lại) |
 | **Homestay Hà Nội (Đêm 0)** | ✅ Đã xác nhận | Da Tree Homestay Ba Đình (Mã: 6540221126) - 348k (Tiền mặt) |
 | **Homestay Yên Minh** | ✅ Đã xác nhận | Bong Bang Homestay 2 (Mã: 6874088766) - 400k (Tiền mặt) |
@@ -85,10 +85,11 @@ chicong-trip-plan/
 10. [x] Đặt KS TP Cao Bằng đêm Lễ 2/9 (✅ Minh Hoang Hotel & Homestay - 02/09)
 11. [x] Đặt Homestay Thác Bản Giốc đêm 03/09 (✅ A THÁM homestay - 03/09)
 12. [x] Đặt Homestay Hà Nội đêm 05/09 (✅ **Hoang Hoa Tham Modern Apartment** - 05/09 - 500k)
-13. [x] Hoàn thiện food list Hà Nội & tổng hợp theo món ăn ([dac_san_am_thuc.md](notes/dac_san_am_thuc.md#food-hn))
-14. [x] Chuẩn bị packing checklist, phương án chằng xe máy & sạc Type-C Anker 65W
-15. [x] Xây dựng Đánh giá Rủi ro & Kịch bản Backup cho chuyến đi
-16. [x] **HOÀN THÀNH 100% TOÀN BỘ LOGISTICS (VÉ BAY, XE KHÁCH, XE MÁY & PHÒNG NGHỈ TOÀN TUYẾN)!** 🎉
+13. [x] Đặt xe máy Hà Nội lượt về (✅ **MOTOGO Hoàng Hoa Thám** - 06:00 05/09 - Xe số 2 ngày)
+14. [x] Hoàn thiện food list Hà Nội & tổng hợp theo món ăn ([dac_san_am_thuc.md](notes/dac_san_am_thuc.md#food-hn))
+15. [x] Chuẩn bị packing checklist, phương án chằng xe máy & sạc Type-C Anker 65W
+16. [x] Xây dựng Đánh giá Rủi ro & Kịch bản Backup cho chuyến đi
+17. [x] **HOÀN THÀNH 100% TOÀN BỘ LOGISTICS (VÉ BAY, XE KHÁCH, XE MÁY & PHÒNG NGHỈ TOÀN TUYẾN)!** 🎉
 
 ---
 
@@ -96,7 +97,9 @@ chicong-trip-plan/
 
 | Ai | SĐT | Ghi chú |
 |----|------|---------|
+| **MOTOGO Hà Nội** | **`0338 023 344`** | CS1: 7 ngõ 267 Hoàng Hoa Thám / CS2: Điền Xá Nội Bài |
 | **Giang Sơn (Tổng đài HG)** | Mr Sơn: `0983 380 333` / Mrs Giang: `0988 470 863` | Wave 110cc (gói BH cứu hộ 250k/ngày) |
 | **Giang Sơn (Nhận xe Cao Bằng)** | 📞 **`0868 252 168`** | [Điểm trả xe cố định TP Cao Bằng](https://maps.app.goo.gl/Fewv97hZmzrFNRSM7?g_st=ic) |
 | **Nhà xe Hiệp Giang (Cao Bằng)** | `0944 266 266` / `0946 355 255` | Limousine Cabin VIP đôi B.10 (Đón 21:15 tại VP Bến xe liên tỉnh CB) |
+
 

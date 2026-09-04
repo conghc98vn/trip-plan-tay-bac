@@ -568,6 +568,19 @@
   - 🔄 **Khoản cọc xe Giang Sơn:** Nhận lại **+3.000.000 VNĐ** chiều nay tại TP Cao Bằng.
 - **Cập nhật đồng bộ:** [`plans/lich_trinh_chi_tiet.md`](file:///Users/trucanh/Desktop/chicong-trip-plan/plans/lich_trinh_chi_tiet.md), [`info/tong_hop_chi_phi.md`](file:///Users/trucanh/Desktop/chicong-trip-plan/info/tong_hop_chi_phi.md), [`info/expense_tracker.html`](file:///Users/trucanh/Desktop/chicong-trip-plan/info/expense_tracker.html), [`notes/dac_san_am_thuc.md`](file:///Users/trucanh/Desktop/chicong-trip-plan/notes/dac_san_am_thuc.md) và [`README.md`](file:///Users/trucanh/Desktop/chicong-trip-plan/README.md).
 
+## 04/09/2026 — Đặt Xe Máy MOTOGO Hoàng Hoa Thám (Hà Nội Lượt Về — 05-06/09)
+
+### Quyết định #36: Chốt thuê xe máy MOTOGO cơ sở 267 Hoàng Hoa Thám cho 2 ngày cuối tuần Hà Nội
+- **Đơn vị thuê:** **MOTOGO Hà Nội** (Hotline: `0338.023.344`)
+- **Tên khách đặt:** Hoàng Chí Công — SĐT: `0969910198`
+- **Loại xe:** Xe số 110cc (Yamaha Sirius / Honda Wave)
+- **Thời gian thuê:** 2 ngày (Nhận: **06:00 sáng 05/09** — Trả: **20:30 - 21:00 tối 06/09**)
+- **Điểm nhận xe:** Số 7 ngõ 267 Hoàng Hoa Thám, Phường Ngọc Hà, Quận Ba Đình *(Chỉ cách căn hộ 189 Hoàng Hoa Thám ~600m đi bộ)*
+- **Điểm trả xe:** Linh hoạt trả tại Sân bay Nội Bài (Điền Xá, phụ phí 50k) lúc 21:00 tối 06/09 hoặc trả tại Hoàng Hoa Thám lúc 20:30 rồi bắt Grab ra sân bay.
+- **Giá thuê:** 130k/ngày × 2 ngày = **260.000 VNĐ** (nếu trả sân bay: +50k phụ phí = **310.000 VNĐ**). Thanh toán khi trả xe.
+- **Thủ tục:** Khách du lịch giữ lại 1 Giấy tờ tùy thân (CCCD) + kiểm tra GPLX + chụp vé máy bay/booking KS (hoặc cọc 2 triệu nếu không giữ giấy tờ).
+- **Cập nhật đồng bộ:** [`info/thue_xe_may.md`](file:///Users/trucanh/Desktop/chicong-trip-plan/info/thue_xe_may.md#3-xe-máy-tại-hà-nội-lượt-về-05---0609--đã-xác-nhận-đặt-xe-motogo), [`plans/lich_trinh_chi_tiet.md`](file:///Users/trucanh/Desktop/chicong-trip-plan/plans/lich_trinh_chi_tiet.md), [`info/tong_hop_chi_phi.md`](file:///Users/trucanh/Desktop/chicong-trip-plan/info/tong_hop_chi_phi.md) và [`README.md`](file:///Users/trucanh/Desktop/chicong-trip-plan/README.md).
+
 ---
 
 ## Cần quyết định tiếp
@@ -579,7 +592,7 @@
 - [x] Đặt homestay Yên Minh (Bong Bang homestay 2 - Đã xác nhận đêm 30/08)
 - [x] Đặt homestay Hà Nội (Da Tree Homestay Ba Đình - Đã xác nhận đêm 28/08)
 - [x] Chốt phương án hành lý & đóng gói (1 túi đeo chéo nhỏ máy ảnh + 2 Balo baga trước/sau + chai xăng 1.5L)
-- [x] Đặt xe máy Hà Nội (✅ **MOTOGO Mã #39337** - Sirius 110cc - 260k/2 ngày - Nhận Nội Bài, Trả 1081 Hồng Hà)
+- [x] Đặt xe máy Hà Nội lượt đi (✅ **MOTOGO Mã #39337** - Sirius 110cc - 260k/2 ngày - Nhận Nội Bài, Trả 1081 Hồng Hà)
 - [x] Chốt & Đặt cọc xe tour Giang Sơn (✅ **Honda Wave 110cc có BH cứu hộ** - Cọc 100k ngày 15/08 - Nhận TP HG, Trả TP CB)
 - [x] Chốt Kế hoạch Đánh giá Rủi ro & Phương án Backup
 - [x] Phân loại & Chốt Master Food List Hà Nội ([dac_san_am_thuc.md](file:///Users/trucanh/Desktop/chicong-trip-plan/notes/dac_san_am_thuc.md#food-hn))
@@ -592,10 +605,12 @@
 - [x] Đặt homestay Thác Bản Giốc đêm 03/09 (✅ **A THÁM homestay** - Mã `6515457323` - 518.011 VNĐ)
 - [x] Đặt vé xe Cabin VIP CB → Hà Nội (✅ **Hiệp Giang Limousine Cabin B.10** - Mã `P2DZO3` - 750.000 VNĐ)
 - [x] Đặt homestay / Khách sạn Hà Nội đêm 05/09 (✅ **Hoang Hoa Tham Modern Apartment** - Mã `1770541583` - 500.000 VNĐ)
+- [x] Đặt xe máy Hà Nội lượt về (✅ **MOTOGO Hoàng Hoa Thám** - 06:00 05/09 - Xe số 2 ngày)
 - [x] Hoàn thành chặng phượt đèo xe máy Hà Giang - Cao Bằng an toàn 100%
 - [ ] Bàn giao trả xe Wave Giang Sơn tại TP Cao Bằng chiều 04/09 & nhận lại cọc 3.000.000 VNĐ
 - [ ] Lên xe Cabin Hiệp Giang lúc 21:15 tối 04/09 về Hà Nội
-- [ ] Trải nghiệm 2 ngày cuối tuần Hà Nội (05/09 - 06/09): Spa dưỡng sinh đôi, Foodtour phố cổ, Xe hoa mùa thu & Bay về SGN 23:30 tối 06/09
+- [ ] Trải nghiệm 2 ngày cuối tuần Hà Nội (05/09 - 06/09): Nhận xe máy MOTOGO 06:00, Spa dưỡng sinh đôi, Foodtour phố cổ, Xe hoa mùa thu & Bay về SGN 23:30 tối 06/09
+
 
 
 
