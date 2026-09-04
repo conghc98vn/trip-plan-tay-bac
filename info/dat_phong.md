@@ -143,8 +143,22 @@
 
 ---
 
-## ⏳ Đêm 7: 05/09/2026 (Thứ Bảy) — Phố Cổ Hà Nội (Ba Đình / Hoàn Kiếm)
-*⏳ Chưa đặt — Ưu tiên Homestay / Khách sạn trung tâm Phố Cổ (Ba Đình / Hoàn Kiếm / Nhà Thờ Lớn).*
+## <a id="ha-noi-2"></a>📍 Đêm 7: 05/09/2026 (Thứ Bảy) — Dốc Tam Đa, Tây Hồ / Ba Đình (Hà Nội)
 
-
-
+| Hạng mục | Chi tiết xác nhận |
+|----------|-------------------|
+| **Tên chỗ nghỉ** | **Homestay Dốc tam Đa đi bộ 5 phút ra Hồ Tây-Hà Nội** ✅ *(Đã xác nhận trên Booking.com)* |
+| **Số xác nhận (Booking ID)** | `6626597304` |
+| **Mã PIN (Bảo mật)** | `9072` |
+| **Địa chỉ / Khu vực** | Dốc Tam Đa, Phường Thụy Khuê, Quận Tây Hồ / Ba Đình, Hà Nội *(Đi bộ 5 phút ra Hồ Tây)* |
+| **Điện thoại chỗ nghỉ** | `+84 987 606 028` |
+| **Thời gian nhận phòng** | **T7, 05/09/2026** (14:00 - 23:00) |
+| **Thời gian trả phòng** | **CN, 06/09/2026** (08:00 - 12:00) |
+| **Loại phòng** | 1 x Phòng Giường Đôi (2 người lớn) |
+| **Tên khách đặt** | Công Chí |
+| **Email nhận xác nhận** | `chicong.1998vn@gmail.com` |
+| **Tổng giá tiền** | **368.000 VNĐ** *(Gồm thuế & phí)* |
+| **Hình thức thanh toán** | **Thanh toán tại chỗ nghỉ** *(Homestay Dốc Tam Đa xử lý thanh toán)* |
+| **Chính sách hủy phòng** | Theo chính sách đơn đặt phòng trên Booking.com |
+| **Tài liệu đính kèm** | [`attachments/booking/xac_nhan_booking_hanoi_doc_tam_da.pdf`](../attachments/booking/xac_nhan_booking_hanoi_doc_tam_da.pdf) |
+| **Link quản lý Booking** | [Chỉnh sửa / Quản lý đặt phòng](https://secure.booking.com/confirmation.vi.html?bn=6626597304&pincode=9072) |

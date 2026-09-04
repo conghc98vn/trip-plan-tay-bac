@@ -88,10 +88,21 @@
 
 ---
 
-## 💡 Lời khuyên khi đặt phòng đợt Lễ 2/9
+## <a id="homestay-hn-2"></a>📍 7. Hà Nội — Hồ Tây / Ba Đình (1 đêm: 05/09)
 
-1. **Ưu tiên đặt trước 3 đêm chốt:**
-   - **Đêm 01/09 (Pả Vi Mèo Vạc):** Bắt buộc đặt trước vì làng Pả Vi là điểm nóng du lịch đợt 2/9.
-   - **Đêm 02/09 (TP Cao Bằng):** Khách sạn TP Cao Bằng đợt Lễ Quốc Khánh rất đông du khách tụ hội.
-   - **Đêm 03/09 (Bản Giốc):** Khu vực Bản Giốc số lượng phòng homestay đẹp có hạn.
-2. **Hình thức đặt:** Tra tên homestay/hotel trên **Booking.com** hoặc gõ tên tìm fanpage / Hotline Zalo để hỏi giá phòng đôi (Private Double Room) kèm ăn sáng.
+> **Khu vực:** Dốc Tam Đa, Tây Hồ / Ba Đình, Hà Nội *(Cách Hồ Tây 5 phút đi bộ).*  
+> ✅ **ĐÃ XÁC NHẬN ĐẶT PHÒNG:** [Homestay Dốc tam Đa](../info/dat_phong.md#ha-noi-2) *(Mã Booking: `6626597304`, PIN: `9072`, Giá: 368.000 VNĐ, Thanh toán tại chỗ)*
+
+| Tên Homestay / Khách sạn | Khu vực | Giá tham khảo | Điểm nổi bật & Trạng thái |
+|--------------------------|---------|---------------|---------------------------|
+| **Homestay Dốc tam Đa** ✅ *(ĐÃ ĐẶT)* | Dốc Tam Đa, Thụy Khuê | 368k/đêm | Phòng Giường Đôi, đi bộ 5 phút ra Hồ Tây lộng gió, gần Trúc Bạch & Ba Đình, giá siêu hợp lý cho 2 người dạo phố cuối tuần. |
+| **The Westlake Housing / Apartment** | Quảng An, Hồ Tây | 700k - 1.100k/đêm | Căn hộ view Hồ Tây ngắm hoàng hôn lãng mạn. |
+| **Little Hanoi Deluxe Hotel** | Hàng Bè, Phố Cổ | 800k - 1.200k/đêm | Ngay trung tâm Phố Cổ & Phố đi bộ Hồ Gươm. |
+
+---
+
+## 💡 Lời khuyên & Tổng kết Lưu Trú Toàn Tuyến
+
+1. **Hoàn thành 100% đặt phòng:** Toàn bộ 7 đêm homestay/khách sạn + 2 đêm xe khách đường dài trên cả chuyến đi đã được đặt và xác nhận thành công!
+2. **Chi phí lưu trú tối ưu:** Tổng chi phí 7 đêm lưu trú chỉ **2.749.411 VNĐ** cho cả 2 người (~196k/người/đêm), vừa đảm bảo phòng riêng tư, sạch sẽ, vừa tối ưu ngân sách cho các trải nghiệm ẩm thực & du lịch.
+

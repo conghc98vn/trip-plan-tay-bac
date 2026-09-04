@@ -135,11 +135,13 @@
    - *Đặc điểm:* Vịt quay lá mắc mật da giòn rụm màu mật chiên, nước phở béo thơm ngậy vị thuốc bắc.
 
 2. **Bánh Cuốn Canh Cao Bằng:**
+   - *Bánh cuốn canh Cao Bằng* ⭐ *(Đã thưởng thức ăn sáng nóng hổi Ngày 7 — 60k/2 người)*.
    - *Quán Bánh cuốn Bà Quy* — Phố Cổ TP Cao Bằng.
    - *Quán Bánh cuốn 126* — Đường Hiến Giang, TP Cao Bằng.
    - *Đặc điểm:* Bánh cuốn nóng chấm trong bát nước canh xương hầm ngọt đậm, có thêm trứng chần lỏng & giò thơm.
 
 3. **Bánh Áp Chao (Bánh Vịt Chao):**
+   - *Bánh áp chao Cô Ngân + Vịt chiên* ⭐ *(Đã thưởng thức chiều Ngày 6 tại TP Cao Bằng — 80k)*.
    - *Quán Bánh áp chao Cô Thảo* — Đường Phố Cũ, TP Cao Bằng.
    - *Quán 16 Pố Sòi* — TP Cao Bằng.
    - *Đặc điểm:* Vỏ bánh nếp bột gạo chiên giòn vàng ruộm, nhân thịt vịt ướp đậm đà, ăn kèm nước chấm chua ngọt & rau sống.
@@ -149,14 +151,18 @@
    - *Quán Phở chua Gia Truyền* — TP Cao Bằng.
    - *Đặc điểm:* Phở nguội trộn sốt chua ngọt đặc sánh, ăn kèm lạp xưởng, thịt lợn quay, dạ dãi chiên & khoai môn bào giòn.
 
-### 🐟 Bữa Chính Món Ngon Sông Quay Sơn & Đồi Pháo Đài
-- **Cá Trầm Hương Thác Bản Giốc:**
-  - *Nhà hàng Yến Nhi / Homestay Bản Giốc* — Cá trầm hương bắt từ sông Quay Sơn nướng than hoa hoặc chiên giòn, thịt cá thơm mùi lá trầm hương rừng.
-- **Lẩu Nấm & Lợn Quay Da Giòn Mắc Mật:**
-  - *Nhà hàng Dân Dân* — TP Cao Bằng.
-  - *Nhà hàng Lá Cọ* — TP Cao Bằng.
+### 🐟 Bữa Chính & Món Ăn Dọc Tuyến Mèo Vạc — Cao Bằng — Bản Giốc
+- **Bún Cá Cay & Ăn Vặt Đèo 14 Tầng (Ngày 6):**
+  - *Bún cá cay Mèo Vạc:* Đã ăn sáng Ngày 6 — 100k.
+  - *Nước uống + Kem + Bánh tiêu phô mai + Chè đỗ đen nước sấu:* Đã thưởng thức dọc đèo 14 tầng & QL34 — 120k.
+  - *Bia hơi Hà Nội tối Lễ 2/9 TP Cao Bằng:* Đã thưởng thức — 150k.
+  - *Trà sữa, kem, trà chanh bờ sông TP Cao Bằng:* Đã thưởng thức — 55k.
+- **Cá Sông & Đồ Nướng Bản Giốc (Ngày 7):**
+  - *Cá sông + Canh chua + Cơm:* Bữa trưa đặc sản Trùng Khánh / Bản Giốc (Đã thưởng thức Ngày 7 — 240k).
+  - *Xiên nướng bản địa + Coca:* Bữa tối Bản Giốc / Làng Khuổi Ky (Đã thưởng thức Ngày 7 — 150k).
+  - *Cá Trầm Hương Thác Bản Giốc:* Bắt từ sông Quay Sơn nướng than hoa hoặc chiên giòn.
 
-### 🎁 Quà Đặc Sản Mua Mang Về (Chiều 05/09 tại Chợ TP Cao Bằng)
+### 🎁 Quà Đặc Sản Mua Mang Về (Chiều 04/09 & 05/09 tại Cao Bằng)
 - **Hạt Dẻ Trùng Khánh:** Hạt dẻ to gấp 3 lần hạt dẻ thường, nhân vàng óng, thơm ngậy (mua hạt dẻ rang sẵn hoặc hạt tươi).
 - **Miến Đao Phia Đén (Miến Dong):** Miến dong xóm Nà Rùa / Phia Đén làm thủ công, nấu không bao giờ bị trương nát.
 - **Bánh Khảo Cao Bằng:** Bánh khảo nhân lạc / nhân thịt lợn nếp thơm.

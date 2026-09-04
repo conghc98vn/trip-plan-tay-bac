@@ -11,12 +11,12 @@
 
 | Chỉ số | Số tiền (VNĐ) | Ghi chú |
 |:---|:---:|:---|
-| ✈️ **Chi phí cố định (Vé bay, xe khách, thuê xe)** | **6.694.024 đ** | Đã gồm 2 vé bay khứ hồi + xe khách + thuê 2 xe máy |
-| 🏨 **Chi phí lưu trú (Homestay/Hotel 6 đêm đã chốt)** | **2.381.411 đ** | Da Tree (348k) + Bong Bang 2 (400k) + ToTo-Chan (446.4k) + Phương Anh (300k) + Minh Hoàng (369k) + A THÁM (518.011đ) |
-| 🍜 **Chi tiêu sinh hoạt & trải nghiệm 5 ngày đầu** | **5.520.000 đ** | Ẩm thực, quà biếu, vé tham quan, xăng cộ, xe ôm, cafe |
-| 💵 **TỔNG ĐÃ CHI & ĐÃ ĐẶT (Đến 03/09)** | 🏆 **14.595.435 đ** | **~7.297.718 đ / người** |
-| 🔮 **Dự toán chi phí còn lại (04/09 – 06/09)** | **~4.600.000 đ** | 1 đêm Homestay HN + Vé xe Cabin VIP đêm + Spa dưỡng sinh + Ăn uống & Quà bánh cốm |
-| 🎯 **TỔNG CHI PHÍ DỰ KIẾN TOÀN CHUYẾN ĐI** | **~19.200.000 đ** | **~9.600.000 đ / người (10 ngày 9 đêm)** |
+| ✈️ **Chi phí cố định (Vé bay, xe khách, thuê xe)** | **7.444.024 đ** | Đã gồm 2 vé bay khứ hồi (VJ 1.435k + Sun 2.346k) + 2 vé xe khách (Quang Tuyến 550k + Hiệp Giang 750k) + thuê Wave Giang Sơn (2.362k) |
+| 🏨 **Chi phí lưu trú (Homestay/Hotel 7 đêm đã chốt)** | **2.749.411 đ** | Da Tree (348k) + Bong Bang 2 (400k) + ToTo-Chan (446.4k) + Phương Anh (300k) + Minh Hoàng (369k) + A THÁM (518.011đ) + Homestay Dốc Tam Đa (368k) |
+| 🍜 **Chi tiêu sinh hoạt & trải nghiệm 7 ngày thực tế** | **6.975.000 đ** | Ẩm thực, quà biếu, vé tham quan, xăng cộ, xe ôm, phạt giao thông |
+| 💵 **TỔNG ĐÃ CHI & ĐÃ ĐẶT (Đến hết Ngày 7 + Xe về 04/09 + KS HN 05/09)** | 🏆 **17.168.435 đ** | **~8.584.218 đ / người (2 người)** |
+| 🔮 **Dự toán chi phí còn lại (04/09 – 06/09)** | **~3.700.000 đ** | MOTOGO (310k) + Spa dưỡng sinh + Ăn uống Pác Bó & HN + Quà đặc sản |
+| 🎯 **TỔNG CHI PHÍ DỰ KIẾN TOÀN CHUYẾN ĐI** | **~20.870.000 đ** | **~10.435.000 đ / người (10 ngày 9 đêm)** |
 | 🔄 **Khoản tiền cọc tạm ứng (Sẽ hoàn lại)** | **+3.000.000 đ** | Tiền cọc xe máy Giang Sơn nhận lại khi trả xe tại TP Cao Bằng chiều 04/09 |
 
 ---
@@ -30,8 +30,8 @@
 | 3 | **Xe khách Hà Nội → TP Hà Giang** | Quang Tuyến Limousine • `RN34WQ` | **550.000 đ** | ✅ Đã thanh toán | 24 Phòng VIP, đón 55 Nguyễn Hoàng, trả tận tiệm Giang Sơn ([xe_khach.md](xe_khach.md#chặng-1-hà-nội--tp-hà-giang-tối-2908-)) |
 | 4 | **Thuê xe máy Hà Nội (2 ngày)** | MOTOGO Nội Bài • Mã `#39337` | **310.000 đ** | ⏳ Trả xe thanh toán | Sirius 110cc: 260k + 50k phụ phí trả 1081 Hồng Hà ([thue_xe_may.md](thue_xe_may.md#1-xe-máy-tại-hà-nội-28-2908--đã-xác-nhận-đặt-xe-motogo)) |
 | 5 | **Thuê xe máy phượt HG → CB (6 ngày)** | Giang Sơn Hà Giang • Hợp đồng `#45` | **2.362.500 đ** | ✅ Đã thanh toán 100% | Wave 110cc có gói BH cứu hộ 24/7 + phụ phí trả Cao Bằng + VAT ([thue_xe_may.md](thue_xe_may.md#2-xe-máy-tour-hà-giang--cao-bằng--giang-sơn-3008---0509--đã-ký-hợp-đồng-45)) |
-| 6 | **Xe Cabin VIP Cao Bằng → Hà Nội** | Bến xe Cao Bằng (21:00 Tối 04/09) | *~700.000 đ* | ⏳ Dự kiến | Cabin VIP đôi Thanh Ly / Vĩnh Dung ([xe_khach.md](xe_khach.md#chặng-2-tp-cao-bằng--hà-nội-tối-0409)) |
-| **TỔNG** | **CỐ ĐỊNH** | | **7.704.024 đ** | *(Đã chi: 6.694.024đ • Còn lại: ~1.010.000đ)* |
+| 6 | **Xe Cabin VIP Cao Bằng → Hà Nội** | Hiệp Giang Limousine • Mã `P2DZO3` (`77Z1VY8`) | **750.000 đ** | ✅ Đã thanh toán | Cabin Đôi B.10, đón 21:15 VP Bến xe CB, trả Bến xe Mỹ Đình ([xe_khach.md](xe_khach.md#chặng-2-tp-cao-bằng--hà-nội-tối-thứ-sáu-04092026--đã-thanh-toán-thành-công)) |
+| **TỔNG** | **CỐ ĐỊNH** | | **7.754.024 đ** | *(Đã chi: 7.444.024đ • Còn lại: 310.000đ MOTOGO)* |
 
 ---
 
@@ -46,16 +46,16 @@
 | **Đêm 4** | 01/09 | **Phương Anh Hotel** (Thị trấn Mèo Vạc) | `5152255450` | **300.000 đ** | ✅ Đã thanh toán | Phòng đôi trung tâm Mèo Vạc ([dat_phong.md](dat_phong.md#meo-vac)) |
 | **Đêm 5** | 02/09 | **Minh Hoang Hotel & Homestay** (TP Cao Bằng) | `6307802042` | **369.000 đ** | ✅ Đã xác nhận | Phòng Giường Đôi Tiết Kiệm, trả tiền mặt khi check-in ([dat_phong.md](dat_phong.md#cao-bang-1)) |
 | **Đêm 6** | 03/09 | **A THÁM homestay** (Thác Bản Giốc / Khuổi Ky) | `6515457323` | **518.011 đ** | ✅ Đã xác nhận | Phòng Gia Đình (2 người lớn), gần Thác Bản Giốc ([dat_phong.md](dat_phong.md#ban-gioc)) |
-| **Đêm 7** | 04/09 | *Ngủ trên xe Limousine Cabin VIP đêm CB ➔ HN* | *(Thanh Ly / Vĩnh Dung)* | **0 đ** | ✅ Đã bao gồm vé xe | Xuất phát 21:00 về đến HN 05:00 sáng |
-| **Đêm 8** | 05/09 | **Homestay / Khách sạn Phố Cổ Hà Nội** | *(Đang chọn)* | *~400.000 đ* | ⏳ Dự kiến | Trung tâm Ba Đình / Hoàn Kiếm / Nhà Thờ Lớn |
-| **TỔNG** | **LƯU TRÚ (9 ĐÊM)** | | **~2.781.411 đ** | *(Đã chốt: 2.381.411đ • Còn lại: ~400.000đ)* |
+| **Đêm 7** | 04/09 | *Ngủ trên xe Limousine Cabin VIP Hiệp Giang (B.10)* | `P2DZO3` | **0 đ** | ✅ Đã bao gồm vé xe | Xuất phát 21:15 về đến Bến xe Mỹ Đình 05:30 sáng |
+| **Đêm 8** | 05/09 | **Homestay Dốc tam Đa đi bộ 5 phút ra Hồ Tây** (Tây Hồ / Ba Đình) | `6626597304` | **368.000 đ** | ✅ Đã xác nhận | Phòng Giường Đôi, đi bộ 5p ra Hồ Tây, trả tiền tại chỗ ([dat_phong.md](dat_phong.md#ha-noi-2)) |
+| **TỔNG** | **LƯU TRÚ (9 ĐÊM)** | | **2.749.411 đ** | *(Đã chốt 100% toàn bộ 7 đêm KS/Homestay + 2 đêm xe khách)* |
 
 ---
 
 ## 📅 4. Nhật Ký Chi Tiêu Thực Tế Từng Ngày (Daily Expense Log)
 
 ### 🟢 Ngày 1 (28/08/2026): SGN → Nội Bài → Mỹ Đức → Hà Nội
-*Tổng chi ngày 1:* **2.010.000 VNĐ**
+*Tổng chi ngày 1:* **2.020.000 VNĐ**
 
 | Khoản chi | Chi tiết | Số tiền (VNĐ) | Phân loại |
 |:---|:---|:---:|:---|
@@ -107,7 +107,7 @@
 ---
 
 ### 🟢 Ngày 4 (31/08/2026): Yên Minh → Dốc Thẩm Mã → Lũng Cú → Đồng Văn
-*Tổng chi ngày 4:* **795.000 VNĐ**
+*Tổng chi ngày 4:* **875.000 VNĐ**
 
 | Khoản chi | Chi tiết | Số tiền (VNĐ) | Phân loại |
 |:---|:---|:---:|:---|
@@ -115,6 +115,7 @@
 | Cà phê Bạc xỉu sáng | Cafe sáng sớm Yên Minh | 35.000 đ | Cafe |
 | Ăn sáng Phở tráng tay | Phở thịt lợn đen tráng tay nóng hổi | 80.000 đ | Ẩm thực |
 | Nước suối dọc đường | Bổ sung nước chặng Lũng Cú | 50.000 đ | Nước uống |
+| Vé tham quan Dinh Thự Họ Vương | 2 vé vào cổng Dinh Vua Mèo Sà Phìn (40k/vé) | 80.000 đ | Tham quan |
 | Xiên nướng & Trà sữa Shan Tuyết | Thưởng thức tại bản cổ Lô Lô Chải | 250.000 đ | Ẩm thực |
 | Cơm chiều tại Phố Cổ Đồng Văn | Cơm rang dưa bò + đĩa lòng xào dưa | 200.000 đ | Ẩm thực |
 | Trà chanh & cắn hạt dưa Phố Cổ | Ngồi hóng gió cà phê Phố Cổ Đồng Văn | 80.000 đ | Cafe/Nước |
@@ -127,55 +128,74 @@
 
 | Khoản chi | Chi tiết | Số tiền (VNĐ) | Phân loại |
 |:---|:---|:---:|:---|
-| Bánh mì ốp la + Bánh cuốn nóng | Ăn sáng ToTo-Chan + Bánh cuốn tráng | 35.000 đ | Ẩm thực |
+| Bánh mì ốp la + Bánh cuốn nóng | Ăn sáng ToTo-Chan (Free) + Bánh cuốn tráng | 35.000 đ | Ẩm thực |
 | Đổ xăng Đồng Văn & Mèo Vạc | Xăng chạy đèo Mã Pí Lèng | 40.000 đ | Xăng xe |
 | Mua thêm chai xăng phụ 500ml | Dự phòng vượt đèo | 10.000 đ | Xăng xe |
 | Xe ôm chở lên Vách Đá Tử Thần | Khứ hồi 2 người lên mỏm đá check-in | 100.000 đ | Trải nghiệm |
 | Cơm trưa bình dân Mèo Vạc | Cơm thịt rang + bò lá lốt + rau luộc | 100.000 đ | Ẩm thực |
 | Gội đầu thư giãn | Tiệm làm tóc trung tâm Mèo Vạc | 60.000 đ | Dịch vụ cá nhân |
 | Kem & Nước ngọt WinMart | Mua đồ lặt vặt | 70.000 đ | Ăn vặt |
-| Ăn tối Vịt nướng than hoa | 1/2 con vịt nướng chấm muối ớt chanh | 125.000 đ | Ẩm thực |
-| 2 Ly Trà chanh Vườn Đào | Uống trà tán gẫu Mèo Vạc | 40.000 đ | Nước uống |
+| Ăn tối Vịt nướng than hoa | 1/2 con vịt nướng chấm muối ớt chanh (125k) + 2 trà chanh (40k) | 165.000 đ | Ẩm thực |
 | Thịt lợn xiên nướng đêm | Ăn vặt khuya | 50.000 đ | Ẩm thực |
 | 1 Ly Cà phê sữa | Thưởng thức cafe tối | 30.000 đ | Cafe |
 
 ---
 
-### ⏳ Ngày 6 đến Ngày 10: Theo Dõi & Nhập Chi Phí Realtime
+### 🟢 Ngày 6 (02/09/2026): Mèo Vạc → Đèo 14 Tầng → QL34 → TP Cao Bằng
+*Tổng chi ngày 6:* **535.000 VNĐ**
 
-> 💡 **Cách ghi chép nhanh:** Bạn chỉ cần copy dòng mẫu dưới đây và điền vào bảng từng ngày bên dưới khi có khoản chi mới, hoặc mở file `expense_tracker.html` nhập trực tiếp.
+| Khoản chi | Chi tiết | Số tiền (VNĐ) | Phân loại |
+|:---|:---|:---:|:---|
+| Ăn sáng Bún cá cay | Bún cá cay nóng hổi | 100.000 đ | Ẩm thực |
+| Cà phê sữa dọc đường | Cafe tiếp sức chặng QL34 Bảo Lạc | 30.000 đ | Cafe |
+| Đổ xăng đầu dốc Đèo 14 tầng | Tiếp xăng vượt đèo Mèo Vạc - Bảo Lạc | 30.000 đ | Xăng xe |
+| Nước + Kem đèo 14 tầng | Dừng chân check-in đỉnh đèo ngắm cảnh | 50.000 đ | Ăn uống |
+| Bánh tiêu phô mai | Ăn vặt dọc đường | 15.000 đ | Ẩm thực |
+| Chè đỗ đen + Nước sấu | Tráng miệng giải khát hạ nhiệt | 25.000 đ | Ăn uống |
+| Bánh áp chao Cô Ngân + Vịt chiên | Đặc sản nức tiếng chiều TP Cao Bằng | 80.000 đ | Ẩm thực |
+| Bia hơi Hà Nội | Thưởng thức không khí tối Lễ 2/9 tại TP Cao Bằng | 150.000 đ | Ẩm thực |
+| Trà sữa | Thức uống tráng miệng tối | 35.000 đ | Ăn uống |
+| Kem tươi | Ăn vặt dạo phố | 10.000 đ | Ăn uống |
+| Trà chanh | Dạo phố đêm bờ sông TP Cao Bằng | 10.000 đ | Nước uống |
 
-#### 🟡 Ngày 6 (02/09/2026): Mèo Vạc → QL34 → TP Cao Bằng (~185km)
-*Dự toán:* ~500.000 – 700.000 VNĐ (Xăng đèo Bảo Lạc + Ăn trưa + Ăn tối Lễ 2/9 tại TP Cao Bằng)
+---
+
+### 🟢 Ngày 7 (03/09/2026): TP Cao Bằng → Hồ Thang Hen → Núi Mắt Thần → Thác Bản Giốc
+*Tổng chi ngày 7:* **830.000 VNĐ**
+
+| Khoản chi | Chi tiết | Số tiền (VNĐ) | Phân loại |
+|:---|:---|:---:|:---|
+| Ăn sáng Bánh cuốn Cao Bằng | Bánh cuốn canh xương nóng hổi TP CB | 60.000 đ | Ẩm thực |
+| Đổ xăng tại TP Cao Bằng | Đổ đầy bình trước khi đi Thang Hen & Bản Giốc | 40.000 đ | Xăng xe |
+| Lỗi giao thông (Không xi nhan) | Nộp phạt vi phạm giao thông dọc đường | 150.000 đ | Tiện ích/Phát sinh |
+| Vé tham quan Hồ Thang Hen | 2 vé vào cổng (30k/vé) | 60.000 đ | Tham quan |
+| Vé tham quan Thác Bản Giốc | 2 vé vào cổng (40k/vé) | 80.000 đ | Tham quan |
+| Nước + Kem + Gửi xe tại Thác Bản Giốc | Giải khát & phí gửi xe máy | 50.000 đ | Ăn uống/Dịch vụ |
+| Ăn trưa Cá sông + Canh chua + Cơm | Bữa trưa đặc sản vùng cao Trùng Khánh | 240.000 đ | Ẩm thực |
+| Ăn tối Xiên nướng + 2 lon Coca | Bữa tối nướng ấm cúng gần Thác Bản Giốc | 150.000 đ | Ẩm thực |
+
+---
+
+### ⏳ Ngày 8 đến Ngày 10: Theo Dõi & Nhập Chi Phí Realtime
+
+> 💡 **Cách ghi chép nhanh:** Bạn có thể nhập trực tiếp qua file [`expense_tracker.html`](./expense_tracker.html) hoặc điền vào các bảng bên dưới.
+
+#### 🟡 Ngày 8 (04/09/2026): Thác Bản Giốc → Ngườm Ngao → Trà Lĩnh → Pác Bó → TP Cao Bằng → Xe Cabin Đêm về HN
+*Dự toán:* ~600.000 – 800.000 VNĐ (Vé Ngườm Ngao 45k/người + Thuyền bè nổi Quây Sơn + Ăn trưa gà nướng Pác Bó + Ăn tối TP CB)
 
 | Khoản chi | Chi tiết | Số tiền (VNĐ) | Phân loại |
 |:---|:---|:---:|:---|
 | *(Ghi khoản chi 1)* | | | |
-| *(Ghi khoản chi 2)* | | | |
 
-#### 🟡 Ngày 7 (03/09/2026): TP Cao Bằng → Núi Mắt Thần → Thác Bản Giốc (~90km)
-*Dự toán:* ~600.000 – 800.000 VNĐ (Vé Núi Mắt Thần + Ăn trưa Quảng Uyên + Ăn tối Bản Giốc)
-
-| Khoản chi | Chi tiết | Số tiền (VNĐ) | Phân loại |
-|:---|:---|:---:|:---|
-| *(Ghi khoản chi 1)* | | | |
-
-#### 🟡 Ngày 8 (04/09/2026): Thác Bản Giốc → Động Ngườm Ngao → TP Cao Bằng (~90km)
-*Dự toán:* ~600.000 – 800.000 VNĐ (Vé Thác Bản Giốc 45k/người + Vé Ngườm Ngao 45k/người + Đi bè nổi sông Quây Sơn)
+#### 🟡 Ngày 9 (05/09/2026): Chào Sớm Mai Hà Nội → Foodtour Phố Cổ → Spa Dưỡng Sinh
+*Dự toán:* ~1.000.000 – 1.400.000 VNĐ (Phở Bát Đàn + Cà phê Giảng + Ngan cháy tỏi + Spa gội đầu dưỡng sinh đôi + Nầm bò nướng Ba Đình + Bia Tạ Hiện)
 
 | Khoản chi | Chi tiết | Số tiền (VNĐ) | Phân loại |
 |:---|:---|:---:|:---|
 | *(Ghi khoản chi 1)* | | | |
 
-#### 🟡 Ngày 9 (05/09/2026): TP Cao Bằng ↔ Suối Lê-Nin / Hang Pác Bó (~100km khứ hồi)
-*Dự toán:* ~700.000 – 1.000.000 VNĐ (Vé Pác Bó + Xe điện + Ăn trưa cá suối + Mua đặc sản hạt dẻ Trùng Khánh)
-
-| Khoản chi | Chi tiết | Số tiền (VNĐ) | Phân loại |
-|:---|:---|:---:|:---|
-| *(Ghi khoản chi 1)* | | | |
-
-#### 🟡 Ngày 10 (06/09/2026): Trả Xe Giang Sơn → Xe Khách CB-Nội Bài → Bay về SGN
-*Dự toán:* ~500.000 VNĐ (Ăn trưa TP CB + Nhận lại 3.000.000đ tiền cọc xe + Ăn tối nhẹ Nội Bài)
+#### 🟡 Ngày 10 (06/09/2026): Khám Phá Hà Nội Thu → Mua Quà Đặc Sản → Sân Bay Nội Bài Bay Về SGN
+*Dự toán:* ~1.000.000 – 1.300.000 VNĐ (Bún thang + Cà phê Hồ Tây + Chả cá Lăng + Mua bánh cốm Hàng Than làm quà + Lẩu riêu cua Trúc Bạch + Grab ra Sân bay Nội Bài)
 
 | Khoản chi | Chi tiết | Số tiền (VNĐ) | Phân loại |
 |:---|:---|:---:|:---|
@@ -186,25 +206,26 @@
 ## 📊 5. Cơ Cấu Chi Phí Phân Theo Danh Mục (Category Breakdown)
 
 ```mermaid
-pie title Tỷ trọng chi tiêu thực tế 5 ngày đầu (5.520.000đ)
-    "Ẩm thực & Cà phê" : 3120000
+pie title Tỷ trọng chi tiêu thực tế 7 ngày đầu (6.975.000đ)
+    "Ẩm thực & Cà phê" : 4175000
     "Quà biếu & Thăm thân" : 1600000
-    "Xăng xe & Di chuyển tại chỗ" : 440000
+    "Xăng xe & Di chuyển tại chỗ" : 460000
+    "Vé tham quan & Trải nghiệm" : 420000
+    "Dịch vụ & Vi phạm giao thông" : 210000
     "Lưu trú phát sinh" : 100000
-    "Vé tham quan & Trải nghiệm" : 200000
-    "Dịch vụ & Tiện ích cá nhân" : 60000
 ```
 
-| Danh mục | Đã chi (5 ngày đầu) | Ước tính 5 ngày sau | Tổng dự kiến toàn chuyến | Tỷ lệ (%) |
+| Danh mục | Đã chi & Đã đặt | Ước tính còn lại | Tổng dự kiến toàn chuyến | Tỷ lệ (%) |
 |:---|:---:|:---:|:---:|:---:|
-| ✈️ **Vé máy bay & Xe khách liên tỉnh** | 4.331.524 đ | ~600.000 đ | **~4.931.524 đ** | 25.7% |
-| 🏍️ **Thuê xe máy & Phụ phí trả khác tỉnh** | 2.362.500 đ | 310.000 đ | **~2.672.500 đ** | 13.9% |
-| 🏨 **Khách sạn / Homestay (9 đêm)** | 1.494.400 đ | ~1.750.000 đ | **~3.244.400 đ** | 16.9% |
-| 🍜 **Ẩm thực & Thức uống** | 3.120.000 đ | ~2.200.000 đ | **~5.320.000 đ** | 27.7% |
-| 🎁 **Quà biếu & Mua đặc sản** | 1.600.000 đ | ~800.000 đ | **~2.400.000 đ** | 12.5% |
-| 🎟️ **Vé tham quan, Trải nghiệm & Xăng xe** | 640.000 đ | ~600.000 đ | **~1.240.000 đ** | 6.5% |
-| 💆 **Phát sinh & Tiện ích khác** | 160.000 đ | ~200.000 đ | **~360.000 đ** | 1.9% |
-| **TỔNG CỘNG** | **13.708.424 đ** | **~6.460.000 đ** | **~20.168.424 đ** | **100%** |
+| ✈️ **Vé máy bay & Xe khách liên tỉnh** | 5.081.524 đ | 0 đ | **5.081.524 đ** | 24.3% |
+| 🏍️ **Thuê xe máy & Phụ phí trả khác tỉnh** | 2.362.500 đ | 310.000 đ | **~2.672.500 đ** | 12.8% |
+| 🏨 **Khách sạn / Homestay (9 đêm)** | 2.749.411 đ | 0 đ | **2.749.411 đ** | 13.2% |
+| 🍜 **Ẩm thực & Thức uống** | 4.175.000 đ | ~1.800.000 đ | **~5.975.000 đ** | 28.6% |
+| 🎁 **Quà biếu & Mua đặc sản** | 1.600.000 đ | ~800.000 đ | **~2.400.000 đ** | 11.5% |
+| 🎟️ **Vé tham quan & Trải nghiệm** | 420.000 đ | ~200.000 đ | **~620.000 đ** | 3.0% |
+| 🏍️ **Xăng xe & Di chuyển nội thành/địa phương** | 460.000 đ | ~300.000 đ | **~760.000 đ** | 3.6% |
+| 💆 **Dịch vụ, Spa & Phát sinh khác** | 310.000 đ | ~300.000 đ | **~610.000 đ** | 2.9% |
+| **TỔNG CỘNG** | **17.168.435 đ** | **~3.710.000 đ** | **~20.878.435 đ** | **100%** |
 
 ---
 

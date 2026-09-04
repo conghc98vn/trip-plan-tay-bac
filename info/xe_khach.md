@@ -20,18 +20,25 @@
 
 ---
 
-## Chặng 2: TP Cao Bằng → Hà Nội (Tối Thứ Sáu, 04/09/2026)
-| Hạng mục | Chi tiết |
-|----------|---------|
-| **Ngày khởi hành** | **04/09/2026 (Tối Thứ Sáu)** |
-| **Giờ xuất phát** | **~20:30 – 21:00 (Tối Thứ Sáu)** sau khi trả xe Wave Giang Sơn & ăn tối tại TP Cao Bằng |
-| **Điểm đón** | Bến xe TP Cao Bằng hoặc Văn phòng nhà xe trung tâm TP Cao Bằng |
-| **Loại xe** | **Xe Giường nằm Limousine Cabin VIP đôi** (rèm che riêng tư, đệm êm massage, cổng sạc, điều hòa) |
-| **Thời gian di chuyển** | ~7.5 – 8 tiếng (chạy đêm cao tốc an toàn, êm ái) |
-| **Giờ đến dự kiến** | **~05:00 – 05:30 sáng Thứ Bảy (05/09)** tại Trung tâm Hà Nội (Bến xe Mỹ Đình / Gia Lâm / điểm trả trung tâm) |
-| **Mục đích** | Dành trọn vẹn **Cả 2 ngày cuối tuần (Thứ Bảy 05/09 & Chủ Nhật 06/09)** vui chơi, foodtour, spa dưỡng sinh và tận hưởng mùa thu Hà Nội |
+## Chặng 2: TP Cao Bằng → Hà Nội (Tối Thứ Sáu, 04/09/2026) ✅ *(Đã thanh toán thành công)*
+| Hạng mục | Chi tiết xác nhận |
+|----------|-------------------|
+| **Hãng xe / Nhà xe** | **Hiệp Giang** ✅ |
+| **Loại xe** | **Limousine cabin 22 phòng** (Cabin VIP đôi) |
+| **Ghế / Giường** | **Cabin Đôi: `B.10`** 🎯 *(Phòng đôi riêng tư, êm ái cho 2 người)* |
+| **Mã vé / Mã đơn hàng** | **`P2DZO3`** *(Code tra cứu: `77Z1VY8`)* |
+| **Thời gian khởi hành** | **21:15 • Thứ Sáu, 04/09/2026** *(Có mặt trước 30 phút: ~20:45)* |
+| **Điểm đón tại Cao Bằng** | **Văn phòng Bến xe Liên Tỉnh Cao Bằng (Cạnh cây xăng bến xe)**<br>📍 *Khau Sả, Phường Đề Thám, TP. Cao Bằng* ([Xem Google Maps](https://www.google.com/maps?q=22.68060800669712,106.20302089116758)) |
+| **Thời gian đến dự kiến** | **05:30 • Thứ Bảy, 05/09/2026** |
+| **Điểm trả tại Hà Nội** | **Bến xe Mỹ Đình**<br>📍 *Đường Phạm Hùng, Phường Mỹ Đình 2, Nam Từ Liêm, Hà Nội* ([Xem Google Maps](https://www.google.com/maps?q=21.028428597801415,105.77826703386454)) |
+| **Khách đặt / SĐT** | Công Chí — `0969 910 198` |
+| **Email nhận vé** | `chicong.1998vn@gmail.com` |
+| **Hotline / SĐT Nhà xe** | `0944 266 266`, `0946 355 255` |
+| **Tổng tiền thanh toán** | **750.000 VNĐ** *(Thanh toán Online qua Ví MoMo)* |
+| **Trạng thái** | ✅ **Đã thanh toán (Paid) — Xác nhận thành công** |
+| **Ảnh vé gốc** | [`attachments/ve_xe_khach_cao_bang_di_ha_noi/xac_nhan_ve_quang_tuyen_cb_hn.png`](../attachments/ve_xe_khach_cao_bang_di_ha_noi/xac_nhan_ve_quang_tuyen_cb_hn.png) |
+| **Chính sách hủy** | Trước 15:15 ngày 04/09/2026: **Miễn phí** (Từ 15:15 ngày 04/09 phí 80%) |
+| **Link tra cứu & Quản lý vé** | [Xem chi tiết đơn hàng trên Vexere](https://vexere.com/vi-VN/booking/ticketinfo?code=77Z1VY8&phone=0969910198) |
 | **Chuyến bay kết nối** | ✅ [Sun PhuQuoc Airways 9G893 (23:30 HAN T1 → 01:40 SGN T3 đêm 06/09)](chuyen_bay.md#lượt-về-han--sgn) |
-| **Gợi ý hãng xe uy tín** | • **Xe Cabin VIP Đôi / Đơn:** **Thanh Ly** (`0944.266.266` / `0916.121.888`), **Vĩnh Dung** (`0989.263.263`), **Hiệp Sang** (`0915.228.699`)<br>• **Xe Limousine:** **Hà Tuấn** (`0981.828.828`) |
-| **Giá vé dự kiến** | ~300.000 – 400.000 VNĐ / Cabin VIP |
-| **Trạng thái** | ⏳ Đang liên hệ đặt chỗ Cabin VIP đêm 04/09 |
+
 

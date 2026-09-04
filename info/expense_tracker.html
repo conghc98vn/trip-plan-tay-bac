@@ -426,8 +426,8 @@
           <span>Chi Phí Cố Định</span>
           <span>✈️ 🏍️</span>
         </div>
-        <div class="kpi-val" id="kpi-fixed">6.694.024 đ</div>
-        <div class="kpi-sub">Vé bay, xe khách & thuê 2 xe máy</div>
+        <div class="kpi-val" id="kpi-fixed">7.444.024 đ</div>
+        <div class="kpi-sub">Vé bay, 2 xe khách & thuê 2 xe máy</div>
       </div>
 
       <div class="kpi-card" style="--accent-gradient: linear-gradient(90deg, #a855f7, #ec4899);">
@@ -435,8 +435,8 @@
           <span>Khách Sạn & Homestay</span>
           <span>🏨</span>
         </div>
-        <div class="kpi-val" id="kpi-hotel">2.381.411 đ</div>
-        <div class="kpi-sub">Đã chốt 6 đêm (Da Tree, Bong Bang, ToTo, P.Anh, M.Hoang, A Thám)</div>
+        <div class="kpi-val" id="kpi-hotel">2.749.411 đ</div>
+        <div class="kpi-sub">Đã chốt 100% 7 đêm (Da Tree, Bong Bang, ToTo, P.Anh, M.Hoang, A Thám, Dốc Tam Đa)</div>
       </div>
 
       <div class="kpi-card" style="--accent-gradient: linear-gradient(90deg, #f59e0b, #fbbf24);">
@@ -444,8 +444,8 @@
           <span>Sinh Hoạt & Ẩm Thực</span>
           <span>🍜 ☕</span>
         </div>
-        <div class="kpi-val" id="kpi-daily">5.520.000 đ</div>
-        <div class="kpi-sub">Ăn uống, xăng, quà biếu, vé</div>
+        <div class="kpi-val" id="kpi-daily">6.975.000 đ</div>
+        <div class="kpi-sub">7 ngày thực tế (Ăn uống, xăng, vé, quà)</div>
       </div>
 
       <div class="kpi-card" style="--accent-gradient: linear-gradient(90deg, #64748b, #94a3b8);">
@@ -454,7 +454,7 @@
           <span>🔄</span>
         </div>
         <div class="kpi-val" id="kpi-deposit">+3.000.000 đ</div>
-        <div class="kpi-sub">Nhận lại trưa 06/09 tại TP Cao Bằng</div>
+        <div class="kpi-sub">Nhận lại chiều 04/09 tại TP Cao Bằng</div>
       </div>
     </div>
 
@@ -475,17 +475,17 @@
                 <option value="3">Ngày 3 (30/08) — TP Hà Giang → Yên Minh</option>
                 <option value="4">Ngày 4 (31/08) — Yên Minh → Lũng Cú → Đồng Văn</option>
                 <option value="5">Ngày 5 (01/09) — Đồng Văn → Nho Quế → Mèo Vạc</option>
-                <option value="6" selected>Ngày 6 (02/09) — Mèo Vạc → QL34 → Cao Bằng</option>
+                <option value="6">Ngày 6 (02/09) — Mèo Vạc → QL34 → Cao Bằng</option>
                 <option value="7">Ngày 7 (03/09) — TP Cao Bằng → Bản Giốc</option>
-                <option value="8">Ngày 8 (04/09) — Bản Giốc → Ngườm Ngao → TP CB</option>
-                <option value="9">Ngày 9 (05/09) — TP Cao Bằng ↔ Pác Bó</option>
-                <option value="10">Ngày 10 (06/09) — Trả xe → Nội Bài → SGN</option>
+                <option value="8" selected>Ngày 8 (04/09) — Bản Giốc → Pác Bó → TP CB → Xe đêm HN</option>
+                <option value="9">Ngày 9 (05/09) — Sớm mai HN → Foodtour & Spa</option>
+                <option value="10">Ngày 10 (06/09) — Hà Nội mùa thu → Bay về SGN</option>
               </select>
             </div>
 
             <div class="form-group">
               <label>Tên khoản chi / Món ăn / Địa điểm</label>
-              <input type="text" id="expense-title" placeholder="VD: Bánh cuốn Cao Bằng, Đổ xăng QL34..." required />
+              <input type="text" id="expense-title" placeholder="VD: Gà nướng Pác Bó, Cafe Giảng, Ngan cháy tỏi..." required />
             </div>
 
             <div class="form-group">
@@ -587,7 +587,7 @@
   </div>
 
   <script>
-    // Initial Dataset
+    // Initial Dataset (Realtime Days 1 to 7)
     const initialExpenses = [
       // Day 1
       { id: 1, day: 1, title: 'Taxi ra Sân bay Tân Sơn Nhất', note: 'Grab sáng sớm SGN', amount: 100000, cat: 'transport' },
@@ -614,7 +614,7 @@
 
       // Day 3
       { id: 20, day: 3, title: 'Ăn sáng Bún riêu Bống (TP Hà Giang)', note: 'Bún riêu bến xe', amount: 100000, cat: 'food' },
-      { id: 21, day: 3, title: 'Đổ xăng xe Wave 110cc Giang Sơn', note: 'Đầy bình Km0', amount: 70000, cat: 'transport' },
+      { id: 21, day: 3, title: 'Đổ xăng xe Wave 110cc Giang Sơn', note: 'Đầy bình xuất phát', amount: 70000, cat: 'transport' },
       { id: 22, day: 3, title: 'Cơm trưa bình dân Yên Minh', note: 'Lợn bản xào rau cải', amount: 150000, cat: 'food' },
       { id: 23, day: 3, title: 'Nước suối & Nước ngọt leo đèo', note: 'Quản Bạ', amount: 100000, cat: 'food' },
       { id: 24, day: 3, title: 'Nước sấu đá & Cà phê Bạc xỉu', note: 'Ngắm cảnh đèo', amount: 75000, cat: 'food' },
@@ -627,25 +627,49 @@
       { id: 29, day: 4, title: 'Cà phê Bạc xỉu sáng', note: 'Yên Minh', amount: 35000, cat: 'food' },
       { id: 30, day: 4, title: 'Ăn sáng Phở tráng tay', note: 'Nóng hổi', amount: 80000, cat: 'food' },
       { id: 31, day: 4, title: 'Nước suối dọc đường Lũng Cú', note: 'Bổ sung nước', amount: 50000, cat: 'food' },
-      { id: 32, day: 4, title: 'Xiên nướng & Trà sữa Shan Tuyết', note: 'Làng Lô Lô Chải', amount: 250000, cat: 'food' },
-      { id: 33, day: 4, title: 'Cơm chiều Phố Cổ Đồng Văn', note: 'Cơm rang dưa bò + lòng', amount: 200000, cat: 'food' },
-      { id: 34, day: 4, title: 'Trà chanh & cắn hạt dưa Phố Cổ', note: 'Cafe Đồng Văn', amount: 80000, cat: 'food' },
-      { id: 35, day: 4, title: 'Cháo Ấu Tẩu Đồng Văn', note: 'Đặc sản hồi sức', amount: 50000, cat: 'food' },
+      { id: 32, day: 4, title: 'Vé tham quan Dinh Thự Họ Vương', note: '2 vé vào cổng (40k/vé)', amount: 80000, cat: 'ticket' },
+      { id: 33, day: 4, title: 'Xiên nướng & Trà sữa Shan Tuyết', note: 'Làng Lô Lô Chải', amount: 250000, cat: 'food' },
+      { id: 34, day: 4, title: 'Cơm chiều Phố Cổ Đồng Văn', note: 'Cơm rang dưa bò + lòng', amount: 200000, cat: 'food' },
+      { id: 35, day: 4, title: 'Trà chanh & cắn hạt dưa Phố Cổ', note: 'Cafe Đồng Văn', amount: 80000, cat: 'food' },
+      { id: 36, day: 4, title: 'Cháo Ấu Tẩu Đồng Văn', note: 'Đặc sản hồi sức', amount: 50000, cat: 'food' },
 
       // Day 5
-      { id: 36, day: 5, title: 'Bánh mì + Bánh cuốn nóng', note: 'Sáng Đồng Văn', amount: 35000, cat: 'food' },
-      { id: 37, day: 5, title: 'Đổ xăng Đồng Văn & Mèo Vạc', note: 'Đèo Mã Pí Lèng', amount: 40000, cat: 'transport' },
-      { id: 38, day: 5, title: 'Chai xăng phụ 500ml', note: 'Dự phòng đèo', amount: 10000, cat: 'transport' },
-      { id: 39, day: 5, title: 'Xe ôm lên Vách Đá Tử Thần', note: 'Khứ hồi 2 người', amount: 100000, cat: 'ticket' },
-      { id: 40, day: 5, title: 'Cơm trưa bình dân Mèo Vạc', note: 'Thịt rang + bò lá lốt', amount: 100000, cat: 'food' },
-      { id: 41, day: 5, title: 'Gội đầu thư giãn Mèo Vạc', note: 'Tiệm tóc trung tâm', amount: 60000, cat: 'other' },
-      { id: 42, day: 5, title: 'Kem & Nước ngọt WinMart', note: 'Đồ lặt vặt', amount: 70000, cat: 'food' },
-      { id: 43, day: 5, title: 'Ăn tối Vịt nướng than hoa', note: '1/2 con + 2 trà chanh', amount: 165000, cat: 'food' },
-      { id: 44, day: 5, title: 'Thịt lợn xiên nướng đêm + Cafe', note: 'Mèo Vạc', amount: 80000, cat: 'food' }
+      { id: 37, day: 5, title: 'Bánh mì + Bánh cuốn nóng', note: 'Sáng Đồng Văn (Free KS + 35k cuốn)', amount: 35000, cat: 'food' },
+      { id: 38, day: 5, title: 'Đổ xăng Đồng Văn & Mèo Vạc', note: 'Đèo Mã Pí Lèng', amount: 40000, cat: 'transport' },
+      { id: 39, day: 5, title: 'Chai xăng phụ 500ml', note: 'Dự phòng đèo', amount: 10000, cat: 'transport' },
+      { id: 40, day: 5, title: 'Xe ôm lên Vách Đá Tử Thần', note: 'Khứ hồi 2 người', amount: 100000, cat: 'ticket' },
+      { id: 41, day: 5, title: 'Cơm trưa bình dân Mèo Vạc', note: 'Thịt rang + bò lá lốt', amount: 100000, cat: 'food' },
+      { id: 42, day: 5, title: 'Gội đầu thư giãn Mèo Vạc', note: 'Tiệm tóc trung tâm', amount: 60000, cat: 'other' },
+      { id: 43, day: 5, title: 'Kem & Nước ngọt WinMart', note: 'Đồ lặt vặt', amount: 70000, cat: 'food' },
+      { id: 44, day: 5, title: 'Ăn tối Vịt nướng than hoa', note: '1/2 con (125k) + 2 trà chanh (40k)', amount: 165000, cat: 'food' },
+      { id: 45, day: 5, title: 'Thịt lợn xiên nướng đêm + Cafe', note: 'Mèo Vạc', amount: 80000, cat: 'food' },
+
+      // Day 6
+      { id: 46, day: 6, title: 'Ăn sáng Bún cá cay', note: 'Bún cá cay nóng hổi', amount: 100000, cat: 'food' },
+      { id: 47, day: 6, title: 'Cafe sữa dọc đường', note: 'Chặng QL34 Bảo Lạc', amount: 30000, cat: 'food' },
+      { id: 48, day: 6, title: 'Đổ xăng đầu dốc Đèo 14 tầng', note: 'Tiếp xăng leo đèo', amount: 30000, cat: 'transport' },
+      { id: 49, day: 6, title: 'Nước + Kem ngắm cảnh Đèo 14 tầng', note: 'Điểm dừng chân đỉnh đèo', amount: 50000, cat: 'food' },
+      { id: 50, day: 6, title: 'Bánh tiêu phô mai', note: 'Ăn nhẹ dọc đường', amount: 15000, cat: 'food' },
+      { id: 51, day: 6, title: 'Chè đỗ đen + Nước sấu', note: 'Giải khát hạ nhiệt', amount: 25000, cat: 'food' },
+      { id: 52, day: 6, title: 'Bánh áp chao Cô Ngân + Vịt chiên', note: 'Đặc sản chiều TP Cao Bằng', amount: 80000, cat: 'food' },
+      { id: 53, day: 6, title: 'Bia hơi Hà Nội tối Lễ 2/9', note: 'Nhậu tối TP Cao Bằng', amount: 150000, cat: 'food' },
+      { id: 54, day: 6, title: 'Trà sữa', note: 'Thức uống tối', amount: 35000, cat: 'food' },
+      { id: 55, day: 6, title: 'Kem tươi', note: 'Ăn vặt dạo phố', amount: 10000, cat: 'food' },
+      { id: 56, day: 6, title: 'Trà chanh vỉa hè', note: 'Dạo phố đêm Cao Bằng', amount: 10000, cat: 'food' },
+
+      // Day 7
+      { id: 57, day: 7, title: 'Ăn sáng Bánh cuốn canh Cao Bằng', note: 'Bánh cuốn nước xương nóng hổi', amount: 60000, cat: 'food' },
+      { id: 58, day: 7, title: 'Đổ xăng xe máy tại TP Cao Bằng', note: 'Đổ xăng chặng Thang Hen & Bản Giốc', amount: 40000, cat: 'transport' },
+      { id: 59, day: 7, title: 'Vi phạm giao thông (Không xi nhan)', note: 'Nộp phạt vi phạm dọc đường', amount: 150000, cat: 'other' },
+      { id: 60, day: 7, title: 'Vé tham quan Hồ Thang Hen', note: '2 vé vào cổng (30k/vé)', amount: 60000, cat: 'ticket' },
+      { id: 61, day: 7, title: 'Vé tham quan Thác Bản Giốc', note: '2 vé vào cổng (40k/vé)', amount: 80000, cat: 'ticket' },
+      { id: 62, day: 7, title: 'Nước + Kem + Gửi xe Thác Bản Giốc', note: 'Giải khát & gửi xe máy', amount: 50000, cat: 'food' },
+      { id: 63, day: 7, title: 'Ăn trưa Cá sông + Canh chua + Cơm', note: 'Bữa trưa Trùng Khánh / Bản Giốc', amount: 240000, cat: 'food' },
+      { id: 64, day: 7, title: 'Ăn tối Xiên nướng bản địa + 2 lon Coca', note: 'Bữa tối Bản Giốc / Khuổi Ky', amount: 150000, cat: 'food' }
     ];
 
-    const FIXED_COSTS = 6694024; // 1435162 (VJ) + 2346362 (Sun) + 550000 (Quang Tuyen) + 2362500 (Giang Son)
-    const HOTEL_BOOKED = 2381411; // 348k (Da Tree) + 400k (Bong Bang 2) + 446.4k (ToTo-Chan) + 300k (Phuong Anh) + 369k (Minh Hoang) + 518.011k (A Tham)
+    const FIXED_COSTS = 7444024; // 1435162 (VJ) + 2346362 (Sun) + 550000 (Quang Tuyen) + 750000 (Hiep Giang) + 2362500 (Giang Son)
+    const HOTEL_BOOKED = 2749411; // 348k (Da Tree) + 400k (Bong Bang 2) + 446.4k (ToTo-Chan) + 300k (Phuong Anh) + 369k (Minh Hoang) + 518.011k (A Tham) + 368k (Doc Tam Da)
 
     // Categories Meta
     const catMeta = {
@@ -657,8 +681,9 @@
       other: { label: 'Tiện ích & Khác', tagClass: 'tag-other', color: '#94a3b8', icon: '💆' }
     };
 
-    // Load from LocalStorage
-    let expenses = JSON.parse(localStorage.getItem('trip_expenses_realtime')) || initialExpenses;
+    // Load from LocalStorage (Sync version v2)
+    const DATA_VERSION = 'trip_expenses_realtime_v2';
+    let expenses = JSON.parse(localStorage.getItem(DATA_VERSION)) || initialExpenses;
     let currentFilterDay = 'all';
 
     function formatVND(val) {
@@ -666,7 +691,7 @@
     }
 
     function saveExpenses() {
-      localStorage.setItem('trip_expenses_realtime', JSON.stringify(expenses));
+      localStorage.setItem(DATA_VERSION, JSON.stringify(expenses));
       render();
     }
 

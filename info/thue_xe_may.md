@@ -37,6 +37,20 @@
 | **Tài liệu đính kèm** | • Ảnh hợp đồng: [`attachments/giang_son_ha_giang/hop_dong_thue_xe_45_giang_son.jpg`](file:///Users/trucanh/Desktop/chicong-trip-plan/attachments/giang_son_ha_giang/hop_dong_thue_xe_45_giang_son.jpg)<br>• Biên lai cọc 100k trước đó: [`attachments/giang_son_ha_giang/bien_lai_chuyen_khoan.jpg`](file:///Users/trucanh/Desktop/chicong-trip-plan/attachments/giang_son_ha_giang/bien_lai_chuyen_khoan.jpg) |
 | **Đặc quyền & Dịch vụ đi kèm** | • **Phòng nghỉ & tắm rửa miễn phí:** Đón khách lên TP Hà Giang sáng 30/08 nghỉ ngơi free và trả xe tắm rửa free tại cửa hàng.<br>• **Baga sau chằng đồ:** 100% xe trang bị gác baga kéo dài phía sau chắc chắn.<br>• **Cứu hộ dọc đường 24/7:** Hệ thống 360 hotline hỗ trợ, sẵn sàng gọi thợ sửa chữa gần nhất đến xử lý tận nơi.<br>• **Ưu đãi Giang Sơn Hill Hotel (Đồng Văn):** Giảm 20% giá phòng khách sạn 3⭐ mới xây ở trung tâm Đồng Văn. |
 
+---
+
+### 📍 Hướng Dẫn & Quy Trình Trả Xe Tại TP Cao Bằng (Chiều 04/09/2026)
+
+| Hạng mục | Chi tiết hướng dẫn |
+|---|---|
+| **SĐT Nhân viên nhận xe tại Cao Bằng** | 📞 **`0868 252 168`** |
+| **Địa chỉ điểm trả xe cố định** | 📍 **Điểm trả xe cố định Giang Sơn tại Cao Bằng**<br>👉 [Link Google Maps dẫn đường](https://maps.app.goo.gl/Fewv97hZmzrFNRSM7?g_st=ic) |
+| **Bước 1: Báo trước giờ trả xe** | Khi chuẩn bị rời Pác Bó về TP Cao Bằng (khoảng 15:30 – 16:00), gọi điện hoặc nhắn tin trước qua SĐT **`0868 252 168`** để báo ngày & giờ dự kiến trả xe (~16:45 – 17:00) để nhân viên tiếp đón hỗ trợ nhanh chóng. |
+| **Bước 2: Quay chụp hiện trạng xe & phụ kiện** | Khi tới điểm trả xe, hãy **quay video ngắn và chụp ảnh** lại tình trạng xe (thân vỏ, lốp, đồng hồ xăng/km) và các phụ kiện bàn giao (2 mũ bảo hiểm, giá đỡ điện thoại, baga sau, dây chằng) để bên Giang Sơn xác nhận đối chiếu. |
+| **Bước 3: Hoàn tiền cọc (3.000.000 VNĐ)** | Sau khi nhân viên tại Cao Bằng kiểm tra xác nhận, bạn gửi **Số tài khoản ngân hàng (STK)** — bên Giang Sơn sẽ chuyển khoản hoàn lại **3.000.000 VNĐ** tiền cọc ngay lập tức. |
+
+---
+
 ### Bảng giá Giang Sơn (tham khảo)
 | Loại xe | Giá/ngày (không BH) | Giá/ngày (có BH) |
 |---------|---------------------|-------------------|
@@ -56,3 +70,4 @@
 | **Cao Bằng** | **500k** ✅ *(Xe số 110cc)* | **600k** | **700k** |
 
 > Thuê tối thiểu 4 ngày nếu trả xe khác tỉnh (CB, HN, YB, SP)
+
