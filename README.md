@@ -1,7 +1,7 @@
 # 🗺️ Plan Trip — HCM → Hà Nội → Hà Giang → Cao Bằng
 > **Chuyến đi:** 28/08/2026 – 06/09/2026 (10 ngày)  
 > **Thành viên:** 2 người (Cong Hoang + Bạn gái)  
-> **Cập nhật lần cuối:** 03/09/2026 *(Đã hoàn thành 7/10 ngày — Hà Giang Loop & Cao Bằng Bản Giốc)*  
+> **Cập nhật lần cuối:** 04/09/2026 *(Đã hoàn thành 8/10 ngày — Hà Giang Loop & Cao Bằng Bản Giốc - Pác Bó)*  
 
 ---
 
@@ -44,8 +44,8 @@ chicong-trip-plan/
 
 | Hạng mục | Status | Ghi chú |
 |----------|--------|---------|
-| **Tiến độ chuyến đi** | 🟢 **Đã xong 7/10 ngày** | Hoàn thành trọn vẹn Hà Giang Loop & Chặng Cao Bằng (TP Cao Bằng → Hồ Thang Hen → Núi Mắt Thần → Thác Bản Giốc) |
-| **Tổng chi phí toàn chuyến (Realtime)** | 💰 **17.168.435 VNĐ** | Đã gồm Cố định (7.444k) + Lưu trú 7 đêm đã chốt (2.749k) + Sinh hoạt 7 ngày (6.975k). Xem tại [tong_hop_chi_phi.md](info/tong_hop_chi_phi.md) & [Dashboard Web](info/expense_tracker.html) |
+| **Tiến độ chuyến đi** | 🟢 **Đã xong 8/10 ngày** | Hoàn thành trọn vẹn Hà Giang Loop & Tuyến Cao Bằng (Thang Hen, Núi Mắt Thần, Thác Bản Giốc, Động Ngườm Ngao, Pác Bó, Suối Lê-Nin) |
+| **Tổng chi phí toàn chuyến (Realtime)** | 💰 **17.583.435 VNĐ** | Đã gồm Cố định (7.444k) + Lưu trú 7 đêm đã chốt (2.749k) + Sinh hoạt 8 ngày (7.390k). Xem tại [tong_hop_chi_phi.md](info/tong_hop_chi_phi.md) & [Dashboard Web](info/expense_tracker.html) |
 | **Plan tổng thể** | ✅ Đã chốt | Lái xe xuyên HG sang CB, trả xe ở CB chiều 04/09 ➔ **21:15 Xe Cabin Hiệp Giang về Hà Nội đêm 04/09** ➔ Trọn vẹn Thứ 7 (05/09) & Chủ Nhật (06/09) tại Hà Nội |
 | **Dự báo thời tiết 10 ngày** | ✅ Đã cập nhật (Tối 27/08) | Cập nhật mới nhất tối 27/08 trước khởi hành trong [lich_trinh_chi_tiet.md](plans/lich_trinh_chi_tiet.md) |
 | **Kế hoạch Rủi ro & Backup** | ✅ Đã chốt | 5 nhóm rủi ro & kịch bản dự phòng trong [lich_trinh_chi_tiet.md](plans/lich_trinh_chi_tiet.md#-đánh-giá-rủi-ro--kịch-bản-dự-phòng-contingency-plans) |

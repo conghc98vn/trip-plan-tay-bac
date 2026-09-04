@@ -147,11 +147,12 @@
    - *Đặc điểm:* Vỏ bánh nếp bột gạo chiên giòn vàng ruộm, nhân thịt vịt ướp đậm đà, ăn kèm nước chấm chua ngọt & rau sống.
 
 4. **Phở Chua Cao Bằng:**
+   - *Phở Chua + Miến Cao Bằng* ⭐ *(Đã thưởng thức trưa Ngày 8 — 110k/2 người)*.
    - *Quán Phở chua Quyên* — TP Cao Bằng.
    - *Quán Phở chua Gia Truyền* — TP Cao Bằng.
    - *Đặc điểm:* Phở nguội trộn sốt chua ngọt đặc sánh, ăn kèm lạp xưởng, thịt lợn quay, dạ dãi chiên & khoai môn bào giòn.
 
-### 🐟 Bữa Chính & Món Ăn Dọc Tuyến Mèo Vạc — Cao Bằng — Bản Giốc
+### 🐟 Bữa Chính & Món Ăn Dọc Tuyến Mèo Vạc — Cao Bằng — Bản Giốc — Pác Bó
 - **Bún Cá Cay & Ăn Vặt Đèo 14 Tầng (Ngày 6):**
   - *Bún cá cay Mèo Vạc:* Đã ăn sáng Ngày 6 — 100k.
   - *Nước uống + Kem + Bánh tiêu phô mai + Chè đỗ đen nước sấu:* Đã thưởng thức dọc đèo 14 tầng & QL34 — 120k.
@@ -161,6 +162,10 @@
   - *Cá sông + Canh chua + Cơm:* Bữa trưa đặc sản Trùng Khánh / Bản Giốc (Đã thưởng thức Ngày 7 — 240k).
   - *Xiên nướng bản địa + Coca:* Bữa tối Bản Giốc / Làng Khuổi Ky (Đã thưởng thức Ngày 7 — 150k).
   - *Cá Trầm Hương Thác Bản Giốc:* Bắt từ sông Quay Sơn nướng than hoa hoặc chiên giòn.
+- **Ẩm Thực Cung Biên Giới & Pác Bó (Ngày 8):**
+  - *Phở lạp xưởng + thịt lợn quay Chợ Co Sàu:* Ăn sáng dọc đường biên giới Trà Lĩnh cực ngon (Đã thưởng thức sáng Ngày 8 — 90k gồm 2 tô 60k + 20k lạp xưởng + 10k bánh).
+  - *Phở Chua + Miến Cao Bằng:* Đã thưởng thức trưa Ngày 8 — 110k.
+  - *Cà phê Highland Cao Bằng:* Đã uống giải nhiệt trưa Ngày 8 — 110k.
 
 ### 🎁 Quà Đặc Sản Mua Mang Về (Chiều 04/09 & 05/09 tại Cao Bằng)
 - **Hạt Dẻ Trùng Khánh:** Hạt dẻ to gấp 3 lần hạt dẻ thường, nhân vàng óng, thơm ngậy (mua hạt dẻ rang sẵn hoặc hạt tươi).

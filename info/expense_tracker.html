@@ -444,8 +444,8 @@
           <span>Sinh Hoạt & Ẩm Thực</span>
           <span>🍜 ☕</span>
         </div>
-        <div class="kpi-val" id="kpi-daily">6.975.000 đ</div>
-        <div class="kpi-sub">7 ngày thực tế (Ăn uống, xăng, vé, quà)</div>
+        <div class="kpi-val" id="kpi-daily">7.390.000 đ</div>
+        <div class="kpi-sub">8 ngày thực tế (Ăn uống, xăng, vé, quà)</div>
       </div>
 
       <div class="kpi-card" style="--accent-gradient: linear-gradient(90deg, #64748b, #94a3b8);">
@@ -665,7 +665,15 @@
       { id: 61, day: 7, title: 'Vé tham quan Thác Bản Giốc', note: '2 vé vào cổng (40k/vé)', amount: 80000, cat: 'ticket' },
       { id: 62, day: 7, title: 'Nước + Kem + Gửi xe Thác Bản Giốc', note: 'Giải khát & gửi xe máy', amount: 50000, cat: 'food' },
       { id: 63, day: 7, title: 'Ăn trưa Cá sông + Canh chua + Cơm', note: 'Bữa trưa Trùng Khánh / Bản Giốc', amount: 240000, cat: 'food' },
-      { id: 64, day: 7, title: 'Ăn tối Xiên nướng bản địa + 2 lon Coca', note: 'Bữa tối Bản Giốc / Khuổi Ky', amount: 150000, cat: 'food' }
+      { id: 64, day: 7, title: 'Ăn tối Xiên nướng bản địa + 2 lon Coca', note: 'Bữa tối Bản Giốc / Khuổi Ky', amount: 150000, cat: 'food' },
+
+      // Day 8
+      { id: 65, day: 8, title: 'Đổ xăng xe máy tại Bản Giốc', note: 'Chuẩn bị cung đường vành đai biên giới', amount: 50000, cat: 'transport' },
+      { id: 66, day: 8, title: 'Ăn sáng Phở lạp xưởng + lợn quay Chợ Co Sàu', note: '2 tô (60k) + thêm lạp xưởng (20k) + mua bánh (10k)', amount: 90000, cat: 'food' },
+      { id: 67, day: 8, title: 'Vé xe điện tham quan Pác Bó', note: '2 vé xe điện vào Suối Lê-Nin & Hang Cốc Bó', amount: 50000, cat: 'ticket' },
+      { id: 68, day: 8, title: 'Phí gửi xe máy tại Pác Bó', note: 'Gửi xe cổng di tích', amount: 5000, cat: 'ticket' },
+      { id: 69, day: 8, title: 'Ăn trưa Phở Chua + Miến Cao Bằng', note: 'Đặc sản ẩm thực Cao Bằng', amount: 110000, cat: 'food' },
+      { id: 70, day: 8, title: 'Cà phê Highland', note: 'Nghỉ trưa & giải nhiệt', amount: 110000, cat: 'food' }
     ];
 
     const FIXED_COSTS = 7444024; // 1435162 (VJ) + 2346362 (Sun) + 550000 (Quang Tuyen) + 750000 (Hiep Giang) + 2362500 (Giang Son)
@@ -681,8 +689,8 @@
       other: { label: 'Tiện ích & Khác', tagClass: 'tag-other', color: '#94a3b8', icon: '💆' }
     };
 
-    // Load from LocalStorage (Sync version v2)
-    const DATA_VERSION = 'trip_expenses_realtime_v2';
+    // Load from LocalStorage (Sync version v3)
+    const DATA_VERSION = 'trip_expenses_realtime_v3';
     let expenses = JSON.parse(localStorage.getItem(DATA_VERSION)) || initialExpenses;
     let currentFilterDay = 'all';
 

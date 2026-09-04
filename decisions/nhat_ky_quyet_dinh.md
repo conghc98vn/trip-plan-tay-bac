@@ -547,6 +547,28 @@
 - **Tài liệu đính kèm:** [`attachments/booking/xac_nhan_booking_hanoi_doc_tam_da.pdf`](file:///Users/trucanh/Desktop/chicong-trip-plan/attachments/booking/xac_nhan_booking_hanoi_doc_tam_da.pdf)
 - **Cập nhật đồng bộ:** [`plans/lich_trinh_chi_tiet.md`](file:///Users/trucanh/Desktop/chicong-trip-plan/plans/lich_trinh_chi_tiet.md), [`info/tong_hop_chi_phi.md`](file:///Users/trucanh/Desktop/chicong-trip-plan/info/tong_hop_chi_phi.md), [`info/expense_tracker.html`](file:///Users/trucanh/Desktop/chicong-trip-plan/info/expense_tracker.html), [`notes/goi_y_homestay.md`](file:///Users/trucanh/Desktop/chicong-trip-plan/notes/goi_y_homestay.md) và [`README.md`](file:///Users/trucanh/Desktop/chicong-trip-plan/README.md).
 
+## 04/09/2026 — Cập Nhật Tiến Độ Thực Tế Ngày 7 (Bản Giốc & Ngườm Ngao) & Ngày 8 (Chợ Co Sàu, Pác Bó, Suối Lê-Nin, Phở Chua & Chuẩn Bị Về Hà Nội)
+
+### Quyết định #35: Hoàn tất trọn vẹn cung phượt xe máy Cao Bằng & Cập nhật nhật ký chi tiêu 8 ngày thực tế
+- **Tiến độ thực tế Ngày 7 (03/09):**
+  - Buổi sáng: Bánh cuốn canh Cao Bằng (60k) + Đổ xăng (40k) + Hồ Thang Hen (60k) + Núi Mắt Thần (trên đường bị phạt không xi nhan 150k).
+  - Trưa - chiều: Ăn trưa cá sông + canh chua (240k), tham quan Thác Bản Giốc (vé 80k + nước/kem/gửi xe 50k) và khám phá Động Ngườm Ngao ngay trong buổi chiều Ngày 7.
+  - Tối: Check-in A THÁM homestay (Làng đá Khuổi Ky), ăn tối xiên nướng bản địa + 2 lon coca (150k).
+  - *Tổng chi Ngày 7:* **830.000 VNĐ**.
+- **Tiến độ thực tế Ngày 8 (04/09):**
+  - Sáng sớm: Đổ xăng 50k tại Bản Giốc, chạy cung đường vành đai biên giới ĐT211 Trà Lĩnh. Ăn sáng tại Chợ Co Sàu cực ngon: Phở lạp xưởng + thịt lợn quay (60k/2 tô + thêm 20k lạp xưởng + 10k bánh = 90k).
+  - Khám phá Pác Bó: Mua vé xe điện (50k) + gửi xe máy (5k), dạo ngắm Suối Lê-Nin xanh ngọc bích tuyệt tác, Núi Các Mác, Hang Cốc Bó.
+  - Trưa: Thưởng thức Phở Chua + Miến Cao Bằng (110k), uống Cà phê Highland (110k).
+  - Chiều - tối: Về TP Cao Bằng hoàn thành chặng xe máy 6 ngày, trả xe máy Wave 110cc cho Giang Sơn (Hotline: `0868 252 168`) nhận lại 3.000.000đ tiền cọc. Chuẩn bị 20:45 ra Bến xe liên tỉnh Cao Bằng lên xe Limousine Cabin VIP Hiệp Giang (Cabin `B.10`, 21:15) về Hà Nội.
+  - *Tổng chi Ngày 8 (đến hiện tại):* **415.000 VNĐ**.
+- **Tổng kết tài chính realtime sau 8 ngày:**
+  - Tổng sinh hoạt 8 ngày: **7.390.000 VNĐ**
+  - Chi phí cố định (vé bay + xe khách + thuê 2 xe máy): **7.444.024 VNĐ**
+  - Chi phí lưu trú (7 đêm đã chốt): **2.749.411 VNĐ**
+  - 👉 **Tổng đã chi & đã đặt:** **17.583.435 VNĐ** (~8.791.718 VNĐ / người).
+  - 🔄 **Khoản cọc xe Giang Sơn:** Nhận lại **+3.000.000 VNĐ** chiều nay tại TP Cao Bằng.
+- **Cập nhật đồng bộ:** [`plans/lich_trinh_chi_tiet.md`](file:///Users/trucanh/Desktop/chicong-trip-plan/plans/lich_trinh_chi_tiet.md), [`info/tong_hop_chi_phi.md`](file:///Users/trucanh/Desktop/chicong-trip-plan/info/tong_hop_chi_phi.md), [`info/expense_tracker.html`](file:///Users/trucanh/Desktop/chicong-trip-plan/info/expense_tracker.html), [`notes/dac_san_am_thuc.md`](file:///Users/trucanh/Desktop/chicong-trip-plan/notes/dac_san_am_thuc.md) và [`README.md`](file:///Users/trucanh/Desktop/chicong-trip-plan/README.md).
+
 ---
 
 ## Cần quyết định tiếp
@@ -571,7 +593,10 @@
 - [x] Đặt homestay Thác Bản Giốc đêm 03/09 (✅ **A THÁM homestay** - Mã `6515457323` - 518.011 VNĐ)
 - [x] Đặt vé xe Cabin VIP CB → Hà Nội (✅ **Hiệp Giang Limousine Cabin B.10** - Mã `P2DZO3` - 750.000 VNĐ)
 - [x] Đặt homestay / Khách sạn Hà Nội đêm 05/09 (✅ **Homestay Dốc Tam Đa** - Mã `6626597304` - 368.000 VNĐ)
-- [x] **HOÀN THÀNH 100% TOÀN BỘ VÉ DI CHUYỂN & PHÒNG LƯU TRÚ CHO TOÀN BỘ CHUYẾN ĐI!** 🎉
+- [x] Hoàn thành chặng phượt đèo xe máy Hà Giang - Cao Bằng an toàn 100%
+- [ ] Bàn giao trả xe Wave Giang Sơn tại TP Cao Bằng chiều 04/09 & nhận lại cọc 3.000.000 VNĐ
+- [ ] Lên xe Cabin Hiệp Giang lúc 21:15 tối 04/09 về Hà Nội
+- [ ] Trải nghiệm 2 ngày cuối tuần Hà Nội (05/09 - 06/09): Spa dưỡng sinh đôi, Foodtour phố cổ, Xe hoa mùa thu & Bay về SGN 23:30 tối 06/09
 
 
 
