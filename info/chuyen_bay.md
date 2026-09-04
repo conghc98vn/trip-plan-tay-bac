@@ -4,7 +4,7 @@
 
 ---
 
-## Lượt đi: SGN → HAN
+## <a id="bay-di"></a>Lượt đi: SGN → HAN
 | Hạng mục | Chi tiết |
 |----------|---------|
 | **Ngày** | 28/08/2026 |
@@ -19,12 +19,12 @@
 | **Giờ ra cửa (Boarding)** | ⏰ **04:10 AM** (Cửa khởi hành sẽ đóng 15 phút trước giờ bay) |
 | **Số ghế & Boarding Group** | • HOANG CHI CONG: **Ghế 37E** (Group 4, Seq #65)<br>• PHAM HUYNH TRUC ANH: **Ghế 37F** (Group 4, Seq #66) |
 | **Chi phí 2 vé** | 10,000 SkyPoint + 717,581 VNĐ (UJSG2A) + 717,581 VNĐ (R7AH77) = 1,435,162 VNĐ (Đã thanh toán) |
-| **Thẻ lên tàu & Xác nhận vé** | • [`boarding_pass_vj120_chi_cong.pdf`](file:///Users/trucanh/Desktop/chicong-trip-plan/attachments/ve_may_bay_luot_di/boarding_pass_vj120_chi_cong.pdf)<br>• [`boarding_pass_vj120_truc_anh.pdf`](file:///Users/trucanh/Desktop/chicong-trip-plan/attachments/ve_may_bay_luot_di/boarding_pass_vj120_truc_anh.pdf)<br>• Vé điện tử: [`ve_di_vj120_chi_cong_suat_an.pdf`](file:///Users/trucanh/Desktop/chicong-trip-plan/attachments/ve_may_bay_luot_di/ve_di_vj120_chi_cong_suat_an.pdf) |
+| **Thẻ lên tàu & Xác nhận vé** | • [`boarding_pass_vj120_chi_cong.pdf`](../attachments/ve_may_bay_luot_di/boarding_pass_vj120_chi_cong.pdf)<br>• [`boarding_pass_vj120_truc_anh.pdf`](../attachments/ve_may_bay_luot_di/boarding_pass_vj120_truc_anh.pdf)<br>• Vé điện tử: [`ve_di_vj120_chi_cong_suat_an.pdf`](../attachments/ve_may_bay_luot_di/ve_di_vj120_chi_cong_suat_an.pdf) |
 | **Di chuyển từ nhà** | 03:30 AM (Có mặt sân bay SGN ~04:00 AM, đi thẳng qua cửa an ninh vì 100% xách tay & đã check-in online) |
 
 ---
 
-## Lượt về: HAN → SGN
+## <a id="bay-ve"></a>Lượt về: HAN → SGN
 | Hạng mục | Chi tiết |
 |----------|---------|
 | **Ngày** | 06/09/2026 |
@@ -39,7 +39,7 @@
 | **Số ghế đã chọn** | • HOANG CHI CONG: **Ghế 36J**<br>• PHAM HUYNH TRUC ANH: **Ghế 36K** (Dịch vụ EMD `809 4200212088`) |
 | **Trạng thái Check-in** | ⏳ Làm thủ tục trực tuyến (Online check-in) trong vòng 24h đến 1h trước giờ bay (từ 23:30 ngày 05/09/2026) |
 | **Chi phí 2 vé** | 1,143,181 VNĐ x 2 + 60,000 VNĐ (chọn ghế) = **2,346,362 VNĐ** (Đã thanh toán) |
-| **Vé điện tử đính kèm** | • [`ve_ve_9g893_chi_cong_7tgde6.pdf`](file:///Users/trucanh/Desktop/chicong-trip-plan/attachments/ve_may_bay_luot_ve/ve_ve_9g893_chi_cong_7tgde6.pdf)<br>• [`ve_ve_9g893_truc_anh_7tgde6.pdf`](file:///Users/trucanh/Desktop/chicong-trip-plan/attachments/ve_may_bay_luot_ve/ve_ve_9g893_truc_anh_7tgde6.pdf) |
+| **Vé điện tử đính kèm** | • [`ve_ve_9g893_chi_cong_7tgde6.pdf`](../attachments/ve_may_bay_luot_ve/ve_ve_9g893_chi_cong_7tgde6.pdf)<br>• [`ve_ve_9g893_truc_anh_7tgde6.pdf`](../attachments/ve_may_bay_luot_ve/ve_ve_9g893_truc_anh_7tgde6.pdf) |
 
 ---
 

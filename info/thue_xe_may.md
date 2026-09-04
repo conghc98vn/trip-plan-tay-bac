@@ -4,7 +4,7 @@
 
 ---
 
-## 1. Xe máy tại Hà Nội (28-29/08) — ✅ Đã xác nhận đặt xe MOTOGO
+## <a id="xe-may-hn-1"></a>1. Xe máy tại Hà Nội (28-29/08) — ✅ Đã xác nhận đặt xe MOTOGO
 | Hạng mục | Chi tiết |
 |----------|---------|
 | **Mã đặt xe** | **#39337** (MOTOGO Hà Nội) — Khách đặt: **Hoàng Chí Công** (SĐT: 0969910198) |
@@ -21,7 +21,7 @@
 
 ---
 
-## 2. Xe máy tour Hà Giang → Cao Bằng — Giang Sơn (30/08 - 05/09) — ✅ Đã ký Hợp đồng #45
+## <a id="xe-may-giang-son"></a>2. Xe máy tour Hà Giang → Cao Bằng — Giang Sơn (30/08 - 05/09) — ✅ Đã ký Hợp đồng #45
 | Hạng mục | Chi tiết |
 |----------|---------|
 | **Hợp đồng & Nhân viên** | **HỢP ĐỒNG SỐ 45** — Nhân viên phụ trách: **Hương** |
@@ -38,12 +38,12 @@
 | **Tiền cọc hợp đồng (Hoàn lại)** | **3.000.000 VNĐ** *(Sẽ nhận lại khi bàn giao trả xe tại TP Cao Bằng)* |
 | **Thanh toán chuyển khoản** | ✅ **5.262.500 VNĐ** (Chuyển khoản qua **MBBank**) = *2.262.500đ tiền thuê còn lại + 3.000.000đ tiền cọc hoàn lại* |
 | **Tình trạng hợp đồng** | ✅ **ĐÃ KÝ & THANH TOÁN ĐỦ (Khách nợ: 0đ)** |
-| **Tài liệu đính kèm** | • Ảnh hợp đồng: [`attachments/giang_son_ha_giang/hop_dong_thue_xe_45_giang_son.jpg`](file:///Users/trucanh/Desktop/chicong-trip-plan/attachments/giang_son_ha_giang/hop_dong_thue_xe_45_giang_son.jpg)<br>• Biên lai cọc 100k trước đó: [`attachments/giang_son_ha_giang/bien_lai_chuyen_khoan.jpg`](file:///Users/trucanh/Desktop/chicong-trip-plan/attachments/giang_son_ha_giang/bien_lai_chuyen_khoan.jpg) |
+| **Tài liệu đính kèm** | • Ảnh hợp đồng: [`attachments/giang_son_ha_giang/hop_dong_thue_xe_45_giang_son.jpg`](../attachments/giang_son_ha_giang/hop_dong_thue_xe_45_giang_son.jpg)<br>• Biên lai cọc 100k trước đó: [`attachments/giang_son_ha_giang/bien_lai_chuyen_khoan.jpg`](../attachments/giang_son_ha_giang/bien_lai_chuyen_khoan.jpg) |
 | **Đặc quyền & Dịch vụ đi kèm** | • **Phòng nghỉ & tắm rửa miễn phí:** Đón khách lên TP Hà Giang sáng 30/08 nghỉ ngơi free và trả xe tắm rửa free tại cửa hàng.<br>• **Baga sau chằng đồ:** 100% xe trang bị gác baga kéo dài phía sau chắc chắn.<br>• **Cứu hộ dọc đường 24/7:** Hệ thống 360 hotline hỗ trợ, sẵn sàng gọi thợ sửa chữa gần nhất đến xử lý tận nơi.<br>• **Ưu đãi Giang Sơn Hill Hotel (Đồng Văn):** Giảm 20% giá phòng khách sạn 3⭐ mới xây ở trung tâm Đồng Văn. |
 
 ---
 
-### 📍 Hướng Dẫn & Quy Trình Trả Xe Tại TP Cao Bằng (Chiều 04/09/2026)
+### <a id="tra-xe-cao-bang"></a>📍 Hướng Dẫn & Quy Trình Trả Xe Tại TP Cao Bằng (Chiều 04/09/2026)
 
 | Hạng mục | Chi tiết hướng dẫn |
 |---|---|
@@ -77,7 +77,7 @@
 
 ---
 
-## 3. Xe máy tại Hà Nội lượt về (05 - 06/09) — ✅ Đã xác nhận đặt xe MOTOGO
+## <a id="xe-may-hn-2"></a>3. Xe máy tại Hà Nội lượt về (05 - 06/09) — ✅ Đã xác nhận đặt xe MOTOGO
 | Hạng mục | Chi tiết |
 |----------|---------|
 | **Đơn vị thuê** | **MOTOGO Hà Nội** — Hotline: **0338.023.344** |

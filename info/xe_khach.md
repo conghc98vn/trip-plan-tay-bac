@@ -4,7 +4,7 @@
 
 ---
 
-## Chặng 1: Hà Nội → TP Hà Giang (Tối 29/08) ✅ *(Đã đặt & hoàn thành)*
+## <a id="xe-khach-hn-hg"></a>Chặng 1: Hà Nội → TP Hà Giang (Tối 29/08) ✅ *(Đã đặt & hoàn thành)*
 | Hạng mục | Chi tiết xác nhận |
 |----------|-------------------|
 | **Hãng xe / Nhà xe** | **Quang Tuyến (Hà Giang)** ✅ |
@@ -24,7 +24,7 @@
 
 ---
 
-## Chặng 2: TP Cao Bằng → Hà Nội (Tối Thứ Sáu, 04/09/2026) ✅ *(Đã thanh toán thành công)*
+## <a id="xe-khach-cb-hn"></a>Chặng 2: TP Cao Bằng → Hà Nội (Tối Thứ Sáu, 04/09/2026) ✅ *(Đã thanh toán thành công)*
 | Hạng mục | Chi tiết xác nhận |
 |----------|-------------------|
 | **Hãng xe / Nhà xe** | **Hiệp Giang** ✅ |
@@ -43,4 +43,4 @@
 | **Ảnh vé gốc** | [`attachments/ve_xe_khach_cao_bang_di_ha_noi/xac_nhan_ve_hiep_giang_cb_hn.png`](../attachments/ve_xe_khach_cao_bang_di_ha_noi/xac_nhan_ve_hiep_giang_cb_hn.png) |
 | **Chính sách hủy** | Trước 15:15 ngày 04/09/2026: **Miễn phí** (Từ 15:15 ngày 04/09 phí 80%) |
 | **Link tra cứu & Quản lý vé** | [Xem chi tiết đơn hàng trên Vexere](https://vexere.com/vi-VN/booking/ticketinfo?code=77Z1VY8&phone=0969910198) |
-| **Chuyến bay kết nối** | ✅ [Sun PhuQuoc Airways 9G893 (23:30 HAN T1 → 01:40 SGN T3 đêm 06/09)](chuyen_bay.md#lượt-về-han--sgn) |
+| **Chuyến bay kết nối** | ✅ [Sun PhuQuoc Airways 9G893 (23:30 HAN T1 → 01:40 SGN T3 đêm 06/09)](chuyen_bay.md#bay-ve) |

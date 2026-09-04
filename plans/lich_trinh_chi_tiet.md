@@ -8,7 +8,7 @@
 
 ## 📌 Điều Hướng Nhanh Tài Liệu (Quick Links)
 
-- 📜 **Lịch trình chi tiết:** [Tổng quan](#-lịch-trình-tổng-quan) | [Ngày 1](#ngay-1) | [Ngày 2](#ngay-2) | [Ngày 3](#ngay-3) | [Ngày 4](#ngay-4) | [Ngày 5](#ngay-5) | [Ngày 6](#ngay-6) | [Ngày 7](#ngay-7) | [Ngày 8](#ngay-8) | [Ngày 9](#ngay-9) | [Ngày 10](#ngay-10)
+- 📜 **Lịch trình chi tiết:** [Tổng quan](#tong-quan) | [Ngày 1](#ngay-1) | [Ngày 2](#ngay-2) | [Ngày 3](#ngay-3) | [Ngày 4](#ngay-4) | [Ngày 5](#ngay-5) | [Ngày 6](#ngay-6) | [Ngày 7](#ngay-7) | [Ngày 8](#ngay-8) | [Ngày 9](#ngay-9) | [Ngày 10](#ngay-10)
 - 🛡️ **Rủi ro & Dự phòng:** [Kế hoạch Contingency Plans](#-đánh-giá-rủi-ro--kịch-bản-dự-phòng-contingency-plans)
 - 🏨 **Danh sách Homestay:** [Gợi ý Homestay từng đêm](../notes/goi_y_homestay.md)
 - 🍜 **Master Food List:** [Danh sách quán ăn đặc sản](../notes/dac_san_am_thuc.md)
@@ -23,23 +23,23 @@
 | Hạng mục | Chi tiết | Ghi chú & Liên kết |
 |----------|---------|-------------------|
 | **Bay đi** | ✅ **Vietjet Air VJ120** — 28/08 05:00 AM SGN → 07:10 AM HAN (Mã PNR: `UJSG2A` / `R7AH77`)<br>✅ *Đã check-in online: Ghế 37E (Công) & 37F (Trúc Anh), Boarding: 04:10 AM, Group 4. Đã thêm 1 suất ăn nóng (C.ThaiWBisc).* | [Chi tiết chuyến bay](../info/chuyen_bay.md) |
-| **Bay về** | ✅ **Sun PhuQuoc Airways 9G893** — 06/09 23:30 HAN (T1) → 01:40 (07/09) SGN (T3) (Mã PNR: **`7TGDE6`**)<br>✅ *Đã đặt chỗ & chọn ghế: 36J (Công) & 36K (Trúc Anh). Bao gồm 1PC hành lý ký gửi/người.* | [Chi tiết chuyến bay](../info/chuyen_bay.md#lượt-về-han--sgn) |
+| **Bay về** | ✅ **Sun PhuQuoc Airways 9G893** — 06/09 23:30 HAN (T1) → 01:40 (07/09) SGN (T3) (Mã PNR: **`7TGDE6`**)<br>✅ *Đã đặt chỗ & chọn ghế: 36J (Công) & 36K (Trúc Anh). Bao gồm 1PC hành lý ký gửi/người.* | [Chi tiết chuyến bay](../info/chuyen_bay.md#bay-ve) |
 | **Xe máy HN (2 lượt)** | ✅ **MOTOGO Hà Nội**<br>• Lượt đi (28-29/08): Sirius 110cc (Mã #39337, 310k — Đã trả xe tối 29/08)<br>• Lượt về (05-06/09): Xe số nhận 06:00 05/09 tại 267 Hoàng Hoa Thám | [Chi tiết MOTOGO](../info/thue_xe_may.md) |
-| **Xe máy HG ➔ CB** | ✅ **Giang Sơn (HĐ #45 — Đã thanh toán & Cọc 3tr)** — Honda Wave 110cc có gói BH cứu hộ 24/7 (Nhận TP HG 30/08, Trả TP CB chiều 04/09, phụ phí 500k). Nhận lại 3tr cọc khi trả xe. | [Chi tiết xe Giang Sơn](../info/thue_xe_may.md#2-xe-máy-tour-hà-giang--cao-bằng--giang-sơn-3008---0509--đã-ký-hợp-đồng-45) |
-| **Xe khách HN→HG** | ✅ **Quang Tuyến Limousine (Mã `RN34WQ`)** — 23:05 Tối 29/08 đón 55 Nguyễn Hoàng, trả tận cửa Giang Sơn Homestay 05:45 sáng 30/08 (550k). | [Chi tiết vé Quang Tuyến](../info/xe_khach.md#chặng-1-hà-nội--tp-hà-giang-tối-2908-) |
-| **Xe khách CB→HN** | ✅ **Hiệp Giang Limousine (Mã `P2DZO3`, Cabin đôi `B.10`)** — 21:15 Tối 04/09 đón VP Bến xe CB, trả Bến xe Mỹ Đình 05:30 sáng 05/09 (750k). | [Chi tiết vé Hiệp Giang](../info/xe_khach.md#chặng-2-tp-cao-bằng--hà-nội-tối-thứ-sáu-04092026--đã-thanh-toán-thành-công) |
+| **Xe máy HG ➔ CB** | ✅ **Giang Sơn (HĐ #45 — Đã thanh toán & Cọc 3tr)** — Honda Wave 110cc có gói BH cứu hộ 24/7 (Nhận TP HG 30/08, Trả TP CB chiều 04/09, phụ phí 500k). Nhận lại 3tr cọc khi trả xe. | [Chi tiết xe Giang Sơn](../info/thue_xe_may.md#xe-may-giang-son) |
+| **Xe khách HN→HG** | ✅ **Quang Tuyến Limousine (Mã `RN34WQ`)** — 23:05 Tối 29/08 đón 55 Nguyễn Hoàng, trả tận cửa Giang Sơn Homestay 05:45 sáng 30/08 (550k). | [Chi tiết vé Quang Tuyến](../info/xe_khach.md#xe-khach-hn-hg) |
+| **Xe khách CB→HN** | ✅ **Hiệp Giang Limousine (Mã `P2DZO3`, Cabin đôi `B.10`)** — 21:15 Tối 04/09 đón VP Bến xe CB, trả Bến xe Mỹ Đình 05:30 sáng 05/09 (750k). | [Chi tiết vé Hiệp Giang](../info/xe_khach.md#xe-khach-cb-hn) |
 | **Hành lý & Chằng xe** | 👝 1 Túi đeo chéo nhỏ (Sony A7R3+28mm+iT32) + 🎒 2 Balo (1 balo baga trước + 1 balo baga sau/ngồi sau + 1.5L xăng dự phòng) | [Checklist hành lý](../notes/hanh_ly_baga.md) |
 
 ---
 
-## 📊 Lịch trình tổng quan
+## <a id="tong-quan"></a>📊 Lịch trình tổng quan
 
 > 🌤️ **Dự báo thời tiết cập nhật mới nhất ngày 27/08/2026 (Trung tâm KTTV Quốc gia - Trước khởi hành 1 ngày):**
 
 | Ngày | Thứ | Nội dung tóm tắt | Thời tiết dự báo | Quãng đường (km) | Lưu trú đề xuất |
 |------|------|------------------|-------------------|-------------------|-----------------|
 | **28/08** | T6 | SGN 05:00 → HAN ~07:15 → Nhận xe máy tại Nội Bài → Chạy thẳng Mỹ Đức thăm người thân → Chiều về HN check-in homestay → Tối foodtour phố cổ | ⛅ Mây đan xen, nắng gián đoạn, mưa rào nhẹ (28–33°C) | 🛵 **~145 km** *(xe máy HN)* | [Da Tree Homestay Ba Đình (✅ Đã xác nhận)](../info/dat_phong.md#ha-noi) |
-| **29/08** | T7 | Khám phá HN (Phở Thìn, Hoàng Thành, Ba Đình) → **18:00 Dự Thánh lễ Vọng tại Nhà thờ Lớn** → Trả xe máy HN → 22:30 xe khách đi HG | ⛅ Hửng nắng sáng, chiều tối mưa rào rải rác (27–33°C) | 🛵 **~25 km** *(xe máy HN)*<br>🚌 **~300 km** *(xe khách)* | [Xe khách giường nằm Vexere 23BQ04L (✅ Đã xác nhận)](../info/xe_khach.md#chặng-1-hà-nội--tp-hà-giang-tối-2908-) |
+| **29/08** | T7 | Khám phá HN (Phở Thìn, Hoàng Thành, Ba Đình) → **18:00 Dự Thánh lễ Vọng tại Nhà thờ Lớn** → Trả xe máy HN → 22:30 xe khách đi HG | ⛅ Hửng nắng sáng, chiều tối mưa rào rải rác (27–33°C) | 🛵 **~25 km** *(xe máy HN)*<br>🚌 **~300 km** *(xe khách)* | [Xe khách giường nằm Vexere 23BQ04L (✅ Đã xác nhận)](../info/xe_khach.md#xe-khach-hn-hg) |
 | **30/08** | CN | Sáng đến TP HG → Nhận xe Giang Sơn (Wave 110cc + BH) → Cổng Trời Quản Bạ, Núi Đôi → Can Tỷ → Rừng thông Yên Minh | 🌤️ Sương mù đèo sáng sớm, trưa hửng nắng, mưa ngắn (25–33°C) | 🛵 **~100 km** | [Bong Bang Homestay 2 (✅ Đã xác nhận)](../info/dat_phong.md#yen-minh) |
 | **31/08** | T2 | Dốc Thẩm Mã → Dinh Vua Mèo Sà Phìn → Cột cờ Lũng Cú → Làng Lô Lô Chải → Phố cổ Đồng Văn | ⛅ Vùng cao mây rải rác, hửng nắng, đêm trở lạnh (19–26°C) | 🛵 **~95 km** | [ToTo-Chan Hotel Đồng Văn (✅ Đã xác nhận)](../info/dat_phong.md#dong-van) |
 | **01/09** | T3 | Đèo Mã Pí Lèng → Đi thuyền Sông Nho Quế & Hẻm Tu Sản → Làng H'Mông Pả Vi → Mèo Vạc | ☀️ Nắng gián đoạn, gió mát, Nho Quế xanh ngọc đi thuyền đẹp (20–28°C) | 🛵 **~50 km** | [Phương Anh Hotel Mèo Vạc (✅ Đã xác nhận)](../info/dat_phong.md#meo-vac) |
@@ -99,7 +99,7 @@
 
 > ⛅ **Dự báo thời tiết:** Sáng hửng nắng nhẹ, từ chiều & tối chuyển mây, có mưa rào và dông diện rộng | 🌡️ **Nhiệt độ:** 26°C – 33°C  
 > 🛵 **Quãng đường di chuyển dự kiến:** ~25 km (Xe máy lượn dạo quanh trung tâm Hà Nội) + 🚌 300 km xe khách giường nằm đi TP Hà Giang  
-> 🔗 **Gợi ý liên quan:** 🍜 [Quán Phở & Cà phê Trứng](../notes/dac_san_am_thuc.md#food-hn) | 📸 [Góc chụp Cầu Long Biên](../notes/goc_chup_anh.md#photo-hn) | 🚌 [Thông tin Xe Khách](../info/xe_khach.md#chặng-1-hà-nội--tp-hà-giang-tối-2908)
+> 🔗 **Gợi ý liên quan:** 🍜 [Quán Phở & Cà phê Trứng](../notes/dac_san_am_thuc.md#food-hn) | 📸 [Góc chụp Cầu Long Biên](../notes/goc_chup_anh.md#photo-hn) | 🚌 [Thông tin Xe Khách](../info/xe_khach.md#xe-khach-hn-hg)
 
 > ✅ **NHẬT KÝ & CHI TIÊU THỰC TẾ (29/08/2026 — Tổng: 1.220.000 VNĐ):**
 > - 🏨 **Phát sinh:** Phụ phí thêm giờ tại Khách sạn (Da Tree Homestay): **100.000đ**
@@ -122,8 +122,8 @@
 | 17:00 - 17:45 | Di chuyển về khu Nhà thờ Lớn (40 Nhà Chung), gửi xe máy, ổn định chỗ ngồi | ⛪ Đến sớm 15-20p vì lễ chiều T7 rất đông |
 | 18:00 - 18:50 | **Tham dự Thánh lễ Vọng Chúa Nhật tại Nhà thờ Lớn Hà Nội** | ⛪ Đáp ứng Luật Thánh lễ buộc hàng tuần |
 | 18:50 - 20:30 | Ăn tối / gặp bạn bè Phố Cổ quanh Nhà thờ (Nem nướng Ấu Triệu / Bún chả / Phở Bố Trọng) | 😋 Foodtour phố cổ ngay cạnh Nhà thờ |
-| 20:30 - 21:30 | Trả xe máy HN tại 1081 Hồng Hà. Grab ra điểm đón 55 Nguyễn Hoàng (Mỹ Đình) | [Thông tin trả xe máy](../info/thue_xe_may.md#1-xe-máy-tại-hà-nội-28-2908) |
-| 23:05 | Lên xe **Limousine giường phòng Quang Tuyến** (Mã vé: `RN34WQ`) đi TP Hà Giang | [Chi tiết vé Quang Tuyến](../info/xe_khach.md#chặng-1-hà-nội--tp-hà-giang-tối-2908-) |
+| 20:30 - 21:30 | Trả xe máy HN tại 1081 Hồng Hà. Grab ra điểm đón 55 Nguyễn Hoàng (Mỹ Đình) | [Thông tin trả xe máy](../info/thue_xe_may.md#xe-may-hn-1) |
+| 23:05 | Lên xe **Limousine giường phòng Quang Tuyến** (Mã vé: `RN34WQ`) đi TP Hà Giang | [Chi tiết vé Quang Tuyến](../info/xe_khach.md#xe-khach-hn-hg) |
 
 ---
 
@@ -276,7 +276,7 @@
 
 > ☀️ **Dự báo thời tiết:** Nắng ráo mát mẻ, suối Lê-Nin nước trong xanh ngọc bích phẳng lặng | 🌡️ **Nhiệt độ:** 22°C – 30°C  
 > 🛵 **Quãng đường di chuyển:** ~135 km xe máy (Bản Giốc ➔ ĐT211 Trà Lĩnh ➔ Hà Quảng ➔ Pác Bó ~85km + Pác Bó ➔ ĐT203 TP Cao Bằng ~50km) + 🚌 280 km xe Cabin VIP Hiệp Giang đêm về Hà Nội  
-> 🔗 **Gợi ý liên quan:** 🚌 [Vé xe khách Cabin Hiệp Giang (Mã: P2DZO3)](../info/xe_khach.md#chặng-2-tp-cao-bằng--hà-nội-tối-thứ-sáu-04092026--đã-thanh-toán-thành-công) | 🍜 [Phở chua & Đặc sản Cao Bằng](../notes/dac_san_am_thuc.md#food-caobang) | 🏍️ [Điểm trả xe Giang Sơn TP CB](../info/thue_xe_may.md#📍-hướng-dẫn--quy-trình-trả-xe-tại-tp-cao-bằng-chiều-04092026)
+> 🔗 **Gợi ý liên quan:** 🚌 [Vé xe khách Cabin Hiệp Giang (Mã: P2DZO3)](../info/xe_khach.md#xe-khach-cb-hn) | 🍜 [Phở chua & Đặc sản Cao Bằng](../notes/dac_san_am_thuc.md#food-caobang) | 🏍️ [Điểm trả xe Giang Sơn TP CB](../info/thue_xe_may.md#tra-xe-cao-bang)
 
 > ✅ **NHẬT KÝ & CHI TIÊU THỰC TẾ (04/09/2026 — Đã chi đến hiện tại: 415.000 VNĐ):**
 > - ⛽ **Xăng xe:** Đổ xăng ở Thác Bản Giốc: **50.000đ**
@@ -293,7 +293,7 @@
 | 08:30 - 11:30 | Tiếp tục cung đường biên giới tuyệt đẹp qua Hà Quảng đến **Khu di tích lịch sử Pác Bó**. Mua vé xe điện (50k) & gửi xe (5k), dạo bước bên dòng **Suối Lê-Nin** xanh ngọc bích trong vắt, ngắm Núi Các Mác, Hang Cốc Bó, Bàn đá | 📸 Suối Lê-Nin xanh màu ngọc bích tuyệt tác |
 | 11:30 - 13:30 | Thưởng thức bữa trưa đặc sản Cao Bằng: **Phở Chua & Miến** (110k), sau đó thưởng thức **Cà phê Highland** giải nhiệt (110k) | 😋 Thử trọn vẹn đặc sản Phở Chua Cao Bằng |
 | 13:30 - 16:30 | Chạy theo tuyến đường phẳng đẹp **ĐT203** về trung tâm **TP Cao Bằng** (~50 km). Gọi trước hotline Giang Sơn Cao Bằng **`0868 252 168`** thông báo giờ hẹn trả xe | Báo trước để nhân viên chuẩn bị tiếp đón |
-| 16:30 - 17:30 | **Bàn giao trả xe máy Wave 110cc:** Đến [Điểm trả cố định Giang Sơn tại Cao Bằng](https://maps.app.goo.gl/Fewv97hZmzrFNRSM7?g_st=ic). Quay video & chụp ảnh tình trạng xe + phụ kiện bàn giao. Gửi STK nhận lại **3.000.000 VNĐ** tiền cọc hoàn lại chuyển khoản | Hoàn thành 6 ngày phượt xe máy an toàn tuyệt đối ([Chi tiết](../info/thue_xe_may.md#📍-hướng-dẫn--quy-trình-trả-xe-tại-tp-cao-bằng-chiều-04092026)) |
+| 16:30 - 17:30 | **Bàn giao trả xe máy Wave 110cc:** Đến [Điểm trả cố định Giang Sơn tại Cao Bằng](https://maps.app.goo.gl/Fewv97hZmzrFNRSM7?g_st=ic). Quay video & chụp ảnh tình trạng xe + phụ kiện bàn giao. Gửi STK nhận lại **3.000.000 VNĐ** tiền cọc hoàn lại chuyển khoản | Hoàn thành 6 ngày phượt xe máy an toàn tuyệt đối ([Chi tiết](../info/thue_xe_may.md#tra-xe-cao-bang)) |
 | 17:30 - 20:30 | Gửi hành lý, tắm rửa thay đồ tại nhà chờ liên kết. Thưởng thức bữa tối chia tay Cao Bằng: Bánh áp chao / Phở vịt quay, ngắm bờ sông Bằng Giang | Thư thái chuẩn bị lên xe |
 | 20:30 - 21:00 | Di chuyển ra **Văn phòng Bến xe Liên Tỉnh Cao Bằng** (Cạnh cây xăng bến xe, P. Đề Thám). Xuất trình vé Vexere mã **`P2DZO3`** (`77Z1VY8`), chuẩn bị lên xe | Hotline nhà xe: `0944.266.266` / `0946.355.255` |
 | 21:15 - 05:30 (+1) | Lên **Xe Limousine Giường nằm Cabin VIP đôi Hiệp Giang (Cabin `B.10`)** xuất phát về Hà Nội. Ngủ một giấc thật sâu và êm ái trên xe | 🚌 Tiết kiệm 1 đêm phòng KS, 05:30 sáng mai tới Bến xe Mỹ Đình |
@@ -308,7 +308,7 @@
 | Thời gian | Hoạt động | Ghi chú |
 |-----------|-----------|---------|
 | 05:30 - 06:00 | Xe Limousine Hiệp Giang đến **Bến xe Mỹ Đình (Hà Nội)**. Bắt Grab về **Hoang Hoa Tham Modern Apartment (189 Hoàng Hoa Thám, Ba Đình)** gửi đồ | Đón bình minh Thủ đô |
-| 06:00 - 06:30 | Đi bộ sang **MOTOGO cơ sở Hoàng Hoa Thám (Số 7 ngõ 267 Hoàng Hoa Thám)** cách ~600m nhận xe số Wave/Sirius, xuất trình CCCD/GPLX. Nhận xe máy vi vu phố phường | [Thông tin thuê xe MOTOGO](../info/thue_xe_may.md#3-xe-máy-tại-hà-nội-lượt-về-05---0609--đã-xác-nhận-đặt-xe-motogo) |
+| 06:00 - 06:30 | Đi bộ sang **MOTOGO cơ sở Hoàng Hoa Thám (Số 7 ngõ 267 Hoàng Hoa Thám)** cách ~600m nhận xe số Wave/Sirius, xuất trình CCCD/GPLX. Nhận xe máy vi vu phố phường | [Thông tin thuê xe MOTOGO](../info/thue_xe_may.md#xe-may-hn-2) |
 | 06:30 - 08:30 | Ăn sáng **Phở Bát Đàn** (49 Bát Đàn) / Phở sốt vang Tư Lùn + Cà phê trứng **Giảng** (39 Nguyễn Hữu Huân) béo ngậy | ☕ Hương vị Hà Thành sớm mai |
 | 08:30 - 11:30 | Dạo đường rợp bóng sấu cổ thụ **Phan Đình Phùng & Hoàng Diệu**, check-in cùng các gánh **xe hoa mùa thu** rực rỡ; ghé Cầu Long Biên & Hoàng Thành Thăng Long | 📸 Bộ ảnh mùa thu nàng thơ cho bạn gái |
 | 11:30 - 13:00 | Bữa trưa đặc sản: **Ngan cháy tỏi Hàng Thiếc** (hoặc Bún đậu Tuấn Trọc) | 😋 Món ngon nức tiếng |
@@ -323,7 +323,7 @@
 ### <a id="ngay-10"></a>📍 Ngày 10 (06/09 - CN): Chill Hồ Tây → Chả Cá Lăng → Mua Bánh Cốm → Lẩu Riêu Cua → Bay Về SGN (✈️ 23:30)
 
 > ⛅ **Dự báo thời tiết:** Hà Nội mùa thu mát mẻ, trong veo, chiều tối thoáng đãng (24–32°C)  
-> 🔗 **Gợi ý liên quan:** 🍜 [Master Food List Hà Nội](../notes/dac_san_am_thuc.md#food-hn) | ✈️ [Chuyến bay HAN-SGN 23:30 (Sun PhuQuoc Airways 9G893)](../info/chuyen_bay.md#lượt-về-han--sgn)
+> 🔗 **Gợi ý liên quan:** 🍜 [Master Food List Hà Nội](../notes/dac_san_am_thuc.md#food-hn) | ✈️ [Chuyến bay HAN-SGN 23:30 (Sun PhuQuoc Airways 9G893)](../info/chuyen_bay.md#bay-ve)
 
 | Thời gian | Hoạt động | Ghi chú |
 |-----------|-----------|---------|
@@ -380,13 +380,13 @@
 | Ngày | Đêm lưu trú tại | Loại hình đề xuất | Homestay / Hotel gợi ý hàng đầu |
 |------|-----------------|-------------------|----------------------------------|
 | **28/08** | Hà Nội (1 đêm) | Homestay trung tâm Ba Đình | ✅ **Da Tree Homestay** *(Mã: 6540221126, 348k tiền mặt, [Chi tiết voucher](../info/dat_phong.md#ha-noi))* |
-| **29/08** | Trên xe khách (1 đêm) | Limousine VIP HN → HG | ✅ **Quang Tuyến Limousine (Mã: `RN34WQ`)** — 550k (*[Chi tiết vé](../info/xe_khach.md#chặng-1-hà-nội--tp-hà-giang-tối-2908-)*) |
+| **29/08** | Trên xe khách (1 đêm) | Limousine VIP HN → HG | ✅ **Quang Tuyến Limousine (Mã: `RN34WQ`)** — 550k (*[Chi tiết vé](../info/xe_khach.md#xe-khach-hn-hg)*) |
 | **30/08** | Yên Minh (1 đêm) | Homestay đồi thông sân vườn | ✅ **Bong Bang Homestay 2** *(Mã: 6874088766, 400k tiền mặt, [Chi tiết voucher](../info/dat_phong.md#yen-minh))* |
 | **31/08** | Đồng Văn (1 đêm) | Khách sạn trung tâm thị trấn | ✅ **ToTo-Chan Hotel** *(Mã: 6840372362, 446.4k gồm ăn sáng, [Chi tiết voucher](../info/dat_phong.md#dong-van))* |
 | **01/09** | Mèo Vạc (1 đêm 🇻🇳) | Khách sạn trung tâm thị trấn | ✅ **Phương Anh Hotel** *(Mã: 5152255450, 300k tiền mặt, [Chi tiết voucher](../info/dat_phong.md#meo-vac))* |
 | **02/09** | TP Cao Bằng (1 đêm 🇻🇳) | Khách sạn trung tâm TP | ✅ **Minh Hoang Hotel & Homestay** *(Mã: `6307.802.042`, 369k tiền mặt, [Chi tiết voucher](../info/dat_phong.md#cao-bang-1))* |
 | **03/09** | Thác Bản Giốc (1 đêm) | Homestay Làng cổ đá Khuổi Ky | ✅ **A THÁM homestay** *(Mã: 6515457323, 518k, [Chi tiết voucher](../info/dat_phong.md#ban-gioc))* |
-| **04/09** | Trên xe khách (1 đêm) | Limousine Cabin VIP đôi CB → HN | ✅ **Hiệp Giang Limousine (Mã: `P2DZO3`, Cabin `B.10`)** — 750k (*[Chi tiết vé](../info/xe_khach.md#chặng-2-tp-cao-bằng--hà-nội-tối-thứ-sáu-04092026--đã-thanh-toán-thành-công)*) |
+| **04/09** | Trên xe khách (1 đêm) | Limousine Cabin VIP đôi CB → HN | ✅ **Hiệp Giang Limousine (Mã: `P2DZO3`, Cabin `B.10`)** — 750k (*[Chi tiết vé](../info/xe_khach.md#xe-khach-cb-hn)*) |
 | **05/09** | Hà Nội (1 đêm) | Căn hộ riêng Ba Đình gần Hồ Tây | ✅ **Hoang Hoa Tham Modern Apartment** *(Mã: `1770541583`, 500k, [Chi tiết voucher](../info/dat_phong.md#ha-noi-2))* |
 
 
@@ -407,7 +407,7 @@
 - **Điểm trả xe cố định TP Cao Bằng:** [Google Maps dẫn đường](https://maps.app.goo.gl/Fewv97hZmzrFNRSM7?g_st=ic)
 - **Xe:** Honda Wave 110cc = 250k/ngày (đã gồm gói Bảo hiểm cứu hộ 24/7)
 - **Phí trả xe Cao Bằng (Wave 110cc):** 500k
-- **Quy trình trả xe & hoàn cọc:** Báo trước qua SĐT `0868 252 168`, quay chụp xe & phụ kiện khi trả, gửi STK nhận lại **3.000.000 VNĐ** cọc chuyển khoản ([Chi tiết](../info/thue_xe_may.md#📍-hướng-dẫn--quy-trình-trả-xe-tại-tp-cao-bằng-chiều-04092026)).
+- **Quy trình trả xe & hoàn cọc:** Báo trước qua SĐT `0868 252 168`, quay chụp xe & phụ kiện khi trả, gửi STK nhận lại **3.000.000 VNĐ** cọc chuyển khoản ([Chi tiết](../info/thue_xe_may.md#tra-xe-cao-bang)).
 
 ---
 
