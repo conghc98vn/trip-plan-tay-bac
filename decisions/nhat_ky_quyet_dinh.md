@@ -570,20 +570,22 @@
   - 🔄 **Khoản cọc xe Giang Sơn:** Nhận lại **+3.000.000 VNĐ** chiều nay tại TP Cao Bằng.
 - **Cập nhật đồng bộ:** [`plans/lich_trinh_chi_tiet.md`](../plans/lich_trinh_chi_tiet.md), [`info/tong_hop_chi_phi.md`](../info/tong_hop_chi_phi.md), [`info/expense_tracker.html`](../info/expense_tracker.html), [`notes/dac_san_am_thuc.md`](../notes/dac_san_am_thuc.md) và [`README.md`](../README.md).
 
-## 04/09/2026 — Đặt Xe Máy MOTOGO Hoàng Hoa Thám (Hà Nội Lượt Về — 05-06/09)
+## 04/09/2026 — Nâng Cấp Toàn Diện Web Dashboard Chi Tiêu (Trip Finance Intelligence HQ)
 
-### Quyết định #36: Chốt thuê xe máy MOTOGO cơ sở 267 Hoàng Hoa Thám cho 2 ngày cuối tuần Hà Nội
-- **Đơn vị thuê:** **MOTOGO Hà Nội** (Hotline: `0338.023.344`)
-- **Tên khách đặt:** Hoàng Chí Công — SĐT: `0969910198`
-- **Loại xe:** Xe số 110cc (Yamaha Sirius / Honda Wave)
-- **Thời gian thuê:** 2 ngày (Nhận: **06:00 sáng 05/09** — Trả: **20:30 - 21:00 tối 06/09**)
-- **Điểm nhận xe:** Số 7 ngõ 267 Hoàng Hoa Thám, Phường Ngọc Hà, Quận Ba Đình *(Chỉ cách căn hộ 189 Hoàng Hoa Thám ~600m đi bộ)*
-- **Điểm trả xe:** Linh hoạt trả tại Sân bay Nội Bài (Điền Xá, phụ phí 50k) lúc 21:00 tối 06/09 hoặc trả tại Hoàng Hoa Thám lúc 20:30 rồi bắt Grab ra sân bay.
-- **Giá thuê:** 130k/ngày × 2 ngày = **260.000 VNĐ** (nếu trả sân bay: +50k phụ phí = **310.000 VNĐ**). Thanh toán khi trả xe.
-- **Thủ tục:** Khách du lịch giữ lại 1 Giấy tờ tùy thân (CCCD) + kiểm tra GPLX + chụp vé máy bay/booking KS (hoặc cọc 2 triệu nếu không giữ giấy tờ).
-- **Cập nhật đồng bộ:** [`info/thue_xe_may.md`](../info/thue_xe_may.md#xe-may-hn-2), [`plans/lich_trinh_chi_tiet.md`](../plans/lich_trinh_chi_tiet.md), [`info/tong_hop_chi_phi.md`](../info/tong_hop_chi_phi.md) và [`README.md`](../README.md).
+### Quyết định #37: Tái cấu trúc `expense_tracker.html` thành Dashboard phân tích & tra cứu tài chính chuyên sâu
+- **Động cơ thay đổi:** Bạn sẽ theo dõi và tra cứu dữ liệu tài chính nhiều lần trên mobile/desktop. Việc nhập chi tiêu vẫn duy trì qua hình thức bạn gửi note nhanh cho AI Agent như thường lệ, không cần form nhập thủ công trên web.
+- **Các nâng cấp nổi bật:**
+  1. **Executive Hero KPI Grid:** Hiển thị 6 chỉ số cốt lõi (Tổng đã chi 18.015.435đ, Dự toán toàn chuyến ~21.015.435đ, Chi phí cố định 7.754.024đ, Lưu trú 9 đêm 2.881.411đ, Sinh hoạt 8 ngày 7.380.000đ, Tiền cọc hoàn lại +3.000.000đ).
+  2. **Hệ thống Biểu đồ Trực quan (Chart.js):** Biểu đồ tròn Donut cơ cấu danh mục (60.6% ẩm thực, 21.7% quà biếu...) & Biểu đồ cột xu hướng chi tiêu từng ngày + tương tác click vào cột để lọc trực tiếp.
+  3. **Phân bổ theo 4 Chặng Hành Trình:** Hà Nội & Mỹ Đức (3.230k), Hà Giang Loop (2.370k), Cao Bằng Loop (1.780k), Hà Nội Mùa Thu (~2.400k).
+  4. **Bộ lọc & Tìm kiếm Đa chiều (Interactive Explorer):** Thanh cuộn chọn 10 ngày kèm lộ trình & tổng tiền từng ngày, lọc 6 danh mục, tìm kiếm tức thì theo từ khóa, sắp xếp theo giá và ngày.
+  5. **Tra cứu Chuyên biệt Lưu trú & Di chuyển:** Tab quản lý toàn bộ 9 đêm (7 khách sạn/homestay kèm mã Booking, PIN, hotline, địa chỉ + 2 xe limousine đêm) và tab chi tiết vé máy bay, xe khách, hợp đồng xe máy Giang Sơn #45.
+  6. **Bản đồ Ẩm thực & Thống kê Nâng cao:** Danh mục món ngon đã trải nghiệm, thống kê 9 lần đổ xăng (370k cho ~850km), top khoản chi lớn nhất.
+  7. **Tiện ích Xuất Báo cáo:** Nút sao chép bảng Markdown, xuất file CSV/Excel và định dạng in ấn/PDF chuyên nghiệp.
+- **Cập nhật đồng bộ:** [`info/expense_tracker.html`](../info/expense_tracker.html), [`info/tong_hop_chi_phi.md`](../info/tong_hop_chi_phi.md) và [`README.md`](../README.md).
 
 ---
+
 
 ## Cần quyết định tiếp
 - [x] Đặt vé máy bay lượt đi (✅ **Vietjet Air VJ120** - PNR: UJSG2A / R7AH77)

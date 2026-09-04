@@ -16,7 +16,7 @@ chicong-trip-plan/
 │   └── lich_trinh_chi_tiet.md         ← ✅ KẾ HOẠCH CHÍNH (lái xe xuyên HG → CB + Nhật ký thực tế)
 ├── info/
 │   ├── tong_hop_chi_phi.md            ← 💰 Bảng tổng hợp & cập nhật chi phí Realtime (10 ngày)
-│   ├── expense_tracker.html           ← 📊 Interactive Web Dashboard tính chi phí realtime
+│   ├── expense_tracker.html           ← 📊 Trip Finance Intelligence HQ Dashboard (Biểu đồ & Phân tích chi phí realtime)
 │   ├── chuyen_bay.md                  ← Vé máy bay (Lượt đi VJ120 & Lượt về 9G893)
 │   ├── xe_khach.md                    ← Xe khách (HN→HG, CB→Hà Nội)
 │   ├── thue_xe_may.md                 ← Thuê xe máy (Giang Sơn 6 ngày)
@@ -45,7 +45,7 @@ chicong-trip-plan/
 | Hạng mục | Status | Ghi chú |
 |----------|--------|---------|
 | **Tiến độ chuyến đi** | 🟢 **Đã xong 8/10 ngày** | Hoàn thành trọn vẹn Hà Giang Loop & Tuyến Cao Bằng (Thang Hen, Núi Mắt Thần, Thác Bản Giốc, Động Ngườm Ngao, Pác Bó, Suối Lê-Nin) |
-| **Tổng chi phí toàn chuyến (Realtime)** | 💰 **18.025.435 VNĐ** | Đã gồm Cố định (7.754k gồm cả 2 lượt xe máy/xe khách) + Lưu trú 7 đêm đã chốt (2.881k) + Sinh hoạt 8 ngày (7.390k). Xem tại [tong_hop_chi_phi.md](info/tong_hop_chi_phi.md) & [Dashboard Web](info/expense_tracker.html) |
+| **Tổng chi phí toàn chuyến (Realtime)** | 💰 **18.015.435 VNĐ** | Đã gồm Cố định (7.754k gồm cả 2 lượt xe máy/xe khách) + Lưu trú 7 đêm đã chốt (2.881k) + Sinh hoạt 8 ngày (7.380k). Xem tại [tong_hop_chi_phi.md](info/tong_hop_chi_phi.md) & [Dashboard Web](info/expense_tracker.html) |
 | **Plan tổng thể** | ✅ Đã chốt | Lái xe xuyên HG sang CB, trả xe ở CB chiều 04/09 ➔ **21:15 Xe Cabin Hiệp Giang về Hà Nội đêm 04/09** ➔ Trọn vẹn Thứ 7 (05/09) & Chủ Nhật (06/09) tại Hà Nội |
 | **Dự báo thời tiết 10 ngày** | ✅ Đã cập nhật (Tối 27/08) | Cập nhật mới nhất tối 27/08 trước khởi hành trong [lich_trinh_chi_tiet.md](plans/lich_trinh_chi_tiet.md) |
 | **Kế hoạch Rủi ro & Backup** | ✅ Đã chốt | 5 nhóm rủi ro & kịch bản dự phòng trong [lich_trinh_chi_tiet.md](plans/lich_trinh_chi_tiet.md#-đánh-giá-rủi-ro--kịch-bản-dự-phòng-contingency-plans) |

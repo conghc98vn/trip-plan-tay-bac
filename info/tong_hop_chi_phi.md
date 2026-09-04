@@ -3,7 +3,7 @@
 > **Cung đường:** TP. Hồ Chí Minh — Hà Nội — Hà Giang — Cao Bằng (28/08/2026 – 06/09/2026)  
 > **Thành viên:** 2 người (Hoàng Chí Công & Bạn gái)  
 > **Cập nhật realtime:** 04/09/2026 *(Đã hoàn thành 8/10 ngày — Hà Giang Loop & Cao Bằng Bản Giốc - Pác Bó)*  
-> 📊 **Công cụ Interactive Dashboard:** Mở file [`expense_tracker.html`](./expense_tracker.html) trên trình duyệt để nhập chi tiêu & tính tổng tự động tức thì.  
+> 📊 **Công cụ Interactive Dashboard:** Mở file [`expense_tracker.html`](./expense_tracker.html) trên trình duyệt để xem báo cáo phân tích, biểu đồ trực quan, voucher lưu trú & bộ lọc chi tiêu chuyên sâu.  
 > 📌 **Điều hướng nhanh:** [🏠 README](../README.md) | [🗺️ Lịch Trình Chi Tiết](../plans/lich_trinh_chi_tiet.md) | [🏨 Đặt Phòng](dat_phong.md) | [✈️ Chuyến Bay](chuyen_bay.md) | [🚌 Xe Khách](xe_khach.md) | [🏍️ Thuê Xe Máy](thue_xe_may.md)
 
 ---
@@ -193,9 +193,9 @@
 
 ---
 
-### ⏳ Ngày 9 & Ngày 10: Theo Dõi & Nhập Chi Phí Realtime
+### ⏳ Ngày 9 & Ngày 10: Theo Dõi & Dự Toán Chi Phí Realtime
 
-> 💡 **Cách ghi chép nhanh:** Bạn có thể nhập trực tiếp qua file [`expense_tracker.html`](./expense_tracker.html) hoặc điền vào các bảng bên dưới.
+> 💡 **Tra cứu nhanh:** Mở file [`expense_tracker.html`](./expense_tracker.html) trên trình duyệt để xem toàn bộ 70 khoản chi, biểu đồ và voucher lưu trú. Bạn chỉ cần gửi note cho Agent như thường lệ để cập nhật tự động!
 
 #### 🟡 Ngày 9 (05/09/2026): Chào Sớm Mai Hà Nội → Foodtour Phố Cổ → Spa Dưỡng Sinh
 *Dự toán:* ~1.000.000 – 1.400.000 VNĐ (Phở Bát Đàn + Cà phê Giảng + Ngan cháy tỏi + Spa gội đầu dưỡng sinh đôi + Nầm bò nướng Ba Đình + Bia Tạ Hiện)
@@ -248,9 +248,7 @@ pie title Tỷ trọng chi tiêu thực tế 8 ngày đầu (7.380.000đ)
 
 ---
 
-## ⚡ 7. Hướng Dẫn Cập Nhật Nhanh Cho Chuyến Đi
-
-1. **Trên điện thoại:** Mở file [`expense_tracker.html`](./expense_tracker.html) trong Safari hoặc Chrome, nhập tên món, số tiền, chọn danh mục và bấm **"Thêm chi tiêu"** — tổng tiền sẽ nhảy tức thì theo thời gian thực!
-2. **Cập nhật vào Git / Repository:**
-   - Thêm 1 dòng vào bảng của ngày tương ứng trong mục **4. Nhật Ký Chi Tiêu Thực Tế**.
-   - Cập nhật con số tổng tại mục **1. Dashboard Tổng Quan** và `README.md`.
+## ⚡ 7. Hướng Dẫn Xem & Tra Cứu Dashboard
+ 
+1. **Trên điện thoại & máy tính:** Mở file [`expense_tracker.html`](./expense_tracker.html) trong Safari hoặc Chrome để xem biểu đồ cơ cấu, lọc chi tiêu theo ngày, kiểm tra mã phòng KS & số tiền cọc hoàn lại tức thì.
+2. **Cập nhật dữ liệu:** Bạn chỉ cần note gửi chi tiêu cho Agent — Agent sẽ đồng bộ toàn bộ số liệu vào Git repository và file HTML.
