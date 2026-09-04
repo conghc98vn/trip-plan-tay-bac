@@ -163,3 +163,5 @@
 | **Tài liệu đính kèm** | [`attachments/booking/Booking.com_ Xác nhận_hanoi_0509.pdf`](../attachments/booking/Booking.com_%20Xa%CC%81c%20nha%CC%A3%CC%82n_hanoi_0509.pdf) |
 | **Link quản lý Booking** | [Chỉnh sửa / Quản lý đặt phòng](https://secure.booking.com/confirmation.vi.html?bn=5015910610&pincode=7120) |
 
+
+
