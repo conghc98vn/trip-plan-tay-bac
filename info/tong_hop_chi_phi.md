@@ -3,7 +3,8 @@
 > **Cung đường:** TP. Hồ Chí Minh — Hà Nội — Hà Giang — Cao Bằng (28/08/2026 – 06/09/2026)  
 > **Thành viên:** 2 người (Hoàng Chí Công & Bạn gái)  
 > **Cập nhật realtime:** 04/09/2026 *(Đã hoàn thành 8/10 ngày — Hà Giang Loop & Cao Bằng Bản Giốc - Pác Bó)*  
-> 📊 **Công cụ Interactive Dashboard:** Mở file [`expense_tracker.html`](./expense_tracker.html) trên trình duyệt để nhập chi tiêu & tính tổng tự động tức thì.
+> 📊 **Công cụ Interactive Dashboard:** Mở file [`expense_tracker.html`](./expense_tracker.html) trên trình duyệt để nhập chi tiêu & tính tổng tự động tức thì.  
+> 📌 **Điều hướng nhanh:** [🏠 README](../README.md) | [🗺️ Lịch Trình Chi Tiết](../plans/lich_trinh_chi_tiet.md) | [🏨 Đặt Phòng](dat_phong.md) | [✈️ Chuyến Bay](chuyen_bay.md) | [🚌 Xe Khách](xe_khach.md) | [🏍️ Thuê Xe Máy](thue_xe_may.md)
 
 ---
 
@@ -11,12 +12,12 @@
 
 | Chỉ số | Số tiền (VNĐ) | Ghi chú |
 |:---|:---:|:---|
-| ✈️ **Chi phí cố định (Vé bay, xe khách, thuê xe)** | **7.444.024 đ** | Đã gồm 2 vé bay khứ hồi (VJ 1.435k + Sun 2.346k) + 2 vé xe khách (Quang Tuyến 550k + Hiệp Giang 750k) + thuê Wave Giang Sơn (2.362k) |
+| ✈️ **Chi phí cố định đã chi (Vé bay, xe khách, thuê 2 xe máy)** | **7.754.024 đ** | Đã gồm 2 vé bay khứ hồi (VJ 1.435k + Sun 2.346k) + 2 vé xe khách (Quang Tuyến 550k + Hiệp Giang 750k) + thuê Wave Giang Sơn (2.362k) + thuê Sirius MOTOGO HN lượt đi (310k) |
 | 🏨 **Chi phí lưu trú (Homestay/Hotel 7 đêm đã chốt)** | **2.881.411 đ** | Da Tree (348k) + Bong Bang 2 (400k) + ToTo-Chan (446.4k) + Phương Anh (300k) + Minh Hoàng (369k) + A THÁM (518.011đ) + Hoang Hoa Tham Modern Apartment (500k) |
 | 🍜 **Chi tiêu sinh hoạt & trải nghiệm 8 ngày thực tế** | **7.390.000 đ** | Ẩm thực, quà biếu, vé tham quan, xăng cộ, xe ôm, phạt giao thông |
-| 💵 **TỔNG ĐÃ CHI & ĐÃ ĐẶT (Đến hiện tại Ngày 8 + Xe về 04/09 + KS HN 05/09)** | 🏆 **17.715.435 đ** | **~8.857.718 đ / người (2 người)** |
-| 🔮 **Dự toán chi phí còn lại (04/09 tối – 06/09)** | **~3.300.000 đ** | MOTOGO (310k) + Spa dưỡng sinh + Foodtour HN + Quà bánh cốm |
-| 🎯 **TỔNG CHI PHÍ DỰ KIẾN TOÀN CHUYẾN ĐI** | **~21.015.000 đ** | **~10.507.500 đ / người (10 ngày 9 đêm)** |
+| 💵 **TỔNG ĐÃ CHI THỰC TẾ (Đến hiện tại Ngày 8 + Xe về 04/09 + KS HN 05/09)** | 🏆 **18.025.435 đ** | **~9.012.718 đ / người (2 người)** |
+| 🔮 **Dự toán chi phí còn lại (04/09 tối – 06/09)** | **~3.000.000 đ** | MOTOGO lượt về (310k) + Spa dưỡng sinh + Foodtour HN + Quà bánh cốm |
+| 🎯 **TỔNG CHI PHÍ DỰ KIẾN TOÀN CHUYẾN ĐI** | **~21.025.435 đ** | **~10.512.718 đ / người (10 ngày 9 đêm)** |
 | 🔄 **Khoản tiền cọc tạm ứng (Sẽ hoàn lại)** | **+3.000.000 đ** | Tiền cọc xe máy Giang Sơn nhận lại khi trả xe tại TP Cao Bằng chiều 04/09 |
 
 ---
@@ -226,15 +227,15 @@ pie title Tỷ trọng chi tiêu thực tế 8 ngày đầu (7.390.000đ)
 
 | Danh mục | Đã chi & Đã đặt | Ước tính còn lại | Tổng dự kiến toàn chuyến | Tỷ lệ (%) |
 |:---|:---:|:---:|:---:|:---:|
-| ✈️ **Vé máy bay & Xe khách liên tỉnh** | 5.081.524 đ | 0 đ | **5.081.524 đ** | 24.3% |
-| 🏍️ **Thuê xe máy & Phụ phí trả khác tỉnh** | 2.362.500 đ | 310.000 đ | **~2.672.500 đ** | 12.8% |
+| ✈️ **Vé máy bay & Xe khách liên tỉnh** | 5.081.524 đ | 0 đ | **5.081.524 đ** | 24.2% |
+| 🏍️ **Thuê xe máy (Giang Sơn & 2 lượt MOTOGO)** | 2.672.500 đ | 310.000 đ | **~2.982.500 đ** | 14.2% |
 | 🏨 **Khách sạn / Homestay (9 đêm)** | 2.881.411 đ | 0 đ | **2.881.411 đ** | 13.7% |
 | 🍜 **Ẩm thực & Thức uống** | 4.485.000 đ | ~1.500.000 đ | **~5.985.000 đ** | 28.5% |
-| 🎁 **Quà biếu & Mua đặc sản** | 1.600.000 đ | ~800.000 đ | **~2.400.000 đ** | 11.4% |
+| 🎁 **Quà biếu & Mua đặc sản** | 1.600.000 đ | ~600.000 đ | **~2.200.000 đ** | 10.5% |
 | 🎟️ **Vé tham quan & Trải nghiệm** | 475.000 đ | ~150.000 đ | **~625.000 đ** | 3.0% |
-| 🏍️ **Xăng xe & Di chuyển nội thành/địa phương** | 510.000 đ | ~250.000 đ | **~760.000 đ** | 3.6% |
-| 💆 **Dịch vụ, Spa & Phát sinh khác** | 210.000 đ | ~300.000 đ | **~510.000 đ** | 2.9% |
-| **TỔNG CỘNG** | **17.715.435 đ** | **~3.310.000 đ** | **~21.025.435 đ** | **100%** |
+| 🏍️ **Xăng xe & Di chuyển nội thành/địa phương** | 510.000 đ | ~150.000 đ | **~660.000 đ** | 3.1% |
+| 💆 **Dịch vụ, Spa & Phát sinh khác** | 320.000 đ | ~300.000 đ | **~620.000 đ** | 2.8% |
+| **TỔNG CỘNG** | **18.025.435 đ** | **~3.010.000 đ** | **~21.035.435 đ** | **100%** |
 
 ---
 
@@ -242,7 +243,7 @@ pie title Tỷ trọng chi tiêu thực tế 8 ngày đầu (7.390.000đ)
 
 | Đơn vị nhận cọc | Số tiền cọc | Ngày chuyển | Hình thức hoàn lại | Thời điểm hoàn cọc | Trạng thái |
 |:---|:---:|:---:|:---|:---|:---:|
-| **Thuê xe máy Giang Sơn (Hà Giang)** | **3.000.000 VNĐ** | 30/08/2026 (Chuyển cùng HĐ 45) | Chuyển khoản hoặc Tiền mặt khi bàn giao xe | Trưa 06/09/2026 tại TP Cao Bằng | ⏳ Đang giữ cọc |
+| **Thuê xe máy Giang Sơn (Hà Giang)** | **3.000.000 VNĐ** | 30/08/2026 (Chuyển cùng HĐ 45) | Chuyển khoản hoặc Tiền mặt khi bàn giao xe | Chiều 04/09/2026 khi trả xe tại TP Cao Bằng | ⏳ Đang giữ cọc |
 | **Cọc xe máy MOTOGO Hà Nội** | **0 VNĐ** | 28/08/2026 | Đã thỏa thuận không giữ cọc giấy tờ | Đã trả xe tối 29/08 | ✅ Hoàn tất |
 
 ---

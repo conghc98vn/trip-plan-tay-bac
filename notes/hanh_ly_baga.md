@@ -1,9 +1,11 @@
 # 🎒 Packing Checklist — Chuyến đi 10 ngày (Hè, Mùa mưa vùng núi phía Bắc)
 
+> 📌 **Điều hướng nhanh:** [🏠 README](../README.md) | [🗺️ Lịch Trình Chi Tiết](../plans/lich_trinh_chi_tiet.md) | [📸 Góc Chụp Ảnh](goc_chup_anh.md) | [🍜 Master Food List](dac_san_am_thuc.md) | [🏨 Gợi Ý Homestay](goi_y_homestay.md)
+
 > **Nguyên tắc hành lý:**
 > - **Lượt đi (SGN → HAN):** 100% Hành lý xách tay (7kg/người, không ký gửi) để đi thẳng qua an ninh và ra sảnh sân bay nhanh chóng.
 > - **Quá trình phượt xe máy (HG → CB):** Gọn nhẹ — Tối ưu đóng gói trên xe máy Honda Wave 110cc (~50L tổng dung tích).
-> - **Lượt về (HAN → SGN):** Đã có sẵn **1PC (1 Kiện hành lý ký gửi/người)** trên chuyến bay Sun PhuQuoc Airways 9G893. Chiều 05/09 - sáng 06/09 tại Cao Bằng có thể thoải mái mua đặc sản (hạt dẻ Trùng Khánh, miến đao, lạp xưởng hun khói...) đóng thùng/túi để ký gửi máy bay mà không sợ quá tải xách tay.
+> - **Lượt về (HAN → SGN):** Đã có sẵn **1PC (1 Kiện hành lý ký gửi/người)** trên chuyến bay Sun PhuQuoc Airways 9G893. Tại Cao Bằng & Hà Nội có thể thoải mái mua đặc sản (hạt dẻ Trùng Khánh, miến đao, lạp xưởng hun khói, bánh cốm Hàng Than...) đóng thùng/túi để ký gửi máy bay mà không sợ quá tải xách tay.
 >
 > **Setup hành lý trên xe máy đã chốt:**
 > 1. 👝 **Túi đeo chéo nhỏ (ngực/hông):** Bóp/ví, giấy tờ, 2x iPhone 16 Pro Max + Máy ảnh Sony A7R3 + Lens 28mm + Flash iT32.

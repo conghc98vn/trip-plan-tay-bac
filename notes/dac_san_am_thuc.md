@@ -1,10 +1,11 @@
 # 🍜 Master Food List — Danh Sách Quán Ăn & Đặc Sản (Hà Nội — Hà Giang — Cao Bằng)
 
-> **Mục đích:** Danh sách tổng hợp toàn bộ các quán ăn ngon nổi tiếng, ẩm thực local chuẩn vị và đặc sản quà tặng cho suốt hành trình 10 ngày. Bạn có thể tự chọn quán yêu thích theo gu để ghé thưởng thức.
+> **Mục đích:** Danh sách tổng hợp toàn bộ các quán ăn ngon nổi tiếng, ẩm thực local chuẩn vị và đặc sản quà tặng cho suốt hành trình 10 ngày. Bạn có thể tự chọn quán yêu thích theo gu để ghé thưởng thức.  
+> 📌 **Điều hướng nhanh:** [🏠 README](../README.md) | [🗺️ Lịch Trình Chi Tiết](../plans/lich_trinh_chi_tiet.md) | [📸 Góc Chụp Ảnh](goc_chup_anh.md) | [🏨 Gợi Ý Homestay](goi_y_homestay.md) | [💰 Tổng Hợp Chi Phí](../info/tong_hop_chi_phi.md)
 
 ---
 
-## <a id="food-hn"></a>📍 1. HÀ NỘI (28/08 – 29/08) — Phố Cổ & Hồ Tây
+## <a id="food-hn"></a>📍 1. HÀ NỘI (28/08 – 29/08 & 05/09 – 06/09) — Phố Cổ, Ba Đình & Hồ Tây
 
 ### 🥢 Món Ăn Sáng & Món Nước Gia Truyền
 - **Phở Bò Hà Nội:**

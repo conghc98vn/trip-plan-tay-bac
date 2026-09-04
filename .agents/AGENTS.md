@@ -30,8 +30,9 @@
 
 ## 🔄 4. Quy Trình Các Bước Thực Hiện Chuyến Đi (Project Roadmap)
 
-- [x] **Bước 1:** Chốt khung thời gian, tuyến đường xuyên tỉnh & phương tiện di chuyển (Thuê Wave 110cc có BH tại Giang Sơn, trả tại Cao Bằng).
-- [x] **Bước 2:** Xây dựng & Tinh chỉnh lịch trình chi tiết từng ngày + Khung giờ an toàn trước 5h chiều (PA1: Pác Bó ngày 05/09).
-- [ ] **Bước 3:** Lựa chọn & Chốt danh sách Homestay / Khách sạn từng đêm (Yên Minh, Đồng Văn, Pả Vi Mèo Vạc, Bản Giốc, Cao Bằng).
-- [ ] **Bước 4:** Hoàn thiện Food List & Danh sách quán ăn local chuẩn vị (Hà Nội, Hà Giang, Cao Bằng).
-- [ ] **Bước 5:** Lên Packing Checklist (Bảo hộ xe máy, trang phục chụp ảnh, thuốc y tế).
+- [x] **Bước 1:** Chốt khung thời gian, tuyến đường xuyên tỉnh & phương tiện di chuyển (Thuê Wave 110cc có BH tại Giang Sơn, trả tại Cao Bằng; Thuê Sirius MOTOGO Hà Nội 2 lượt).
+- [x] **Bước 2:** Xây dựng & Tinh chỉnh lịch trình chi tiết từng ngày + Khung giờ an toàn trước 5h chiều (Pác Bó ngày 04/09 & Dành trọn 05-06/09 khám phá mùa thu Hà Nội).
+- [x] **Bước 3:** Lựa chọn & Chốt 100% danh sách Homestay / Khách sạn toàn tuyến (Hà Nội, Yên Minh, Đồng Văn, Mèo Vạc, Cao Bằng, Bản Giốc, Hoàng Hoa Thám).
+- [x] **Bước 4:** Hoàn thiện Food List & Danh sách quán ăn local chuẩn vị (Hà Nội, Hà Giang, Cao Bằng).
+- [x] **Bước 5:** Lên Packing Checklist & Chuẩn bị hành lý (Đồng bộ USB Type-C, bảo hộ đèo núi, đồ chụp ảnh Sony A7R3 + 28mm).
+- [x] **Bước 6:** Live Trip Execution (Đã hoàn thành xuất sắc 8/10 ngày — Hà Giang Loop & Cao Bằng Bản Giốc - Pác Bó; tiến về Hà Nội 05-06/09).

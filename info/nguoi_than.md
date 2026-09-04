@@ -1,5 +1,9 @@
 # 🏠 Thông Tin Người Thân — Mỹ Đức
 
+> 📌 **Điều hướng nhanh:** [🏠 README](../README.md) | [🗺️ Lịch Trình Chi Tiết](../plans/lich_trinh_chi_tiet.md) | [🏨 Đặt Phòng](dat_phong.md) | [✈️ Chuyến Bay](chuyen_bay.md) | [🏍️ Thuê Xe Máy](thue_xe_may.md)
+
+---
+
 ## Địa chỉ & Định vị
 - **Link Google Maps:** [Định vị nhà ở quê (Mỹ Đức)](https://maps.app.goo.gl/HscnRUDPn4ycySTz7)
 - **Tọa độ GPS:** `20°43'28.2"N 105°44'48.7"E` (`20.724489, 105.74687`)

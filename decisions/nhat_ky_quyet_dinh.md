@@ -1,6 +1,7 @@
 # 📝 Decision Log — Lịch Sử Quyết Định
 
-> Ghi lại tất cả quyết định và thay đổi trong quá trình lên kế hoạch, để dễ tra cứu khi cần.
+> Ghi lại tất cả quyết định và thay đổi trong quá trình lên kế hoạch, để dễ tra cứu khi cần.  
+> 📌 **Điều hướng nhanh:** [🏠 README](../README.md) | [🗺️ Lịch Trình Chi Tiết](../plans/lich_trinh_chi_tiet.md) | [💰 Tổng Hợp Chi Phí](../info/tong_hop_chi_phi.md) | [🏨 Đặt Phòng](../info/dat_phong.md)
 
 ---
 
@@ -487,7 +488,7 @@
     - *Thứ Bảy (05/09):* Phở Bát Đàn, Cà phê trứng Giảng, chụp ảnh xe hoa mùa thu Phan Đình Phùng - Hoàng Diệu, Ngan cháy tỏi Hàng Thiếc, **Spa & Gội đầu dưỡng sinh đôi**, dạo Phố đi bộ Hồ Gươm, ăn tối Nầm bò nướng Ba Đình, dạo phố bia Tạ Hiện.
     - *Chủ Nhật (06/09):* Bún thang Cầu Gỗ, Cà phê view Hồ Tây, Chả cá Lăng, mua bánh cốm Hàng Than làm quà, dạo phố cổ, ăn tối Lẩu riêu cua bắp bò Trúc Bạch.
     - *21:00 đêm 06/09:* Bắt Grab ra Sân bay Nội Bài Ga T1 ➔ **23:30 Bay về Sài Gòn (Sun PhuQuoc Airways 9G893)**.
-- **Cập nhật đồng bộ:** [`plans/lich_trinh_chi_tiet.md`](file:///Users/trucanh/Desktop/chicong-trip-plan/plans/lich_trinh_chi_tiet.md), [`info/xe_khach.md`](file:///Users/trucanh/Desktop/chicong-trip-plan/info/xe_khach.md), [`notes/du_thao_plan_ha_noi_0609.md`](file:///Users/trucanh/Desktop/chicong-trip-plan/notes/du_thao_plan_ha_noi_0609.md) và [`README.md`](file:///Users/trucanh/Desktop/chicong-trip-plan/README.md).
+- **Cập nhật đồng bộ:** [`plans/lich_trinh_chi_tiet.md`](file:///Users/trucanh/Desktop/chicong-trip-plan/plans/lich_trinh_chi_tiet.md), [`info/xe_khach.md`](file:///Users/trucanh/Desktop/chicong-trip-plan/info/xe_khach.md) và [`README.md`](file:///Users/trucanh/Desktop/chicong-trip-plan/README.md).
 
 ### Quyết định #31: Xác nhận đặt phòng Homestay Thác Bản Giốc đêm 03/09 (A THÁM homestay)
 - **Tên chỗ nghỉ:** **A THÁM homestay** (Làng đá Khuổi Ky / Đàm Thủy, Trùng Khánh, Cao Bằng)

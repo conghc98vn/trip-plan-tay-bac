@@ -1,6 +1,7 @@
 # 🏨 Danh Sách Gợi Ý Homestay & Khách Sạn Từng Đêm (Hà Giang — Cao Bằng)
 
-> **Mục đích:** Danh sách homestay / khách sạn được tuyển chọn kỹ lưỡng theo đúng gu trải nghiệm của 2 người, ưu tiên view đẹp, sạch sẽ, ấm cúng và an toàn. Bạn có thể dùng danh sách này để tra cứu trực tiếp trên Booking.com, Agoda, hoặc liên hệ Hotline/Zalo đặt phòng.
+> **Mục đích:** Danh sách homestay / khách sạn được tuyển chọn kỹ lưỡng theo đúng gu trải nghiệm của 2 người, ưu tiên view đẹp, sạch sẽ, ấm cúng và an toàn. Bạn có thể dùng danh sách này để tra cứu trực tiếp trên Booking.com, Agoda, hoặc liên hệ Hotline/Zalo đặt phòng.  
+> 📌 **Điều hướng nhanh:** [🏠 README](../README.md) | [🗺️ Lịch Trình Chi Tiết](../plans/lich_trinh_chi_tiet.md) | [🏨 Voucher Đặt Phòng](../info/dat_phong.md) | [💰 Tổng Hợp Chi Phí](../info/tong_hop_chi_phi.md) | [🍜 Đặc Sản Ẩm Thực](dac_san_am_thuc.md)
 
 ---
 
@@ -60,7 +61,7 @@
 
 ---
 
-## <a id="homestay-caobang"></a>📍 5. TP Cao Bằng (3 đêm: 02/09, 04/09, 05/09)
+## <a id="homestay-caobang"></a>📍 5. TP Cao Bằng (1 đêm: 02/09 — Đêm Lễ Quốc Khánh)
 
 > **Khu vực:** Trung tâm TP Cao Bằng (tiện di chuyển, dạo phố sông Hiến & ăn tối).  
 > ✅ **ĐÃ XÁC NHẬN ĐẶT PHÒNG ĐÊM 02/09 (LỄ 2/9):** [Minh Hoang Hotel & Homestay](../info/dat_phong.md#cao-bang-1) *(Mã Booking: `6307.802.042`, PIN: `9687`, Giá: 369.000 VNĐ, Trả tiền mặt)*

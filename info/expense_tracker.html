@@ -572,7 +572,8 @@
             </table>
           </div>
 
-          <div style="margin-top: 18px; display: flex; gap: 10px; justify-content: flex-end;">
+          <div style="margin-top: 18px; display: flex; flex-wrap: wrap; gap: 10px; justify-content: flex-end;">
+            <button class="btn btn-secondary" style="width: auto; color: var(--primary);" id="btn-export-all-md">📋 Xuất Bảng Markdown</button>
             <button class="btn btn-secondary" style="width: auto;" id="btn-export-json">💾 Xuất JSON</button>
             <button class="btn btn-secondary" style="width: auto; color: var(--danger);" id="btn-reset">🔄 Khôi phục mặc định</button>
           </div>
@@ -676,7 +677,7 @@
       { id: 70, day: 8, title: 'Cà phê Highland', note: 'Nghỉ trưa & giải nhiệt', amount: 110000, cat: 'food' }
     ];
 
-    const FIXED_COSTS = 7444024; // 1435162 (VJ) + 2346362 (Sun) + 550000 (Quang Tuyen) + 750000 (Hiep Giang) + 2362500 (Giang Son)
+    const FIXED_COSTS = 7754024; // 1435162 (VJ) + 2346362 (Sun) + 550000 (Quang Tuyen) + 750000 (Hiep Giang) + 2362500 (Giang Son) + 310000 (MOTOGO HN lượt đi)
     const HOTEL_BOOKED = 2881411; // 348k (Da Tree) + 400k (Bong Bang 2) + 446.4k (ToTo-Chan) + 300k (Phuong Anh) + 369k (Minh Hoang) + 518.011k (A Tham) + 500k (Hoang Hoa Tham Modern Apartment)
 
     // Categories Meta
@@ -689,8 +690,8 @@
       other: { label: 'Tiện ích & Khác', tagClass: 'tag-other', color: '#94a3b8', icon: '💆' }
     };
 
-    // Load from LocalStorage (Sync version v3)
-    const DATA_VERSION = 'trip_expenses_realtime_v3';
+    // Load from LocalStorage (Sync version v4)
+    const DATA_VERSION = 'trip_expenses_realtime_v4';
     let expenses = JSON.parse(localStorage.getItem(DATA_VERSION)) || initialExpenses;
     let currentFilterDay = 'all';
 
@@ -837,6 +838,28 @@
       const mdRow = `| ${title} | ${note} | ${formatVND(amount)} | ${cat} |`;
       navigator.clipboard.writeText(mdRow).then(() => {
         showToast('Đã copy dòng Markdown vào Clipboard!', '📋');
+      });
+    });
+
+    // Export All / Filtered Expenses as Full Markdown Table
+    document.getElementById('btn-export-all-md').addEventListener('click', () => {
+      const filtered = expenses.filter(item => currentFilterDay === 'all' || item.day.toString() === currentFilterDay);
+      if (filtered.length === 0) {
+        showToast('Không có dữ liệu để xuất Markdown!', '⚠️');
+        return;
+      }
+
+      let mdText = `| Khoản chi | Chi tiết | Số tiền (VNĐ) | Phân loại |\n|:---|:---|:---:|:---|\n`;
+      filtered.forEach(item => {
+        const cat = catMeta[item.cat] || catMeta.other;
+        mdText += `| ${item.title} | ${item.note || ''} | ${formatVND(item.amount)} | ${cat.label} |\n`;
+      });
+
+      navigator.clipboard.writeText(mdText).then(() => {
+        showToast(`Đã sao chép ${filtered.length} dòng Markdown vào Clipboard!`, '📋');
+      }).catch(() => {
+        // Fallback prompt
+        prompt('Sao chép bảng Markdown bên dưới:', mdText);
       });
     });
 

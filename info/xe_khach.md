@@ -1,5 +1,9 @@
 # 🚌 Thông Tin Xe Khách
 
+> 📌 **Điều hướng nhanh:** [🏠 README](../README.md) | [🗺️ Lịch Trình Chi Tiết](../plans/lich_trinh_chi_tiet.md) | [✈️ Chuyến Bay](chuyen_bay.md) | [🏍️ Thuê Xe Máy](thue_xe_may.md) | [🏨 Đặt Phòng](dat_phong.md) | [💰 Tổng Hợp Chi Phí](tong_hop_chi_phi.md)
+
+---
+
 ## Chặng 1: Hà Nội → TP Hà Giang (Tối 29/08) ✅ *(Đã đặt & hoàn thành)*
 | Hạng mục | Chi tiết xác nhận |
 |----------|-------------------|
@@ -36,9 +40,7 @@
 | **Hotline / SĐT Nhà xe** | `0944 266 266`, `0946 355 255` |
 | **Tổng tiền thanh toán** | **750.000 VNĐ** *(Thanh toán Online qua Ví MoMo)* |
 | **Trạng thái** | ✅ **Đã thanh toán (Paid) — Xác nhận thành công** |
-| **Ảnh vé gốc** | [`attachments/ve_xe_khach_cao_bang_di_ha_noi/xac_nhan_ve_quang_tuyen_cb_hn.png`](../attachments/ve_xe_khach_cao_bang_di_ha_noi/xac_nhan_ve_quang_tuyen_cb_hn.png) |
+| **Ảnh vé gốc** | [`attachments/ve_xe_khach_cao_bang_di_ha_noi/xac_nhan_ve_hiep_giang_cb_hn.png`](../attachments/ve_xe_khach_cao_bang_di_ha_noi/xac_nhan_ve_hiep_giang_cb_hn.png) |
 | **Chính sách hủy** | Trước 15:15 ngày 04/09/2026: **Miễn phí** (Từ 15:15 ngày 04/09 phí 80%) |
 | **Link tra cứu & Quản lý vé** | [Xem chi tiết đơn hàng trên Vexere](https://vexere.com/vi-VN/booking/ticketinfo?code=77Z1VY8&phone=0969910198) |
 | **Chuyến bay kết nối** | ✅ [Sun PhuQuoc Airways 9G893 (23:30 HAN T1 → 01:40 SGN T3 đêm 06/09)](chuyen_bay.md#lượt-về-han--sgn) |
-
-

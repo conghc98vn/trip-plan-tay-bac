@@ -1,5 +1,9 @@
 # 🏍️ Thông Tin Thuê Xe Máy
 
+> 📌 **Điều hướng nhanh:** [🏠 README](../README.md) | [🗺️ Lịch Trình Chi Tiết](../plans/lich_trinh_chi_tiet.md) | [✈️ Chuyến Bay](chuyen_bay.md) | [🚌 Xe Khách](xe_khach.md) | [🏨 Đặt Phòng](dat_phong.md) | [💰 Tổng Hợp Chi Phí](tong_hop_chi_phi.md)
+
+---
+
 ## 1. Xe máy tại Hà Nội (28-29/08) — ✅ Đã xác nhận đặt xe MOTOGO
 | Hạng mục | Chi tiết |
 |----------|---------|

@@ -1,6 +1,7 @@
 # 🏨 Thông Tin Đặt Phòng / Homestay & Khách Sạn
 
-> **Tài liệu tổng hợp thông tin xác nhận đặt phòng (Booking Vouchers) cho toàn bộ chuyến đi.**
+> **Tài liệu tổng hợp thông tin xác nhận đặt phòng (Booking Vouchers) cho toàn bộ chuyến đi.**  
+> 📌 **Điều hướng nhanh:** [🏠 README](../README.md) | [🗺️ Lịch Trình Chi Tiết](../plans/lich_trinh_chi_tiet.md) | [🏨 Gợi Ý Homestay](../notes/goi_y_homestay.md) | [✈️ Chuyến Bay](chuyen_bay.md) | [🚌 Xe Khách](xe_khach.md) | [🏍️ Thuê Xe Máy](thue_xe_may.md) | [💰 Tổng Hợp Chi Phí](tong_hop_chi_phi.md)
 
 ---
 
@@ -160,9 +161,3 @@
 | **Hình thức thanh toán** | **Thanh toán trực tiếp tại chỗ nghỉ khi nhận phòng** *(Đơn đặt phòng không cần thẻ tín dụng)* |
 | **Chính sách hủy phòng** | Không hoàn tiền khi hủy (Không đến khách sạn sẽ tính 100% theo quy định) |
 | **Tài liệu đính kèm** | [`attachments/booking/xac_nhan_booking_hanoi_hoang_hoa_tham.pdf`](../attachments/booking/xac_nhan_booking_hanoi_hoang_hoa_tham.pdf) |
-
-
-
-
-
-

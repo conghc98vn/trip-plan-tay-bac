@@ -1,69 +1,58 @@
 # 📸 Photography Spots & Golden Hour Guide
 
-> Hướng dẫn chi tiết cho nhiếp ảnh gia — góc chụp, thời điểm vàng, và tips kỹ thuật.
+> **Mục đích:** Hướng dẫn chi tiết góc chụp, thời điểm vàng (golden hour) và thông số kỹ thuật cho nhiếp ảnh gia và các khung hình kỷ niệm của 2 bạn.  
+> 📌 **Điều hướng nhanh:** [🏠 README](../README.md) | [🗺️ Lịch Trình Chi Tiết](../plans/lich_trinh_chi_tiet.md) | [🍜 Master Food List](dac_san_am_thuc.md) | [🏨 Gợi Ý Homestay](goi_y_homestay.md) | [🎒 Packing Checklist](hanh_ly_baga.md)
 
 ---
 
-## <a id="photo-hn"></a>🏙️ Hà Nội (28-29/08)
+## <a id="photo-hn"></a>🏙️ 1. Hà Nội Mùa Thu (28–29/08 & 05–06/09)
 
-| Spot | Thời điểm đẹp | Tips |
-|------|---------------|------|
-| Hồ Tây, đường Thanh Niên | Hoàng hôn 17:30-18:30 | Cà phê view hồ, cây cô đơn Hồ Tây |
-| Phố Hàng Mã | Tối 19:00-21:00 | Đèn lồng Trung Thu rực rỡ |
-| Cà phê trứng Giảng | Bất kỳ lúc nào | Không gian hoài cổ, góc vintage |
-| Đường Phan Đình Phùng | Sáng sớm 7-8h / Chiều 16-17h | Hàng cây cổ thụ rợp bóng |
-| Cầu Long Biên | Hoàng hôn 17:00-18:00 | Đường tàu + cầu thép cổ |
-| Phố đi bộ Hồ Gươm | Tối thứ 7 | Nhịp sống đêm, streetlife |
-
----
-
-## <a id="photo-hagiang"></a>⛰️ Hà Giang (30/08 - 02/09)
-
-| Spot | Thời điểm vàng | Tips kỹ thuật |
-|------|----------------|---------------|
-| **Cổng Trời Quản Bạ** | Bình minh / Sương mù sáng sớm 6:30-8:00 | Lens góc rộng (16-35mm) panorama thung lũng Tam Sơn |
-| **Cây cô đơn Can Tỷ** | Chiều 15-16h | Cây cô đơn trên đèo, composition đơn giản |
-| **Rừng thông Yên Minh** | Sáng sớm có sương | "Đà Lạt thu nhỏ" |
-| **Dốc Thẩm Mã** | 8-10h sáng (nắng xiên) | **Lens tele** (70-200mm) chụp cua đèo uốn lượn từ đỉnh |
-| **Dinh Vua Mèo** | 10-11h sáng | Hàng cây sa mộc cổ thụ, giếng trời |
-| **Cột cờ Lũng Cú** | Trưa (ánh sáng đều, cờ bay rõ) | Góc thấp hất lên lá cờ 54m² |
-| **Làng Lô Lô Chải** | Chiều golden hour 16-17h | Chân dung dân tộc, nhà cổ trình tường |
-| **Đèo Mã Pí Lèng** | 9-11h sáng | **Panorama 16:9** hẻm vực, kính CPL giảm haze |
-| **Hẻm Tu Sản / Sông Nho Quế** | Khi đi thuyền ~12-14h | Góc ngước 45° từ thuyền, **kính CPL bắt buộc** cho nước xanh ngọc bích |
-| **Phố cổ Đồng Văn** | Chiều tà 17h / Tối đèn lồng 19-21h | Streetlife, nhịp sống vùng cao |
-| **Sông Lô (TP Hà Giang)** | Hoàng hôn 17:30-18:30 | Cầu treo, phản chiếu trên sông |
+| Spot | Thời điểm đẹp | Tips kỹ thuật & Góc chụp |
+|------|---------------|---------------------------|
+| **Xe hoa Mùa Thu (Đường Phan Đình Phùng & Hoàng Diệu)** | Sáng sớm **07:30 – 09:30** / Chiều **15:30 – 16:30** | Chụp bạn gái cùng các gánh xe hoa sen Quan Âm / cúc hoạ mi dưới bóng cây sấu cổ thụ. Nắng xiên xuyên qua kẽ lá cực kỳ thơ mộng. |
+| **Hồ Tây & Đường Thanh Niên** | Hoàng hôn **17:15 – 18:15** | View mặt nước Hồ Tây dát vàng, cây cô đơn ven hồ, góc ban công quán cà phê trên cao ngắm trọn hoàng hôn. |
+| **Cầu Long Biên** | Hoàng hôn **16:45 – 17:45** | Chụp dọc tuyến đường ray xe lửa cổ kính, nhịp cầu thép trăm tuổi phủ màu thời gian. |
+| **Cà phê Trứng Giảng / Loading T** | Sáng sớm hoặc đầu giờ chiều | Không gian biệt thự Pháp cổ, ánh đèn vàng ấm cúng, chụp tách cà phê trứng béo ngậy hoài niệm. |
+| **Phố Đi Bộ Hồ Gươm & Nhà Hát Lớn** | Chiều Thứ Bảy & Chủ Nhật (**16:30 – 18:30**) | Streetlife, bậc thềm Nhà Hát Lớn Hà Nội, góc phố Tràng Tiền, bóng Tháp Rùa chiều thu. |
+| **Phố Hàng Mã & Phố Cổ về đêm** | Tối **19:30 – 21:30** | Đèn lồng rực rỡ dịp Tết Trung Thu, ánh sáng lung linh nhộn nhịp. |
 
 ---
 
-## <a id="photo-caobang"></a>🏔️ Cao Bằng (03-06/09)
+## <a id="photo-hagiang"></a>⛰️ 2. Hà Giang Loop (30/08 – 01/09)
 
-| Spot | Thời điểm vàng | Tips kỹ thuật |
-|------|----------------|---------------|
-| **Suối Lê-Nin (Pác Bó)** | **9:00-10:30 sáng** (nắng xuyên lá cây) | **Kính CPL bắt buộc** — giảm phản xạ, cho nước xanh ngọc bích sâu hơn |
-| **Hồ Thang Hen** | Chiều 14-16h | Nước xanh ngọc, thung lũng mênh mông |
-| **Núi Mắt Thần (Tuyệt Tình Cốc)** | **Chiều tà golden hour 16-17h30** | Bãi cỏ xanh + ngọn núi thủng lỗ + ánh nắng chiều |
-| **Đèo Mã Phục** | Trưa (ánh sáng đều) | 7 tầng cua đèo uốn lượn — drone nếu có |
-| **Thác Bản Giốc** | **7:00-9:00 sáng** (mặt trời chiếu thẳng vào thác) | **Shutter speed thấp** (1/4s-1s) cho dòng nước mượt mà. Tripod nếu có |
-| **Thiền Viện Trúc Lâm BG** | 10:00 sáng | View panorama thác từ lầu chuông — góc chụp toàn cảnh tuyệt nhất |
-| **Động Ngườm Ngao** | Bất kỳ lúc nào (trong hang) | Flash OFF, ISO cao (1600-3200), tripod, white balance tungsten |
+| Spot | Thời điểm vàng | Tips kỹ thuật & Thiết bị |
+|------|----------------|--------------------------|
+| **Cổng Trời Quản Bạ** | Bình minh / Sáng sớm **06:30 – 08:00** | Panorama thung lũng Tam Sơn chìm trong biển sương bồng bềnh. |
+| **Cây cô đơn Can Tỷ** | Chiều **14:30 – 15:30** | Cây nghiến cô đơn sừng sững bên mép vực đèo, bố cục tối giản (minimalism). |
+| **Rừng thông Yên Minh** | Sáng sớm có sương mỏng | Không gian rừng thông xanh ngắt ví như "Đà Lạt thu nhỏ của miền biên viễn". |
+| **Dốc Thẩm Mã** | Sáng **08:30 – 10:00** (nắng xiên) | Chụp 9 khúc cua tay áo uốn lượn mềm mại từ đỉnh dốc. Chụp chân dung các em bé vùng cao gùi hoa tam giác mạch. |
+| **Dinh Thự Vua Mèo (Sà Phìn)** | **10:30 – 11:30** | Hàng cây sa mộc trăm tuổi trước cổng, kiến trúc đá - gỗ quý tộc và giếng trời cổ kính. |
+| **Cột cờ Lũng Cú & Bản Lô Lô Chải** | Chiều golden hour **15:30 – 17:00** | Nhà trình tường đất cổ tích, chân dung người Lô Lô Đen, Cà phê Cực Bắc ấm áp. |
+| **Đèo Mã Pí Lèng** | **09:00 – 11:00** | Hẻm vực Tu Sản sâu nhất Đông Nam Á, góc Panorama hùng vĩ tột bậc của Công viên địa chất toàn cầu. |
+| **Hẻm Tu Sản & Sông Nho Quế** | Khi đi thuyền **11:00 – 13:30** | Góc ngước 45° từ mũi thuyền lên vách đá sừng sững, **kính lọc CPL** giúp nước sông xanh ngọc bích sâu thẳm. |
 
 ---
 
-## 🎒 Thiết bị gợi ý mang theo
+## <a id="photo-caobang"></a>🏔️ 3. Cao Bằng (02/09 – 04/09)
 
-### Camera Gear
-- [ ] 1 Body mirrorless/DSLR
-- [ ] 1 Lens Zoom đa dụng (**24-70mm f/2.8**) — lens chính
-- [ ] 1 Lens Fix (**35mm hoặc 50mm**) — chân dung, streetlife
-- [ ] **Kính lọc CPL** (bắt buộc cho suối Lê-Nin, sông Nho Quế, thác Bản Giốc)
-- [ ] 2 Pin dự phòng
-- [ ] 2 Thẻ nhớ dự phòng (64-128GB)
-- [ ] Túi chống nước / túi zip cho máy ảnh (mùa mưa!)
-- [ ] Khăn lau lens (sương mù vùng cao)
-- [ ] Gorilla tripod nhỏ (nếu có)
+| Spot | Thời điểm vàng | Tips kỹ thuật & Thiết bị |
+|------|----------------|--------------------------|
+| **Đèo 14 Tầng (Khau Cốc Chà)** | Sáng **09:00 – 10:30** | Kỳ quan đèo 14 khúc cua tay áo dựng đứng qua hẻm núi hiểm trở. |
+| **Thung Lũng Núi Mắt Thần (Tuyệt Tình Cốc)** | **Chiều tà 15:30 – 17:15** | Bãi cỏ xanh mướt trải dài, đàn ngựa nhởn nhơ gặm cỏ, ngọn núi thủng mắt thần kỳ vĩ đón nắng chiều vàng óng. |
+| **Hồ Thang Hen** | Trưa / Chiều **10:30 – 14:00** | Nước hồ xanh ngọc bích phẳng lặng in bóng vách đá vôi nguyên sinh. |
+| **Thác Bản Giốc** | Sáng **08:30 – 10:30** (mặt trời chiếu thẳng dòng thác) | Dòng thác biên giới lớn nhất Đông Nam Á tuôn trào trắng xóa. Dùng tốc độ màn trập vừa phải hoặc kính CPL để bắt trọn tia nước óng ánh. |
+| **Làng đá cổ Khuổi Ky & Sông Quây Sơn** | Sáng sớm **06:30 – 08:00** / Chiều tà | Làng đá người Tày 400 năm tuổi rêu phong bên dòng sông Quây Sơn trong vắt. |
+| **Động Ngườm Ngao** | Bất kỳ khung giờ nào | Kỳ quan thạch nhũ hàng triệu năm (Bông sen vàng, Cột đá nâng trời). |
+| **Suối Lê-Nin & Khu Di Tích Pác Bó** | **09:00 – 11:00 sáng** (nắng rọi xuyên tán cây) | Nước suối trong vắt nhìn thấu đàn cá bơi, màu xanh lục bảo (emerald) huyền ảo tuyệt tác. |
 
-### Tips chung
-- Chụp RAW để linh hoạt xử lý hậu kỳ
-- Backup ảnh mỗi tối vào ổ cứng di động hoặc cloud
-- Sạc pin tối qua, sáng ra đi luôn
-- Mang túi đeo chéo hoặc balo camera chống sốc khi đi xe máy
+---
+
+## 🎒 Thiết bị nhiếp ảnh thực tế mang theo (Setup tối ưu trên xe máy)
+
+* 📷 **Body máy ảnh:** **Sony A7R3** (Cảm biến Full-frame 42MP độ chi tiết cao, sạc trực tiếp qua USB Type-C).
+* 🔍 **Ống kính chính:** **Lens Prime 28mm** (Góc rộng đa dụng, gọn nhẹ, độ mở lớn, lấy nét siêu nhanh trên đèo).
+* ⚡ **Đèn Flash rời:** **Godox iT32** siêu nhỏ gọn (sạc Type-C, chụp fill sáng chân dung ngược nắng và chụp đêm).
+* 👓 **Phụ kiện quang học:** **Kính lọc CPL (Circular Polarizer)** — khử phản xạ mặt nước suối Lê-Nin & sông Nho Quế.
+* 📱 **Điện thoại:** **2 x iPhone 16 Pro Max** (Quay video 4K HDR 60fps cinematic, chụp góc siêu rộng 0.5x & tele 5x).
+* 🔋 **Nguồn điện:** Pin sạc dự phòng 20.000mAh + Củ sạc nhanh Anker 65W GaN Dual Type-C sạc chung cho toàn bộ thiết bị.
+* 👝 **Đóng gói bảo quản:** Đựng toàn bộ trong **Túi đeo chéo chống nước** trước ngực/hông, thao tác rút máy chụp nhanh trong 3 giây khi dừng xe ven đèo.

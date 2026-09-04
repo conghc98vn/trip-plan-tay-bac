@@ -1,5 +1,9 @@
 # ✈️ Thông Tin Chuyến Bay
 
+> 📌 **Điều hướng nhanh:** [🏠 README](../README.md) | [🗺️ Lịch Trình Chi Tiết](../plans/lich_trinh_chi_tiet.md) | [🚌 Xe Khách](xe_khach.md) | [🏍️ Thuê Xe Máy](thue_xe_may.md) | [🏨 Đặt Phòng](dat_phong.md) | [💰 Tổng Hợp Chi Phí](tong_hop_chi_phi.md)
+
+---
+
 ## Lượt đi: SGN → HAN
 | Hạng mục | Chi tiết |
 |----------|---------|
@@ -18,6 +22,8 @@
 | **Thẻ lên tàu & Xác nhận vé** | • [`boarding_pass_vj120_chi_cong.pdf`](file:///Users/trucanh/Desktop/chicong-trip-plan/attachments/ve_may_bay_luot_di/boarding_pass_vj120_chi_cong.pdf)<br>• [`boarding_pass_vj120_truc_anh.pdf`](file:///Users/trucanh/Desktop/chicong-trip-plan/attachments/ve_may_bay_luot_di/boarding_pass_vj120_truc_anh.pdf)<br>• Vé điện tử: [`ve_di_vj120_chi_cong_suat_an.pdf`](file:///Users/trucanh/Desktop/chicong-trip-plan/attachments/ve_may_bay_luot_di/ve_di_vj120_chi_cong_suat_an.pdf) |
 | **Di chuyển từ nhà** | 03:30 AM (Có mặt sân bay SGN ~04:00 AM, đi thẳng qua cửa an ninh vì 100% xách tay & đã check-in online) |
 
+---
+
 ## Lượt về: HAN → SGN
 | Hạng mục | Chi tiết |
 |----------|---------|
@@ -35,6 +41,9 @@
 | **Chi phí 2 vé** | 1,143,181 VNĐ x 2 + 60,000 VNĐ (chọn ghế) = **2,346,362 VNĐ** (Đã thanh toán) |
 | **Vé điện tử đính kèm** | • [`ve_ve_9g893_chi_cong_7tgde6.pdf`](file:///Users/trucanh/Desktop/chicong-trip-plan/attachments/ve_may_bay_luot_ve/ve_ve_9g893_chi_cong_7tgde6.pdf)<br>• [`ve_ve_9g893_truc_anh_7tgde6.pdf`](file:///Users/trucanh/Desktop/chicong-trip-plan/attachments/ve_may_bay_luot_ve/ve_ve_9g893_truc_anh_7tgde6.pdf) |
 
-## Ghi chú
-- Xe khách từ Cao Bằng đến Nội Bài dự kiến ~19:30 - 20:30, thời gian chờ bay ~3 - 4 tiếng — cực kỳ an toàn và thảnh thơi.
-- **Ký gửi hành lý:** Vì vé về có sẵn **1PC hành lý ký gửi/người**, khi đến sảnh T1 Nội Bài cần ghé quầy Sun PhuQuoc Airways để gửi hành lý (rất tiện lợi cho các kiện quà đặc sản Cao Bằng như hạt dẻ Trùng Khánh, miến đao, lạp xưởng,...).
+---
+
+## 📌 Ghi chú di chuyển & Ký gửi hành lý lượt về
+- **Di chuyển ra sân bay (Tối 06/09):** Sau khi thưởng thức bữa tối lẩu riêu cua bắp bò Trúc Bạch lúc 20:30, 2 bạn trả xe máy MOTOGO và di chuyển ra Ga T1 Sân bay Nội Bài lúc ~21:15 – 21:30 (trước giờ bay 2 tiếng) — vô cùng an toàn và thảnh thơi.
+- **Ký gửi hành lý:** Vì vé về có sẵn **1PC hành lý ký gửi/người**, khi đến sảnh T1 Nội Bài ghé quầy làm thủ tục Sun PhuQuoc Airways để gửi hành lý (rất tiện lợi cho các kiện quà đặc sản Cao Bằng như hạt dẻ Trùng Khánh, miến đao, lạp xưởng,...).
+

@@ -14,7 +14,7 @@
 - 🍜 **Master Food List:** [Danh sách quán ăn đặc sản](../notes/dac_san_am_thuc.md)
 - 📸 **Góc chụp ảnh:** [Cẩm nang Photography & Golden Hour](../notes/goc_chup_anh.md)
 - 🎒 **Checklist hành lý:** [Danh mục đồ cần mang](../notes/hanh_ly_baga.md)
-- ℹ️ **Thông tin logistics:** [Vé máy bay](../info/chuyen_bay.md) | [Xe khách](../info/xe_khach.md) | [Thuê xe máy](../info/thue_xe_may.md)
+- ℹ️ **Thông tin logistics:** [Vé máy bay](../info/chuyen_bay.md) | [Xe khách](../info/xe_khach.md) | [Thuê xe máy](../info/thue_xe_may.md) | [💰 Tổng Hợp Chi Phí](../info/tong_hop_chi_phi.md)
 
 ---
 
@@ -22,12 +22,12 @@
 
 | Hạng mục | Chi tiết | Ghi chú & Liên kết |
 |----------|---------|-------------------|
-| **Bay đi** | ✅ **Vietjet Air VJ120** — 28/08 05:00 AM SGN → 07:10 AM HAN (Mã PNR: UJSG2A / R7AH77)<br>✅ *Đã check-in online: Ghế 37E (Công) & 37F (Trúc Anh), Boarding: 04:10 AM, Group 4. Đã đăng ký thêm 1 suất ăn nóng (C.ThaiWBisc cho PNR UJSG2A).* | [Chi tiết chuyến bay](../info/chuyen_bay.md) |
+| **Bay đi** | ✅ **Vietjet Air VJ120** — 28/08 05:00 AM SGN → 07:10 AM HAN (Mã PNR: `UJSG2A` / `R7AH77`)<br>✅ *Đã check-in online: Ghế 37E (Công) & 37F (Trúc Anh), Boarding: 04:10 AM, Group 4. Đã thêm 1 suất ăn nóng (C.ThaiWBisc).* | [Chi tiết chuyến bay](../info/chuyen_bay.md) |
 | **Bay về** | ✅ **Sun PhuQuoc Airways 9G893** — 06/09 23:30 HAN (T1) → 01:40 (07/09) SGN (T3) (Mã PNR: **`7TGDE6`**)<br>✅ *Đã đặt chỗ & chọn ghế: 36J (Công) & 36K (Trúc Anh). Bao gồm 1PC hành lý ký gửi/người.* | [Chi tiết chuyến bay](../info/chuyen_bay.md#lượt-về-han--sgn) |
-| **Xe máy HN** | ✅ **MOTOGO (Mã #39337)** — Yamaha Sirius 110cc (260k + 50k phụ phí trả trái điểm = 310k/2 ngày). Nhận MOTOGO Nội Bài sáng 28/08, trả 1081 Hồng Hà (Hoàn Kiếm) tối 29/08. (Cọc 2tr lấy lại CCCD). | [Chi tiết MOTOGO](../info/thue_xe_may.md#1-xe-máy-tại-hà-nội-28-2908) |
-| **Xe máy HG** | ✅ **Giang Sơn (Đã cọc 100k)** — Honda Wave 110cc (250k/ngày đã gồm gói BH cứu hộ). Nhận TP HG 30/08, trả TP CB (phí trả 500k). Free phòng nghỉ/tắm rửa + Ưu đãi 20% Giang Sơn Hill Hotel. | [Chi tiết cọc xe Giang Sơn](../info/thue_xe_may.md#2-xe-máy-tour-hà-giang--cao-bằng--giang-sơn-3008---0609) |
-| **Xe khách HN→HG** | Giường nằm 22:30 tối 29/08 (đến TP HG 05:30 sáng 30/08) | [Thông tin nhà xe](../info/xe_khach.md#chặng-1-hà-nội--tp-hà-giang-tối-2908) |
-| **Xe khách CB→HN** | Xe Cabin VIP đêm 04/09 (đến trung tâm Hà Nội ~05:00 sáng 05/09) | [Thông tin xe khách CB](../info/xe_khach.md#chặng-2-tp-cao-bằng--hà-nội-tối-0409) |
+| **Xe máy HN (2 lượt)** | ✅ **MOTOGO Hà Nội**<br>• Lượt đi (28-29/08): Sirius 110cc (Mã #39337, 310k — Đã trả xe tối 29/08)<br>• Lượt về (05-06/09): Xe số nhận 06:00 05/09 tại 267 Hoàng Hoa Thám | [Chi tiết MOTOGO](../info/thue_xe_may.md) |
+| **Xe máy HG ➔ CB** | ✅ **Giang Sơn (HĐ #45 — Đã thanh toán & Cọc 3tr)** — Honda Wave 110cc có gói BH cứu hộ 24/7 (Nhận TP HG 30/08, Trả TP CB chiều 04/09, phụ phí 500k). Nhận lại 3tr cọc khi trả xe. | [Chi tiết xe Giang Sơn](../info/thue_xe_may.md#2-xe-máy-tour-hà-giang--cao-bằng--giang-sơn-3008---0509--đã-ký-hợp-đồng-45) |
+| **Xe khách HN→HG** | ✅ **Quang Tuyến Limousine (Mã `RN34WQ`)** — 23:05 Tối 29/08 đón 55 Nguyễn Hoàng, trả tận cửa Giang Sơn Homestay 05:45 sáng 30/08 (550k). | [Chi tiết vé Quang Tuyến](../info/xe_khach.md#chặng-1-hà-nội--tp-hà-giang-tối-2908-) |
+| **Xe khách CB→HN** | ✅ **Hiệp Giang Limousine (Mã `P2DZO3`, Cabin đôi `B.10`)** — 21:15 Tối 04/09 đón VP Bến xe CB, trả Bến xe Mỹ Đình 05:30 sáng 05/09 (750k). | [Chi tiết vé Hiệp Giang](../info/xe_khach.md#chặng-2-tp-cao-bằng--hà-nội-tối-thứ-sáu-04092026--đã-thanh-toán-thành-công) |
 | **Hành lý & Chằng xe** | 👝 1 Túi đeo chéo nhỏ (Sony A7R3+28mm+iT32) + 🎒 2 Balo (1 balo baga trước + 1 balo baga sau/ngồi sau + 1.5L xăng dự phòng) | [Checklist hành lý](../notes/hanh_ly_baga.md) |
 
 ---
