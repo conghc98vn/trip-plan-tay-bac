@@ -97,9 +97,11 @@ chicong-trip-plan/
 
 | Ai | SĐT | Ghi chú |
 |----|------|---------|
+| **Căn hộ Hoàng Hoa Thám (05/09)** | 📞 **`0945 223 680`** | Hoang Hoa Tham Modern Apt (Ngõ 189 Hoàng Hoa Thám, Ba Đình) |
 | **MOTOGO Hà Nội** | **`0338 023 344`** | CS1: 7 ngõ 267 Hoàng Hoa Thám / CS2: Điền Xá Nội Bài |
 | **Giang Sơn (Tổng đài HG)** | Mr Sơn: `0983 380 333` / Mrs Giang: `0988 470 863` | Wave 110cc (gói BH cứu hộ 250k/ngày) |
 | **Giang Sơn (Nhận xe Cao Bằng)** | 📞 **`0868 252 168`** | [Điểm trả xe cố định TP Cao Bằng](https://maps.app.goo.gl/Fewv97hZmzrFNRSM7?g_st=ic) |
 | **Nhà xe Hiệp Giang (Cao Bằng)** | `0944 266 266` / `0946 355 255` | Limousine Cabin VIP đôi B.10 (Đón 21:15 tại VP Bến xe liên tỉnh CB) |
+
 
 

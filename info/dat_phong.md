@@ -150,6 +150,7 @@
 | **Tên chỗ nghỉ** | **Hoang Hoa Tham Modern Apartment in Ba Dinh near West Lake and Old Quarter** ✅ *(Đã xác nhận trên Agoda)* |
 | **Mã số đặt phòng (Booking ID)** | `1770541583` |
 | **Mã tham chiếu (Reference ID)** | `6662961894` |
+| **Điện thoại / Hotline chỗ nghỉ** | 📞 **`+84 945 223 680`** *(Đã liên hệ xác nhận)* |
 | **Địa chỉ chi tiết** | **9/80 Ngõ 189 Đường Hoàng Hoa Thám, Quận Ba Đình, Hà Nội, Việt Nam** *(Gần Hồ Tây & Phố Cổ)* |
 | **Thời gian nhận phòng** | **T7, 05/09/2026** (Từ 14:00 — Có thể ghé gửi hành lý buổi sáng) |
 | **Thời gian trả phòng** | **CN, 06/09/2026** (Trước 12:00, 1 đêm) |
@@ -159,6 +160,7 @@
 | **Hình thức thanh toán** | **Thanh toán trực tiếp tại chỗ nghỉ khi nhận phòng** *(Đơn đặt phòng không cần thẻ tín dụng)* |
 | **Chính sách hủy phòng** | Không hoàn tiền khi hủy (Không đến khách sạn sẽ tính 100% theo quy định) |
 | **Tài liệu đính kèm** | [`attachments/booking/xac_nhan_booking_hanoi_hoang_hoa_tham.pdf`](../attachments/booking/xac_nhan_booking_hanoi_hoang_hoa_tham.pdf) |
+
 
 
 
