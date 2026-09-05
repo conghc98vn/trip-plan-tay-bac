@@ -132,14 +132,14 @@
 > 🛵 **Quãng đường di chuyển dự kiến:** ~100 km (TP Hà Giang → Dốc Bắc Sum → Cổng Trời Quản Bạ ~46km → Can Tỷ → Yên Minh ~54km)  
 > 🔗 **Gợi ý liên quan:** 🏨 [Bong Bang Homestay 2 (✅ Đã xác nhận)](../info/dat_phong.md#yen-minh) | 🍜 [Ẩm thực Hà Giang](../notes/dac_san_am_thuc.md#food-hagiang) | 📸 [Góc chụp Cổng Trời](../notes/goc_chup_anh.md#photo-hagiang)
 
-> ✅ **NHẬT KÝ & CHI TIÊU THỰC TẾ (30/08/2026 — Tổng: 835.000 VNĐ):**
+> ✅ **NHẬT KÝ & CHI TIÊU THỰC TẾ (30/08/2026 — Tổng: 735.000 VNĐ):**
 > - **Lộ trình thực tế:** Xuất phát từ Cột mốc Km0 Hà Giang lúc **08:00** → Vượt Dốc Bắc Sum, Cổng Trời Quản Bạ, Cây cô đơn Can Tỷ → Cập bến Yên Minh an toàn lúc **~13:00** (về đích sớm & an toàn tuyệt đối).
 > - ⛽ **Xăng xe:** Đổ xăng xe Wave 110cc: **70.000đ**
 > - 🍜 **Ăn uống & Nước nôi:**
 >   - 🍜 **Sáng:** Bún riêu Bống (100.000đ)
 >   - 🍚 **Trưa:** Cơm bình dân thịt lợn bản + rau xào tại Yên Minh (150.000đ)
 >   - 🥤 **Dọc đường:** Nước suối & nước giải khát nạp năng lượng (100.000đ)
->   - 🍢 **Tối & Ăn vặt:** Lợn nướng + chim cút nướng (100.000đ) + cá viên (90.000đ) + trái cây (50.000đ) = **340.000đ**
+>   - 🍢 **Tối & Ăn vặt:** Lợn nướng + chim cút nướng (100.000đ) + cá viên (90.000đ) + trái cây (50.000đ) = **240.000đ**
 >   - ☕ **Cà phê & Giải khát:** 2 ly Nước sấu + 1 ly Café Bạc xỉu = **75.000đ**
 
 | Thời gian | Hoạt động | Ghi chú |
@@ -277,12 +277,14 @@
 > 🛵 **Quãng đường di chuyển:** ~135 km xe máy (Bản Giốc ➔ ĐT211 Trà Lĩnh ➔ Hà Quảng ➔ Pác Bó ~85km + Pác Bó ➔ ĐT203 TP Cao Bằng ~50km) + 🚌 280 km xe Cabin VIP Hiệp Giang đêm về Hà Nội  
 > 🔗 **Gợi ý liên quan:** 🚌 [Vé xe khách Cabin Hiệp Giang (Mã: P2DZO3)](../info/xe_khach.md#xe-khach-cb-hn) | 🍜 [Phở chua & Đặc sản Cao Bằng](../notes/dac_san_am_thuc.md#food-caobang) | 🏍️ [Điểm trả xe Giang Sơn TP CB](../info/thue_xe_may.md#tra-xe-cao-bang)
 
-> ✅ **NHẬT KÝ & CHI TIÊU THỰC TẾ (04/09/2026 — Đã chi đến hiện tại: 415.000 VNĐ):**
+> ✅ **NHẬT KÝ & CHI TIÊU THỰC TẾ (04/09/2026 — Tổng chi Ngày 8: 505.000 VNĐ):**
 > - ⛽ **Xăng xe:** Đổ xăng ở Thác Bản Giốc: **50.000đ**
 > - 🍜 **Ẩm thực & Thức uống:**
 >   - Sáng: Ăn sáng tại chợ Co Sàu (Phở lạp xưởng + lợn quay 60k/2 tô + thêm lạp xưởng 20k + mua bánh 10k): **90.000đ**
 >   - Trưa: Phở Chua + Miến Cao Bằng: **110.000đ**
 >   - Nước uống: Cà phê Highland: **110.000đ**
+>   - Ăn nhẹ: Bún đậu TP Cao Bằng: **50.000đ**
+>   - Giải khát: Nước sâm bí đao: **40.000đ**
 > - 🎟️ **Vé tham quan & Tiện ích:**
 >   - Vé xe điện tham quan Pác Bó (50k/2 người) + Gửi xe máy (5k): **55.000đ**
 
@@ -293,16 +295,23 @@
 | 11:30 - 13:30 | Thưởng thức bữa trưa đặc sản Cao Bằng: **Phở Chua & Miến** (110k), sau đó thưởng thức **Cà phê Highland** giải nhiệt (110k) | 😋 Thử trọn vẹn đặc sản Phở Chua Cao Bằng |
 | 13:30 - 16:30 | Chạy theo tuyến đường phẳng đẹp **ĐT203** về trung tâm **TP Cao Bằng** (~50 km). Gọi trước hotline Giang Sơn Cao Bằng **`0868 252 168`** thông báo giờ hẹn trả xe | Báo trước để nhân viên chuẩn bị tiếp đón |
 | 16:30 - 17:30 | **Bàn giao trả xe máy Wave 110cc:** Đến [Điểm trả cố định Giang Sơn tại Cao Bằng](https://maps.app.goo.gl/Fewv97hZmzrFNRSM7?g_st=ic). Quay video & chụp ảnh tình trạng xe + phụ kiện bàn giao. Gửi STK nhận lại **3.000.000 VNĐ** tiền cọc hoàn lại chuyển khoản | Hoàn thành 6 ngày phượt xe máy an toàn tuyệt đối ([Chi tiết](../info/thue_xe_may.md#tra-xe-cao-bang)) |
-| 17:30 - 20:30 | Gửi hành lý, tắm rửa thay đồ tại nhà chờ liên kết. Thưởng thức bữa tối chia tay Cao Bằng: Bánh áp chao / Phở vịt quay, ngắm bờ sông Bằng Giang | Thư thái chuẩn bị lên xe |
+| 17:30 - 20:30 | Gửi hành lý, tắm rửa thay đồ tại nhà chờ liên kết. Thưởng thức bún đậu (50k), uống nước sâm bí đao (40k), ngắm bờ sông Bằng Giang | Thư thái chuẩn bị lên xe |
 | 20:30 - 21:00 | Di chuyển ra **Văn phòng Bến xe Liên Tỉnh Cao Bằng** (Cạnh cây xăng bến xe, P. Đề Thám). Xuất trình vé Vexere mã **`P2DZO3`** (`77Z1VY8`), chuẩn bị lên xe | Hotline nhà xe: `0944.266.266` / `0946.355.255` |
 | 21:15 - 05:30 (+1) | Lên **Xe Limousine Giường nằm Cabin VIP đôi Hiệp Giang (Cabin `B.10`)** xuất phát về Hà Nội. Ngủ một giấc thật sâu và êm ái trên xe | 🚌 Tiết kiệm 1 đêm phòng KS, 05:30 sáng mai tới Bến xe Mỹ Đình |
 
 ---
 
-### <a id="ngay-9"></a>📍 Ngày 9 (05/09 - T7): Chào Sớm Mai Hà Nội → Foodtour Phố Cổ → Spa Dưỡng Sinh → Tối Phố Đi Bộ
+### <a id="ngay-9"></a>📍 Ngày 9 (05/09 - T7): Chào Sớm Mai Hà Nội → Bún Thang → Cà Phê Đây Đi → Spa Dưỡng Sinh → Tối Phố Đi Bộ
 
 > ☀️ **Dự báo thời tiết:** Hà Nội se mát mùa thu lãng mạn, nắng vàng dịu nhẹ, gió heo may (24–32°C)  
 > 🔗 **Gợi ý liên quan:** 🍜 [Master Food List Phố Cổ](../notes/dac_san_am_thuc.md#food-hn) | 📸 [Góc chụp Xe Hoa Phan Đình Phùng](../notes/goc_chup_anh.md#photo-hn)
+
+> ✅ **NHẬT KÝ & CHI TIÊU THỰC TẾ (05/09/2026 — Đã chi sáng nay: 345.000 VNĐ):**
+> - 🚕 **Di chuyển:** Taxi Bến xe Mỹ Đình sang Hoàng Hoa Thám lấy xe máy MOTOGO: **100.000đ**
+> - 🍜 **Ẩm thực & Cà phê:**
+>   - Ăn sáng Bún thang nóng hổi + quẩy + chè đá: **110.000đ**
+>   - Cà phê muối sớm mai: **20.000đ**
+>   - Cà phê trứng & Cold Brew tại quán **Đây Đi**: **115.000đ**
 
 | Thời gian | Hoạt động | Ghi chú |
 |-----------|-----------|---------|

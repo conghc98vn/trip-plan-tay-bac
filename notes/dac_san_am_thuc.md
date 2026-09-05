@@ -167,9 +167,17 @@
   - *Phở lạp xưởng + thịt lợn quay Chợ Co Sàu:* Ăn sáng dọc đường biên giới Trà Lĩnh cực ngon (Đã thưởng thức sáng Ngày 8 — 90k gồm 2 tô 60k + 20k lạp xưởng + 10k bánh).
   - *Phở Chua + Miến Cao Bằng:* Đã thưởng thức trưa Ngày 8 — 110k.
   - *Cà phê Highland Cao Bằng:* Đã uống giải nhiệt trưa Ngày 8 — 110k.
+  - *Bún đậu TP Cao Bằng:* Đã ăn chiều Ngày 8 — 50k.
+  - *Nước sâm bí đao:* Đã uống giải nhiệt Ngày 8 — 40k.
 
-### 🎁 Quà Đặc Sản Mua Mang Về (Chiều 04/09 & 05/09 tại Cao Bằng)
+### 🍜 Ẩm Thực Hà Nội Mùa Thu (Ngày 9 — 05/09/2026)
+- *Bún thang Hà Nội:* 2 tô bún thang nóng hổi + quẩy giòn + chè đá (Đã thưởng thức sáng Ngày 9 — 110k).
+- *Cà phê muối:* Cà phê muối sớm mai phố phường (Đã thưởng thức sáng Ngày 9 — 20k).
+- *Quán Cà Phê "Đây Đi":* Cà phê trứng béo ngậy truyền thống & Cold Brew thanh mát (Đã thưởng thức sáng Ngày 9 — 115k).
+
+### 🎁 Quà Đặc Sản Mua Mang Về (Chiều 04/09 & 05/09 tại Cao Bằng & Hà Nội)
 - **Hạt Dẻ Trùng Khánh:** Hạt dẻ to gấp 3 lần hạt dẻ thường, nhân vàng óng, thơm ngậy (mua hạt dẻ rang sẵn hoặc hạt tươi).
 - **Miến Đao Phia Đén (Miến Dong):** Miến dong xóm Nà Rùa / Phia Đén làm thủ công, nấu không bao giờ bị trương nát.
 - **Bánh Khảo Cao Bằng:** Bánh khảo nhân lạc / nhân thịt lợn nếp thơm.
 - **Lạp xưởng hun khói & Thịt trâu gác bếp Trùng Khánh.**
+- **Bánh Cốm Hàng Than & Trà Sen Hà Nội (Dự kiến mua Ngày 10).**

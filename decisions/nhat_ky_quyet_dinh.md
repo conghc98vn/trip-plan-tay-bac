@@ -294,15 +294,15 @@
 
 ## 30/08/2026 — Hoàn Thành Ngày 3: TP Hà Giang → Quản Bạ → Yên Minh (~100 km)
 
-### 📝 Nhật ký & Chi tiêu thực tế Ngày 3 (30/08/2026 — Tổng: 835.000 VNĐ):
+### 📝 Nhật ký & Chi tiêu thực tế Ngày 3 (30/08/2026 — Tổng: 735.000 VNĐ):
 - **Lộ trình:** Cột mốc Km0 Hà Giang (08:00) → Dốc Bắc Sum → Cổng Trời Quản Bạ → Can Tỷ → Cập bến Yên Minh an toàn lúc ~13:00. Check-in Bong Bang Homestay 2.
 - **Xăng xe (70.000 VNĐ):**
   - Đổ xăng xe máy Wave 110cc: **70.000 VNĐ**
-- **Ẩm thực & Cà phê (765.000 VNĐ):**
+- **Ẩm thực & Cà phê (665.000 VNĐ):**
   - 🍜 **Sáng:** Bún riêu Bống (TP Hà Giang): **100.000 VNĐ**
   - 🍚 **Trưa:** Cơm bình dân thịt lợn bản + rau xào tại Yên Minh: **150.000 VNĐ**
   - 🥤 **Dọc đường:** Nước suối & nước giải khát: **100.000 VNĐ**
-  - 🍢 **Tối & Ăn vặt:** Lợn nướng + chim cút nướng (100k) + cá viên (90k) + trái cây (50k): **340.000 VNĐ**
+  - 🍢 **Tối & Ăn vặt:** Lợn nướng + chim cút nướng (100k) + cá viên (90k) + trái cây (50k): **240.000 VNĐ**
   - ☕ **Giải khát & Cà phê:** 2 ly Nước sấu + 1 ly Café Bạc xỉu: **75.000 VNĐ**
 
 ---
@@ -385,14 +385,14 @@
 
 | Ngày | Chặng di chuyển | Chi phí thực tế (VNĐ) | Hạng mục chi tiêu chính |
 |:---|:---|:---:|:---|
-| **Ngày 1 (28/08)** | SGN → Nội Bài → Mỹ Đức → Hà Nội | **2.020.000đ** | Quà biếu thăm thân (1.100k) + Nầm bò nướng (390k) + Phở Hiệu & Bún đậu + Taxi & Xăng (190k) |
+| **Ngày 1 (28/08)** | SGN → Nội Bài → Mỹ Đức → Hà Nội | **2.010.000đ** | Quà biếu thăm thân (1.100k) + Nầm bò nướng (390k) + Phở Hiệu & Bún đậu + Taxi & Xăng (190k) |
 | **Ngày 2 (29/08)** | Khám phá Hà Nội → Xe đêm đi HG | **1.220.000đ** | Bánh trung thu biếu (500k) + Sữa chua Hạ Long + Bún chả/Bún cá/Nem chua + Vé Hoàng Thành (100k) + KS quá giờ (100k) |
-| **Ngày 3 (30/08)** | TP Hà Giang → Quản Bạ → Yên Minh | **835.000đ** | Đồ nướng & trái cây Yên Minh (340k) + Cơm trưa (150k) + Bún riêu Bống (100k) + Nước sấu/bạc xỉu (75k) + Xăng (70k) |
+| **Ngày 3 (30/08)** | TP Hà Giang → Quản Bạ → Yên Minh | **735.000đ** | Đồ nướng & trái cây Yên Minh (240k) + Cơm trưa (150k) + Bún riêu Bống (100k) + Nước sấu/bạc xỉu (75k) + Xăng (70k) |
 | **Ngày 4 (31/08)** | Yên Minh → Lũng Cú → Đồng Văn | **875.000đ** | Xiên nướng & trà sữa Lô Lô Chải (250k) + Cơm rang dưa bò/lòng (200k) + Vé Dinh Vua Mèo (80k) + Phở tráng tay (80k) + Trà chanh + Cháo ấu tẩu (50k) + Xăng (50k) |
 | **Ngày 5 (01/09)** | Đồng Văn → Nho Quế → Mèo Vạc | **660.000đ** | Vịt nướng & Trà chanh Vườn Đào (165k) + Cơm trưa (100k) + Xe ôm Vách đá (100k) + Lợn nướng/cafe (80k) + Gội đầu (60k) + Xăng & Chai phụ (50k) |
 | **Ngày 6 (02/09)** | Mèo Vạc → QL34 → TP Cao Bằng | **535.000đ** | Bia hơi tối Lễ 2/9 (150k) + Bún cá cay (100k) + Áp chao cô Ngân & vịt chiên (80k) + Nước kem đèo 14 tầng (50k) + Trà sữa/trà chanh/kem (55k) + Cafe/bánh/chè (70k) + Xăng (30k) |
 | **Ngày 7 (03/09)** | TP Cao Bằng → Núi Mắt Thần → Bản Giốc | **830.000đ** | Bữa trưa cá sông canh chua (240k) + Bữa tối xiên nướng coca (150k) + Phạt lỗi không xi nhan (150k) + Vé Thác Bản Giốc & Hồ Thang Hen (140k) + Bánh cuốn sáng (60k) + Nước kem gửi xe (50k) + Xăng (40k) |
-| **TỔNG CỘNG (7 NGÀY)** | **Hà Nội — Hà Giang — Cao Bằng** | 🏆 **6.975.000 VNĐ** | *Toàn bộ chi tiêu sinh hoạt, ẩm thực, xăng xe, quà biếu, vé tham quan và trải nghiệm thực tế.* |
+| **TỔNG CỘNG (7 NGÀY)** | **Hà Nội — Hà Giang — Cao Bằng** | 🏆 **6.865.000 VNĐ** | *Toàn bộ chi tiêu sinh hoạt, ẩm thực, xăng xe, quà biếu, vé tham quan và trải nghiệm thực tế.* |
 
 
 ## 30/08/2026 — Xác nhận lưu trú đêm 31/08 (ToTo-Chan Hotel — Đồng Văn)
@@ -592,8 +592,41 @@
   1. **Sticky Bottom Navigation (Mobile <= 768px):** Thanh điều hướng 6 tab dính đáy chuẩn công thái học ngón tay cái, đồng bộ 2 chiều với Desktop Tab Bar.
   2. **Đường chuẩn Ngân Sách Benchmark (Daily Chart):** Bổ sung đường đứt nét tham chiếu mục tiêu `~910k/ngày` (`DAILY_BENCHMARK = 910.000 đ`) và phân loại màu nhiệt động học cho từng cột ngày.
   3. **Search UX & Micro-interactions:** Nút xóa nhanh `✕`, thanh tóm tắt bộ lọc `🎯 Đang lọc X / 70 khoản chi`, nút `🔄 Đặt lại lọc` và Empty State thân thiện.
-  4. **Chuẩn hóa số liệu 100%:** Gộp quà biếu ông bà và trái cây thành 950k, tổng sinh hoạt 8 ngày đạt **7.280.000 đ**, tổng thực chi toàn chuyến đạt **17.945.195 đ** (~**8.972.598 đ / người**).
+  4. **Chuẩn hóa số liệu 100%:** Gộp quà biếu ông bà và trái cây thành 950k, tổng sinh hoạt 8 ngày đạt **7.280.000 đ**, tổng thực chi toàn chuyến đạt **18.945.195 đ** (~**9.472.598 đ / người**).
 - **Cập nhật đồng bộ:** [`index.html`](../index.html), [`info/expense_tracker.html`](../info/expense_tracker.html), [`info/tong_hop_chi_phi.md`](../info/tong_hop_chi_phi.md).
+
+---
+
+## 05/09/2026 — Bổ Sung Chi Phí Mua Điểm SkyPoint Vé Máy Bay Lượt Đi
+
+### Quyết định #38: Bổ sung 1.000.000 VNĐ chi phí mua 10.000 điểm SkyPoint (Vietjet VJ120)
+- **Chi tiết:** Chi phí 2 vé máy bay lượt đi Vietjet Air VJ120 gồm **1.000.000 VNĐ** (mua 10.000 SkyPoint) + **1.435.162 VNĐ** (tiền mặt vé/thuế phí & suất ăn nóng) = **2.435.162 VNĐ**.
+- **Tác động ngân sách:**
+  - Di chuyển cố định đã chi: **8.754.024 VNĐ** (tăng từ 7.754.024 VNĐ).
+  - Tổng thực chi chuyến đi: **18.945.195 VNĐ** (~**9.472.598 VNĐ / người**).
+- **Cập nhật đồng bộ:** [`info/chuyen_bay.md`](../info/chuyen_bay.md), [`info/tong_hop_chi_phi.md`](../info/tong_hop_chi_phi.md), [`index.html`](../index.html), [`info/expense_tracker.html`](../info/expense_tracker.html), [`README.md`](../README.md).
+
+---
+
+## 05/09/2026 — Cập Nhật Chi Tiêu Thực Tế Ngày 8 & Ngày 9 (Hà Nội Mùa Thu)
+
+### Quyết định #39: Ghi nhận 6 khoản chi mới (Bổ sung Ngày 8 + Khởi động Ngày 9)
+- **Ngày 8 (04/09):** Bổ sung 2 món ăn nhẹ/giải nhiệt tại Cao Bằng:
+  - Bún đậu: **50.000 VNĐ**
+  - Uống nước bí đao: **40.000 VNĐ**
+  - 👉 *Tổng Ngày 8 hoàn tất:* **505.000 VNĐ** (8 khoản chi).
+- **Ngày 9 (05/09 - Sáng Hà Nội):** Ghi nhận 4 khoản chi sáng sớm:
+  - Taxi Bến xe Mỹ Đình sang Hoàng Hoa Thám: **100.000 VNĐ**
+  - Ăn sáng Bún thang nóng hổi (+ quẩy & chè đá): **110.000 VNĐ**
+  - Cà phê muối: **20.000 VNĐ**
+  - Cà phê trứng & Cold Brew quán **Đây Đi**: **115.000 VNĐ**
+  - 👉 *Tổng Ngày 9 sáng nay:* **345.000 VNĐ** (4 khoản chi).
+- **Tác động ngân sách toàn chuyến:**
+  - Tổng sinh hoạt 9 ngày thực tế: **7.715.000 VNĐ** (76 khoản chi).
+  - TỔNG ĐÃ CHI THỰC TẾ & ĐÃ CHỐT: **19.380.195 VNĐ** (~**9.690.098 VNĐ / người**).
+  - Dự toán chi phí còn lại: **~2.510.000 VNĐ**.
+  - TỔNG DỰ KIẾN TOÀN BỘ CHUYẾN ĐI (10N9Đ): **~21.890.195 VNĐ** (~**10.945.098 VNĐ / người**).
+- **Cập nhật đồng bộ:** [`info/tong_hop_chi_phi.md`](../info/tong_hop_chi_phi.md), [`plans/lich_trinh_chi_tiet.md`](../plans/lich_trinh_chi_tiet.md), [`index.html`](../index.html), [`info/expense_tracker.html`](../info/expense_tracker.html), [`README.md`](../README.md).
 
 ---
 

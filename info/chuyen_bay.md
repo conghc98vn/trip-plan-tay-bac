@@ -18,7 +18,7 @@
 | **Trạng thái Check-in** | ✅ **Đã Check-in Online thành công** (27/08/2026) |
 | **Giờ ra cửa (Boarding)** | ⏰ **04:10 AM** (Cửa khởi hành sẽ đóng 15 phút trước giờ bay) |
 | **Số ghế & Boarding Group** | • HOANG CHI CONG: **Ghế 37E** (Group 4, Seq #65)<br>• PHAM HUYNH TRUC ANH: **Ghế 37F** (Group 4, Seq #66) |
-| **Chi phí 2 vé** | 10,000 SkyPoint + 717,581 VNĐ (UJSG2A) + 717,581 VNĐ (R7AH77) = 1,435,162 VNĐ (Đã thanh toán) |
+| **Chi phí 2 vé** | 1.000.000 VNĐ (Mua 10,000 SkyPoint) + 717,581 VNĐ (UJSG2A) + 717,581 VNĐ (R7AH77) = **2,435,162 VNĐ** (Đã thanh toán) |
 | **Thẻ lên tàu & Xác nhận vé** | • [`boarding_pass_vj120_chi_cong.pdf`](../attachments/ve_may_bay_luot_di/boarding_pass_vj120_chi_cong.pdf)<br>• [`boarding_pass_vj120_truc_anh.pdf`](../attachments/ve_may_bay_luot_di/boarding_pass_vj120_truc_anh.pdf)<br>• Vé điện tử: [`ve_di_vj120_chi_cong_suat_an.pdf`](../attachments/ve_may_bay_luot_di/ve_di_vj120_chi_cong_suat_an.pdf) |
 | **Di chuyển từ nhà** | 03:30 AM (Có mặt sân bay SGN ~04:00 AM, đi thẳng qua cửa an ninh vì 100% xách tay & đã check-in online) |
 
