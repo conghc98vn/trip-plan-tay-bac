@@ -63,8 +63,8 @@ chicong-trip-plan/
 | **Homestay Mèo Vạc** | ✅ Đã xác nhận | Phương Anh Hotel Mèo Vạc (Mã: 5152255450) - 300k (Tiền mặt) |
 | **KS TP Cao Bằng (02/09)** | ✅ Đã xác nhận | Minh Hoang Hotel & Homestay (Mã: 6307.802.042) - 369k (Tiền mặt) |
 | **Homestay Bản Giốc (03/09)** | ✅ Đã xác nhận | A THÁM homestay (Mã: 6515457323) - 518k |
-| **Homestay Hà Nội (Đêm 05/09)** | ✅ **Đã xác nhận** | **Hoang Hoa Tham Modern Apartment** (Mã: 1770541583) - 500k *(189 Hoàng Hoa Thám, Ba Đình)* |
-| **Lưu trú toàn tuyến** | 🏆 **Hoàn tất 100%** | **7/7 đêm KS/Homestay** (2.881.411 VNĐ) + **2 đêm xe khách đường dài** |
+| **Homestay Hà Nội (Đêm 05/09)** | ✅ **Đã xác nhận** | **Vari Homestay Đội Cấn** (Mã: `5623667981`, PIN: `6612`) - 529.760đ *(35 Ngõ 279 Đội Cấn, Ba Đình)* |
+| **Lưu trú toàn tuyến** | 🏆 **Hoàn tất 100%** | **7/7 đêm KS/Homestay** (2.911.171 VNĐ) + **2 đêm xe khách đường dài** |
 | **Food list Hà Nội** | ✅ Đã tổng hợp | Đã lưu & phân loại trong [dac_san_am_thuc.md](notes/dac_san_am_thuc.md#food-hn) |
 | **Photography spots** | ✅ Draft xong | Trong plan chi tiết |
 | **Setup hành lý & chằng xe** | ✅ Đã chốt | 1 Túi đeo chéo nhỏ máy ảnh + 2 Balo (1 baga trước + 1 baga sau/ngồi sau) + 1.5L xăng ([hanh_ly_baga.md](notes/hanh_ly_baga.md)) |
@@ -84,7 +84,7 @@ chicong-trip-plan/
 9. [x] Đặt homestay Hà Giang loop (✅ Đã chốt toàn bộ: Yên Minh 30/08, Đồng Văn 31/08 & Mèo Vạc 01/09)
 10. [x] Đặt KS TP Cao Bằng đêm Lễ 2/9 (✅ Minh Hoang Hotel & Homestay - 02/09)
 11. [x] Đặt Homestay Thác Bản Giốc đêm 03/09 (✅ A THÁM homestay - 03/09)
-12. [x] Đặt Homestay Hà Nội đêm 05/09 (✅ **Hoang Hoa Tham Modern Apartment** - 05/09 - 500k)
+12. [x] Đặt Homestay Hà Nội đêm 05/09 (✅ **Vari Homestay Đội Cấn** - 05/09 - 529.760 VNĐ)
 13. [x] Đặt xe máy Hà Nội lượt về (✅ **MOTOGO Hoàng Hoa Thám** - 06:00 05/09 - Xe số 2 ngày)
 14. [x] Hoàn thiện food list Hà Nội & tổng hợp theo món ăn ([dac_san_am_thuc.md](notes/dac_san_am_thuc.md#food-hn))
 15. [x] Chuẩn bị packing checklist, phương án chằng xe máy & sạc Type-C Anker 65W
@@ -97,7 +97,7 @@ chicong-trip-plan/
 
 | Ai | SĐT | Ghi chú |
 |----|------|---------|
-| **Căn hộ Hoàng Hoa Thám (05/09)** | 📞 **`0945 223 680`** | Hoang Hoa Tham Modern Apt (Ngõ 189 Hoàng Hoa Thám, Ba Đình) |
+| **Vari Homestay Đội Cấn (05/09)** | 📞 **`+84 965 439 693`**<br>📱 Zalo: **`0986949158`** | 35 Ngõ 279 Đội Cấn, Ba Đình (Mã: `5623667981`, PIN: `6612`) |
 | **MOTOGO Hà Nội** | **`0338 023 344`** | CS1: 7 ngõ 267 Hoàng Hoa Thám / CS2: Điền Xá Nội Bài |
 | **Giang Sơn (Tổng đài HG)** | Mr Sơn: `0983 380 333` / Mrs Giang: `0988 470 863` | Wave 110cc (gói BH cứu hộ 250k/ngày) |
 | **Giang Sơn (Nhận xe Cao Bằng)** | 📞 **`0868 252 168`** | [Điểm trả xe cố định TP Cao Bằng](https://maps.app.goo.gl/Fewv97hZmzrFNRSM7?g_st=ic) |

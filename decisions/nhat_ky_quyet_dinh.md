@@ -528,24 +528,25 @@
   3. *Hoàn cọc chuyển khoản:* Gửi STK ngân hàng cho bên Giang Sơn để nhận lại **3.000.000 VNĐ** tiền cọc hợp đồng ngay sau khi nhân viên kiểm tra xác nhận.
 - **Cập nhật đồng bộ:** [`info/thue_xe_may.md`](../info/thue_xe_may.md), [`plans/lich_trinh_chi_tiet.md`](../plans/lich_trinh_chi_tiet.md) và [`README.md`](../README.md).
 
-## 04/09/2026 — Chốt & Xác Nhận Đặt Phòng Hoang Hoa Tham Modern Apartment (Hà Nội — Đêm 05/09)
+## 05/09/2026 — Chốt & Xác Nhận Đặt Phòng Vari Homestay Đội Cấn (Hà Nội — Đêm 05/09 — Chốt Cuối Cùng)
 
-### Quyết định #34: Chốt đặt phòng Hoang Hoa Tham Modern Apartment qua Agoda (Đêm Thứ Bảy 05/09)
-- **Tên chỗ nghỉ:** **Hoang Hoa Tham Modern Apartment in Ba Dinh near West Lake and Old Quarter** ✅ *(Đã xác nhận trên Agoda)*
-- **Mã số đặt phòng (Booking ID):** **`1770541583`** | **Mã tham chiếu:** **`6662961894`**
-- **Hotline / SĐT chỗ nghỉ:** 📞 **`+84 945 223 680`** *(Đã liên hệ xác nhận)*
-- **Thời gian lưu trú:** 1 đêm (Nhận phòng: **Thứ Bảy 05/09/2026** từ 14:00 — Trả phòng: **Chủ Nhật 06/09/2026** trước 12:00)
-- **Địa chỉ chi tiết:** **9/80 Ngõ 189 Đường Hoàng Hoa Thám, Quận Ba Đình, Hà Nội, Việt Nam** *(Gần Hồ Tây & Phố Cổ)*
-- **Loại phòng:** 1 x Căn Hộ Hướng Vườn (17 m², 1 giường lớn, 2 người lớn, WiFi, chỗ đỗ xe, nhận phòng nhanh)
-- **Khách đặt:** Chi Cong Hoang
-- **Tổng giá tiền:** **500.000 VNĐ** *(Gồm 454.332đ phòng + 45.668đ thuế & phí)*
-- **Hình thức thanh toán:** **Thanh toán trực tiếp tại chỗ nghỉ khi nhận phòng** *(Đơn đặt phòng không cần thẻ tín dụng)*
+### Quyết định #34: Chốt đặt phòng Vari Homestay Đội Cấn qua Booking.com (Đêm Thứ Bảy 05/09)
+- **Tên chỗ nghỉ:** **Vari Homestay Đội Cấn** ✅ *(Đã xác nhận trên Booking.com)*
+- **Mã số xác nhận (Booking ID):** **`5623667981`** (hoặc `5623.667.981`) | **Mã PIN:** **`6612`**
+- **Hotline / SĐT chỗ nghỉ:** 📞 **`+84 965 439 693`** | **Zalo chủ nhà:** 📱 **`0986949158`** *(Chủ nhà đã chủ động nhắn qua Zalo để tiện trao đổi thông tin)*
+- **Thời gian lưu trú:** 1 đêm (Nhận phòng: **Thứ Bảy 05/09/2026** 14:00 - 21:00, dự kiến đến 11:00 - 12:00 — Trả phòng: **Chủ Nhật 06/09/2026** 11:00 - 12:00)
+- **Địa chỉ chi tiết:** **35 Ngõ 279 Phố Đội Cấn, Quận Ba Đình, Hà Nội, Việt Nam** *(Tọa độ GPS: N 021° 2.317, E 105° 49.235)*
+- **Loại phòng:** 1 x **Studio Deluxe Có Giường Cỡ Queen** (Studio nguyên căn, giường 151-180cm, nhìn ra thành phố, phòng tắm riêng, điều hòa, tủ lạnh, lò vi sóng, bàn làm việc, WiFi & chỗ đỗ xe riêng miễn phí)
+- **Khách đặt:** Chí Công Hoàng (2 người lớn)
+- **Tổng giá tiền:** **529.760 VNĐ** *(Gồm 481.600đ tiền phòng + 48.160đ thuế GTGT 10% — Đã áp dụng ưu đãi Genius -12%)*
+- **Hình thức thanh toán:** **Thanh toán tại chỗ nghỉ khi nhận phòng** *(Chấp nhận Visa, Mastercard, JCB hoặc tiền mặt)*
+- **Chính sách hủy phòng:** **Miễn phí hủy trước 18:00 ngày 05/09/2026**. Sau thời gian này tính phí 100%.
 - **Ưu điểm & Vị trí:**
-  - Vị trí đắc địa tại ngõ 189 Hoàng Hoa Thám, Ba Đình, thuận tiện sang ngắm gió Hồ Tây, dạo phố Phan Đình Phùng check-in xe hoa mùa thu và ăn lẩu riêu cua Trúc Bạch.
-  - Căn hộ riêng tư, yên tĩnh, view hướng vườn thoáng mát, nhận phòng nhanh.
+  - Vị trí đắc địa tại ngõ 279 Đội Cấn, Ba Đình (thông gần ngõ 267 Hoàng Hoa Thám cách điểm nhận xe MOTOGO chỉ ~700m), vô cùng thuận tiện dạo phố Phan Đình Phùng check-in xe hoa mùa thu, ngắm Hồ Tây lộng gió và thưởng thức ẩm thực Hà Thành.
+  - Studio nguyên căn tiện nghi đầy đủ, riêng tư, sạch sẽ, không gian ấm cúng cho 2 người.
   - Hoàn thành trọn vẹn **100% mục tiêu đặt phòng (7/7 đêm lưu trú)** cho toàn bộ chuyến đi!
 - **Tài liệu tham chiếu:** [`info/dat_phong.md`](../info/dat_phong.md#ha-noi-2)
-- **Tài liệu đính kèm:** [`attachments/booking/xac_nhan_booking_hanoi_hoang_hoa_tham.pdf`](../attachments/booking/xac_nhan_booking_hanoi_hoang_hoa_tham.pdf)
+- **Tài liệu đính kèm:** [`attachments/booking/xac_nhan_booking_hanoi_vari_homestay_doi_can.pdf`](../attachments/booking/xac_nhan_booking_hanoi_vari_homestay_doi_can.pdf)
 - **Cập nhật đồng bộ:** [`plans/lich_trinh_chi_tiet.md`](../plans/lich_trinh_chi_tiet.md), [`info/tong_hop_chi_phi.md`](../info/tong_hop_chi_phi.md), [`info/expense_tracker.html`](../info/expense_tracker.html), [`notes/goi_y_homestay.md`](../notes/goi_y_homestay.md) và [`README.md`](../README.md).
 
 ## 04/09/2026 — Cập Nhật Tiến Độ Thực Tế Ngày 7 (Bản Giốc & Ngườm Ngao) & Ngày 8 (Chợ Co Sàu, Pác Bó, Suối Lê-Nin, Phở Chua & Chuẩn Bị Về Hà Nội)
@@ -608,7 +609,7 @@
 - [x] Chốt phương án về Hà Nội bằng xe Cabin VIP đêm 21:00 ngày 04/09 & dành trọn 2 ngày cuối tuần tại Hà Nội
 - [x] Đặt homestay Thác Bản Giốc đêm 03/09 (✅ **A THÁM homestay** - Mã `6515457323` - 518.011 VNĐ)
 - [x] Đặt vé xe Cabin VIP CB → Hà Nội (✅ **Hiệp Giang Limousine Cabin B.10** - Mã `P2DZO3` - 750.000 VNĐ)
-- [x] Đặt homestay / Khách sạn Hà Nội đêm 05/09 (✅ **Hoang Hoa Tham Modern Apartment** - Mã `1770541583` - 500.000 VNĐ)
+- [x] Đặt homestay / Khách sạn Hà Nội đêm 05/09 (✅ **Vari Homestay Đội Cấn** - Mã `5623667981` - 529.760 VNĐ)
 - [x] Đặt xe máy Hà Nội lượt về (✅ **MOTOGO Hoàng Hoa Thám** - 06:00 05/09 - Xe số 2 ngày)
 - [x] Hoàn thành chặng phượt đèo xe máy Hà Giang - Cao Bằng an toàn 100%
 - [ ] Bàn giao trả xe Wave Giang Sơn tại TP Cao Bằng chiều 04/09 & nhận lại cọc 3.000.000 VNĐ

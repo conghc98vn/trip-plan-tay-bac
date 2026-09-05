@@ -144,20 +144,26 @@
 
 ---
 
-## <a id="ha-noi-2"></a>📍 Đêm 7: 05/09/2026 (Thứ Bảy) — Hoàng Hoa Thám, Ba Đình (Hà Nội)
+## <a id="ha-noi-2"></a>📍 Đêm 7: 05/09/2026 (Thứ Bảy) — Đội Cấn, Ba Đình (Hà Nội)
 
 | Hạng mục | Chi tiết xác nhận |
 |----------|-------------------|
-| **Tên chỗ nghỉ** | **Hoang Hoa Tham Modern Apartment in Ba Dinh near West Lake and Old Quarter** ✅ *(Đã xác nhận trên Agoda)* |
-| **Mã số đặt phòng (Booking ID)** | `1770541583` |
-| **Mã tham chiếu (Reference ID)** | `6662961894` |
-| **Điện thoại / Hotline chỗ nghỉ** | 📞 **`+84 945 223 680`** *(Đã liên hệ xác nhận)* |
-| **Địa chỉ chi tiết** | **9/80 Ngõ 189 Đường Hoàng Hoa Thám, Quận Ba Đình, Hà Nội, Việt Nam** *(Gần Hồ Tây & Phố Cổ)* |
-| **Thời gian nhận phòng** | **T7, 05/09/2026** (Từ 14:00 — Có thể ghé gửi hành lý buổi sáng) |
-| **Thời gian trả phòng** | **CN, 06/09/2026** (Trước 12:00, 1 đêm) |
-| **Loại phòng** | 1 x Căn Hộ Hướng Vườn (17 m², 1 giường lớn, 2 người lớn, WiFi miễn phí, chỗ đỗ xe, nhận phòng nhanh) |
-| **Tên khách đặt** | Chi Cong Hoang |
-| **Tổng giá tiền** | **500.000 VNĐ** *(Gồm 454.332đ tiền phòng + 45.668đ thuế & phí)* |
-| **Hình thức thanh toán** | **Thanh toán trực tiếp tại chỗ nghỉ khi nhận phòng** *(Đơn đặt phòng không cần thẻ tín dụng)* |
-| **Chính sách hủy phòng** | Không hoàn tiền khi hủy (Không đến khách sạn sẽ tính 100% theo quy định) |
-| **Tài liệu đính kèm** | [`attachments/booking/xac_nhan_booking_hanoi_hoang_hoa_tham.pdf`](../attachments/booking/xac_nhan_booking_hanoi_hoang_hoa_tham.pdf) |
+| **Tên chỗ nghỉ** | **Vari Homestay Đội Cấn** ✅ *(Đã xác nhận trên Booking.com)* |
+| **Mã số xác nhận (Booking ID)** | `5623667981` (hoặc `5623.667.981`) |
+| **Mã PIN (Bảo mật)** | `6612` |
+| **Điện thoại chỗ nghỉ** | 📞 **`+84 965 439 693`** |
+| **Zalo chủ nhà** | 📱 **`0986949158`** *(Chủ nhà nhắn trao đổi tiện qua Zalo)* |
+| **Email chỗ nghỉ** | `5623667981-tjw6.yvyc.tfpk.kjqt@property.booking.com` |
+| **Địa chỉ chi tiết** | **35 Ngõ 279 Phố Đội Cấn, Quận Ba Đình, Hà Nội, Việt Nam** *(Tọa độ GPS: N 021° 2.317, E 105° 49.235)* |
+| **Thời gian nhận phòng** | **T7, 05/09/2026** (14:00 - 21:00 — Dự kiến đến: 11:00 - 12:00, có thể gửi đồ sớm) |
+| **Thời gian trả phòng** | **CN, 06/09/2026** (11:00 - 12:00, 1 đêm) |
+| **Loại phòng** | 1 x **Studio Deluxe Có Giường Cỡ Queen** (Studio nguyên căn, 1 giường đôi lớn rộng 151-180cm, 2 người lớn) |
+| **Tiện nghi phòng** | Phòng tắm riêng, nhìn ra thành phố, điều hòa, tủ lạnh, lò vi sóng, bàn làm việc, máy sấy tóc, ấm đun nước, WiFi miễn phí, chỗ đỗ xe riêng miễn phí |
+| **Tên khách đặt** | Chí Công Hoàng |
+| **Tổng giá tiền** | **529.760 VNĐ** *(Gồm 481.600đ tiền phòng + 48.160đ thuế GTGT 10% — Đã áp dụng ưu đãi Genius -12%)* |
+| **Hình thức thanh toán** | **Thanh toán tại chỗ nghỉ khi nhận phòng** *(Chấp nhận Visa, Mastercard, JCB hoặc tiền mặt)* |
+| **Chính sách hủy phòng** | **Hủy MIỄN PHÍ trước 18:00 ngày 05/09/2026 (+07)**.<br> Từ 18:00 ngày 05/09/2026 tính phí 100% (529.760 VNĐ). |
+| **Dịch vụ ăn uống** | Giá phòng không bao gồm bữa ăn |
+| **Tài liệu đính kèm** | [`attachments/booking/xac_nhan_booking_hanoi_vari_homestay_doi_can.pdf`](../attachments/booking/xac_nhan_booking_hanoi_vari_homestay_doi_can.pdf) |
+| **Link quản lý Booking** | [Chỉnh sửa / Quản lý đặt phòng](https://secure.booking.com/confirmation.html?auth_key=kGB3kUvqRrBnPafG;aid=304142;lang=vi;source=mytrips#manage-booking-quick-action) |
+
