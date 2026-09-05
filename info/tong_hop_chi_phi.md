@@ -69,8 +69,7 @@
 | Bánh ngọt ăn nhẹ | Mua dọc đường | 50.000 đ | Ẩm thực |
 | Ăn trưa Bún đậu Cô Hương | Bún đậu mắm tôm thập cẩm | 80.000 đ | Ẩm thực |
 | Nước uống giải khát | Dọc đường về Mỹ Đức | 50.000 đ | Nước uống |
-| Quà trái cây thăm ông bà | Mua tại chợ Mỹ Đức | 300.000 đ | Quà biếu |
-| Quà Yến sào, bánh, sữa biếu bà & các bác | Thăm gia đình họ hàng ở quê | 650.000 đ | Quà biếu |
+| Quà biếu ông bà & họ hàng (Yến sào, bánh sữa, trái cây) | Thăm gia đình & mua quà tại quê Mỹ Đức | 950.000 đ | Quà biếu |
 | Bánh kẹo cho các cháu | Mua chia quà cho trẻ em | 150.000 đ | Quà biếu |
 | Ăn tối Nầm bò nướng than hoa | Bữa tối nướng phố Ba Đình | 390.000 đ | Ẩm thực |
 

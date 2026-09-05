@@ -75,9 +75,8 @@
 >   - Nước uống dọc đường: **50.000đ**
 >   - Ăn tối Nầm bò nướng than hoa: **390.000đ**
 > - 🎁 **Quà biếu & Thăm thân:**
->   - Mua trái cây thăm ông bà (Mỹ Đức): **300.000đ**
->   - Mua Yến, bánh, sữa thăm bà và các bác: **650.000đ**
->   - Mua bánh cho các cháu: **150.000đ**
+>   - Quà biếu ông bà & họ hàng (Yến sào, bánh sữa, trái cây Mỹ Đức): **950.000đ**
+>   - Mua bánh kẹo cho các cháu: **150.000đ**
 
 | Thời gian | Hoạt động | Ghi chú |
 |-----------|-----------|---------|
