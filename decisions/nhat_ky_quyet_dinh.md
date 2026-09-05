@@ -582,10 +582,20 @@
   5. **Tra cứu Chuyên biệt Lưu trú & Di chuyển:** Tab quản lý toàn bộ 9 đêm (7 khách sạn/homestay kèm mã Booking, PIN, hotline, địa chỉ + 2 xe limousine đêm) và tab chi tiết vé máy bay, xe khách, hợp đồng xe máy Giang Sơn #45.
   6. **Bản đồ Ẩm thực & Thống kê Nâng cao:** Danh mục món ngon đã trải nghiệm, thống kê 9 lần đổ xăng (370k cho ~850km), top khoản chi lớn nhất.
   7. **Tiện ích Xuất Báo cáo:** Nút sao chép bảng Markdown, xuất file CSV/Excel và định dạng in ấn/PDF chuyên nghiệp.
-- **Cập nhật đồng bộ:** [`info/expense_tracker.html`](../info/expense_tracker.html), [`info/tong_hop_chi_phi.md`](../info/tong_hop_chi_phi.md) và [`README.md`](../README.md).
-
 ---
 
+## 05/09/2026 — Nâng Cấp Toàn Diện UI/UX Dashboard Tài Chính & Chuẩn Hóa Số Liệu
+
+### Quyết định #36: Tối ưu UI/UX Mobile-First & Trực quan hóa Benchmark
+- **Bối cảnh:** Nhằm nâng cao trải nghiệm tra cứu trên điện thoại khi đang di chuyển và tăng tính minh bạch, trực quan của bảng theo dõi tài chính.
+- **Các nâng cấp chính:**
+  1. **Sticky Bottom Navigation (Mobile <= 768px):** Thanh điều hướng 6 tab dính đáy chuẩn công thái học ngón tay cái, đồng bộ 2 chiều với Desktop Tab Bar.
+  2. **Đường chuẩn Ngân Sách Benchmark (Daily Chart):** Bổ sung đường đứt nét tham chiếu mục tiêu `~910k/ngày` (`DAILY_BENCHMARK = 910.000 đ`) và phân loại màu nhiệt động học cho từng cột ngày.
+  3. **Search UX & Micro-interactions:** Nút xóa nhanh `✕`, thanh tóm tắt bộ lọc `🎯 Đang lọc X / 70 khoản chi`, nút `🔄 Đặt lại lọc` và Empty State thân thiện.
+  4. **Chuẩn hóa số liệu 100%:** Gộp quà biếu ông bà và trái cây thành 950k, tổng sinh hoạt 8 ngày đạt **7.280.000 đ**, tổng thực chi toàn chuyến đạt **17.945.195 đ** (~**8.972.598 đ / người**).
+- **Cập nhật đồng bộ:** [`index.html`](../index.html), [`info/expense_tracker.html`](../info/expense_tracker.html), [`info/tong_hop_chi_phi.md`](../info/tong_hop_chi_phi.md).
+
+---
 
 ## Cần quyết định tiếp
 - [x] Đặt vé máy bay lượt đi (✅ **Vietjet Air VJ120** - PNR: UJSG2A / R7AH77)
@@ -611,9 +621,9 @@
 - [x] Đặt homestay / Khách sạn Hà Nội đêm 05/09 (✅ **Vari Homestay Đội Cấn** - Mã `5623667981` - 529.760 VNĐ)
 - [x] Đặt xe máy Hà Nội lượt về (✅ **MOTOGO Hoàng Hoa Thám** - 06:00 05/09 - Xe số 2 ngày)
 - [x] Hoàn thành chặng phượt đèo xe máy Hà Giang - Cao Bằng an toàn 100%
-- [ ] Bàn giao trả xe Wave Giang Sơn tại TP Cao Bằng chiều 04/09 & nhận lại cọc 3.000.000 VNĐ
-- [ ] Lên xe Cabin Hiệp Giang lúc 21:15 tối 04/09 về Hà Nội
-- [ ] Trải nghiệm 2 ngày cuối tuần Hà Nội (05/09 - 06/09): Nhận xe máy MOTOGO 06:00, Spa dưỡng sinh đôi, Foodtour phố cổ, Xe hoa mùa thu & Bay về SGN 23:30 tối 06/09
+- [x] Bàn giao trả xe Wave Giang Sơn tại TP Cao Bằng chiều 04/09 & nhận lại cọc 3.000.000 VNĐ
+- [x] Lên xe Cabin Hiệp Giang lúc 21:15 tối 04/09 về Hà Nội an toàn
+- [ ] Trải nghiệm 2 ngày cuối tuần Hà Nội (05/09 - 06/09): Nhận xe máy MOTOGO 06:00, Check-in Vari Homestay Đội Cấn, Spa dưỡng sinh đôi, Foodtour phố cổ, Xe hoa mùa thu & Bay về SGN 23:30 tối 06/09
 
 
 

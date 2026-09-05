@@ -14,10 +14,10 @@
 |:---|:---:|:---|
 | ✈️ **Chi phí cố định đã chi (Vé bay, xe khách, thuê 2 xe máy)** | **7.754.024 đ** | Đã gồm 2 vé bay khứ hồi (VJ 1.435k + Sun 2.346k) + 2 vé xe khách (Quang Tuyến 550k + Hiệp Giang 750k) + thuê Wave Giang Sơn (2.362k) + thuê Sirius MOTOGO HN lượt đi (310k) |
 | 🏨 **Chi phí lưu trú (Homestay/Hotel 7 đêm đã chốt)** | **2.911.171 đ** | Da Tree (348k) + Bong Bang 2 (400k) + ToTo-Chan (446.4k) + Phương Anh (300k) + Minh Hoàng (369k) + A THÁM (518.011đ) + Vari Homestay Đội Cấn (529.760đ) |
-| 🍜 **Chi tiêu sinh hoạt & trải nghiệm 8 ngày thực tế** | **7.380.000 đ** | Ẩm thực, quà biếu, vé tham quan, xăng cộ, xe ôm, phạt giao thông |
-| 💵 **TỔNG ĐÃ CHI THỰC TẾ (Đến hiện tại Ngày 8 + Xe về 04/09 + KS HN 05/09)** | 🏆 **18.045.195 đ** | **~9.022.598 đ / người (2 người)** |
+| 🍜 **Chi tiêu sinh hoạt & trải nghiệm 8 ngày thực tế** | **7.280.000 đ** | Ẩm thực, quà biếu, vé tham quan, xăng cộ, xe ôm, phạt giao thông |
+| 💵 **TỔNG ĐÃ CHI THỰC TẾ (Đến hiện tại Ngày 8 + Xe về 04/09 + KS HN 05/09)** | 🏆 **17.945.195 đ** | **~8.972.598 đ / người (2 người)** |
 | 🔮 **Dự toán chi phí còn lại (04/09 tối – 06/09)** | **~3.000.000 đ** | MOTOGO lượt về (310k) + Spa dưỡng sinh + Foodtour HN + Quà bánh cốm |
-| 🎯 **TỔNG CHI PHÍ DỰ KIẾN TOÀN CHUYẾN ĐI** | **~21.045.195 đ** | **~10.522.598 đ / người (10 ngày 9 đêm)** |
+| 🎯 **TỔNG CHI PHÍ DỰ KIẾN TOÀN CHUYẾN ĐI** | **~20.945.195 đ** | **~10.472.598 đ / người (10 ngày 9 đêm)** |
 | 🔄 **Khoản tiền cọc tạm ứng (Sẽ hoàn lại)** | **+3.000.000 đ** | Tiền cọc xe máy Giang Sơn nhận lại khi trả xe tại TP Cao Bằng chiều 04/09 |
 
 ---
@@ -215,26 +215,26 @@
 ## 📊 5. Cơ Cấu Chi Phí Phân Theo Danh Mục (Category Breakdown)
 
 ```mermaid
-pie title Tỷ trọng chi tiêu thực tế 8 ngày đầu (7.380.000đ)
-    "Ẩm thực & Cà phê" : 4475000
+pie title Tỷ trọng chi tiêu thực tế 8 ngày đầu (7.280.000đ)
+    "Ẩm thực & Cà phê" : 4385000
     "Quà biếu & Thăm thân" : 1600000
     "Xăng xe & Di chuyển tại chỗ" : 510000
     "Vé tham quan & Trải nghiệm" : 475000
-    "Dịch vụ & Vi phạm giao thông" : 220000
+    "Dịch vụ & Vi phạm giao thông" : 210000
     "Lưu trú phát sinh" : 100000
 ```
 
 | Danh mục | Đã chi & Đã đặt | Ước tính còn lại | Tổng dự kiến toàn chuyến | Tỷ lệ (%) |
 |:---|:---:|:---:|:---:|:---:|
-| ✈️ **Vé máy bay & Xe khách liên tỉnh** | 5.081.524 đ | 0 đ | **5.081.524 đ** | 24.2% |
+| ✈️ **Vé máy bay & Xe khách liên tỉnh** | 5.081.524 đ | 0 đ | **5.081.524 đ** | 24.3% |
 | 🏍️ **Thuê xe máy (Giang Sơn & 2 lượt MOTOGO)** | 2.672.500 đ | 310.000 đ | **~2.982.500 đ** | 14.2% |
-| 🏨 **Khách sạn / Homestay (9 đêm)** | 2.911.171 đ | 0 đ | **2.911.171 đ** | 13.8% |
-| 🍜 **Ẩm thực & Thức uống** | 4.475.000 đ | ~1.500.000 đ | **~5.975.000 đ** | 28.4% |
+| 🏨 **Khách sạn / Homestay (9 đêm)** | 2.911.171 đ | 0 đ | **2.911.171 đ** | 13.9% |
+| 🍜 **Ẩm thực & Thức uống** | 4.385.000 đ | ~1.500.000 đ | **~5.885.000 đ** | 28.1% |
 | 🎁 **Quà biếu & Mua đặc sản** | 1.600.000 đ | ~600.000 đ | **~2.200.000 đ** | 10.5% |
 | 🎟️ **Vé tham quan & Trải nghiệm** | 475.000 đ | ~150.000 đ | **~625.000 đ** | 3.0% |
 | 🏍️ **Xăng xe & Di chuyển nội thành/địa phương** | 510.000 đ | ~150.000 đ | **~660.000 đ** | 3.1% |
-| 💆 **Dịch vụ, Spa & Phát sinh khác** | 320.000 đ | ~300.000 đ | **~620.000 đ** | 2.9% |
-| **TỔNG CỘNG** | **18.045.195 đ** | **~3.010.000 đ** | **~21.055.195 đ** | **100%** |
+| 💆 **Dịch vụ, Spa & Phát sinh khác** | 310.000 đ | ~300.000 đ | **~610.000 đ** | 2.9% |
+| **TỔNG CỘNG** | **17.945.195 đ** | **~3.010.000 đ** | **~20.955.195 đ** | **100%** |
 
 ---
 
