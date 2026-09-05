@@ -6,28 +6,32 @@
   <title>Trip Finance Intelligence HQ — Hà Giang • Cao Bằng • Hà Nội 2026</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@500;700;800&family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@500;600;700;800&family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
   <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
   <style>
     :root {
       --bg: #070b14;
-      --bg-card: rgba(15, 23, 42, 0.75);
-      --bg-card-hover: rgba(30, 41, 59, 0.85);
+      --bg-card: rgba(15, 23, 42, 0.78);
+      --bg-card-hover: rgba(30, 41, 59, 0.9);
       --card-border: rgba(255, 255, 255, 0.08);
-      --card-border-glow: rgba(56, 189, 248, 0.25);
+      --card-border-glow: rgba(56, 189, 248, 0.3);
       
       --primary: #38bdf8;
       --primary-light: #7dd3fc;
       --primary-glow: rgba(56, 189, 248, 0.35);
       
       --emerald: #10b981;
+      --emerald-light: #34d399;
       --emerald-glow: rgba(16, 185, 129, 0.3);
       
       --amber: #f59e0b;
+      --amber-light: #fbbf24;
       --amber-glow: rgba(245, 158, 11, 0.25);
       
       --rose: #f43f5e;
+      --rose-light: #fda4af;
       --purple: #a855f7;
+      --purple-light: #d8b4fe;
       --indigo: #6366f1;
       
       --text: #f8fafc;
@@ -40,14 +44,14 @@
       --radius-full: 9999px;
       
       --font-mono: 'JetBrains Mono', monospace;
-      --transition: all 0.25s cubic-bezier(0.16, 1, 0.3, 1);
+      --transition: all 0.22s cubic-bezier(0.16, 1, 0.3, 1);
     }
 
     * {
       box-sizing: border-box;
       margin: 0;
       padding: 0;
-      font-family: 'Plus Jakarta Sans', sans-serif;
+      font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, sans-serif;
       -webkit-tap-highlight-color: transparent;
     }
 
@@ -60,7 +64,7 @@
     }
 
     .container {
-      max-width: 1280px;
+      max-width: 1320px;
       margin: 0 auto;
     }
 
@@ -76,7 +80,7 @@
       border: 1px solid var(--card-border);
       border-radius: var(--radius-lg);
       backdrop-filter: blur(20px);
-      margin-bottom: 28px;
+      margin-bottom: 24px;
       box-shadow: 0 20px 40px -15px rgba(0,0,0,0.6);
     }
 
@@ -87,14 +91,14 @@
     }
 
     .brand-icon {
-      width: 44px;
-      height: 44px;
+      width: 46px;
+      height: 46px;
       background: linear-gradient(135deg, #0284c7, #10b981);
       border-radius: var(--radius-md);
       display: flex;
       align-items: center;
       justify-content: center;
-      font-size: 1.4rem;
+      font-size: 1.5rem;
       box-shadow: 0 8px 20px rgba(16, 185, 129, 0.3);
     }
 
@@ -108,7 +112,7 @@
     }
 
     .brand-text p {
-      font-size: 0.8rem;
+      font-size: 0.82rem;
       color: var(--text-muted);
       display: flex;
       align-items: center;
@@ -187,9 +191,9 @@
     /* Hero KPI Cards */
     .kpi-grid {
       display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
+      grid-template-columns: repeat(auto-fit, minmax(235px, 1fr));
       gap: 16px;
-      margin-bottom: 28px;
+      margin-bottom: 24px;
     }
 
     .kpi-card {
@@ -228,7 +232,7 @@
     }
 
     .kpi-title {
-      font-size: 0.8rem;
+      font-size: 0.78rem;
       font-weight: 700;
       text-transform: uppercase;
       letter-spacing: 0.06em;
@@ -236,11 +240,11 @@
     }
 
     .kpi-icon {
-      font-size: 1.2rem;
+      font-size: 1.25rem;
     }
 
     .kpi-amount {
-      font-size: 1.65rem;
+      font-size: 1.68rem;
       font-weight: 800;
       font-family: var(--font-mono);
       color: #fff;
@@ -270,11 +274,60 @@
       background: var(--accent-gradient, linear-gradient(90deg, var(--primary), var(--emerald)));
     }
 
+    /* Key Highlights Strip */
+    .highlights-strip {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(210px, 1fr));
+      gap: 12px;
+      margin-bottom: 24px;
+    }
+
+    .highlight-card {
+      background: rgba(15, 23, 42, 0.6);
+      border: 1px solid rgba(255, 255, 255, 0.06);
+      border-radius: var(--radius-md);
+      padding: 14px 16px;
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      transition: var(--transition);
+    }
+
+    .highlight-card:hover {
+      background: rgba(255, 255, 255, 0.04);
+      border-color: rgba(255, 255, 255, 0.12);
+    }
+
+    .highlight-icon {
+      font-size: 1.5rem;
+      width: 40px;
+      height: 40px;
+      border-radius: var(--radius-sm);
+      background: rgba(255, 255, 255, 0.05);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-shrink: 0;
+    }
+
+    .highlight-label {
+      font-size: 0.74rem;
+      color: var(--text-muted);
+      text-transform: uppercase;
+      font-weight: 600;
+    }
+
+    .highlight-val {
+      font-size: 0.95rem;
+      font-weight: 700;
+      color: #fff;
+    }
+
     /* Main Tab Navigation */
     .tab-nav {
       display: flex;
       gap: 8px;
-      background: rgba(15, 23, 42, 0.6);
+      background: rgba(15, 23, 42, 0.65);
       padding: 6px;
       border-radius: var(--radius-md);
       border: 1px solid var(--card-border);
@@ -339,7 +392,7 @@
 
     .grid-3 {
       display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+      grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
       gap: 20px;
       margin-bottom: 24px;
     }
@@ -376,9 +429,70 @@
       margin-top: 2px;
     }
 
+    /* Transparency Summary 3 Columns */
+    .transparency-pillar {
+      background: rgba(255, 255, 255, 0.02);
+      border: 1px solid rgba(255, 255, 255, 0.06);
+      border-radius: var(--radius-md);
+      padding: 18px;
+      display: flex;
+      flex-direction: column;
+      height: 100%;
+    }
+
+    .pillar-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding-bottom: 12px;
+      border-bottom: 1px solid rgba(255, 255, 255, 0.06);
+      margin-bottom: 14px;
+    }
+
+    .pillar-title {
+      font-size: 0.95rem;
+      font-weight: 700;
+      color: #fff;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .pillar-total {
+      font-family: var(--font-mono);
+      font-weight: 800;
+      font-size: 1.05rem;
+    }
+
+    .pillar-item {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 8px 0;
+      font-size: 0.82rem;
+      border-bottom: 1px dashed rgba(255, 255, 255, 0.04);
+    }
+
+    .pillar-item:last-child {
+      border-bottom: none;
+    }
+
+    .pillar-item-label {
+      color: var(--text-muted);
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+
+    .pillar-item-val {
+      font-family: var(--font-mono);
+      font-weight: 600;
+      color: #fff;
+    }
+
     /* Category List Bars */
     .cat-item {
-      margin-bottom: 16px;
+      margin-bottom: 14px;
       padding: 12px 14px;
       background: rgba(255, 255, 255, 0.03);
       border-radius: var(--radius-md);
@@ -642,6 +756,8 @@
       justify-content: space-between;
       align-items: flex-start;
       margin-bottom: 12px;
+      flex-wrap: wrap;
+      gap: 8px;
     }
 
     .voucher-name {
@@ -651,11 +767,12 @@
       display: flex;
       align-items: center;
       gap: 8px;
+      flex-wrap: wrap;
     }
 
     .voucher-meta-grid {
       display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
       gap: 10px;
       margin-bottom: 12px;
       font-size: 0.82rem;
@@ -679,21 +796,16 @@
       font-family: var(--font-mono);
     }
 
-    .btn-copy {
-      padding: 4px 10px;
-      background: rgba(255, 255, 255, 0.06);
-      border: 1px solid rgba(255, 255, 255, 0.1);
-      border-radius: var(--radius-sm);
-      color: var(--text-muted);
-      font-size: 0.74rem;
-      cursor: pointer;
-      transition: var(--transition);
+    .hotline-link {
+      color: var(--emerald-light);
+      text-decoration: none;
+      display: inline-flex;
+      align-items: center;
+      gap: 4px;
     }
 
-    .btn-copy:hover {
-      color: #fff;
-      background: rgba(56, 189, 248, 0.2);
-      border-color: var(--primary);
+    .hotline-link:hover {
+      text-decoration: underline;
     }
 
     /* Day Itinerary Box */
@@ -718,22 +830,28 @@
 
     .day-sum-badge {
       font-family: var(--font-mono);
-      font-size: 1rem;
+      font-size: 1.05rem;
       font-weight: 800;
       color: var(--emerald);
       background: rgba(16, 185, 129, 0.12);
-      padding: 4px 12px;
+      padding: 4px 14px;
       border-radius: var(--radius-full);
       border: 1px solid rgba(16, 185, 129, 0.3);
     }
 
     /* Insights Stats Cards */
     .stat-box {
-      background: rgba(15, 23, 42, 0.5);
+      background: rgba(15, 23, 42, 0.6);
       border: 1px solid rgba(255, 255, 255, 0.06);
       border-radius: var(--radius-md);
       padding: 16px;
       text-align: center;
+      transition: var(--transition);
+    }
+
+    .stat-box:hover {
+      border-color: rgba(56, 189, 248, 0.3);
+      transform: translateY(-2px);
     }
 
     .stat-number {
@@ -840,7 +958,7 @@
       <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 10px;">
         <div class="status-badge">
           <span class="pulse"></span>
-          <span>Ngày 8 (04/09): Bản Giốc ➔ Pác Bó ➔ Hà Nội</span>
+          <span>Hôm nay: Ngày 9 (05/09) — Sớm Mai Hà Nội • Foodtour Phố Cổ</span>
         </div>
         <div class="route-pill">
           <span>28/08 – 06/09/2026 (10N9Đ)</span>
@@ -860,7 +978,7 @@
       </div>
     </header>
 
-    <!-- Executive Hero KPI Cards -->
+    <!-- Executive Hero KPI Cards (Dynamic Computation) -->
     <section class="kpi-grid">
       <!-- KPI 1: Grand Total -->
       <div class="kpi-card" style="--accent-gradient: linear-gradient(90deg, #10b981, #34d399);">
@@ -870,7 +988,7 @@
         </div>
         <div class="kpi-amount" id="kpi-grand-total">18.045.195 đ</div>
         <div class="kpi-subtitle">
-          <span>~9.022.598 đ / người (2 người)</span>
+          <span id="kpi-per-person">~9.022.598 đ / người (2 người)</span>
         </div>
         <div class="kpi-progress">
           <div class="kpi-progress-bar" style="width: 85.7%;"></div>
@@ -900,7 +1018,7 @@
         </div>
         <div class="kpi-amount" id="kpi-daily-total">7.380.000 đ</div>
         <div class="kpi-subtitle">
-          <span>TB ~922.500 đ / ngày (Ẩm thực, xăng, vé, quà)</span>
+          <span id="kpi-daily-avg">TB ~922.500 đ / ngày (71 khoản chi)</span>
         </div>
         <div class="kpi-progress">
           <div class="kpi-progress-bar" style="width: 71%; background: linear-gradient(90deg, #f59e0b, #fbbf24);"></div>
@@ -913,9 +1031,9 @@
           <span class="kpi-title">Di Chuyển Cố Định</span>
           <span class="kpi-icon">✈️ 🏍️</span>
         </div>
-        <div class="kpi-amount">7.754.024 đ</div>
+        <div class="kpi-amount" id="kpi-fixed-total">7.754.024 đ</div>
         <div class="kpi-subtitle">
-          <span>2 Vé máy bay, 2 Vé xe khách, 2 Xe máy</span>
+          <span>2 Vé máy bay, 2 Xe khách, 2 Xe máy</span>
         </div>
         <div class="kpi-progress">
           <div class="kpi-progress-bar" style="width: 96.1%; background: linear-gradient(90deg, #0284c7, #38bdf8);"></div>
@@ -928,9 +1046,9 @@
           <span class="kpi-title">Lưu Trú 9 Đêm</span>
           <span class="kpi-icon">🏨</span>
         </div>
-        <div class="kpi-amount">2.911.171 đ</div>
+        <div class="kpi-amount" id="kpi-hotel-total">2.911.171 đ</div>
         <div class="kpi-subtitle">
-          <span>Đã chốt 100% (7 Đêm KS + 2 Đêm Xe Limousine)</span>
+          <span>Đã chốt 100% (7 Đêm KS + 2 Đêm Xe VIP)</span>
         </div>
         <div class="kpi-progress">
           <div class="kpi-progress-bar" style="width: 100%; background: linear-gradient(90deg, #a855f7, #ec4899);"></div>
@@ -953,22 +1071,57 @@
       </div>
     </section>
 
+    <!-- Key Trip Highlights Strip -->
+    <section class="highlights-strip">
+      <div class="highlight-card">
+        <div class="highlight-icon" style="color: #f43f5e;">📈</div>
+        <div>
+          <div class="highlight-label">Ngày chi nhiều nhất</div>
+          <div class="highlight-val">Ngày 1 (2.010.000 đ)</div>
+        </div>
+      </div>
+      <div class="highlight-card">
+        <div class="highlight-icon" style="color: #10b981;">📉</div>
+        <div>
+          <div class="highlight-label">Ngày tiết kiệm nhất</div>
+          <div class="highlight-val">Ngày 8 (415.000 đ)</div>
+        </div>
+      </div>
+      <div class="highlight-card">
+        <div class="highlight-icon" style="color: #f59e0b;">🎁</div>
+        <div>
+          <div class="highlight-label">Khoản chi lớn nhất</div>
+          <div class="highlight-val">Quà Yến sào biếu bà (650k)</div>
+        </div>
+      </div>
+      <div class="highlight-card">
+        <div class="highlight-icon" style="color: #38bdf8;">🍜</div>
+        <div>
+          <div class="highlight-label">Món ngon & Ẩm thực</div>
+          <div class="highlight-val">39 món đặc sản & cafe</div>
+        </div>
+      </div>
+    </section>
+
     <!-- Navigation Tabs -->
     <nav class="tab-nav">
       <button class="tab-btn active" onclick="switchTab('tab-analytics')">
         <span>📊</span> 1. Tổng Quan & Biểu Đồ
       </button>
       <button class="tab-btn" onclick="switchTab('tab-expenses')">
-        <span>📝</span> 2. Nhật Ký Chi Tiêu (70 Mục)
+        <span>📝</span> 2. Nhật Ký Chi Tiêu (71 Mục)
+      </button>
+      <button class="tab-btn" onclick="switchTab('tab-transparency')">
+        <span>🔍</span> 3. Đối Soát Minh Bạch 3 Trụ Cột
       </button>
       <button class="tab-btn" onclick="switchTab('tab-hotels')">
-        <span>🏨</span> 3. Khách Sạn & Homestay (9 Đêm)
+        <span>🏨</span> 4. Khách Sạn & Homestay (9 Đêm)
       </button>
       <button class="tab-btn" onclick="switchTab('tab-logistics')">
-        <span>✈️</span> 4. Di Chuyển & Đặt Chỗ
+        <span>✈️</span> 5. Di Chuyển & Đặt Chỗ
       </button>
       <button class="tab-btn" onclick="switchTab('tab-insights')">
-        <span>💡</span> 5. Thống Kê Nâng Cao & Ẩm Thực
+        <span>💡</span> 6. Thống Kê Chuyên Sâu & Ẩm Thực
       </button>
     </nav>
 
@@ -979,8 +1132,8 @@
         <div class="card">
           <div class="card-header">
             <div>
-              <div class="card-title"><span>🥧</span> Cơ Cấu Chi Phí Sinh Hoạt</div>
-              <div class="card-subtitle">Tỷ trọng chi tiêu 8 ngày đầu (Tổng: 7.380.000 đ)</div>
+              <div class="card-title"><span>🥧</span> Cơ Cấu Chi Phí Sinh Hoạt 8 Ngày</div>
+              <div class="card-subtitle">Tỷ trọng chi tiêu thực tế (Tổng: 7.380.000 đ)</div>
             </div>
           </div>
           <div style="position: relative; height: 260px; display: flex; align-items: center; justify-content: center;">
@@ -1007,12 +1160,12 @@
         <div class="card">
           <div class="card-header">
             <div>
-              <div class="card-title"><span>📊</span> Chi Tiết Theo 6 Danh Mục</div>
-              <div class="card-subtitle">Phân bổ chi tiết từ cao đến thấp</div>
+              <div class="card-title"><span>📊</span> Chi Tiết Theo 6 Danh Mục Sinh Hoạt</div>
+              <div class="card-subtitle">Tự động sắp xếp từ khoản chi lớn đến nhỏ</div>
             </div>
           </div>
           <div id="cat-bars-container">
-            <!-- Rendered by JS -->
+            <!-- Rendered dynamically by JS -->
           </div>
         </div>
 
@@ -1020,7 +1173,7 @@
         <div class="card">
           <div class="card-header">
             <div>
-              <div class="card-title"><span>🗺️</span> Chi Tiêu Theo Chặng Hành Trình</div>
+              <div class="card-title"><span>🗺️</span> Chi Tiêu Theo 4 Chặng Hành Trình</div>
               <div class="card-subtitle">Phân bổ ngân sách theo từng vùng địa lý</div>
             </div>
           </div>
@@ -1030,7 +1183,7 @@
               <div class="voucher-name"><span>🏛️</span> Chặng 1: Hà Nội & Mỹ Đức (Ngày 1 - 2)</div>
               <span class="price-val" style="color: var(--primary);">3.230.000 đ</span>
             </div>
-            <p style="font-size: 0.8rem; color: var(--text-muted); margin-bottom: 6px;">Quà biếu ông bà họ hàng (1.100k), bánh trung thu (500k), nầm bò nướng, bún chả, nem chua rán, Da Tree Homestay.</p>
+            <p style="font-size: 0.8rem; color: var(--text-muted); margin-bottom: 6px;">Quà biếu ông bà họ hàng (1.100k), bánh trung thu (500k), nầm bò nướng Ba Đình, bún chả, nem chua rán, Da Tree Homestay.</p>
             <div class="bar-bg"><div class="bar-fill" style="width: 43.8%; background: var(--primary);"></div></div>
           </div>
 
@@ -1039,7 +1192,7 @@
               <div class="voucher-name"><span>⛰️</span> Chặng 2: Hà Giang Loop (Ngày 3 - 5)</div>
               <span class="price-val" style="color: var(--amber);">2.370.000 đ</span>
             </div>
-            <p style="font-size: 0.8rem; color: var(--text-muted); margin-bottom: 6px;">Quản Bạ, Yên Minh, Lũng Cú, Lô Lô Chải, Mã Pí Lèng, Nho Quế, Mèo Vạc (Xăng xe, ăn uống lợn bản, cháo ấu tẩu, vịt nướng).</p>
+            <p style="font-size: 0.8rem; color: var(--text-muted); margin-bottom: 6px;">Quản Bạ, Yên Minh, Lũng Cú, Lô Lô Chải, Mã Pí Lèng, Nho Quế, Mèo Vạc (Xăng xe vượt đèo, lợn bản nướng, cháo ấu tẩu, vịt nướng).</p>
             <div class="bar-bg"><div class="bar-fill" style="width: 32.1%; background: var(--amber);"></div></div>
           </div>
 
@@ -1057,8 +1210,8 @@
               <div class="voucher-name"><span>🍂</span> Chặng 4: Hà Nội Mùa Thu (Ngày 9 - 10 Dự kiến)</div>
               <span class="price-val" style="color: var(--purple);">~2.400.000 đ</span>
             </div>
-            <p style="font-size: 0.8rem; color: var(--text-muted); margin-bottom: 6px;">Foodtour phố cổ (Phở Bát Đàn, Ngan cháy tỏi, Cafe Giảng, Chả cá Lăng, Bánh cốm quà tặng) & Spa dưỡng sinh.</p>
-            <div class="bar-bg"><div class="bar-fill" style="width: 30%; background: var(--purple);"></div></div>
+            <p style="font-size: 0.8rem; color: var(--text-muted); margin-bottom: 6px;">Foodtour phố cổ (Phở Bát Đàn, Ngan cháy tỏi, Cafe Giảng, Chả cá Lăng, Bánh cốm Hàng Than) & Spa dưỡng sinh.</p>
+            <div class="bar-bg"><div class="bar-fill" style="width: 32%; background: var(--purple);"></div></div>
           </div>
         </div>
       </div>
@@ -1078,7 +1231,7 @@
           <div class="day-chip" data-day="6">Ngày 6 (02/09)</div>
           <div class="day-chip" data-day="7">Ngày 7 (03/09)</div>
           <div class="day-chip" data-day="8">Ngày 8 (04/09)</div>
-          <div class="day-chip" data-day="9">Ngày 9 (05/09)</div>
+          <div class="day-chip" data-day="9">Ngày 9 (05/09 - Hôm nay)</div>
           <div class="day-chip" data-day="10">Ngày 10 (06/09)</div>
         </div>
 
@@ -1090,7 +1243,7 @@
           </div>
 
           <div style="display: flex; align-items: center; gap: 10px;">
-            <select id="sort-select" style="padding: 10px 14px; background: rgba(15, 23, 42, 0.85); border: 1px solid rgba(255, 255, 255, 0.12); border-radius: var(--radius-md); color: #fff; font-size: 0.82rem; outline: none;">
+            <select id="sort-select" style="padding: 10px 14px; background: rgba(15, 23, 42, 0.85); border: 1px solid rgba(255, 255, 255, 0.12); border-radius: var(--radius-md); color: #fff; font-size: 0.82rem; outline: none; cursor: pointer;">
               <option value="day-asc">📅 Ngày: Cũ ➔ Mới</option>
               <option value="day-desc">📅 Ngày: Mới ➔ Cũ</option>
               <option value="price-desc">💵 Số tiền: Cao ➔ Thấp</option>
@@ -1116,7 +1269,7 @@
             <span style="font-size: 1.3rem;" id="banner-icon">🗺️</span>
             <div>
               <div style="font-weight: 800; font-size: 1rem; color: #fff;" id="banner-title">Toàn bộ chi tiêu hành trình (Ngày 1 – 8)</div>
-              <div style="font-size: 0.8rem; color: var(--text-muted);" id="banner-subtitle">Hiển thị toàn bộ 70 khoản chi thực tế</div>
+              <div style="font-size: 0.8rem; color: var(--text-muted);" id="banner-subtitle">Hiển thị toàn bộ 71 khoản chi thực tế</div>
             </div>
           </div>
           <div class="day-sum-badge" id="banner-total">7.380.000 đ</div>
@@ -1141,7 +1294,142 @@
       </div>
     </div>
 
-    <!-- ==================== TAB 3: ACCOMMODATION ==================== -->
+    <!-- ==================== TAB 3: FINANCIAL TRANSPARENCY (3 PILLARS) ==================== -->
+    <div id="tab-transparency" class="tab-content">
+      <div class="card" style="margin-bottom: 24px;">
+        <div class="card-header">
+          <div>
+            <div class="card-title"><span>🔍</span> Bảng Đối Soát Tài Chính 3 Trụ Cột Minh Bạch</div>
+            <div class="card-subtitle">Minh bạch 100% nguồn gốc toàn bộ chi phí đã thanh toán và phát sinh thực tế</div>
+          </div>
+          <div class="price-val" style="color: var(--emerald-light); font-size: 1.35rem;">18.045.195 đ</div>
+        </div>
+
+        <div class="grid-3">
+          <!-- Pillar 1: Fixed Logistics -->
+          <div class="transparency-pillar">
+            <div class="pillar-header">
+              <span class="pillar-title"><span>✈️</span> Di Chuyển Cố Định</span>
+              <span class="pillar-total" style="color: var(--primary);">7.754.024 đ</span>
+            </div>
+            <div class="pillar-item">
+              <span class="pillar-item-label">Vé bay SGN ➔ HAN (VJ120)</span>
+              <span class="pillar-item-val">1.435.162 đ</span>
+            </div>
+            <div class="pillar-item">
+              <span class="pillar-item-label">Vé bay HAN ➔ SGN (9G893)</span>
+              <span class="pillar-item-val">2.346.362 đ</span>
+            </div>
+            <div class="pillar-item">
+              <span class="pillar-item-label">Xe Limousine HN ➔ TP HG</span>
+              <span class="pillar-item-val">550.000 đ</span>
+            </div>
+            <div class="pillar-item">
+              <span class="pillar-item-label">Xe Cabin VIP CB ➔ HN</span>
+              <span class="pillar-item-val">750.000 đ</span>
+            </div>
+            <div class="pillar-item">
+              <span class="pillar-item-label">Thuê Wave Giang Sơn 6N</span>
+              <span class="pillar-item-val">2.362.500 đ</span>
+            </div>
+            <div class="pillar-item">
+              <span class="pillar-item-label">Thuê Sirius MOTOGO HN L1</span>
+              <span class="pillar-item-val">310.000 đ</span>
+            </div>
+            <div class="pillar-item" style="margin-top: auto; padding-top: 10px; border-top: 1px solid rgba(255,255,255,0.08);">
+              <span class="pillar-item-label" style="font-weight: 700; color: #fff;">Tỷ trọng tổng chi</span>
+              <span class="pillar-item-val" style="color: var(--primary);">43.0%</span>
+            </div>
+          </div>
+
+          <!-- Pillar 2: Accommodations -->
+          <div class="transparency-pillar">
+            <div class="pillar-header">
+              <span class="pillar-title"><span>🏨</span> Lưu Trú 9 Đêm</span>
+              <span class="pillar-total" style="color: var(--purple-light);">2.911.171 đ</span>
+            </div>
+            <div class="pillar-item">
+              <span class="pillar-item-label">Đêm 0: Da Tree Homestay HN</span>
+              <span class="pillar-item-val">348.000 đ</span>
+            </div>
+            <div class="pillar-item">
+              <span class="pillar-item-label">Đêm 1: Xe Quang Tuyến VIP</span>
+              <span class="pillar-item-val" style="color: var(--emerald-light);">0 đ (Vé xe)</span>
+            </div>
+            <div class="pillar-item">
+              <span class="pillar-item-label">Đêm 2: Bong Bang 2 Yên Minh</span>
+              <span class="pillar-item-val">400.000 đ</span>
+            </div>
+            <div class="pillar-item">
+              <span class="pillar-item-label">Đêm 3: ToTo-Chan Đồng Văn</span>
+              <span class="pillar-item-val">446.400 đ</span>
+            </div>
+            <div class="pillar-item">
+              <span class="pillar-item-label">Đêm 4: Phương Anh Mèo Vạc</span>
+              <span class="pillar-item-val">300.000 đ</span>
+            </div>
+            <div class="pillar-item">
+              <span class="pillar-item-label">Đêm 5: Minh Hoàng TP Cao Bằng</span>
+              <span class="pillar-item-val">369.000 đ</span>
+            </div>
+            <div class="pillar-item">
+              <span class="pillar-item-label">Đêm 6: A THÁM Bản Giốc</span>
+              <span class="pillar-item-val">518.011 đ</span>
+            </div>
+            <div class="pillar-item">
+              <span class="pillar-item-label">Đêm 7: Xe Hiệp Giang Cabin VIP</span>
+              <span class="pillar-item-val" style="color: var(--emerald-light);">0 đ (Vé xe)</span>
+            </div>
+            <div class="pillar-item">
+              <span class="pillar-item-label">Đêm 8: Vari Homestay Đội Cấn</span>
+              <span class="pillar-item-val">529.760 đ</span>
+            </div>
+            <div class="pillar-item" style="margin-top: auto; padding-top: 10px; border-top: 1px solid rgba(255,255,255,0.08);">
+              <span class="pillar-item-label" style="font-weight: 700; color: #fff;">Tỷ trọng tổng chi</span>
+              <span class="pillar-item-val" style="color: var(--purple-light);">16.1%</span>
+            </div>
+          </div>
+
+          <!-- Pillar 3: Daily Variable Spending -->
+          <div class="transparency-pillar">
+            <div class="pillar-header">
+              <span class="pillar-title"><span>🍜</span> Sinh Hoạt 8 Ngày</span>
+              <span class="pillar-total" style="color: var(--amber-light);">7.380.000 đ</span>
+            </div>
+            <div class="pillar-item">
+              <span class="pillar-item-label">Ẩm thực & Cà phê (39 món)</span>
+              <span class="pillar-item-val">4.475.000 đ</span>
+            </div>
+            <div class="pillar-item">
+              <span class="pillar-item-label">Quà biếu & Thăm thân</span>
+              <span class="pillar-item-val">1.600.000 đ</span>
+            </div>
+            <div class="pillar-item">
+              <span class="pillar-item-label">Xăng xe & Di chuyển nội địa</span>
+              <span class="pillar-item-val">510.000 đ</span>
+            </div>
+            <div class="pillar-item">
+              <span class="pillar-item-label">Vé tham quan & Trải nghiệm</span>
+              <span class="pillar-item-val">475.000 đ</span>
+            </div>
+            <div class="pillar-item">
+              <span class="pillar-item-label">Dịch vụ, gội đầu, nộp phạt</span>
+              <span class="pillar-item-val">220.000 đ</span>
+            </div>
+            <div class="pillar-item">
+              <span class="pillar-item-label">Phụ phí quá giờ Da Tree</span>
+              <span class="pillar-item-val">100.000 đ</span>
+            </div>
+            <div class="pillar-item" style="margin-top: auto; padding-top: 10px; border-top: 1px solid rgba(255,255,255,0.08);">
+              <span class="pillar-item-label" style="font-weight: 700; color: #fff;">Tỷ trọng tổng chi</span>
+              <span class="pillar-item-val" style="color: var(--amber-light);">40.9%</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- ==================== TAB 4: ACCOMMODATION ==================== -->
     <div id="tab-hotels" class="tab-content">
       <div class="card">
         <div class="card-header">
@@ -1149,7 +1437,7 @@
             <div class="card-title"><span>🏨</span> Danh Sách Lưu Trú Toàn Tuyến (9 Đêm)</div>
             <div class="card-subtitle">Đã chốt & xác nhận 100% (7 Đêm Khách Sạn/Homestay + 2 Đêm Xe Khách Cabin VIP)</div>
           </div>
-          <div class="price-val" style="color: var(--purple); font-size: 1.3rem;">2.911.171 đ</div>
+          <div class="price-val" style="color: var(--purple-light); font-size: 1.3rem;">2.911.171 đ</div>
         </div>
 
         <!-- Hotel Item 1 -->
@@ -1164,7 +1452,7 @@
           <div class="voucher-meta-grid">
             <div class="meta-item"><span class="meta-label">Booking ID</span><span class="meta-val">6540221126 (PIN: 3931)</span></div>
             <div class="meta-item"><span class="meta-label">Địa chỉ</span><span class="meta-val">1B Ngõ 168 Phố Ngọc Hà, Ba Đình, Hà Nội</span></div>
-            <div class="meta-item"><span class="meta-label">Hotline</span><span class="meta-val">+84 912 017 574</span></div>
+            <div class="meta-item"><span class="meta-label">Hotline</span><span class="meta-val"><a href="tel:+84912017574" class="hotline-link">📞 +84 912 017 574</a></span></div>
             <div class="meta-item"><span class="meta-label">Loại phòng</span><span class="meta-val">Phòng Giường Đôi Có WC Riêng (2 người)</span></div>
           </div>
         </div>
@@ -1197,7 +1485,7 @@
           <div class="voucher-meta-grid">
             <div class="meta-item"><span class="meta-label">Booking ID</span><span class="meta-val">6874088766 (PIN: 0868)</span></div>
             <div class="meta-item"><span class="meta-label">Địa chỉ</span><span class="meta-val">Số nhà 214 Trần Hưng Đạo, Na Hang, Yên Minh, HG</span></div>
-            <div class="meta-item"><span class="meta-label">Hotline</span><span class="meta-val">+84 825 888 939</span></div>
+            <div class="meta-item"><span class="meta-label">Hotline</span><span class="meta-val"><a href="tel:+84825888939" class="hotline-link">📞 +84 825 888 939</a></span></div>
             <div class="meta-item"><span class="meta-label">Loại phòng</span><span class="meta-val">Phòng Giường Đôi Nhỏ</span></div>
           </div>
         </div>
@@ -1214,7 +1502,7 @@
           <div class="voucher-meta-grid">
             <div class="meta-item"><span class="meta-label">Booking ID</span><span class="meta-val">6840372362 (PIN: 5676)</span></div>
             <div class="meta-item"><span class="meta-label">Địa chỉ</span><span class="meta-val">Số 354 Tổ 1, Thị trấn Đồng Văn, Hà Giang</span></div>
-            <div class="meta-item"><span class="meta-label">Hotline</span><span class="meta-val">+84 367 753 686</span></div>
+            <div class="meta-item"><span class="meta-label">Hotline</span><span class="meta-val"><a href="tel:+84367753686" class="hotline-link">📞 +84 367 753 686</a></span></div>
             <div class="meta-item"><span class="meta-label">Loại phòng</span><span class="meta-val">Phòng Deluxe Giường Đôi (Free Buffet Sáng)</span></div>
           </div>
         </div>
@@ -1231,7 +1519,7 @@
           <div class="voucher-meta-grid">
             <div class="meta-item"><span class="meta-label">Booking ID</span><span class="meta-val">5152255450 (PIN: 5143)</span></div>
             <div class="meta-item"><span class="meta-label">Địa chỉ</span><span class="meta-val">Trung tâm Thị trấn Mèo Vạc, Hà Giang</span></div>
-            <div class="meta-item"><span class="meta-label">Hotline</span><span class="meta-val">+84 979 730 780 / 0963 625 998</span></div>
+            <div class="meta-item"><span class="meta-label">Hotline</span><span class="meta-val"><a href="tel:+84979730780" class="hotline-link">📞 +84 979 730 780</a></span></div>
             <div class="meta-item"><span class="meta-label">Loại phòng</span><span class="meta-val">Phòng Giường Đôi</span></div>
           </div>
         </div>
@@ -1248,7 +1536,7 @@
           <div class="voucher-meta-grid">
             <div class="meta-item"><span class="meta-label">Booking ID</span><span class="meta-val">6307.802.042 (PIN: 9687)</span></div>
             <div class="meta-item"><span class="meta-label">Địa chỉ</span><span class="meta-val">98 Kim Đồng, P. Hợp Giang, TP Cao Bằng</span></div>
-            <div class="meta-item"><span class="meta-label">Hotline</span><span class="meta-val">+84 978 596 508</span></div>
+            <div class="meta-item"><span class="meta-label">Hotline</span><span class="meta-val"><a href="tel:+84978596508" class="hotline-link">📞 +84 978 596 508</a></span></div>
             <div class="meta-item"><span class="meta-label">Loại phòng</span><span class="meta-val">Phòng Giường Đôi Tiết Kiệm (Có thang máy)</span></div>
           </div>
         </div>
@@ -1265,7 +1553,7 @@
           <div class="voucher-meta-grid">
             <div class="meta-item"><span class="meta-label">Booking ID</span><span class="meta-val">6515457323 (PIN: 7100)</span></div>
             <div class="meta-item"><span class="meta-label">Địa chỉ</span><span class="meta-val">Làng đá cổ Khuổi Ky / Gần Thác Bản Giốc, Cao Bằng</span></div>
-            <div class="meta-item"><span class="meta-label">Hotline</span><span class="meta-val">+84 373 145 583</span></div>
+            <div class="meta-item"><span class="meta-label">Hotline</span><span class="meta-val"><a href="tel:+84373145583" class="hotline-link">📞 +84 373 145 583</a></span></div>
             <div class="meta-item"><span class="meta-label">Loại phòng</span><span class="meta-val">Phòng Gia Đình (2 người lớn)</span></div>
           </div>
         </div>
@@ -1296,220 +1584,178 @@
             <span class="price-val">529.760 đ</span>
           </div>
           <div class="voucher-meta-grid">
-            <div class="meta-item"><span class="meta-label">Booking ID</span><span class="meta-val">5623667981 (PIN: 6612 - Booking.com)</span></div>
+            <div class="meta-item"><span class="meta-label">Booking ID</span><span class="meta-val">5623667981 (PIN: 6612)</span></div>
             <div class="meta-item"><span class="meta-label">Địa chỉ</span><span class="meta-val">35 Ngõ 279 Phố Đội Cấn, Ba Đình, Hà Nội</span></div>
-            <div class="meta-item"><span class="meta-label">Hotline</span><span class="meta-val">+84 965 439 693 (Zalo: 0986949158)</span></div>
-            <div class="meta-item"><span class="meta-label">Loại phòng</span><span class="meta-val">Studio Deluxe Có Giường Queen (Nguyên căn, 2 người)</span></div>
+            <div class="meta-item"><span class="meta-label">Hotline</span><span class="meta-val"><a href="tel:+84988908866" class="hotline-link">📞 +84 988 908 866</a></span></div>
+            <div class="meta-item"><span class="meta-label">Loại phòng</span><span class="meta-val">Studio Deluxe giường Queen</span></div>
           </div>
         </div>
       </div>
     </div>
 
-    <!-- ==================== TAB 4: LOGISTICS & PRE-BOOKED ==================== -->
+    <!-- ==================== TAB 5: LOGISTICS & TRANSPORT ==================== -->
     <div id="tab-logistics" class="tab-content">
-      <div class="grid-2">
-        <!-- Flight & Long-distance Coaches -->
-        <div class="card">
-          <div class="card-header">
-            <div>
-              <div class="card-title"><span>✈️ 🚌</span> Vé Máy Bay & Xe Khách Liên Tỉnh</div>
-              <div class="card-subtitle">4 chặng di chuyển đường dài (Tổng: 5.081.524 đ)</div>
-            </div>
+      <div class="card">
+        <div class="card-header">
+          <div>
+            <div class="card-title"><span>✈️</span> Chi Tiết Đặt Chỗ & Hợp Đồng Di Chuyển</div>
+            <div class="card-subtitle">Toàn bộ 2 vé máy bay khứ hồi, 2 vé xe khách và 2 hợp đồng thuê xe máy</div>
           </div>
+          <div class="price-val" style="color: var(--primary); font-size: 1.3rem;">7.754.024 đ</div>
+        </div>
 
-          <!-- Flight Go -->
+        <div class="grid-2">
+          <!-- Flight Out -->
           <div class="voucher-card">
             <div class="voucher-header">
-              <div class="voucher-name"><span>✈️</span> Vietjet Air VJ120 (SGN ➔ HAN)</div>
+              <div class="voucher-name"><span>✈️</span> <strong>Bay Đi: Vietjet Air (VJ120)</strong></div>
               <span class="price-val">1.435.162 đ</span>
             </div>
             <div class="voucher-meta-grid">
               <div class="meta-item"><span class="meta-label">Mã PNR</span><span class="meta-val">UJSG2A & R7AH77</span></div>
-              <div class="meta-item"><span class="meta-label">Giờ bay</span><span class="meta-val">05:00 sáng 28/08 ➔ 07:10 HAN</span></div>
-              <div class="meta-item"><span class="meta-label">Suất ăn</span><span class="meta-val">1 Bò sốt bơ nóng hổi</span></div>
+              <div class="meta-item"><span class="meta-label">Khởi hành</span><span class="meta-val">06:00 SGN ➔ 08:10 HAN (28/08)</span></div>
+              <div class="meta-item"><span class="meta-label">Suất ăn nóng</span><span class="meta-val">Bò sốt bơ tiêu + Nước</span></div>
+              <div class="meta-item"><span class="meta-label">Thanh toán</span><span class="meta-val">10.000 SkyPoint + Tiền mặt</span></div>
             </div>
           </div>
 
-          <!-- Coach Go -->
+          <!-- Flight Back -->
           <div class="voucher-card">
             <div class="voucher-header">
-              <div class="voucher-name"><span>🚌</span> Quang Tuyến VIP 24 Phòng (HN ➔ HG)</div>
-              <span class="price-val">550.000 đ</span>
-            </div>
-            <div class="voucher-meta-grid">
-              <div class="meta-item"><span class="meta-label">Mã đặt vé</span><span class="meta-val">RN34WQ (Vexere)</span></div>
-              <div class="meta-item"><span class="meta-label">Giờ chạy</span><span class="meta-val">23:00 29/08 (Đón 55 Nguyễn Hoàng)</span></div>
-              <div class="meta-item"><span class="meta-label">Điểm trả</span><span class="meta-val">Tận tiệm Giang Sơn (Km0 Hà Giang)</span></div>
-            </div>
-          </div>
-
-          <!-- Coach Return -->
-          <div class="voucher-card">
-            <div class="voucher-header">
-              <div class="voucher-name"><span>🚌</span> Hiệp Giang Cabin VIP (CB ➔ HN)</div>
-              <span class="price-val">750.000 đ</span>
-            </div>
-            <div class="voucher-meta-grid">
-              <div class="meta-item"><span class="meta-label">Mã đặt vé</span><span class="meta-val">P2DZO3 / 77Z1VY8 (Cabin Đôi B.10)</span></div>
-              <div class="meta-item"><span class="meta-label">Giờ chạy</span><span class="meta-val">21:15 04/09 (Bến xe TP Cao Bằng)</span></div>
-              <div class="meta-item"><span class="meta-label">Điểm trả</span><span class="meta-val">Bến xe Mỹ Đình (05:30 sáng 05/09)</span></div>
-            </div>
-          </div>
-
-          <!-- Flight Return -->
-          <div class="voucher-card">
-            <div class="voucher-header">
-              <div class="voucher-name"><span>✈️</span> Sun PhuQuoc 9G893 (HAN ➔ SGN)</div>
+              <div class="voucher-name"><span>✈️</span> <strong>Bay Về: Sun PhuQuoc (9G893)</strong></div>
               <span class="price-val">2.346.362 đ</span>
             </div>
             <div class="voucher-meta-grid">
               <div class="meta-item"><span class="meta-label">Mã PNR</span><span class="meta-val">7TGDE6</span></div>
-              <div class="meta-item"><span class="meta-label">Giờ bay</span><span class="meta-val">22:50 06/09 ➔ 01:00 SGN</span></div>
-              <div class="meta-item"><span class="meta-label">Hành lý & Ghế</span><span class="meta-val">1 Kiện ký gửi/người • Ghế 36J/36K</span></div>
-            </div>
-          </div>
-        </div>
-
-        <!-- Motorbike Rentals -->
-        <div class="card">
-          <div class="card-header">
-            <div>
-              <div class="card-title"><span>🏍️</span> Thuê Xe Máy Phượt & Phố</div>
-              <div class="card-subtitle">3 gói thuê xe máy toàn chuyến (Tổng: 2.982.500 đ)</div>
+              <div class="meta-item"><span class="meta-label">Khởi hành</span><span class="meta-val">22:50 HAN ➔ 01:05 SGN (06/09)</span></div>
+              <div class="meta-item"><span class="meta-label">Ký gửi</span><span class="meta-val">1 kiện/người + Ghế 36J/36K</span></div>
+              <div class="meta-item"><span class="meta-label">Tình trạng</span><span class="meta-val" style="color: var(--emerald-light);">✅ Đã xuất vé</span></div>
             </div>
           </div>
 
-          <!-- Giang Son -->
-          <div class="voucher-card" style="border: 1px solid rgba(56, 189, 248, 0.4);">
-            <div class="voucher-header">
-              <div class="voucher-name">
-                <span>🏍️</span> <strong>Giang Sơn: Wave 110cc Tour HG ➔ CB</strong>
-              </div>
-              <span class="price-val" style="color: var(--primary);">2.362.500 đ</span>
-            </div>
-            <div class="voucher-meta-grid">
-              <div class="meta-item"><span class="meta-label">Hợp đồng</span><span class="meta-val">HỢP ĐỒNG SỐ 45 (7 ngày)</span></div>
-              <div class="meta-item"><span class="meta-label">Bảo hiểm</span><span class="meta-val">Gói BV rủi ro 24/7 + Phụ phí trả CB</span></div>
-              <div class="meta-item"><span class="meta-label">Tiền cọc (Hoàn lại)</span><span class="meta-val" style="color: #34d399;">+3.000.000 đ (MBBank)</span></div>
-              <div class="meta-item"><span class="meta-label">Hotline trả xe CB</span><span class="meta-val">📞 0868 252 168 (Chiều 04/09)</span></div>
-            </div>
-          </div>
-
-          <!-- Motogo HN 1 -->
+          <!-- Bus 1 -->
           <div class="voucher-card">
             <div class="voucher-header">
-              <div class="voucher-name">
-                <span>🛵</span> <strong>MOTOGO Hà Nội Lượt 1 (28 – 29/08)</strong>
-                <span class="status-badge" style="background: rgba(16, 185, 129, 0.15); color: #34d399; font-size: 0.72rem;">✅ Đã trả xe</span>
-              </div>
+              <div class="voucher-name"><span>🚌</span> <strong>Xe Khách: Quang Tuyến Limousine</strong></div>
+              <span class="price-val">550.000 đ</span>
+            </div>
+            <div class="voucher-meta-grid">
+              <div class="meta-item"><span class="meta-label">Mã vé</span><span class="meta-val">RN34WQ (2 Vé VIP)</span></div>
+              <div class="meta-item"><span class="meta-label">Thời gian</span><span class="meta-val">23:00 (29/08) ➔ 04:30 TP Hà Giang</span></div>
+              <div class="meta-item"><span class="meta-label">Điểm đón</span><span class="meta-val">55 Nguyễn Hoàng, Mỹ Đình</span></div>
+              <div class="meta-item"><span class="meta-label">Điểm trả</span><span class="meta-val">Bàn giao tại tiệm Giang Sơn</span></div>
+            </div>
+          </div>
+
+          <!-- Bus 2 -->
+          <div class="voucher-card">
+            <div class="voucher-header">
+              <div class="voucher-name"><span>🚌</span> <strong>Xe Khách: Hiệp Giang Cabin VIP</strong></div>
+              <span class="price-val">750.000 đ</span>
+            </div>
+            <div class="voucher-meta-grid">
+              <div class="meta-item"><span class="meta-label">Mã vé</span><span class="meta-val">P2DZO3 (Cabin Đôi B.10)</span></div>
+              <div class="meta-item"><span class="meta-label">Thời gian</span><span class="meta-val">21:15 (04/09) ➔ 05:30 BX Mỹ Đình</span></div>
+              <div class="meta-item"><span class="meta-label">Điểm đón</span><span class="meta-val">Văn phòng Bến xe TP Cao Bằng</span></div>
+              <div class="meta-item"><span class="meta-label">Tình trạng</span><span class="meta-val" style="color: var(--emerald-light);">✅ Đã hoàn thành chặng</span></div>
+            </div>
+          </div>
+
+          <!-- Motorbike 1 -->
+          <div class="voucher-card">
+            <div class="voucher-header">
+              <div class="voucher-name"><span>🏍️</span> <strong>Thuê Xe Máy: Giang Sơn (HG ➔ CB)</strong></div>
+              <span class="price-val">2.362.500 đ</span>
+            </div>
+            <div class="voucher-meta-grid">
+              <div class="meta-item"><span class="meta-label">Hợp đồng</span><span class="meta-val">HĐ Số #45 (Wave 110cc)</span></div>
+              <div class="meta-item"><span class="meta-label">Gói bảo hộ</span><span class="meta-val">Bảo hiểm cứu hộ 24/7 toàn tuyến</span></div>
+              <div class="meta-item"><span class="meta-label">Phụ phí</span><span class="meta-val">Trả xe khác tỉnh tại TP Cao Bằng</span></div>
+              <div class="meta-item"><span class="meta-label">Tiền cọc</span><span class="meta-val" style="color: var(--emerald-light);">Đã nhận lại +3.000.000 đ cọc</span></div>
+            </div>
+          </div>
+
+          <!-- Motorbike 2 -->
+          <div class="voucher-card">
+            <div class="voucher-header">
+              <div class="voucher-name"><span>🏍️</span> <strong>Thuê Xe Máy: MOTOGO Hà Nội (2 Lượt)</strong></div>
               <span class="price-val">310.000 đ</span>
             </div>
             <div class="voucher-meta-grid">
-              <div class="meta-item"><span class="meta-label">Mã đặt xe</span><span class="meta-val">#39337 (Sirius 110cc)</span></div>
-              <div class="meta-item"><span class="meta-label">Hành trình</span><span class="meta-val">Nhận Điền Xá Nội Bài ➔ Trả 1081 Hồng Hà</span></div>
-            </div>
-          </div>
-
-          <!-- Motogo HN 2 -->
-          <div class="voucher-card">
-            <div class="voucher-header">
-              <div class="voucher-name">
-                <span>🛵</span> <strong>MOTOGO Hà Nội Lượt 2 (05 – 06/09)</strong>
-                <span class="status-badge" style="background: rgba(245, 158, 11, 0.15); color: #fbbf24; font-size: 0.72rem;">⏳ Trả tối 06/09</span>
-              </div>
-              <span class="price-val">310.000 đ</span>
-            </div>
-            <div class="voucher-meta-grid">
-              <div class="meta-item"><span class="meta-label">Cơ sở nhận xe</span><span class="meta-val">267 Hoàng Hoa Thám (06:00 05/09)</span></div>
-              <div class="meta-item"><span class="meta-label">Điểm trả</span><span class="meta-val">MOTOGO Điền Xá (Gần T1 Sân bay Nội Bài)</span></div>
+              <div class="meta-item"><span class="meta-label">Lượt 1 (28-29/8)</span><span class="meta-val">Sirius 110cc (Nội Bài ➔ Hồng Hà) - 310k</span></div>
+              <div class="meta-item"><span class="meta-label">Lượt 2 (05-06/9)</span><span class="meta-val">Hoàng Hoa Thám ➔ Sân bay (310k - thanh toán sau)</span></div>
+              <div class="meta-item"><span class="meta-label">Chính sách</span><span class="meta-val">Không giữ cọc giấy tờ</span></div>
+              <div class="meta-item"><span class="meta-label">Hotline</span><span class="meta-val"><a href="tel:0338023344" class="hotline-link">📞 0338 023 344</a></span></div>
             </div>
           </div>
         </div>
       </div>
     </div>
 
-    <!-- ==================== TAB 5: DEEP INSIGHTS ==================== -->
+    <!-- ==================== TAB 6: ADVANCED INSIGHTS ==================== -->
     <div id="tab-insights" class="tab-content">
-      <!-- 4 Highlight Stats -->
-      <div class="grid-3" style="margin-bottom: 24px;">
-        <div class="stat-box">
-          <div class="stat-number" style="color: var(--amber);">4.475.000 đ</div>
-          <div class="stat-desc">🍜 Tổng chi cho Ẩm thực & Cà phê (Chiếm 60.6% chi phí sinh hoạt)</div>
+      <div class="card" style="margin-bottom: 24px;">
+        <div class="card-header">
+          <div>
+            <div class="card-title"><span>🥇</span> Top 10 Khoản Chi Lớn Nhất Toàn Chuyến Đi</div>
+            <div class="card-subtitle">Danh sách các khoản chi tiêu chiếm tỷ trọng đáng kể</div>
+          </div>
         </div>
-        <div class="stat-box">
-          <div class="stat-number" style="color: var(--primary);">370.000 đ</div>
-          <div class="stat-desc">🏍️ Tổng tiền 9 lần đổ xăng (~850km đèo núi, chỉ ~435 đ/km!)</div>
-        </div>
-        <div class="stat-box">
-          <div class="stat-number" style="color: var(--rose);">1.600.000 đ</div>
-          <div class="stat-desc">🎁 Quà biếu người thân & anh chị (Mỹ Đức & Hà Nội)</div>
+
+        <div class="table-container">
+          <table>
+            <thead>
+              <tr>
+                <th style="width: 60px;">Top</th>
+                <th style="width: 100px;">Ngày</th>
+                <th>Khoản chi</th>
+                <th>Chi tiết thực tế</th>
+                <th style="width: 160px; text-align: right;">Số tiền (VNĐ)</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr><td><span class="day-badge" style="background: rgba(244, 63, 94, 0.2); color: #fda4af;">#1</span></td><td>Ngày 1</td><td><strong>Quà Yến sào, bánh sữa biếu bà</strong></td><td>Thăm gia đình họ hàng ở Mỹ Đức</td><td class="price-val">650.000 đ</td></tr>
+              <tr><td><span class="day-badge" style="background: rgba(244, 63, 94, 0.2); color: #fda4af;">#2</span></td><td>Ngày 2</td><td><strong>Bánh trung thu biếu anh chị</strong></td><td>Quà tặng người thân Hà Nội</td><td class="price-val">500.000 đ</td></tr>
+              <tr><td><span class="day-badge">#3</span></td><td>Ngày 1</td><td><strong>Ăn tối Nầm bò nướng than hoa</strong></td><td>Bữa tối nướng phố Ba Đình</td><td class="price-val">390.000 đ</td></tr>
+              <tr><td><span class="day-badge">#4</span></td><td>Ngày 1</td><td><strong>Quà trái cây thăm ông bà</strong></td><td>Mua tại chợ quê Mỹ Đức</td><td class="price-val">300.000 đ</td></tr>
+              <tr><td><span class="day-badge">#5</span></td><td>Ngày 4</td><td><strong>Xiên nướng & Trà sữa Shan Tuyết</strong></td><td>Thưởng thức tại bản Lô Lô Chải</td><td class="price-val">250.000 đ</td></tr>
+              <tr><td><span class="day-badge">#6</span></td><td>Ngày 7</td><td><strong>Ăn trưa Cá sông + Canh chua</strong></td><td>Đặc sản Trùng Khánh / Bản Giốc</td><td class="price-val">240.000 đ</td></tr>
+              <tr><td><span class="day-badge">#7</span></td><td>Ngày 4</td><td><strong>Cơm chiều Phố Cổ Đồng Văn</strong></td><td>Cơm rang dưa bò + đĩa lòng xào dưa</td><td class="price-val">200.000 đ</td></tr>
+              <tr><td><span class="day-badge">#8</span></td><td>Ngày 5</td><td><strong>Ăn tối Vịt nướng than hoa</strong></td><td>Vịt nướng chấm muối ớt Mèo Vạc</td><td class="price-val">165.000 đ</td></tr>
+              <tr><td><span class="day-badge">#9</span></td><td>Ngày 1</td><td><strong>Ăn sáng Phở Hiệu (Cầu Giấy)</strong></td><td>2 bát phở bò tái lăn/chín</td><td class="price-val">150.000 đ</td></tr>
+              <tr><td><span class="day-badge">#10</span></td><td>Ngày 6</td><td><strong>Bia hơi Hà Nội tối Lễ 2/9</strong></td><td>Bờ sông TP Cao Bằng đón Lễ</td><td class="price-val">150.000 đ</td></tr>
+            </tbody>
+          </table>
         </div>
       </div>
 
       <div class="grid-2">
-        <!-- Foodtour Hall of Fame -->
         <div class="card">
           <div class="card-header">
             <div>
-              <div class="card-title"><span>🍲</span> Bản Đồ Ẩm Thực Đã Trải Nghiệm</div>
-              <div class="card-subtitle">Những món ăn ngon nhất trên toàn tuyến</div>
+              <div class="card-title"><span>☕</span> Thống Kê Cà Phê & Đồ Uống Giải Khát</div>
+              <div class="card-subtitle">Chi phí tiếp nước dọc đường đèo núi</div>
             </div>
+            <span class="price-val" style="color: var(--amber);">730.000 đ</span>
           </div>
-
-          <div style="font-size: 0.85rem; line-height: 1.8;">
-            <p>• <strong>Hà Nội:</strong> Phở Hiệu Cầu Giấy (150k), Bún đậu Cô Hương (80k), Nầm bò nướng than hoa Ba Đình (390k), Bún chả Hà Nội (125k), Bún cá cay (90k), Nem chua rán Hàng Bông (125k), Sữa chua trân châu (150k).</p>
-            <p style="margin-top: 8px;">• <strong>Hà Giang:</strong> Bún riêu Bống bến xe HG (100k), Cơm lợn bản xào rau cải Yên Minh (150k), Đồ nướng đêm Yên Minh (200k), Phở thịt lợn tráng tay (80k), Xiên nướng Lô Lô Chải (250k), Cơm rang dưa bò Đồng Văn (200k), Cháo Ấu Tẩu (50k), Vịt nướng than hoa Mèo Vạc (165k).</p>
-            <p style="margin-top: 8px;">• <strong>Cao Bằng:</strong> Bún cá cay QL34 (100k), Bánh áp chao Cô Ngân + Vịt chiên (80k), Bia hơi 2/9 TP Cao Bằng (150k), Bánh cuốn canh Cao Bằng (60k), Cá sông Trùng Khánh (240k), Xiên nướng Bản Giốc (150k), Phở lạp xưởng Chợ Co Sàu (90k), Phở Chua + Miến Cao Bằng (110k).</p>
-          </div>
+          <p style="font-size: 0.84rem; color: var(--text-muted); line-height: 1.6;">
+            Đã thưởng thức <strong>12 lượt đồ uống & cafe</strong>: Nước sấu đá Quản Bạ, Bạc xỉu Yên Minh, Trà sữa Shan Tuyết Lô Lô Chải, Trà chanh Phố Cổ Đồng Văn, Cà phê sữa Bảo Lạc, Trà sữa TP Cao Bằng, Highland Coffee Pác Bó...
+          </p>
         </div>
 
-        <!-- Top 8 Biggest Expenses -->
         <div class="card">
           <div class="card-header">
             <div>
-              <div class="card-title"><span>🔝</span> Top Khoản Chi Lớn Nhất (Sinh Hoạt)</div>
-              <div class="card-subtitle">Không tính vé bay & tiền thuê xe máy</div>
+              <div class="card-title"><span>🛡️</span> Quản Lý An Toàn & Phụ Phí</div>
+              <div class="card-subtitle">Kiểm soát rủi ro và các khoản phát sinh ngoài ý muốn</div>
             </div>
+            <span class="price-val" style="color: var(--rose);">250.000 đ</span>
           </div>
-          
-          <div style="display: flex; flex-direction: column; gap: 10px;">
-            <div class="voucher-card" style="margin: 0; padding: 12px 14px;">
-              <div style="display: flex; justify-content: space-between;">
-                <strong>1. Quà Yến sào, bánh sữa biếu bà & các bác (Mỹ Đức)</strong>
-                <span class="price-val" style="color: var(--rose);">650.000 đ</span>
-              </div>
-            </div>
-            <div class="voucher-card" style="margin: 0; padding: 12px 14px;">
-              <div style="display: flex; justify-content: space-between;">
-                <strong>2. Bánh trung thu biếu anh chị (Hà Nội)</strong>
-                <span class="price-val" style="color: var(--rose);">500.000 đ</span>
-              </div>
-            </div>
-            <div class="voucher-card" style="margin: 0; padding: 12px 14px;">
-              <div style="display: flex; justify-content: space-between;">
-                <strong>3. Ăn tối Nầm bò nướng than hoa (Ba Đình)</strong>
-                <span class="price-val" style="color: var(--amber);">390.000 đ</span>
-              </div>
-            </div>
-            <div class="voucher-card" style="margin: 0; padding: 12px 14px;">
-              <div style="display: flex; justify-content: space-between;">
-                <strong>4. Quà trái cây thăm ông bà (Chợ quê Mỹ Đức)</strong>
-                <span class="price-val" style="color: var(--rose);">300.000 đ</span>
-              </div>
-            </div>
-            <div class="voucher-card" style="margin: 0; padding: 12px 14px;">
-              <div style="display: flex; justify-content: space-between;">
-                <strong>5. Xiên nướng & Trà sữa Shan Tuyết (Lô Lô Chải)</strong>
-                <span class="price-val" style="color: var(--amber);">250.000 đ</span>
-              </div>
-            </div>
-            <div class="voucher-card" style="margin: 0; padding: 12px 14px;">
-              <div style="display: flex; justify-content: space-between;">
-                <strong>6. Ăn trưa Cá sông + Canh chua (Trùng Khánh / Bản Giốc)</strong>
-                <span class="price-val" style="color: var(--amber);">240.000 đ</span>
-              </div>
-            </div>
-          </div>
+          <p style="font-size: 0.84rem; color: var(--text-muted); line-height: 1.6;">
+            • Phụ phí quá giờ Da Tree Homestay (100k - check out muộn tắm rửa).<br>
+            • Nộp phạt vi phạm giao thông không xi nhan tại TP Cao Bằng (150k).<br>
+            • 100% chặng đèo đều về đích trước 17:00 chiều an toàn tuyệt đối.
+          </p>
         </div>
       </div>
     </div>
@@ -1523,7 +1769,7 @@
 
   <!-- JavaScript App Logic -->
   <script>
-    // Master Dataset (Day 1 to 8 Actual Expenses)
+    // Master Dataset (Day 1 to 8 Actual Expenses - 71 items)
     const expenses = [
       // Day 1
       { id: 1, day: 1, title: 'Taxi ra Sân bay Tân Sơn Nhất', note: 'Grab sáng sớm từ nhà ra SGN', amount: 100000, cat: 'transport' },
@@ -1554,7 +1800,7 @@
       { id: 22, day: 3, title: 'Cơm trưa bình dân Yên Minh', note: 'Cơm thịt lợn bản xào + rau cải rừng', amount: 150000, cat: 'food' },
       { id: 23, day: 3, title: 'Nước suối & Nước ngọt dọc đường', note: 'Mua tiếp nước leo đèo Quản Bạ', amount: 100000, cat: 'food' },
       { id: 24, day: 3, title: 'Nước sấu đá & Cà phê Bạc xỉu', note: 'Uống cafe ngắm cảnh núi rừng', amount: 75000, cat: 'food' },
-      { id: 25, day: 3, title: 'Đồ nướng đêm Yên Minh', note: 'Thịt lợn bản nướng + chim cút nướng', amount: 200000, cat: 'food' },
+      { id: 25, day: 3, title: 'Đồ nướng đêm Yên Minh', note: 'Thịt lợn bản nướng + chim cút nướng', amount: 100000, cat: 'food' },
       { id: 26, day: 3, title: 'Cá viên chiên & ăn vặt', note: 'Ăn dạo phố đêm Yên Minh', amount: 90000, cat: 'food' },
       { id: 27, day: 3, title: 'Trái cây tươi', note: 'Hoa quả tráng miệng tối', amount: 50000, cat: 'food' },
 
@@ -1613,6 +1859,10 @@
       { id: 71, day: 8, title: 'Cà phê Highland', note: 'Uống cà phê nghỉ trưa & giải nhiệt', amount: 110000, cat: 'food' }
     ];
 
+    // Fixed & Accommodations Constants
+    const FIXED_TRANSPORT_PAID = 7754024;
+    const ACCOMMODATIONS_PAID = 2911171;
+
     // Day Meta & Itineraries
     const dayMeta = {
       1: { title: 'Ngày 1 (28/08): SGN ➔ Hà Nội ➔ Mỹ Đức ➔ Ba Đình', subtitle: 'Khởi hành chuyến đi, thăm ông bà họ hàng & ăn nầm nướng', total: 2010000, count: 11, icon: '✈️' },
@@ -1623,7 +1873,7 @@
       6: { title: 'Ngày 6 (02/09): Mèo Vạc ➔ Đèo 14 Tầng ➔ QL34 ➔ TP Cao Bằng', subtitle: 'Vượt cung đường đèo hiểm trở sang Cao Bằng, đón Lễ 2/9 tại bờ sông', total: 535000, count: 11, icon: '🇻🇳' },
       7: { title: 'Ngày 7 (03/09): TP Cao Bằng ➔ Thang Hen ➔ Thác Bản Giốc', subtitle: 'Hồ Thang Hen, Núi Mắt Thần, Thác Bản Giốc, cá sông Trùng Khánh', total: 830000, count: 8, icon: '🌊' },
       8: { title: 'Ngày 8 (04/09): Bản Giốc ➔ Pác Bó ➔ Trả Xe TP CB ➔ Xe Đêm HN', subtitle: 'Phở Co Sàu, Suối Lê-Nin, Phở Chua Cao Bằng, nhận lại cọc 3tr & lên xe', total: 415000, count: 6, icon: '🚌' },
-      9: { title: 'Ngày 9 (05/09): Sớm Mai Hà Nội ➔ Foodtour Phố Cổ ➔ Spa Dưỡng Sinh', subtitle: 'Dự toán: ~1.000k – 1.400k (Phở Bát Đàn, Cafe Giảng, Ngan cháy tỏi, Spa đôi)', total: 0, count: 0, icon: '🍂' },
+      9: { title: 'Ngày 9 (05/09 - Hôm nay): Sớm Mai Hà Nội ➔ Foodtour Phố Cổ ➔ Spa', subtitle: 'Dự toán: ~1.000k – 1.400k (Phở Bát Đàn, Cafe Giảng, Ngan cháy tỏi, Spa đôi)', total: 0, count: 0, icon: '🍂' },
       10: { title: 'Ngày 10 (06/09): Mùa Thu Hà Nội ➔ Mua Quà Đặc Sản ➔ Bay Về SGN', subtitle: 'Dự toán: ~1.000k – 1.300k (Chả cá Lăng, Bánh cốm Hàng Than, Lẩu riêu, Bay 22:50)', total: 0, count: 0, icon: '🎁' }
     };
 
@@ -1671,9 +1921,20 @@
       }
     };
 
-    // Render Table & Category Bars
+    // Render Table & Category Bars & KPI computations
     function render() {
-      // 1. Filter Data
+      // 1. Dynamic Calculations
+      const dailyTotal = expenses.reduce((s, i) => s + Number(i.amount), 0);
+      const grandTotal = FIXED_TRANSPORT_PAID + ACCOMMODATIONS_PAID + dailyTotal;
+      const perPerson = Math.round(grandTotal / 2);
+      const dailyAvg = Math.round(dailyTotal / 8);
+
+      document.getElementById('kpi-grand-total').textContent = formatVND(grandTotal);
+      document.getElementById('kpi-per-person').textContent = `~${formatVND(perPerson)} / người (2 người)`;
+      document.getElementById('kpi-daily-total').textContent = formatVND(dailyTotal);
+      document.getElementById('kpi-daily-avg').textContent = `TB ~${formatVND(dailyAvg)} / ngày (${expenses.length} mục)`;
+
+      // 2. Filter Data
       let filtered = expenses.filter(item => {
         const matchDay = currentFilterDay === 'all' || item.day.toString() === currentFilterDay;
         const matchCat = currentFilterCat === 'all' || item.cat === currentFilterCat;
@@ -1684,7 +1945,7 @@
         return matchDay && matchCat && matchSearch;
       });
 
-      // 2. Sort Data
+      // 3. Sort Data
       filtered.sort((a, b) => {
         if (sortMode === 'day-asc') return a.day - b.day || a.id - b.id;
         if (sortMode === 'day-desc') return b.day - a.day || b.id - a.id;
@@ -1693,7 +1954,7 @@
         return 0;
       });
 
-      // 3. Render Table
+      // 4. Render Table
       const tbody = document.getElementById('expense-tbody');
       tbody.innerHTML = '';
 
@@ -1744,13 +2005,12 @@
         });
       }
 
-      // 4. Render Category Progress Bars
+      // 5. Render Category Progress Bars
       const catTotals = { food: 0, gift: 0, transport: 0, ticket: 0, other: 0, hotel: 0 };
       expenses.forEach(i => {
         catTotals[i.cat] = (catTotals[i.cat] || 0) + Number(i.amount);
       });
 
-      const totalDaily = expenses.reduce((s, i) => s + Number(i.amount), 0);
       const catContainer = document.getElementById('cat-bars-container');
       if (catContainer) {
         catContainer.innerHTML = '';
@@ -1758,7 +2018,7 @@
         
         sortedCats.forEach(([catKey, sum]) => {
           const cat = catMeta[catKey];
-          const pct = totalDaily > 0 ? ((sum / totalDaily) * 100).toFixed(1) : 0;
+          const pct = dailyTotal > 0 ? ((sum / dailyTotal) * 100).toFixed(1) : 0;
           const itemDiv = document.createElement('div');
           itemDiv.className = 'cat-item';
           itemDiv.innerHTML = `
@@ -1850,13 +2110,13 @@
         dailyChartInstance = new Chart(ctxDaily, {
           type: 'bar',
           data: {
-            labels: ['N1 (28/8)', 'N2 (29/8)', 'N3 (30/8)', 'N4 (31/8)', 'N5 (01/9)', 'N6 (02/9)', 'N7 (03/9)', 'N8 (04/9)', 'N9 (Dự kiến)', 'N10 (Dự kiến)'],
+            labels: ['N1 (28/8)', 'N2 (29/8)', 'N3 (30/8)', 'N4 (31/8)', 'N5 (01/9)', 'N6 (02/9)', 'N7 (03/9)', 'N8 (04/9)', 'N9 (Hôm nay)', 'N10 (Dự kiến)'],
             datasets: [{
               label: 'Chi tiêu theo ngày (VNĐ)',
               data: dayData,
               backgroundColor: [
                 '#38bdf8', '#38bdf8', '#38bdf8', '#38bdf8', '#38bdf8', '#38bdf8', '#38bdf8', '#10b981',
-                'rgba(168, 85, 247, 0.4)', 'rgba(168, 85, 247, 0.4)'
+                '#fbbf24', 'rgba(168, 85, 247, 0.4)'
               ],
               borderRadius: 6,
               borderSkipped: false
