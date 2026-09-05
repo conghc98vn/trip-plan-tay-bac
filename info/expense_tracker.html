@@ -2,12 +2,17 @@
 <html lang="vi">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+  <meta name="theme-color" content="#070b14" />
   <title>Trip Finance Intelligence HQ — Hà Giang • Cao Bằng • Hà Nội 2026</title>
+  
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@500;600;700;800&family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
   <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  
   <style>
     :root {
       --bg: #070b14;
@@ -60,7 +65,10 @@
       color: var(--text);
       min-height: 100vh;
       padding: 24px 16px 100px;
+      padding-top: max(20px, env(safe-area-inset-top));
+      padding-bottom: max(100px, env(safe-area-inset-bottom) + 30px);
       line-height: 1.5;
+      -webkit-font-smoothing: antialiased;
     }
 
     .container {
@@ -75,35 +83,36 @@
       justify-content: space-between;
       align-items: center;
       gap: 16px;
-      padding: 16px 24px;
+      padding: 16px 22px;
       background: var(--bg-card);
       border: 1px solid var(--card-border);
       border-radius: var(--radius-lg);
       backdrop-filter: blur(20px);
-      margin-bottom: 24px;
+      margin-bottom: 20px;
       box-shadow: 0 20px 40px -15px rgba(0,0,0,0.6);
     }
 
     .brand {
       display: flex;
       align-items: center;
-      gap: 14px;
+      gap: 12px;
     }
 
     .brand-icon {
-      width: 46px;
-      height: 46px;
+      width: 44px;
+      height: 44px;
       background: linear-gradient(135deg, #0284c7, #10b981);
       border-radius: var(--radius-md);
       display: flex;
       align-items: center;
       justify-content: center;
-      font-size: 1.5rem;
+      font-size: 1.4rem;
       box-shadow: 0 8px 20px rgba(16, 185, 129, 0.3);
+      flex-shrink: 0;
     }
 
     .brand-text h1 {
-      font-size: 1.25rem;
+      font-size: 1.22rem;
       font-weight: 800;
       background: linear-gradient(135deg, #ffffff 40%, #38bdf8 100%);
       -webkit-background-clip: text;
@@ -112,7 +121,7 @@
     }
 
     .brand-text p {
-      font-size: 0.82rem;
+      font-size: 0.8rem;
       color: var(--text-muted);
       display: flex;
       align-items: center;
@@ -123,11 +132,11 @@
       display: inline-flex;
       align-items: center;
       gap: 6px;
-      padding: 6px 14px;
+      padding: 6px 12px;
       background: rgba(255, 255, 255, 0.05);
       border: 1px solid rgba(255, 255, 255, 0.1);
       border-radius: var(--radius-full);
-      font-size: 0.8rem;
+      font-size: 0.78rem;
       font-weight: 600;
       color: #e2e8f0;
     }
@@ -140,7 +149,7 @@
       background: rgba(16, 185, 129, 0.12);
       border: 1px solid rgba(16, 185, 129, 0.35);
       border-radius: var(--radius-full);
-      font-size: 0.82rem;
+      font-size: 0.8rem;
       font-weight: 700;
       color: #34d399;
     }
@@ -152,6 +161,7 @@
       border-radius: 50%;
       box-shadow: 0 0 0 0 rgba(16, 185, 129, 0.7);
       animation: pulseAnim 1.8s infinite;
+      flex-shrink: 0;
     }
 
     @keyframes pulseAnim {
@@ -167,40 +177,44 @@
     }
 
     .btn-action {
-      padding: 8px 14px;
+      padding: 8px 12px;
       background: rgba(255, 255, 255, 0.06);
       border: 1px solid var(--card-border);
       border-radius: var(--radius-sm);
       color: var(--text);
-      font-size: 0.82rem;
+      font-size: 0.8rem;
       font-weight: 600;
       cursor: pointer;
       display: inline-flex;
       align-items: center;
-      gap: 6px;
+      gap: 5px;
       transition: var(--transition);
       text-decoration: none;
+      white-space: nowrap;
+    }
+
+    .btn-action:active {
+      transform: scale(0.96);
     }
 
     .btn-action:hover {
       background: rgba(255, 255, 255, 0.12);
       border-color: var(--primary);
-      transform: translateY(-1px);
     }
 
     /* Hero KPI Cards */
     .kpi-grid {
       display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(235px, 1fr));
-      gap: 16px;
-      margin-bottom: 24px;
+      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+      gap: 14px;
+      margin-bottom: 20px;
     }
 
     .kpi-card {
       background: var(--bg-card);
       border: 1px solid var(--card-border);
       border-radius: var(--radius-lg);
-      padding: 20px;
+      padding: 18px 20px;
       backdrop-filter: blur(20px);
       box-shadow: 0 12px 32px -10px rgba(0,0,0,0.5);
       position: relative;
@@ -228,36 +242,37 @@
       display: flex;
       justify-content: space-between;
       align-items: center;
-      margin-bottom: 10px;
+      margin-bottom: 8px;
     }
 
     .kpi-title {
-      font-size: 0.78rem;
+      font-size: 0.74rem;
       font-weight: 700;
       text-transform: uppercase;
-      letter-spacing: 0.06em;
+      letter-spacing: 0.05em;
       color: var(--text-muted);
     }
 
     .kpi-icon {
-      font-size: 1.25rem;
+      font-size: 1.2rem;
     }
 
     .kpi-amount {
-      font-size: 1.68rem;
+      font-size: 1.6rem;
       font-weight: 800;
       font-family: var(--font-mono);
       color: #fff;
       letter-spacing: -0.02em;
-      margin-bottom: 6px;
+      margin-bottom: 4px;
+      word-break: break-word;
     }
 
     .kpi-subtitle {
-      font-size: 0.78rem;
+      font-size: 0.76rem;
       color: var(--text-muted);
       display: flex;
       align-items: center;
-      gap: 6px;
+      gap: 5px;
     }
 
     .kpi-progress {
@@ -277,19 +292,19 @@
     /* Key Highlights Strip */
     .highlights-strip {
       display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(210px, 1fr));
-      gap: 12px;
-      margin-bottom: 24px;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 10px;
+      margin-bottom: 20px;
     }
 
     .highlight-card {
       background: rgba(15, 23, 42, 0.6);
       border: 1px solid rgba(255, 255, 255, 0.06);
       border-radius: var(--radius-md);
-      padding: 14px 16px;
+      padding: 12px 14px;
       display: flex;
       align-items: center;
-      gap: 12px;
+      gap: 10px;
       transition: var(--transition);
     }
 
@@ -299,9 +314,9 @@
     }
 
     .highlight-icon {
-      font-size: 1.5rem;
-      width: 40px;
-      height: 40px;
+      font-size: 1.35rem;
+      width: 36px;
+      height: 36px;
       border-radius: var(--radius-sm);
       background: rgba(255, 255, 255, 0.05);
       display: flex;
@@ -311,14 +326,14 @@
     }
 
     .highlight-label {
-      font-size: 0.74rem;
+      font-size: 0.72rem;
       color: var(--text-muted);
       text-transform: uppercase;
       font-weight: 600;
     }
 
     .highlight-val {
-      font-size: 0.95rem;
+      font-size: 0.9rem;
       font-weight: 700;
       color: #fff;
     }
@@ -326,14 +341,15 @@
     /* Main Tab Navigation */
     .tab-nav {
       display: flex;
-      gap: 8px;
+      gap: 6px;
       background: rgba(15, 23, 42, 0.65);
       padding: 6px;
       border-radius: var(--radius-md);
       border: 1px solid var(--card-border);
-      margin-bottom: 24px;
+      margin-bottom: 20px;
       overflow-x: auto;
       scrollbar-width: none;
+      -webkit-overflow-scrolling: touch;
     }
 
     .tab-nav::-webkit-scrollbar {
@@ -341,19 +357,24 @@
     }
 
     .tab-btn {
-      padding: 10px 18px;
+      padding: 9px 16px;
       border: none;
       background: transparent;
       color: var(--text-muted);
       font-weight: 700;
-      font-size: 0.88rem;
+      font-size: 0.85rem;
       border-radius: var(--radius-sm);
       cursor: pointer;
       display: inline-flex;
       align-items: center;
-      gap: 8px;
+      gap: 6px;
       white-space: nowrap;
       transition: var(--transition);
+      flex-shrink: 0;
+    }
+
+    .tab-btn:active {
+      transform: scale(0.97);
     }
 
     .tab-btn:hover {
@@ -385,23 +406,23 @@
     /* Grid Layouts */
     .grid-2 {
       display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(380px, 1fr));
-      gap: 24px;
-      margin-bottom: 24px;
+      grid-template-columns: repeat(auto-fit, minmax(360px, 1fr));
+      gap: 20px;
+      margin-bottom: 20px;
     }
 
     .grid-3 {
       display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
-      gap: 20px;
-      margin-bottom: 24px;
+      grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+      gap: 16px;
+      margin-bottom: 20px;
     }
 
     .card {
       background: var(--bg-card);
       border: 1px solid var(--card-border);
       border-radius: var(--radius-lg);
-      padding: 24px;
+      padding: 22px;
       backdrop-filter: blur(20px);
       box-shadow: 0 12px 32px -10px rgba(0,0,0,0.5);
       position: relative;
@@ -411,11 +432,13 @@
       display: flex;
       justify-content: space-between;
       align-items: center;
-      margin-bottom: 20px;
+      margin-bottom: 18px;
+      flex-wrap: wrap;
+      gap: 8px;
     }
 
     .card-title {
-      font-size: 1.1rem;
+      font-size: 1.05rem;
       font-weight: 700;
       color: #fff;
       display: flex;
@@ -424,7 +447,7 @@
     }
 
     .card-subtitle {
-      font-size: 0.8rem;
+      font-size: 0.78rem;
       color: var(--text-muted);
       margin-top: 2px;
     }
@@ -434,7 +457,7 @@
       background: rgba(255, 255, 255, 0.02);
       border: 1px solid rgba(255, 255, 255, 0.06);
       border-radius: var(--radius-md);
-      padding: 18px;
+      padding: 16px;
       display: flex;
       flex-direction: column;
       height: 100%;
@@ -444,24 +467,24 @@
       display: flex;
       justify-content: space-between;
       align-items: center;
-      padding-bottom: 12px;
+      padding-bottom: 10px;
       border-bottom: 1px solid rgba(255, 255, 255, 0.06);
-      margin-bottom: 14px;
+      margin-bottom: 12px;
     }
 
     .pillar-title {
-      font-size: 0.95rem;
+      font-size: 0.92rem;
       font-weight: 700;
       color: #fff;
       display: flex;
       align-items: center;
-      gap: 8px;
+      gap: 6px;
     }
 
     .pillar-total {
       font-family: var(--font-mono);
       font-weight: 800;
-      font-size: 1.05rem;
+      font-size: 1rem;
     }
 
     .pillar-item {
@@ -471,6 +494,7 @@
       padding: 8px 0;
       font-size: 0.82rem;
       border-bottom: 1px dashed rgba(255, 255, 255, 0.04);
+      gap: 8px;
     }
 
     .pillar-item:last-child {
@@ -488,12 +512,13 @@
       font-family: var(--font-mono);
       font-weight: 600;
       color: #fff;
+      white-space: nowrap;
     }
 
     /* Category List Bars */
     .cat-item {
-      margin-bottom: 14px;
-      padding: 12px 14px;
+      margin-bottom: 12px;
+      padding: 10px 12px;
       background: rgba(255, 255, 255, 0.03);
       border-radius: var(--radius-md);
       border: 1px solid rgba(255, 255, 255, 0.04);
@@ -509,15 +534,15 @@
       display: flex;
       justify-content: space-between;
       align-items: center;
-      margin-bottom: 8px;
-      font-size: 0.88rem;
+      margin-bottom: 6px;
+      font-size: 0.85rem;
     }
 
     .cat-name {
       font-weight: 700;
       display: flex;
       align-items: center;
-      gap: 8px;
+      gap: 6px;
     }
 
     .cat-val {
@@ -528,12 +553,12 @@
 
     .cat-pct {
       color: var(--text-muted);
-      font-size: 0.78rem;
-      margin-left: 6px;
+      font-size: 0.74rem;
+      margin-left: 4px;
     }
 
     .bar-bg {
-      height: 8px;
+      height: 7px;
       background: rgba(255, 255, 255, 0.06);
       border-radius: 4px;
       overflow: hidden;
@@ -551,14 +576,14 @@
       flex-wrap: wrap;
       justify-content: space-between;
       align-items: center;
-      gap: 12px;
-      margin-bottom: 18px;
+      gap: 10px;
+      margin-bottom: 16px;
     }
 
     .search-box {
       position: relative;
       flex: 1;
-      min-width: 240px;
+      min-width: 220px;
     }
 
     .search-box input {
@@ -568,7 +593,7 @@
       border: 1px solid rgba(255, 255, 255, 0.12);
       border-radius: var(--radius-md);
       color: #fff;
-      font-size: 0.88rem;
+      font-size: 0.86rem;
       outline: none;
       transition: var(--transition);
     }
@@ -589,24 +614,34 @@
 
     .day-chips-scroll {
       display: flex;
-      gap: 8px;
+      gap: 6px;
       overflow-x: auto;
-      padding-bottom: 8px;
-      margin-bottom: 16px;
-      scrollbar-width: thin;
+      padding-bottom: 6px;
+      margin-bottom: 14px;
+      scrollbar-width: none;
+      -webkit-overflow-scrolling: touch;
+    }
+
+    .day-chips-scroll::-webkit-scrollbar {
+      display: none;
     }
 
     .day-chip {
-      padding: 7px 14px;
+      padding: 6px 12px;
       background: rgba(255, 255, 255, 0.04);
       border: 1px solid rgba(255, 255, 255, 0.08);
       border-radius: var(--radius-full);
-      font-size: 0.8rem;
+      font-size: 0.78rem;
       font-weight: 700;
       color: var(--text-muted);
       cursor: pointer;
       white-space: nowrap;
       transition: var(--transition);
+      flex-shrink: 0;
+    }
+
+    .day-chip:active {
+      transform: scale(0.96);
     }
 
     .day-chip:hover {
@@ -624,20 +659,33 @@
     .cat-chips {
       display: flex;
       gap: 6px;
-      flex-wrap: wrap;
-      margin-bottom: 16px;
+      overflow-x: auto;
+      padding-bottom: 6px;
+      margin-bottom: 14px;
+      scrollbar-width: none;
+      -webkit-overflow-scrolling: touch;
+    }
+
+    .cat-chips::-webkit-scrollbar {
+      display: none;
     }
 
     .cat-chip {
-      padding: 5px 12px;
+      padding: 5px 11px;
       border-radius: var(--radius-sm);
       background: rgba(255, 255, 255, 0.04);
       border: 1px solid rgba(255, 255, 255, 0.06);
-      font-size: 0.76rem;
+      font-size: 0.74rem;
       font-weight: 600;
       color: var(--text-muted);
       cursor: pointer;
       transition: var(--transition);
+      white-space: nowrap;
+      flex-shrink: 0;
+    }
+
+    .cat-chip:active {
+      transform: scale(0.96);
     }
 
     .cat-chip:hover, .cat-chip.active {
@@ -646,9 +694,8 @@
       border-color: rgba(255, 255, 255, 0.2);
     }
 
-    /* Table Styles */
+    /* Table & Mobile Card View */
     .table-container {
-      overflow-x: auto;
       border-radius: var(--radius-md);
       border: 1px solid rgba(255, 255, 255, 0.06);
       background: rgba(10, 16, 30, 0.5);
@@ -657,15 +704,15 @@
     table {
       width: 100%;
       border-collapse: collapse;
-      font-size: 0.88rem;
+      font-size: 0.86rem;
       text-align: left;
     }
 
     th {
-      padding: 14px 16px;
+      padding: 12px 14px;
       background: rgba(15, 23, 42, 0.95);
       color: var(--text-muted);
-      font-size: 0.78rem;
+      font-size: 0.75rem;
       font-weight: 700;
       text-transform: uppercase;
       letter-spacing: 0.06em;
@@ -676,7 +723,7 @@
     }
 
     td {
-      padding: 14px 16px;
+      padding: 12px 14px;
       border-bottom: 1px solid rgba(255, 255, 255, 0.04);
       vertical-align: middle;
     }
@@ -689,33 +736,35 @@
       display: inline-flex;
       align-items: center;
       justify-content: center;
-      padding: 4px 10px;
+      padding: 3px 8px;
       background: rgba(56, 189, 248, 0.12);
       border: 1px solid rgba(56, 189, 248, 0.3);
       border-radius: var(--radius-sm);
       color: var(--primary-light);
       font-weight: 700;
-      font-size: 0.78rem;
+      font-size: 0.74rem;
+      white-space: nowrap;
     }
 
     .item-title {
       font-weight: 700;
       color: #fff;
       margin-bottom: 2px;
+      font-size: 0.88rem;
     }
 
     .item-note {
-      font-size: 0.78rem;
+      font-size: 0.76rem;
       color: var(--text-muted);
     }
 
     .tag {
       display: inline-flex;
       align-items: center;
-      gap: 5px;
-      padding: 4px 10px;
+      gap: 4px;
+      padding: 3px 8px;
       border-radius: var(--radius-sm);
-      font-size: 0.74rem;
+      font-size: 0.72rem;
       font-weight: 600;
       white-space: nowrap;
     }
@@ -732,6 +781,7 @@
       font-weight: 800;
       color: #fff;
       text-align: right;
+      white-space: nowrap;
     }
 
     /* Cards for Hotels & Logistics */
@@ -739,8 +789,8 @@
       background: rgba(22, 30, 49, 0.6);
       border: 1px solid rgba(255, 255, 255, 0.08);
       border-radius: var(--radius-md);
-      padding: 18px;
-      margin-bottom: 16px;
+      padding: 16px;
+      margin-bottom: 14px;
       transition: var(--transition);
       position: relative;
     }
@@ -761,21 +811,21 @@
     }
 
     .voucher-name {
-      font-size: 1.05rem;
+      font-size: 1rem;
       font-weight: 700;
       color: #fff;
       display: flex;
       align-items: center;
-      gap: 8px;
+      gap: 6px;
       flex-wrap: wrap;
     }
 
     .voucher-meta-grid {
       display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
-      gap: 10px;
-      margin-bottom: 12px;
-      font-size: 0.82rem;
+      grid-template-columns: repeat(auto-fit, minmax(170px, 1fr));
+      gap: 8px;
+      margin-bottom: 10px;
+      font-size: 0.8rem;
     }
 
     .meta-item {
@@ -784,7 +834,7 @@
     }
 
     .meta-label {
-      font-size: 0.72rem;
+      font-size: 0.7rem;
       color: var(--text-muted);
       text-transform: uppercase;
       font-weight: 600;
@@ -794,6 +844,7 @@
       color: #e2e8f0;
       font-weight: 600;
       font-family: var(--font-mono);
+      word-break: break-word;
     }
 
     .hotline-link {
@@ -802,6 +853,7 @@
       display: inline-flex;
       align-items: center;
       gap: 4px;
+      font-weight: 700;
     }
 
     .hotline-link:hover {
@@ -811,9 +863,9 @@
     /* Day Itinerary Box */
     .day-itinerary-header {
       background: linear-gradient(135deg, rgba(30, 41, 59, 0.8), rgba(15, 23, 42, 0.9));
-      padding: 14px 18px;
+      padding: 12px 16px;
       border-radius: var(--radius-md);
-      margin-bottom: 16px;
+      margin-bottom: 14px;
       border: 1px solid rgba(255, 255, 255, 0.08);
       display: flex;
       justify-content: space-between;
@@ -830,58 +882,34 @@
 
     .day-sum-badge {
       font-family: var(--font-mono);
-      font-size: 1.05rem;
+      font-size: 1rem;
       font-weight: 800;
       color: var(--emerald);
       background: rgba(16, 185, 129, 0.12);
-      padding: 4px 14px;
+      padding: 4px 12px;
       border-radius: var(--radius-full);
       border: 1px solid rgba(16, 185, 129, 0.3);
-    }
-
-    /* Insights Stats Cards */
-    .stat-box {
-      background: rgba(15, 23, 42, 0.6);
-      border: 1px solid rgba(255, 255, 255, 0.06);
-      border-radius: var(--radius-md);
-      padding: 16px;
-      text-align: center;
-      transition: var(--transition);
-    }
-
-    .stat-box:hover {
-      border-color: rgba(56, 189, 248, 0.3);
-      transform: translateY(-2px);
-    }
-
-    .stat-number {
-      font-size: 1.6rem;
-      font-weight: 800;
-      font-family: var(--font-mono);
-      color: #fff;
-      margin-bottom: 4px;
-    }
-
-    .stat-desc {
-      font-size: 0.78rem;
-      color: var(--text-muted);
+      white-space: nowrap;
     }
 
     /* Toast Notification */
     .toast {
       position: fixed;
-      bottom: 24px;
-      right: 24px;
+      bottom: max(20px, env(safe-area-inset-bottom) + 10px);
+      right: 20px;
+      left: 20px;
+      max-width: 400px;
+      margin: 0 auto;
       background: #1e293b;
       border: 1px solid var(--emerald);
       color: #fff;
-      padding: 12px 20px;
+      padding: 12px 18px;
       border-radius: var(--radius-md);
       box-shadow: 0 10px 30px rgba(0,0,0,0.6);
       display: flex;
       align-items: center;
       gap: 10px;
-      font-size: 0.88rem;
+      font-size: 0.86rem;
       font-weight: 600;
       transform: translateY(100px);
       opacity: 0;
@@ -892,6 +920,203 @@
     .toast.show {
       transform: translateY(0);
       opacity: 1;
+    }
+
+    /* ========================================================== */
+    /* 📱 MOBILE SPECIFIC RESPONSIVE OPTIMIZATIONS (<= 768px)   */
+    /* ========================================================== */
+    @media (max-width: 768px) {
+      body {
+        padding: 12px 10px 90px;
+      }
+
+      .top-nav {
+        padding: 12px 14px;
+        gap: 10px;
+        margin-bottom: 14px;
+      }
+
+      .brand {
+        width: 100%;
+      }
+
+      .brand-icon {
+        width: 38px;
+        height: 38px;
+        font-size: 1.2rem;
+      }
+
+      .brand-text h1 {
+        font-size: 1.05rem;
+      }
+
+      .brand-text p {
+        font-size: 0.74rem;
+      }
+
+      .status-badge, .route-pill {
+        font-size: 0.74rem;
+        padding: 4px 10px;
+      }
+
+      .top-actions {
+        width: 100%;
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 6px;
+      }
+
+      .btn-action {
+        justify-content: center;
+        padding: 7px 6px;
+        font-size: 0.74rem;
+      }
+
+      /* 2 Columns KPI on Mobile for High Density */
+      .kpi-grid {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 8px;
+        margin-bottom: 14px;
+      }
+
+      .kpi-card {
+        padding: 12px 14px;
+        border-radius: var(--radius-md);
+      }
+
+      .kpi-title {
+        font-size: 0.68rem;
+      }
+
+      .kpi-icon {
+        font-size: 1.05rem;
+      }
+
+      .kpi-amount {
+        font-size: 1.15rem;
+        margin-bottom: 2px;
+      }
+
+      .kpi-subtitle {
+        font-size: 0.68rem;
+        line-height: 1.2;
+      }
+
+      /* 2 Columns Highlights on Mobile */
+      .highlights-strip {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 8px;
+        margin-bottom: 16px;
+      }
+
+      .highlight-card {
+        padding: 8px 10px;
+        gap: 8px;
+      }
+
+      .highlight-icon {
+        width: 30px;
+        height: 30px;
+        font-size: 1.1rem;
+      }
+
+      .highlight-label {
+        font-size: 0.66rem;
+      }
+
+      .highlight-val {
+        font-size: 0.78rem;
+      }
+
+      .grid-2, .grid-3 {
+        grid-template-columns: 1fr;
+        gap: 14px;
+        margin-bottom: 14px;
+      }
+
+      .card {
+        padding: 14px;
+        border-radius: var(--radius-md);
+      }
+
+      .card-header {
+        margin-bottom: 14px;
+      }
+
+      .card-title {
+        font-size: 0.95rem;
+      }
+
+      .card-subtitle {
+        font-size: 0.72rem;
+      }
+
+      /* Mobile Expense Item Layout (Replaces wide table on small screens) */
+      @media (max-width: 640px) {
+        .table-container {
+          background: transparent;
+          border: none;
+        }
+
+        table, thead, tbody, th, td, tr {
+          display: block;
+        }
+
+        thead tr {
+          position: absolute;
+          top: -9999px;
+          left: -9999px;
+        }
+
+        #expense-tbody tr {
+          background: rgba(15, 23, 42, 0.6);
+          border: 1px solid rgba(255, 255, 255, 0.06);
+          border-radius: var(--radius-md);
+          padding: 12px 14px;
+          margin-bottom: 8px;
+          display: grid;
+          grid-template-columns: auto 1fr auto;
+          grid-template-areas: 
+            "badge title price"
+            "none note tag";
+          align-items: center;
+          gap: 6px 10px;
+        }
+
+        #expense-tbody td {
+          padding: 0;
+          border: none;
+        }
+
+        #expense-tbody td:nth-child(1) {
+          grid-area: badge;
+        }
+
+        #expense-tbody td:nth-child(2) {
+          grid-area: title;
+        }
+
+        #expense-tbody td:nth-child(3) {
+          grid-area: tag;
+          justify-self: end;
+        }
+
+        #expense-tbody td:nth-child(4) {
+          grid-area: price;
+          font-size: 0.95rem;
+        }
+
+        .item-title {
+          font-size: 0.85rem;
+          margin-bottom: 0;
+        }
+
+        .item-note {
+          font-size: 0.72rem;
+          grid-column: 2 / span 2;
+          margin-top: 2px;
+        }
+      }
     }
 
     /* Print Styles */
@@ -918,26 +1143,6 @@
         color: #000 !important;
       }
     }
-
-    @media (max-width: 768px) {
-      body {
-        padding: 12px 10px 80px;
-      }
-      .top-nav {
-        flex-direction: column;
-        align-items: flex-start;
-        padding: 16px;
-      }
-      .kpi-grid {
-        grid-template-columns: 1fr;
-      }
-      .grid-2, .grid-3 {
-        grid-template-columns: 1fr;
-      }
-      .card {
-        padding: 16px;
-      }
-    }
   </style>
 </head>
 <body>
@@ -948,29 +1153,29 @@
       <div class="brand">
         <div class="brand-icon">🏔️</div>
         <div class="brand-text">
-          <h1>Trip Finance Intelligence HQ</h1>
+          <h1>Trip Finance HQ</h1>
           <p>
-            <span>Hành trình: TP.HCM • Hà Nội • Hà Giang • Cao Bằng</span>
+            <span>Hà Nội • Hà Giang • Cao Bằng (10N9Đ)</span>
           </p>
         </div>
       </div>
 
-      <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 10px;">
+      <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 8px; width: 100%;">
         <div class="status-badge">
           <span class="pulse"></span>
-          <span>Hôm nay: Ngày 9 (05/09) — Sớm Mai Hà Nội • Foodtour Phố Cổ</span>
+          <span>N9 (05/09): Hà Nội Mùa Thu • Foodtour Phố Cổ</span>
         </div>
         <div class="route-pill">
-          <span>28/08 – 06/09/2026 (10N9Đ)</span>
+          <span>28/08 – 06/09/2026</span>
         </div>
       </div>
 
       <div class="top-actions">
         <button class="btn-action" onclick="exportMarkdownTable()">
-          <span>📋</span> Sao chép Markdown
+          <span>📋</span> Markdown
         </button>
         <button class="btn-action" onclick="exportCSV()">
-          <span>📊</span> Xuất CSV
+          <span>📊</span> CSV
         </button>
         <button class="btn-action" onclick="window.print()">
           <span>🖨️</span> In / PDF
@@ -978,17 +1183,17 @@
       </div>
     </header>
 
-    <!-- Executive Hero KPI Cards (Dynamic Computation) -->
+    <!-- Executive Hero KPI Cards (2 Columns on Mobile for glanceability) -->
     <section class="kpi-grid">
       <!-- KPI 1: Grand Total -->
       <div class="kpi-card" style="--accent-gradient: linear-gradient(90deg, #10b981, #34d399);">
         <div class="kpi-top">
-          <span class="kpi-title">Tổng Đã Chi Thực Tế</span>
+          <span class="kpi-title">Đã Chi Thực Tế</span>
           <span class="kpi-icon">🏆</span>
         </div>
         <div class="kpi-amount" id="kpi-grand-total">18.045.195 đ</div>
         <div class="kpi-subtitle">
-          <span id="kpi-per-person">~9.022.598 đ / người (2 người)</span>
+          <span id="kpi-per-person">~9.022.598 đ / người</span>
         </div>
         <div class="kpi-progress">
           <div class="kpi-progress-bar" style="width: 85.7%;"></div>
@@ -1003,7 +1208,7 @@
         </div>
         <div class="kpi-amount">~21.045.195 đ</div>
         <div class="kpi-subtitle">
-          <span>~10.522.598 đ / người (10 Ngày 9 Đêm)</span>
+          <span>~10.522k / người (10N9Đ)</span>
         </div>
         <div class="kpi-progress">
           <div class="kpi-progress-bar" style="width: 100%; background: linear-gradient(90deg, #38bdf8, #818cf8);"></div>
@@ -1018,7 +1223,7 @@
         </div>
         <div class="kpi-amount" id="kpi-daily-total">7.380.000 đ</div>
         <div class="kpi-subtitle">
-          <span id="kpi-daily-avg">TB ~922.500 đ / ngày (71 khoản chi)</span>
+          <span id="kpi-daily-avg">TB ~922k / ngày (71 mục)</span>
         </div>
         <div class="kpi-progress">
           <div class="kpi-progress-bar" style="width: 71%; background: linear-gradient(90deg, #f59e0b, #fbbf24);"></div>
@@ -1033,7 +1238,7 @@
         </div>
         <div class="kpi-amount" id="kpi-fixed-total">7.754.024 đ</div>
         <div class="kpi-subtitle">
-          <span>2 Vé máy bay, 2 Xe khách, 2 Xe máy</span>
+          <span>2 Vé bay, 2 Xe khách, 2 Xe máy</span>
         </div>
         <div class="kpi-progress">
           <div class="kpi-progress-bar" style="width: 96.1%; background: linear-gradient(90deg, #0284c7, #38bdf8);"></div>
@@ -1048,7 +1253,7 @@
         </div>
         <div class="kpi-amount" id="kpi-hotel-total">2.911.171 đ</div>
         <div class="kpi-subtitle">
-          <span>Đã chốt 100% (7 Đêm KS + 2 Đêm Xe VIP)</span>
+          <span>7 Đêm KS + 2 Đêm Xe VIP</span>
         </div>
         <div class="kpi-progress">
           <div class="kpi-progress-bar" style="width: 100%; background: linear-gradient(90deg, #a855f7, #ec4899);"></div>
@@ -1063,7 +1268,7 @@
         </div>
         <div class="kpi-amount" style="color: #34d399;">+3.000.000 đ</div>
         <div class="kpi-subtitle">
-          <span>Nhận lại khi trả xe Giang Sơn tại TP Cao Bằng</span>
+          <span>Đã nhận lại khi trả xe TP CB</span>
         </div>
         <div class="kpi-progress">
           <div class="kpi-progress-bar" style="width: 100%; background: #34d399;"></div>
@@ -1076,29 +1281,29 @@
       <div class="highlight-card">
         <div class="highlight-icon" style="color: #f43f5e;">📈</div>
         <div>
-          <div class="highlight-label">Ngày chi nhiều nhất</div>
-          <div class="highlight-val">Ngày 1 (2.010.000 đ)</div>
+          <div class="highlight-label">Chi nhiều nhất</div>
+          <div class="highlight-val">N1 (2.010.000 đ)</div>
         </div>
       </div>
       <div class="highlight-card">
         <div class="highlight-icon" style="color: #10b981;">📉</div>
         <div>
-          <div class="highlight-label">Ngày tiết kiệm nhất</div>
-          <div class="highlight-val">Ngày 8 (415.000 đ)</div>
+          <div class="highlight-label">Tiết kiệm nhất</div>
+          <div class="highlight-val">N8 (415.000 đ)</div>
         </div>
       </div>
       <div class="highlight-card">
         <div class="highlight-icon" style="color: #f59e0b;">🎁</div>
         <div>
-          <div class="highlight-label">Khoản chi lớn nhất</div>
-          <div class="highlight-val">Quà Yến sào biếu bà (650k)</div>
+          <div class="highlight-label">Mục lớn nhất</div>
+          <div class="highlight-val">Quà biếu bà (650k)</div>
         </div>
       </div>
       <div class="highlight-card">
         <div class="highlight-icon" style="color: #38bdf8;">🍜</div>
         <div>
-          <div class="highlight-label">Món ngon & Ẩm thực</div>
-          <div class="highlight-val">39 món đặc sản & cafe</div>
+          <div class="highlight-label">Ẩm thực & Cafe</div>
+          <div class="highlight-val">39 món đặc sản</div>
         </div>
       </div>
     </section>
@@ -1112,16 +1317,16 @@
         <span>📝</span> 2. Nhật Ký Chi Tiêu (71 Mục)
       </button>
       <button class="tab-btn" onclick="switchTab('tab-transparency')">
-        <span>🔍</span> 3. Đối Soát Minh Bạch 3 Trụ Cột
+        <span>🔍</span> 3. Đối Soát 3 Trụ Cột
       </button>
       <button class="tab-btn" onclick="switchTab('tab-hotels')">
-        <span>🏨</span> 4. Khách Sạn & Homestay (9 Đêm)
+        <span>🏨</span> 4. Khách Sạn (9 Đêm)
       </button>
       <button class="tab-btn" onclick="switchTab('tab-logistics')">
-        <span>✈️</span> 5. Di Chuyển & Đặt Chỗ
+        <span>✈️</span> 5. Vé & Xe Máy
       </button>
       <button class="tab-btn" onclick="switchTab('tab-insights')">
-        <span>💡</span> 6. Thống Kê Chuyên Sâu & Ẩm Thực
+        <span>💡</span> 6. Thống Kê & Ẩm Thực
       </button>
     </nav>
 
@@ -1132,11 +1337,11 @@
         <div class="card">
           <div class="card-header">
             <div>
-              <div class="card-title"><span>🥧</span> Cơ Cấu Chi Phí Sinh Hoạt 8 Ngày</div>
-              <div class="card-subtitle">Tỷ trọng chi tiêu thực tế (Tổng: 7.380.000 đ)</div>
+              <div class="card-title"><span>🥧</span> Cơ Cấu Sinh Hoạt 8 Ngày</div>
+              <div class="card-subtitle">Tỷ trọng chi tiêu thực tế (7.380.000 đ)</div>
             </div>
           </div>
-          <div style="position: relative; height: 260px; display: flex; align-items: center; justify-content: center;">
+          <div style="position: relative; height: 240px; display: flex; align-items: center; justify-content: center;">
             <canvas id="categoryChart"></canvas>
           </div>
         </div>
@@ -1145,11 +1350,11 @@
         <div class="card">
           <div class="card-header">
             <div>
-              <div class="card-title"><span>📈</span> Xu Hướng Chi Tiêu Từng Ngày</div>
-              <div class="card-subtitle">Biểu đồ chi phí thực tế Ngày 1 ➔ Ngày 8 + Dự toán N9-N10</div>
+              <div class="card-title"><span>📈</span> Xu Hướng Từng Ngày</div>
+              <div class="card-subtitle">Thực tế Ngày 1 ➔ 8 + Dự toán N9-N10</div>
             </div>
           </div>
-          <div style="position: relative; height: 260px;">
+          <div style="position: relative; height: 240px;">
             <canvas id="dailyChart"></canvas>
           </div>
         </div>
@@ -1160,8 +1365,8 @@
         <div class="card">
           <div class="card-header">
             <div>
-              <div class="card-title"><span>📊</span> Chi Tiết Theo 6 Danh Mục Sinh Hoạt</div>
-              <div class="card-subtitle">Tự động sắp xếp từ khoản chi lớn đến nhỏ</div>
+              <div class="card-title"><span>📊</span> Chi Tiết 6 Danh Mục</div>
+              <div class="card-subtitle">Tự động sắp xếp từ cao xuống thấp</div>
             </div>
           </div>
           <div id="cat-bars-container">
@@ -1173,44 +1378,44 @@
         <div class="card">
           <div class="card-header">
             <div>
-              <div class="card-title"><span>🗺️</span> Chi Tiêu Theo 4 Chặng Hành Trình</div>
-              <div class="card-subtitle">Phân bổ ngân sách theo từng vùng địa lý</div>
+              <div class="card-title"><span>🗺️</span> Chi Tiêu 4 Chặng Hành Trình</div>
+              <div class="card-subtitle">Phân bổ ngân sách theo vùng địa lý</div>
             </div>
           </div>
           
           <div class="voucher-card">
             <div class="voucher-header">
-              <div class="voucher-name"><span>🏛️</span> Chặng 1: Hà Nội & Mỹ Đức (Ngày 1 - 2)</div>
+              <div class="voucher-name"><span>🏛️</span> Chặng 1: Hà Nội & Mỹ Đức (N1-N2)</div>
               <span class="price-val" style="color: var(--primary);">3.230.000 đ</span>
             </div>
-            <p style="font-size: 0.8rem; color: var(--text-muted); margin-bottom: 6px;">Quà biếu ông bà họ hàng (1.100k), bánh trung thu (500k), nầm bò nướng Ba Đình, bún chả, nem chua rán, Da Tree Homestay.</p>
+            <p style="font-size: 0.78rem; color: var(--text-muted); margin-bottom: 6px;">Quà biếu ông bà (1.100k), bánh trung thu (500k), nầm bò nướng, bún chả, Da Tree.</p>
             <div class="bar-bg"><div class="bar-fill" style="width: 43.8%; background: var(--primary);"></div></div>
           </div>
 
           <div class="voucher-card">
             <div class="voucher-header">
-              <div class="voucher-name"><span>⛰️</span> Chặng 2: Hà Giang Loop (Ngày 3 - 5)</div>
+              <div class="voucher-name"><span>⛰️</span> Chặng 2: Hà Giang Loop (N3-N5)</div>
               <span class="price-val" style="color: var(--amber);">2.370.000 đ</span>
             </div>
-            <p style="font-size: 0.8rem; color: var(--text-muted); margin-bottom: 6px;">Quản Bạ, Yên Minh, Lũng Cú, Lô Lô Chải, Mã Pí Lèng, Nho Quế, Mèo Vạc (Xăng xe vượt đèo, lợn bản nướng, cháo ấu tẩu, vịt nướng).</p>
+            <p style="font-size: 0.78rem; color: var(--text-muted); margin-bottom: 6px;">Quản Bạ, Yên Minh, Lũng Cú, Lô Lô Chải, Mã Pí Lèng, Nho Quế, Mèo Vạc (Xăng xe, cháo ấu tẩu, vịt nướng).</p>
             <div class="bar-bg"><div class="bar-fill" style="width: 32.1%; background: var(--amber);"></div></div>
           </div>
 
           <div class="voucher-card">
             <div class="voucher-header">
-              <div class="voucher-name"><span>🌊</span> Chặng 3: Cao Bằng Loop (Ngày 6 - 8)</div>
+              <div class="voucher-name"><span>🌊</span> Chặng 3: Cao Bằng Loop (N6-N8)</div>
               <span class="price-val" style="color: var(--emerald);">1.780.000 đ</span>
             </div>
-            <p style="font-size: 0.8rem; color: var(--text-muted); margin-bottom: 6px;">Đèo 14 tầng, Thang Hen, Núi Mắt Thần, Thác Bản Giốc, Pác Bó (Cá sông, bánh áp chao, phở chua, miến Cao Bằng).</p>
+            <p style="font-size: 0.78rem; color: var(--text-muted); margin-bottom: 6px;">Đèo 14 tầng, Thang Hen, Núi Mắt Thần, Thác Bản Giốc, Pác Bó (Cá sông, bánh áp chao, phở chua).</p>
             <div class="bar-bg"><div class="bar-fill" style="width: 24.1%; background: var(--emerald);"></div></div>
           </div>
 
           <div class="voucher-card">
             <div class="voucher-header">
-              <div class="voucher-name"><span>🍂</span> Chặng 4: Hà Nội Mùa Thu (Ngày 9 - 10 Dự kiến)</div>
+              <div class="voucher-name"><span>🍂</span> Chặng 4: Hà Nội Mùa Thu (N9-N10)</div>
               <span class="price-val" style="color: var(--purple);">~2.400.000 đ</span>
             </div>
-            <p style="font-size: 0.8rem; color: var(--text-muted); margin-bottom: 6px;">Foodtour phố cổ (Phở Bát Đàn, Ngan cháy tỏi, Cafe Giảng, Chả cá Lăng, Bánh cốm Hàng Than) & Spa dưỡng sinh.</p>
+            <p style="font-size: 0.78rem; color: var(--text-muted); margin-bottom: 6px;">Foodtour phố cổ (Phở Bát Đàn, Ngan cháy tỏi, Cafe Giảng, Chả cá Lăng, Bánh cốm) & Spa.</p>
             <div class="bar-bg"><div class="bar-fill" style="width: 32%; background: var(--purple);"></div></div>
           </div>
         </div>
@@ -1239,11 +1444,11 @@
         <div class="toolbar">
           <div class="search-box">
             <span class="search-icon">🔍</span>
-            <input type="text" id="expense-search" placeholder="Tìm kiếm nhanh tên món, địa điểm, ghi chú..." />
+            <input type="text" id="expense-search" placeholder="Tìm tên món, địa điểm, ghi chú..." />
           </div>
 
-          <div style="display: flex; align-items: center; gap: 10px;">
-            <select id="sort-select" style="padding: 10px 14px; background: rgba(15, 23, 42, 0.85); border: 1px solid rgba(255, 255, 255, 0.12); border-radius: var(--radius-md); color: #fff; font-size: 0.82rem; outline: none; cursor: pointer;">
+          <div style="display: flex; align-items: center; gap: 8px;">
+            <select id="sort-select" style="padding: 9px 12px; background: rgba(15, 23, 42, 0.85); border: 1px solid rgba(255, 255, 255, 0.12); border-radius: var(--radius-md); color: #fff; font-size: 0.8rem; outline: none; cursor: pointer;">
               <option value="day-asc">📅 Ngày: Cũ ➔ Mới</option>
               <option value="day-desc">📅 Ngày: Mới ➔ Cũ</option>
               <option value="price-desc">💵 Số tiền: Cao ➔ Thấp</option>
@@ -1252,7 +1457,7 @@
           </div>
         </div>
 
-        <!-- Category Pills -->
+        <!-- Category Pills (Horizontal swipe on mobile) -->
         <div class="cat-chips" id="cat-chips-bar">
           <div class="cat-chip active" data-cat="all">Tất cả danh mục</div>
           <div class="cat-chip" data-cat="food">🍜 Ẩm thực & Cafe</div>
@@ -1266,24 +1471,24 @@
         <!-- Day Route & Filter Header Banner -->
         <div class="day-itinerary-header" id="day-route-banner">
           <div class="day-route-info">
-            <span style="font-size: 1.3rem;" id="banner-icon">🗺️</span>
+            <span style="font-size: 1.25rem;" id="banner-icon">🗺️</span>
             <div>
-              <div style="font-weight: 800; font-size: 1rem; color: #fff;" id="banner-title">Toàn bộ chi tiêu hành trình (Ngày 1 – 8)</div>
-              <div style="font-size: 0.8rem; color: var(--text-muted);" id="banner-subtitle">Hiển thị toàn bộ 71 khoản chi thực tế</div>
+              <div style="font-weight: 800; font-size: 0.92rem; color: #fff;" id="banner-title">Toàn bộ chi tiêu hành trình (Ngày 1 – 8)</div>
+              <div style="font-size: 0.76rem; color: var(--text-muted);" id="banner-subtitle">Hiển thị toàn bộ 71 khoản chi thực tế</div>
             </div>
           </div>
           <div class="day-sum-badge" id="banner-total">7.380.000 đ</div>
         </div>
 
-        <!-- Table Container -->
+        <!-- Table Container (Mobile Card View adaptive) -->
         <div class="table-container">
           <table>
             <thead>
               <tr>
-                <th style="width: 100px;">Ngày</th>
+                <th style="width: 90px;">Ngày</th>
                 <th>Khoản chi & Chi tiết thực tế</th>
-                <th style="width: 180px;">Danh mục</th>
-                <th style="width: 160px; text-align: right;">Số tiền (VNĐ)</th>
+                <th style="width: 170px;">Danh mục</th>
+                <th style="width: 150px; text-align: right;">Số tiền (VNĐ)</th>
               </tr>
             </thead>
             <tbody id="expense-tbody">
@@ -1296,13 +1501,13 @@
 
     <!-- ==================== TAB 3: FINANCIAL TRANSPARENCY (3 PILLARS) ==================== -->
     <div id="tab-transparency" class="tab-content">
-      <div class="card" style="margin-bottom: 24px;">
+      <div class="card" style="margin-bottom: 20px;">
         <div class="card-header">
           <div>
-            <div class="card-title"><span>🔍</span> Bảng Đối Soát Tài Chính 3 Trụ Cột Minh Bạch</div>
-            <div class="card-subtitle">Minh bạch 100% nguồn gốc toàn bộ chi phí đã thanh toán và phát sinh thực tế</div>
+            <div class="card-title"><span>🔍</span> Bảng Đối Soát 3 Trụ Cột Minh Bạch</div>
+            <div class="card-subtitle">Minh bạch 100% nguồn gốc chi phí đã thanh toán</div>
           </div>
-          <div class="price-val" style="color: var(--emerald-light); font-size: 1.35rem;">18.045.195 đ</div>
+          <div class="price-val" style="color: var(--emerald-light); font-size: 1.25rem;">18.045.195 đ</div>
         </div>
 
         <div class="grid-3">
@@ -1397,7 +1602,7 @@
               <span class="pillar-total" style="color: var(--amber-light);">7.380.000 đ</span>
             </div>
             <div class="pillar-item">
-              <span class="pillar-item-label">Ẩm thực & Cà phê (39 món)</span>
+              <span class="pillar-item-label">Ẩm thực & Cafe (39 món)</span>
               <span class="pillar-item-val">4.475.000 đ</span>
             </div>
             <div class="pillar-item">
@@ -1405,7 +1610,7 @@
               <span class="pillar-item-val">1.600.000 đ</span>
             </div>
             <div class="pillar-item">
-              <span class="pillar-item-label">Xăng xe & Di chuyển nội địa</span>
+              <span class="pillar-item-label">Xăng xe & Di chuyển</span>
               <span class="pillar-item-val">510.000 đ</span>
             </div>
             <div class="pillar-item">
@@ -1435,9 +1640,9 @@
         <div class="card-header">
           <div>
             <div class="card-title"><span>🏨</span> Danh Sách Lưu Trú Toàn Tuyến (9 Đêm)</div>
-            <div class="card-subtitle">Đã chốt & xác nhận 100% (7 Đêm Khách Sạn/Homestay + 2 Đêm Xe Khách Cabin VIP)</div>
+            <div class="card-subtitle">Đã chốt 100% (7 Đêm KS/Homestay + 2 Đêm Xe Khách Cabin VIP)</div>
           </div>
-          <div class="price-val" style="color: var(--purple-light); font-size: 1.3rem;">2.911.171 đ</div>
+          <div class="price-val" style="color: var(--purple-light); font-size: 1.2rem;">2.911.171 đ</div>
         </div>
 
         <!-- Hotel Item 1 -->
@@ -1451,7 +1656,7 @@
           </div>
           <div class="voucher-meta-grid">
             <div class="meta-item"><span class="meta-label">Booking ID</span><span class="meta-val">6540221126 (PIN: 3931)</span></div>
-            <div class="meta-item"><span class="meta-label">Địa chỉ</span><span class="meta-val">1B Ngõ 168 Phố Ngọc Hà, Ba Đình, Hà Nội</span></div>
+            <div class="meta-item"><span class="meta-label">Địa chỉ</span><span class="meta-val">1B Ngõ 168 Ngọc Hà, Ba Đình, Hà Nội</span></div>
             <div class="meta-item"><span class="meta-label">Hotline</span><span class="meta-val"><a href="tel:+84912017574" class="hotline-link">📞 +84 912 017 574</a></span></div>
             <div class="meta-item"><span class="meta-label">Loại phòng</span><span class="meta-val">Phòng Giường Đôi Có WC Riêng (2 người)</span></div>
           </div>
@@ -1598,10 +1803,10 @@
       <div class="card">
         <div class="card-header">
           <div>
-            <div class="card-title"><span>✈️</span> Chi Tiết Đặt Chỗ & Hợp Đồng Di Chuyển</div>
-            <div class="card-subtitle">Toàn bộ 2 vé máy bay khứ hồi, 2 vé xe khách và 2 hợp đồng thuê xe máy</div>
+            <div class="card-title"><span>✈️</span> Đặt Chỗ & Hợp Đồng Di Chuyển</div>
+            <div class="card-subtitle">2 vé máy bay khứ hồi, 2 vé xe khách và 2 xe máy</div>
           </div>
-          <div class="price-val" style="color: var(--primary); font-size: 1.3rem;">7.754.024 đ</div>
+          <div class="price-val" style="color: var(--primary); font-size: 1.2rem;">7.754.024 đ</div>
         </div>
 
         <div class="grid-2">
@@ -1614,8 +1819,8 @@
             <div class="voucher-meta-grid">
               <div class="meta-item"><span class="meta-label">Mã PNR</span><span class="meta-val">UJSG2A & R7AH77</span></div>
               <div class="meta-item"><span class="meta-label">Khởi hành</span><span class="meta-val">06:00 SGN ➔ 08:10 HAN (28/08)</span></div>
-              <div class="meta-item"><span class="meta-label">Suất ăn nóng</span><span class="meta-val">Bò sốt bơ tiêu + Nước</span></div>
-              <div class="meta-item"><span class="meta-label">Thanh toán</span><span class="meta-val">10.000 SkyPoint + Tiền mặt</span></div>
+              <div class="meta-item"><span class="meta-label">Suất ăn</span><span class="meta-val">Bò sốt bơ tiêu + Nước</span></div>
+              <div class="meta-item"><span class="meta-label">Thanh toán</span><span class="meta-val">10k SkyPoint + Tiền mặt</span></div>
             </div>
           </div>
 
@@ -1657,7 +1862,7 @@
               <div class="meta-item"><span class="meta-label">Mã vé</span><span class="meta-val">P2DZO3 (Cabin Đôi B.10)</span></div>
               <div class="meta-item"><span class="meta-label">Thời gian</span><span class="meta-val">21:15 (04/09) ➔ 05:30 BX Mỹ Đình</span></div>
               <div class="meta-item"><span class="meta-label">Điểm đón</span><span class="meta-val">Văn phòng Bến xe TP Cao Bằng</span></div>
-              <div class="meta-item"><span class="meta-label">Tình trạng</span><span class="meta-val" style="color: var(--emerald-light);">✅ Đã hoàn thành chặng</span></div>
+              <div class="meta-item"><span class="meta-label">Tình trạng</span><span class="meta-val" style="color: var(--emerald-light);">✅ Đã hoàn thành</span></div>
             </div>
           </div>
 
@@ -1671,7 +1876,7 @@
               <div class="meta-item"><span class="meta-label">Hợp đồng</span><span class="meta-val">HĐ Số #45 (Wave 110cc)</span></div>
               <div class="meta-item"><span class="meta-label">Gói bảo hộ</span><span class="meta-val">Bảo hiểm cứu hộ 24/7 toàn tuyến</span></div>
               <div class="meta-item"><span class="meta-label">Phụ phí</span><span class="meta-val">Trả xe khác tỉnh tại TP Cao Bằng</span></div>
-              <div class="meta-item"><span class="meta-label">Tiền cọc</span><span class="meta-val" style="color: var(--emerald-light);">Đã nhận lại +3.000.000 đ cọc</span></div>
+              <div class="meta-item"><span class="meta-label">Tiền cọc</span><span class="meta-val" style="color: var(--emerald-light);">Đã nhận lại +3.000.000 đ</span></div>
             </div>
           </div>
 
@@ -1683,7 +1888,7 @@
             </div>
             <div class="voucher-meta-grid">
               <div class="meta-item"><span class="meta-label">Lượt 1 (28-29/8)</span><span class="meta-val">Sirius 110cc (Nội Bài ➔ Hồng Hà) - 310k</span></div>
-              <div class="meta-item"><span class="meta-label">Lượt 2 (05-06/9)</span><span class="meta-val">Hoàng Hoa Thám ➔ Sân bay (310k - thanh toán sau)</span></div>
+              <div class="meta-item"><span class="meta-label">Lượt 2 (05-06/9)</span><span class="meta-val">Hoàng Hoa Thám ➔ Sân bay (310k)</span></div>
               <div class="meta-item"><span class="meta-label">Chính sách</span><span class="meta-val">Không giữ cọc giấy tờ</span></div>
               <div class="meta-item"><span class="meta-label">Hotline</span><span class="meta-val"><a href="tel:0338023344" class="hotline-link">📞 0338 023 344</a></span></div>
             </div>
@@ -1694,11 +1899,11 @@
 
     <!-- ==================== TAB 6: ADVANCED INSIGHTS ==================== -->
     <div id="tab-insights" class="tab-content">
-      <div class="card" style="margin-bottom: 24px;">
+      <div class="card" style="margin-bottom: 20px;">
         <div class="card-header">
           <div>
-            <div class="card-title"><span>🥇</span> Top 10 Khoản Chi Lớn Nhất Toàn Chuyến Đi</div>
-            <div class="card-subtitle">Danh sách các khoản chi tiêu chiếm tỷ trọng đáng kể</div>
+            <div class="card-title"><span>🥇</span> Top 10 Khoản Chi Lớn Nhất</div>
+            <div class="card-subtitle">Các khoản chi tiêu chiếm tỷ trọng đáng kể</div>
           </div>
         </div>
 
@@ -1706,11 +1911,11 @@
           <table>
             <thead>
               <tr>
-                <th style="width: 60px;">Top</th>
-                <th style="width: 100px;">Ngày</th>
+                <th style="width: 50px;">Top</th>
+                <th style="width: 90px;">Ngày</th>
                 <th>Khoản chi</th>
                 <th>Chi tiết thực tế</th>
-                <th style="width: 160px; text-align: right;">Số tiền (VNĐ)</th>
+                <th style="width: 140px; text-align: right;">Số tiền (VNĐ)</th>
               </tr>
             </thead>
             <tbody>
@@ -1733,12 +1938,12 @@
         <div class="card">
           <div class="card-header">
             <div>
-              <div class="card-title"><span>☕</span> Thống Kê Cà Phê & Đồ Uống Giải Khát</div>
+              <div class="card-title"><span>☕</span> Thống Kê Cà Phê & Đồ Uống</div>
               <div class="card-subtitle">Chi phí tiếp nước dọc đường đèo núi</div>
             </div>
             <span class="price-val" style="color: var(--amber);">730.000 đ</span>
           </div>
-          <p style="font-size: 0.84rem; color: var(--text-muted); line-height: 1.6;">
+          <p style="font-size: 0.82rem; color: var(--text-muted); line-height: 1.6;">
             Đã thưởng thức <strong>12 lượt đồ uống & cafe</strong>: Nước sấu đá Quản Bạ, Bạc xỉu Yên Minh, Trà sữa Shan Tuyết Lô Lô Chải, Trà chanh Phố Cổ Đồng Văn, Cà phê sữa Bảo Lạc, Trà sữa TP Cao Bằng, Highland Coffee Pác Bó...
           </p>
         </div>
@@ -1747,11 +1952,11 @@
           <div class="card-header">
             <div>
               <div class="card-title"><span>🛡️</span> Quản Lý An Toàn & Phụ Phí</div>
-              <div class="card-subtitle">Kiểm soát rủi ro và các khoản phát sinh ngoài ý muốn</div>
+              <div class="card-subtitle">Kiểm soát rủi ro và các khoản phát sinh</div>
             </div>
             <span class="price-val" style="color: var(--rose);">250.000 đ</span>
           </div>
-          <p style="font-size: 0.84rem; color: var(--text-muted); line-height: 1.6;">
+          <p style="font-size: 0.82rem; color: var(--text-muted); line-height: 1.6;">
             • Phụ phí quá giờ Da Tree Homestay (100k - check out muộn tắm rửa).<br>
             • Nộp phạt vi phạm giao thông không xi nhan tại TP Cao Bằng (150k).<br>
             • 100% chặng đèo đều về đích trước 17:00 chiều an toàn tuyệt đối.
@@ -1832,7 +2037,7 @@
       { id: 48, day: 6, title: 'Cà phê sữa dọc đường', note: 'Cafe tiếp sức chặng QL34 Bảo Lạc', amount: 30000, cat: 'food' },
       { id: 49, day: 6, title: 'Đổ xăng đầu dốc Đèo 14 tầng', note: 'Tiếp xăng vượt đèo Mèo Vạc - Bảo Lạc', amount: 30000, cat: 'transport' },
       { id: 50, day: 6, title: 'Nước + Kem đèo 14 tầng', note: 'Dừng chân check-in đỉnh đèo ngắm cảnh', amount: 50000, cat: 'food' },
-      { id: 51, day: 6, title: 'Bánh tiêu phô mai', note: 'Ăn vặt dọc đường', amount: 15000, cat: 'food' },
+      { id: 51, day: 5, title: 'Bánh tiêu phô mai', note: 'Ăn vặt dọc đường', amount: 15000, cat: 'food' },
       { id: 52, day: 6, title: 'Chè đỗ đen + Nước sấu', note: 'Tráng miệng giải khát hạ nhiệt', amount: 25000, cat: 'food' },
       { id: 53, day: 6, title: 'Bánh áp chao Cô Ngân + Vịt chiên', note: 'Đặc sản nức tiếng chiều TP Cao Bằng', amount: 80000, cat: 'food' },
       { id: 54, day: 6, title: 'Bia hơi Hà Nội tối Lễ 2/9', note: 'Thưởng thức không khí tối Lễ 2/9 tại TP Cao Bằng', amount: 150000, cat: 'food' },
@@ -1879,8 +2084,8 @@
 
     // Category Meta
     const catMeta = {
-      food: { label: 'Ẩm thực & Cà phê', tagClass: 'tag-food', color: '#f59e0b', icon: '🍜' },
-      transport: { label: 'Xăng xe & Di chuyển', tagClass: 'tag-transport', color: '#38bdf8', icon: '🏍️' },
+      food: { label: 'Ẩm thực & Cafe', tagClass: 'tag-food', color: '#f59e0b', icon: '🍜' },
+      transport: { label: 'Xăng & Di chuyển', tagClass: 'tag-transport', color: '#38bdf8', icon: '🏍️' },
       hotel: { label: 'Lưu trú phát sinh', tagClass: 'tag-hotel', color: '#a855f7', icon: '🏨' },
       gift: { label: 'Quà biếu & Thăm thân', tagClass: 'tag-gift', color: '#f43f5e', icon: '🎁' },
       ticket: { label: 'Vé & Trải nghiệm', tagClass: 'tag-ticket', color: '#10b981', icon: '🎟️' },
@@ -1911,7 +2116,10 @@
       document.querySelectorAll('.tab-content').forEach(content => content.classList.remove('active'));
       
       const activeBtn = Array.from(document.querySelectorAll('.tab-btn')).find(b => b.getAttribute('onclick').includes(tabId));
-      if (activeBtn) activeBtn.classList.add('active');
+      if (activeBtn) {
+        activeBtn.classList.add('active');
+        activeBtn.scrollIntoView({ behavior: 'smooth', inline: 'center', block: 'nearest' });
+      }
       
       const targetContent = document.getElementById(tabId);
       if (targetContent) targetContent.classList.add('active');
@@ -1930,7 +2138,7 @@
       const dailyAvg = Math.round(dailyTotal / 8);
 
       document.getElementById('kpi-grand-total').textContent = formatVND(grandTotal);
-      document.getElementById('kpi-per-person').textContent = `~${formatVND(perPerson)} / người (2 người)`;
+      document.getElementById('kpi-per-person').textContent = `~${formatVND(perPerson)} / người`;
       document.getElementById('kpi-daily-total').textContent = formatVND(dailyTotal);
       document.getElementById('kpi-daily-avg').textContent = `TB ~${formatVND(dailyAvg)} / ngày (${expenses.length} mục)`;
 
@@ -1982,8 +2190,8 @@
       if (filtered.length === 0) {
         tbody.innerHTML = `
           <tr>
-            <td colspan="4" style="text-align: center; padding: 48px; color: var(--text-muted);">
-              <div style="font-size: 2rem; margin-bottom: 8px;">🔍</div>
+            <td colspan="4" style="text-align: center; padding: 36px 16px; color: var(--text-muted);">
+              <div style="font-size: 1.8rem; margin-bottom: 6px;">🔍</div>
               <div>Không tìm thấy khoản chi nào phù hợp với bộ lọc.</div>
             </td>
           </tr>
@@ -2042,6 +2250,8 @@
     function renderCharts() {
       if (typeof Chart === 'undefined') return;
 
+      const isMobile = window.innerWidth <= 768;
+
       // 1. Category Donut Chart
       const catTotals = { food: 0, gift: 0, transport: 0, ticket: 0, other: 0, hotel: 0 };
       expenses.forEach(i => catTotals[i.cat] = (catTotals[i.cat] || 0) + Number(i.amount));
@@ -2052,13 +2262,13 @@
         catChartInstance = new Chart(ctxCat, {
           type: 'doughnut',
           data: {
-            labels: ['Ẩm thực & Cafe', 'Quà biếu', 'Xăng xe', 'Vé tham quan', 'Dịch vụ & Khác', 'Lưu trú phát sinh'],
+            labels: ['Ẩm thực', 'Quà biếu', 'Xăng xe', 'Vé tham quan', 'Dịch vụ', 'Lưu trú phụ'],
             datasets: [{
               data: [catTotals.food, catTotals.gift, catTotals.transport, catTotals.ticket, catTotals.other, catTotals.hotel],
               backgroundColor: ['#f59e0b', '#f43f5e', '#38bdf8', '#10b981', '#94a3b8', '#a855f7'],
               borderWidth: 2,
               borderColor: '#070b14',
-              hoverOffset: 8
+              hoverOffset: 6
             }]
           },
           options: {
@@ -2066,12 +2276,12 @@
             maintainAspectRatio: false,
             plugins: {
               legend: {
-                position: 'right',
+                position: isMobile ? 'bottom' : 'right',
                 labels: {
                   color: '#94a3b8',
-                  font: { family: 'Plus Jakarta Sans', size: 11, weight: '600' },
-                  boxWidth: 12,
-                  padding: 10
+                  font: { family: 'Plus Jakarta Sans', size: isMobile ? 10 : 11, weight: '600' },
+                  boxWidth: 10,
+                  padding: isMobile ? 6 : 10
                 }
               },
               tooltip: {
@@ -2085,7 +2295,7 @@
                 }
               }
             },
-            cutout: '68%'
+            cutout: isMobile ? '62%' : '68%'
           }
         });
       }
@@ -2110,15 +2320,15 @@
         dailyChartInstance = new Chart(ctxDaily, {
           type: 'bar',
           data: {
-            labels: ['N1 (28/8)', 'N2 (29/8)', 'N3 (30/8)', 'N4 (31/8)', 'N5 (01/9)', 'N6 (02/9)', 'N7 (03/9)', 'N8 (04/9)', 'N9 (Hôm nay)', 'N10 (Dự kiến)'],
+            labels: isMobile ? ['N1', 'N2', 'N3', 'N4', 'N5', 'N6', 'N7', 'N8', 'N9', 'N10'] : ['N1 (28/8)', 'N2 (29/8)', 'N3 (30/8)', 'N4 (31/8)', 'N5 (01/9)', 'N6 (02/9)', 'N7 (03/9)', 'N8 (04/9)', 'N9 (Hôm nay)', 'N10 (Dự kiến)'],
             datasets: [{
-              label: 'Chi tiêu theo ngày (VNĐ)',
+              label: 'Chi tiêu (VNĐ)',
               data: dayData,
               backgroundColor: [
                 '#38bdf8', '#38bdf8', '#38bdf8', '#38bdf8', '#38bdf8', '#38bdf8', '#38bdf8', '#10b981',
                 '#fbbf24', 'rgba(168, 85, 247, 0.4)'
               ],
-              borderRadius: 6,
+              borderRadius: 4,
               borderSkipped: false
             }]
           },
@@ -2138,13 +2348,13 @@
             scales: {
               x: {
                 grid: { display: false },
-                ticks: { color: '#94a3b8', font: { family: 'Plus Jakarta Sans', size: 10 } }
+                ticks: { color: '#94a3b8', font: { family: 'Plus Jakarta Sans', size: isMobile ? 9 : 10 } }
               },
               y: {
                 grid: { color: 'rgba(255, 255, 255, 0.05)' },
                 ticks: {
                   color: '#94a3b8',
-                  font: { family: 'JetBrains Mono', size: 10 },
+                  font: { family: 'JetBrains Mono', size: isMobile ? 8 : 10 },
                   callback: function(val) {
                     return val >= 1000000 ? (val / 1000000) + 'M' : (val / 1000) + 'k';
                   }
@@ -2174,6 +2384,7 @@
       if (chip) {
         document.querySelectorAll('.day-chip').forEach(c => c.classList.remove('active'));
         chip.classList.add('active');
+        chip.scrollIntoView({ behavior: 'smooth', inline: 'center', block: 'nearest' });
         currentFilterDay = chip.dataset.day;
         render();
       }
@@ -2184,6 +2395,7 @@
       if (chip) {
         document.querySelectorAll('.cat-chip').forEach(c => c.classList.remove('active'));
         chip.classList.add('active');
+        chip.scrollIntoView({ behavior: 'smooth', inline: 'center', block: 'nearest' });
         currentFilterCat = chip.dataset.cat;
         render();
       }
@@ -2246,10 +2458,18 @@
       showToast('Đã xuất file CSV thành công!', '📊');
     };
 
-    // Initialize App
+    // Initialize App & Handle Resize
     window.addEventListener('DOMContentLoaded', () => {
       render();
       setTimeout(renderCharts, 200);
+    });
+
+    let resizeTimer;
+    window.addEventListener('resize', () => {
+      clearTimeout(resizeTimer);
+      resizeTimer = setTimeout(() => {
+        renderCharts();
+      }, 250);
     });
   </script>
 </body>
