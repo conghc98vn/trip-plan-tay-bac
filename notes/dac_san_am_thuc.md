@@ -17,13 +17,14 @@
   - *Phở bưng Hàng Trống* — 1 Hàng Trống, Hoàn Kiếm (Trải nghiệm ngồi ghế nhựa bưng bát phở nóng phố cổ).
   - *Phở bò Cô Yến* — Phố Cổ Hà Nội.
 - **Bún Thang, Bún Riêu & Bún Nước:**
+  - *Bún Thang Hà Nội* ⭐ *(Đã thưởng thức sáng Ngày 9 + quẩy + chè đá — 110k)*.
   - *Bún Thang Cầu Gỗ* — 32 Cầu Gỗ (Bún thang tinh tế chuẩn vị người Hà Nội).
   - *Bún Riêu Cô Đốp / Bún Ziu Gánh* — Hà Nội (Bún riêu cua đồng gánh lề đường ngọt đậm thanh).
   - *Bún Mọc Thủy / Quán Bún Thủy* — Phố Cổ Hà Nội.
   - *Bún Bung Cô Ban A7 Khương Thượng* — Đống Đa, Hà Nội.
   - *Bún Cá Chấm Ngon / Bún Cá Chấm Hằng Béo* — Phố Cổ / Ba Đình (Cá chiên giòn chấm mắm tỏi ớt kèm bún lá).
 
-### 🥢 Món Bò Nầm Nướng, Bún Đậu, Bún Chả & Chả Cá (Buổi Tối Ngày 1 & 2)
+### 🥢 Món Bò Nầm Nướng, Bún Đậu, Bún Chả, Ngan Cháy Tỏi & Chả Cá
 - **Bò Nầm Nướng Than Hoa (Món tối ấm cúng, béo thơm):**
   - *Vân Nầm Bò Nướng* — Phó Đức Chính / 200 P. Nguyễn Trung Trực, Ba Đình ⭐ *(Đã thưởng thức tối Ngày 1 — 390k)*.
   - *Bò Nầm Nướng Sốt Me Kiên Kồ (CS1)* — 225a Đ. Nguyễn Ngọc Vũ, Yên Hòa, Cầu Giấy.
@@ -37,7 +38,7 @@
   - *Bún Đậu Cô Thủy Thương Mại* — 2 Ngõ 31 P. Nguyễn Khả Trạc, Phú Diễn, Bắc Từ Liêm / Cầu Giấy.
   - *Bún Đậu Trung Hương* — Ngõ Phất Lộc, Hàng Bè, Hoàn Kiếm.
 - **Bún Chả & Nem Cua Bể:**
-  - *Bún Chả Phố Cổ* ⭐ *(Đã thưởng thức Ngày 2 — 125k)*.
+  - *Bún Chả Phố Cổ* ⭐ *(Đã thưởng thức trưa Ngày 2 — 125k và sáng Ngày 10 — 125k)*.
   - *Bún Chả, Nem Cua Bể Bà Sâm* — 47C P. Bùi Thị Xuân / Mai Hắc Đế, Hai Bà Trưng.
   - *Bún Chả Bình Minh - Nem Cua Bể* — 23 P. Bát Sứ, Phố Cổ, Hoàn Kiếm.
   - *Bún Chả Tuyết 34 Hàng Than* — 34 Hàng Than, Ba Đình *(Chả kẹp que tre nướng than hoa thơm lừng)*.
@@ -45,10 +46,12 @@
   - *Bún Chả Ngọc Xuân* — 102 Đ. Thụy Khuê, Tây Hồ.
   - *Bún Chả Đắc Kim* — 1 Hàng Mành, Hoàn Kiếm.
   - *Bún Chả Hương Liên (Obama)* — 24 Lê Văn Hưu, Hai Bà Trưng.
+- **Ngan Cháy Tỏi & Vịt Cỏ:**
+  - *Ngan Cháy Tỏi Hàng Thiếc* ⭐ *(Đã thưởng thức trưa Ngày 9 + canh tiết — 250k)*.
 - **Chả Cá Lăng (Must-try bữa tối đôi bạn):**
   - *Chả Cá Thăng Long* — 6B Đường Thành, Hoàn Kiếm ⭐ *(Michelin Selected — Đã thưởng thức tối Ngày 2 do anh Long mời)*.
+  - *Chả Cá Lăng 99* — 144 Nguyễn Văn Tuyết, Đống Đa ⭐ *(Đã thưởng thức tối Ngày 9 — 160k)*.
   - *Chả Cá Lão Ngư* — 171 P. Thái Hà, Đống Đa.
-  - *Chả Cá Lăng 99* — 144 Nguyễn Văn Tuyết, Đống Đa.
 - **Phở Cuốn Ngũ Xá:**
   - *Phở Cuốn Hương Mai* — 25 Ngũ Xá, Ba Đình *(Gần Homestay Ngọc Hà ~2.5km, chiên phồng & cuốn bò nướng)*.
 
@@ -63,7 +66,7 @@
   - *Nộm Bò Khố Long Thủy* — 23 Hàng Giầy, Hoàn Kiếm.
   - *Bia Hơi Hà Nội Tạ Hiện* — Phố Tạ Hiện / Lương Ngọc Quyến.
 - **Xôi Đêm & Quán Lòng / Ốc:**
-  - *Xôi Nguyệt* — 30 Phương Liệt / Đào Tấn, Ba Đình *(Xôi tim mề lạp xưởng nổi tiếng Ba Đình)*.
+  - *Xôi Bà Nguyệt* ⭐ *(Đã thưởng thức đêm Ngày 9 — 50k)*.
   - *Xôi Mây* — Tầng 1, Hàng Bài / Lý Thường Kiệt (Xôi xéo rưới mỡ hành thơm phức).
   - *Xôi Gia Truyền Bà Thu* — 57 Nguyễn Hữu Huân, Hoàn Kiếm.
   - *Quán Ốc Hiền Béo* — 26 P. Thanh Yên, Hồng Hà, Hoàn Kiếm.

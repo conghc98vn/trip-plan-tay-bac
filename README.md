@@ -1,7 +1,7 @@
 # 🗺️ Plan Trip — HCM → Hà Nội → Hà Giang → Cao Bằng
 > **Chuyến đi:** 28/08/2026 – 06/09/2026 (10 ngày)  
 > **Thành viên:** 2 người (Cong Hoang + Bạn gái)  
-> **Cập nhật lần cuối:** 04/09/2026 *(Đã hoàn thành 8/10 ngày — Hà Giang Loop & Cao Bằng Bản Giốc - Pác Bó)*  
+> **Cập nhật lần cuối:** 06/09/2026 *(Đang diễn ra Ngày 10/10 — Khám phá Hà Nội Mùa Thu & Chuẩn bị bay về SGN)*  
 
 ---
 
@@ -44,9 +44,9 @@ chicong-trip-plan/
 
 | Hạng mục | Status | Ghi chú |
 |----------|--------|---------|
-| **Tiến độ chuyến đi** | 🟢 **Đang diễn ra Ngày 9/10** | Trọn vẹn cuối tuần khám phá mùa thu Hà Nội (Foodtour phố cổ, Xe hoa Phan Đình Phùng, Spa dưỡng sinh đôi) |
-| **Tổng chi phí toàn chuyến (Realtime)** | 💰 **19.380.195 VNĐ** | Đã gồm Cố định (8.754k gồm cả 2 lượt xe máy/xe khách & 10k SkyPoint) + Lưu trú 7 đêm đã chốt (2.911k) + Sinh hoạt 9 ngày (7.715k). Xem tại [tong_hop_chi_phi.md](info/tong_hop_chi_phi.md) & [Dashboard Web](index.html) |
-| **Plan tổng thể** | ✅ Đã chốt | Lái xe xuyên HG sang CB, trả xe ở CB chiều 04/09 ➔ **21:15 Xe Cabin Hiệp Giang về Hà Nội đêm 04/09** ➔ Trọn vẹn Thứ 7 (05/09) & Chủ Nhật (06/09) tại Hà Nội |
+| **Tiến độ chuyến đi** | 🟢 **Đang diễn ra Ngày 10/10** | Ngày cuối tại Thủ đô (Bún chả, Cà phê, Di tích Hỏa Lò, Mua quà đặc sản, Lẩu riêu cua & Bay về SGN 23:30) |
+| **Tổng chi phí toàn chuyến (Realtime)** | 💰 **20.375.195 VNĐ** | Đã gồm Cố định (8.754k gồm 2 vé bay, 2 xe khách, xe máy Giang Sơn, xe máy MOTOGO L1) + Lưu trú 7 đêm đã chốt (2.911k) + Sinh hoạt 10 ngày (8.710k - 89 khoản chi). Xem tại [tong_hop_chi_phi.md](info/tong_hop_chi_phi.md) & [Dashboard Web](index.html) |
+| **Plan tổng thể** | ✅ Đã chốt | Hoàn thành xuất sắc 100% cung phượt HG - CB, đang tận hưởng trọn vẹn cuối tuần Hà Nội & bay chuyến 23:30 tối nay về SGN |
 | **Dự báo thời tiết 10 ngày** | ✅ Đã cập nhật (Tối 27/08) | Cập nhật mới nhất tối 27/08 trước khởi hành trong [lich_trinh_chi_tiet.md](plans/lich_trinh_chi_tiet.md) |
 | **Kế hoạch Rủi ro & Backup** | ✅ Đã chốt | 5 nhóm rủi ro & kịch bản dự phòng trong [lich_trinh_chi_tiet.md](plans/lich_trinh_chi_tiet.md#-đánh-giá-rủi-ro--kịch-bản-dự-phòng-contingency-plans) |
 | **Gợi ý Homestay/Hotel** | ✅ Đã lên list | Trong [goi_y_homestay.md](notes/goi_y_homestay.md) |

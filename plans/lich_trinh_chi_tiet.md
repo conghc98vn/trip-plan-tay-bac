@@ -258,7 +258,7 @@
 >   - Sáng: Bánh cuốn canh Cao Bằng: **60.000đ**
 >   - Thác Bản Giốc: Nước + Kem + Gửi xe: **50.000đ**
 >   - Trưa: Cá sông + Canh chua + Cơm: **240.000đ**
->   - Tối: Xiên nướng bản địa + 2 lon Coca: **150.000đ**
+>   - Tối: Xiên nướng bản địa + 2 lon Coca: **180.000đ**
 
 | Thời gian | Hoạt động | Ghi chú |
 |-----------|-----------|---------|
@@ -267,7 +267,7 @@
 | 11:30 - 13:00 | Vượt Đèo Mã Phục sang Trùng Khánh, ăn trưa đặc sản **Cá sông + Canh chua + Cơm** | 🐟 Bữa trưa ngon miệng 240k |
 | 13:00 - 16:30 | Chiều trọn vẹn khám phá danh thắng: Chiêm ngưỡng vẻ đẹp hùng vĩ **Thác Bản Giốc** (mua nước, kem, gửi xe 50k) và thám hiểm kiệt tác thạch nhũ **Động Ngườm Ngao** | 🌊 Thác nước lớn nhất Đông Nam Á & Hang động tráng lệ |
 | 16:30 - 17:30 | Về check-in **A THÁM homestay** (Làng đá cổ Khuổi Ky, Mã: `6515457323`, SĐT: `0373 145 583`), dạo chơi làng đá 400 năm bên dòng Quây Sơn | 🌅 Cập bến trước 17:00 an toàn |
-| 18:30 - 21:00 | Ăn tối đồ nướng xiên que bản địa, uống 2 lon Coca ấm cúng tại homestay | 🍢 Bữa tối vùng biên 150k |
+| 18:30 - 21:00 | Ăn tối đồ nướng xiên que bản địa, uống 2 lon Coca ấm cúng tại homestay | 🍢 Bữa tối vùng biên 180k |
 
 ---
 
@@ -301,49 +301,66 @@
 
 ---
 
-### <a id="ngay-9"></a>📍 Ngày 9 (05/09 - T7): Chào Sớm Mai Hà Nội → Bún Thang → Cà Phê Đây Đi → Spa Dưỡng Sinh → Tối Phố Đi Bộ
+### <a id="ngay-9"></a>📍 Ngày 9 (05/09 - T7): Chào Sớm Mai Hà Nội → Bún Thang → Cà Phê Đây Đi → Ngan Cháy Tỏi → Chả Cá Lăng
+*Tổng chi ngày 9:* **925.000 VNĐ**
 
 > ☀️ **Dự báo thời tiết:** Hà Nội se mát mùa thu lãng mạn, nắng vàng dịu nhẹ, gió heo may (24–32°C)  
 > 🔗 **Gợi ý liên quan:** 🍜 [Master Food List Phố Cổ](../notes/dac_san_am_thuc.md#food-hn) | 📸 [Góc chụp Xe Hoa Phan Đình Phùng](../notes/goc_chup_anh.md#photo-hn)
 
-> ✅ **NHẬT KÝ & CHI TIÊU THỰC TẾ (05/09/2026 — Đã chi sáng nay: 345.000 VNĐ):**
-> - 🚕 **Di chuyển:** Taxi Bến xe Mỹ Đình sang Hoàng Hoa Thám lấy xe máy MOTOGO: **100.000đ**
-> - 🍜 **Ẩm thực & Cà phê:**
+> ✅ **NHẬT KÝ & CHI TIÊU THỰC TẾ (05/09/2026 — Tổng chi Ngày 9: 925.000 VNĐ):**
+> - 🚕 **Di chuyển & Xăng xe (190.000đ):**
+>   - Taxi Bến xe Mỹ Đình sang 267 Hoàng Hoa Thám: **100.000đ**
+>   - Đổ xăng xe máy MOTOGO buổi sáng: **50.000đ**
+>   - Đổ xăng xe máy buổi chiều: **40.000đ**
+> - 🍜 **Ẩm thực, Cà phê & Ăn vặt (735.000đ):**
 >   - Ăn sáng Bún thang nóng hổi + quẩy + chè đá: **110.000đ**
 >   - Cà phê muối sớm mai: **20.000đ**
 >   - Cà phê trứng & Cold Brew tại quán **Đây Đi**: **115.000đ**
+>   - Ăn trưa Ngan cháy tỏi + canh tiết: **250.000đ**
+>   - Kem dạo phố: **30.000đ**
+>   - Ăn tối Chả cá Lăng 99: **160.000đ**
+>   - Ăn khuya Xôi bà Nguyệt: **50.000đ**
 
 | Thời gian | Hoạt động | Ghi chú |
 |-----------|-----------|---------|
-| 05:30 - 06:00 | Xe Limousine Hiệp Giang đến **Bến xe Mỹ Đình (Hà Nội)**. Bắt Grab về **Vari Homestay Đội Cấn (35 Ngõ 279 Đội Cấn, Ba Đình)** gửi đồ | Đón bình minh Thủ đô |
-| 06:00 - 06:30 | Đi bộ/xe ôm sang **MOTOGO cơ sở Hoàng Hoa Thám (Số 7 ngõ 267 Hoàng Hoa Thám)** cách ~700m nhận xe số Wave/Sirius, xuất trình CCCD/GPLX. Nhận xe máy vi vu phố phường | [Thông tin thuê xe MOTOGO](../info/thue_xe_may.md#xe-may-hn-2) |
-| 06:30 - 08:30 | Ăn sáng **Phở Bát Đàn** (49 Bát Đàn) / Phở sốt vang Tư Lùn + Cà phê trứng **Giảng** (39 Nguyễn Hữu Huân) béo ngậy | ☕ Hương vị Hà Thành sớm mai |
-| 08:30 - 11:30 | Dạo đường rợp bóng sấu cổ thụ **Phan Đình Phùng & Hoàng Diệu**, check-in cùng các gánh **xe hoa mùa thu** rực rỡ; ghé Cầu Long Biên & Hoàng Thành Thăng Long | 📸 Bộ ảnh mùa thu nàng thơ cho bạn gái |
-| 11:30 - 13:00 | Bữa trưa đặc sản: **Ngan cháy tỏi Hàng Thiếc** (hoặc Bún đậu Tuấn Trọc) | 😋 Món ngon nức tiếng |
-| 13:00 - 14:30 | Về **Vari Homestay Đội Cấn** nhận phòng Studio Deluxe, tắm rửa nghỉ trưa hồi sức (phòng riêng tư, tiện nghi, yên tĩnh tại Ba Đình) | Nghỉ ngơi thoải mái |
-| 14:30 - 16:30 | **Trải nghiệm Spa & Gội đầu dưỡng sinh đôi:** Ghé tiệm spa Đông Y phố cổ ngâm chân thảo dược, massage cổ vai gáy phục hồi cơ thể sau 6 ngày phượt đèo | 💆 Xua tan hoàn toàn ê ẩm mệt mỏi |
-| 16:30 - 18:30 | Dạo **Phố đi bộ Hồ Gươm** chiều Thứ Bảy mát lành, ăn **Kem Tràng Tiền**, ngắm góc Nhà Hát Lớn | 🚶 Thong dong dạo bộ cuối tuần |
-| 18:30 - 21:00 | Bữa tối Thứ Bảy sôi động: **Nầm bò nướng than hoa Ba Đình** / **Phở cuốn Ngũ Xá Hương Mai** | 🍲 Bữa tối ấm cúng |
-| 21:00 - 23:30 | Dạo phố bia Tạ Hiện, ngồi trà chanh Nhà Thờ Lớn cắn hạt dưa ngắm phố đêm rực rỡ | 🎆 Không khí đêm T7 phố cổ |
+| 05:30 - 06:00 | Xe Limousine Hiệp Giang đến **Bến xe Mỹ Đình (Hà Nội)**. Bắt Taxi (100k) sang **267 Hoàng Hoa Thám** nhận xe máy MOTOGO | Đón bình minh Thủ đô |
+| 06:00 - 08:30 | Nhận xe máy, đổ xăng 50k. Thưởng thức **Bún thang nóng hổi** (+ quẩy + chè đá 110k) + **Cà phê muối** (20k) sớm mai phố phường | ☕ Bữa sáng ấm cúng Thủ đô |
+| 08:30 - 11:30 | Dạo đường rợp bóng sấu cổ thụ **Phan Đình Phùng & Hoàng Diệu**, check-in xe hoa mùa thu. Thưởng thức **Cà phê trứng & Cold Brew tại quán Đây Đi** (115k) | 📸 Cà phê view đẹp & ảnh thu |
+| 11:30 - 13:00 | Bữa trưa đặc sản nức tiếng phố cổ: **Ngan cháy tỏi + Canh tiết** (250k) | 😋 Thơm lừng đậm đà |
+| 13:00 - 15:30 | Về **Vari Homestay Đội Cấn (35 Ngõ 279 Đội Cấn)** nhận phòng Studio Deluxe (529.760đ), tắm rửa nghỉ ngơi hồi sức sau chuỗi ngày phượt | 🏨 Phòng riêng tư tiện nghi |
+| 15:30 - 18:30 | Chiều mát dạo phố cổ, ăn **Kem dạo phố** (30k), đổ xăng 40k tiếp tục vi vu phố phường & Hồ Tây lộng gió | 🚶 Thong dong dạo bộ cuối tuần |
+| 18:30 - 21:00 | Bữa tối đặc sản: Thưởng thức **Chả cá Lăng 99** (160k) thơm bùi ngập thì là, hành hoa và mắm tôm | 🍲 Bữa tối ấm cúng |
+| 21:00 - 23:30 | Dạo phố đêm, thưởng thức bữa khuya **Xôi bà Nguyệt** (50k) dẻo thơm ấm bụng | 🌙 Ẩm thực đêm Hà Thành |
 
 ---
 
-### <a id="ngay-10"></a>📍 Ngày 10 (06/09 - CN): Chill Hồ Tây → Chả Cá Lăng → Mua Bánh Cốm → Lẩu Riêu Cua → Bay Về SGN (✈️ 23:30)
+### <a id="ngay-10"></a>📍 Ngày 10 (06/09 - CN - Hôm nay): Bún Chả → Cà Phê Muối & Americano → Di Tích Hỏa Lò → Mua Quà → Bay Về SGN (✈️ 23:30)
+*Tổng chi ngày 10 (đến hiện tại):* **385.000 VNĐ**
 
 > ⛅ **Dự báo thời tiết:** Hà Nội mùa thu mát mẻ, trong veo, chiều tối thoáng đãng (24–32°C)  
 > 🔗 **Gợi ý liên quan:** 🍜 [Master Food List Hà Nội](../notes/dac_san_am_thuc.md#food-hn) | ✈️ [Chuyến bay HAN-SGN 23:30 (Sun PhuQuoc Airways 9G893)](../info/chuyen_bay.md#bay-ve)
 
+> ✅ **NHẬT KÝ & CHI TIÊU THỰC TẾ (06/09/2026 — Đến hiện tại: 385.000 VNĐ):**
+> - ⛽ **Xăng xe:** Đổ xăng xe máy ngày cuối: **20.000đ**
+> - 🍜 **Ẩm thực & Thức uống (315.000đ):**
+>   - Ăn sáng Bún chả nướng than hoa: **125.000đ**
+>   - Bánh ngọt ăn nhẹ sáng: **25.000đ**
+>   - Cafe muối + Americano: **95.000đ**
+>   - Bánh ngọt ăn nhẹ chiều: **35.000đ**
+>   - Cà phê giải khát chiều: **35.000đ**
+> - 🎟️ **Tham quan di tích (50.000đ):**
+>   - Vé tham quan Nhà tù Hỏa Lò (2 vé sinh viên): **50.000đ**
+
 | Thời gian | Hoạt động | Ghi chú |
 |-----------|-----------|---------|
-| 07:00 - 08:30 | Thưởng thức **Phở Bát Đàn** (49 Bát Đàn) / Phở sốt vang Tư Lùn + Thưởng thức **Cà phê trứng Giảng** (39 Nguyễn Hữu Huân) béo ngậy chuẩn vị | ☕ Hương vị Hà Thành sớm mai |
-| 08:30 - 11:30 | Dạo đường rợp bóng cây sấu cổ thụ **Phan Đình Phùng & Hoàng Diệu**, check-in cùng các gánh **xe hoa mùa thu** rực rỡ; ghé Cầu Long Biên & Hồ Tây lộng gió | 📸 Bộ ảnh mùa thu nàng thơ cho bạn gái |
-| 11:30 - 13:00 | Bữa trưa đặc sản: **Ngan cháy tỏi Hàng Thiếc** (hoặc Bún ốc nguội Ô Quan Chưởng) | 😋 Món ngon nức tiếng |
-| 13:30 - 16:00 | **Trải nghiệm Spa & Gội đầu dưỡng sinh đôi:** Ghé tiệm spa Đông Y phố cổ ngâm chân thảo dược, massage cổ vai gáy phục hồi cơ thể sau chuyến phượt | 💆 Hoàn toàn xua tan mệt mỏi |
-| 16:30 - 18:30 | Dạo **Phố đi bộ Hồ Gươm**, thưởng thức **Kem Tràng Tiền**, ngắm hoàng hôn Tháp Rùa và góc Nhà Hát Lớn | 🚶 Thong dong dạo bộ cuối tuần |
-| 18:30 - 20:30 | Bữa tối chia tay Hà Nội: **Lẩu riêu cua bắp bò sườn sụn Trúc Bạch** ven hồ lộng gió | 🍲 Lẩu ấm cúng bên hồ |
-| 20:30 - 21:15 | **Bàn giao trả xe máy MOTOGO:**<br>• *PA1:* Chạy xe máy qua Cầu Nhật Tân trả tại MOTOGO Điền Xá (gần sân bay Nội Bài) lúc 21:00 rồi sang Ga T1 (phụ phí trả trái điểm 50k).<br>• *PA2:* Trả tại MOTOGO Hoàng Hoa Thám lúc 20:30 rồi bắt Grab ra sân bay. | Tiện lợi & chủ động |
-| 21:15 - 22:45 | Làm thủ tục tại quầy **Sun PhuQuoc Airways (Ga T1 Nội Bài)**, ký gửi hành lý (1PC/người với các kiện hạt dẻ, quà Cao Bằng). Qua an ninh vào phòng chờ | PNR: **`7TGDE6`** (Ghế **36J & 36K**) |
-| 23:30 - 01:40 (+1) | Cất cánh chuyến bay **9G893** về SGN. Hạ cánh Tân Sơn Nhất (Ga T3) lúc 01:40 sáng 07/09. **KẾT THÚC CHUYẾN ĐI 10 NGÀY 9 ĐÊM TRỌN VẸN & AN TOÀN TUYỆT ĐỐI!** 🎉 | |
+| 07:30 - 09:30 | Bắt đầu ngày mới với **Bún chả** (125k), đổ xăng (20k). Thưởng thức **Bánh ngọt (25k) + Cà phê muối & Americano (95k)** ngắm phố phường buổi sáng | ☕ Bữa sáng & cafe chuẩn thu |
+| 09:30 - 12:00 | Tham quan di tích lịch sử **Nhà tù Hỏa Lò** (2 vé SV 50k), tìm hiểu lịch sử hào hùng | 🏛️ Trải nghiệm văn hóa lịch sử sâu sắc |
+| 12:00 - 15:30 | Ăn nhẹ bánh ngọt (35k), cà phê giải khát chiều (35k), dạo phố Phan Đình Phùng & Phố Cổ mua sắm | 📸 Tận hưởng ngày cuối Thủ đô |
+| 15:30 - 18:30 | Dạo phố Hàng Than mua **Bánh cốm Nguyên Ninh**, chè sen, đặc sản làm quà cho người thân & đồng nghiệp | 🎁 Quà đặc sản mùa thu |
+| 18:30 - 20:30 | Bữa tối chia tay Hà Nội: **Lẩu riêu cua bắp bò sườn sụn Trúc Bạch** / Phở cuốn Ngũ Xá | 🍲 Bữa tối ấm áp kết thúc tour |
+| 20:30 - 21:15 | **Bàn giao trả xe máy MOTOGO:** Thanh toán 310.000đ tiền thuê 2 ngày. Di chuyển ra Sân bay Nội Bài Ga T1 | 🏍️ Hoàn tất thuê xe |
+| 21:15 - 22:45 | Làm thủ tục tại quầy **Sun PhuQuoc Airways (Ga T1 Nội Bài)**, ký gửi hành lý quà đặc sản. Qua an ninh vào phòng chờ | PNR: **`7TGDE6`** (Ghế **36J & 36K**) |
+| 23:30 - 01:40 (+1) | Cất cánh chuyến bay **9G893** về SGN. Hạ cánh Tân Sơn Nhất (Ga T3) lúc 01:40 sáng 07/09. **KẾT THÚC CHUYẾN ĐI 10 NGÀY 9 ĐÊM TRỌN VẸN & AN TOÀN TUYỆT ĐỐI!** 🎉 | 🏆 Thành công mỹ mãn! |
 
 ---
 

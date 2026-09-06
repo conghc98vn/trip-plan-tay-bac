@@ -628,6 +628,22 @@
   - TỔNG DỰ KIẾN TOÀN BỘ CHUYẾN ĐI (10N9Đ): **~21.890.195 VNĐ** (~**10.945.098 VNĐ / người**).
 - **Cập nhật đồng bộ:** [`info/tong_hop_chi_phi.md`](../info/tong_hop_chi_phi.md), [`plans/lich_trinh_chi_tiet.md`](../plans/lich_trinh_chi_tiet.md), [`index.html`](../index.html), [`info/expense_tracker.html`](../info/expense_tracker.html), [`README.md`](../README.md).
 
+## 06/09/2026 — Cập Nhật Toàn Diện Chi Tiêu Thực Tế 10 Ngày (Hà Nội Mùa Thu & Hoàn Thiện Sổ Chi)
+
+### Quyết định #40: Đồng bộ hóa toàn bộ 89 khoản chi thực tế từ Ngày 1 đến Ngày 10
+- **Chi tiết cập nhật:**
+  - **Ngày 7 (03/09):** Chuẩn hóa chi phí bữa tối đồ nướng xiên que + coca thành **180.000 VNĐ** (Tổng Ngày 7: **860.000 VNĐ**).
+  - **Ngày 9 (05/09):** Cập nhật trọn vẹn cả ngày (10 khoản chi): Taxi (100k) + Đổ xăng sáng (50k) + Bún thang (110k) + Cafe muối (20k) + Cafe Đây Đi (115k) + Ngan cháy tỏi canh tiết (250k) + Kem (30k) + Đổ xăng chiều (40k) + Chả cá Lăng 99 (160k) + Xôi bà Nguyệt (50k) = **925.000 VNĐ**.
+  - **Ngày 10 (06/09 - Hôm nay):** Ghi nhận 7 khoản chi thực tế đến hiện tại: Bún chả (125k) + Đổ xăng (20k) + Bánh ngọt sáng (25k) + Cafe muối & Americano (95k) + Vé tham quan Nhà tù Hỏa Lò 2 vé SV (50k) + Bánh ngọt chiều (35k) + Cafe chiều (35k) = **385.000 VNĐ**.
+- **Tác động ngân sách toàn chuyến:**
+  - Tổng sinh hoạt 10 ngày thực tế: **8.710.000 VNĐ** (89 khoản chi).
+  - Chi phí di chuyển cố định đã thanh toán: **8.754.024 VNĐ**.
+  - Chi phí lưu trú 9 đêm (7 đêm phòng + 2 đêm xe VIP): **2.911.171 VNĐ**.
+  - 👉 **TỔNG ĐÃ CHI THỰC TẾ:** 🏆 **20.375.195 VNĐ** (~**10.187.598 VNĐ / người**).
+  - 🔮 **Dự toán chi phí còn lại chiều/tối 06/09:** **~1.110.000 VNĐ** (MOTOGO 310k + Mua bánh cốm/quà đặc sản + Ăn tối chia tay + Grab ra sân bay).
+  - 🎯 **TỔNG DỰ KIẾN TOÀN BỘ CHUYẾN ĐI (10N9Đ):** **~21.485.195 VNĐ** (~**10.742.598 VNĐ / người**).
+- **Cập nhật đồng bộ:** [`info/tong_hop_chi_phi.md`](../info/tong_hop_chi_phi.md), [`plans/lich_trinh_chi_tiet.md`](../plans/lich_trinh_chi_tiet.md), [`index.html`](../index.html), [`info/expense_tracker.html`](../info/expense_tracker.html), [`README.md`](../README.md).
+
 ---
 
 ## Cần quyết định tiếp
@@ -656,7 +672,8 @@
 - [x] Hoàn thành chặng phượt đèo xe máy Hà Giang - Cao Bằng an toàn 100%
 - [x] Bàn giao trả xe Wave Giang Sơn tại TP Cao Bằng chiều 04/09 & nhận lại cọc 3.000.000 VNĐ
 - [x] Lên xe Cabin Hiệp Giang lúc 21:15 tối 04/09 về Hà Nội an toàn
-- [ ] Trải nghiệm 2 ngày cuối tuần Hà Nội (05/09 - 06/09): Nhận xe máy MOTOGO 06:00, Check-in Vari Homestay Đội Cấn, Spa dưỡng sinh đôi, Foodtour phố cổ, Xe hoa mùa thu & Bay về SGN 23:30 tối 06/09
+- [x] Trải nghiệm ngày Thứ Bảy tại Hà Nội (05/09): Nhận xe MOTOGO, Bún thang, Cafe Đây Đi, Ngan cháy tỏi, Check-in Vari Homestay, Chả cá Lăng 99, Xôi bà Nguyệt
+- [ ] Hoàn tất ngày Chủ Nhật (06/09): Bún chả, Cafe muối/americano, Di tích Hỏa Lò, Mua bánh cốm Hàng Than, Lẩu riêu cua Trúc Bạch, Trả xe MOTOGO & Bay về SGN 23:30 (Sun PhuQuoc 9G893)
 
 
 

@@ -2,7 +2,7 @@
 
 > **Cung đường:** TP. Hồ Chí Minh — Hà Nội — Hà Giang — Cao Bằng (28/08/2026 – 06/09/2026)  
 > **Thành viên:** 2 người (Hoàng Chí Công & Bạn gái)  
-> **Cập nhật realtime:** 05/09/2026 *(Đang diễn ra Ngày 9 — Hà Nội Mùa Thu & Foodtour)*  
+> **Cập nhật realtime:** 06/09/2026 *(Đang diễn ra Ngày 10 — Hà Nội Mùa Thu & Chuẩn bị bay về SGN)*  
 > 📊 **Công cụ Interactive Dashboard:** Mở file [`index.html`](../index.html) hoặc [`expense_tracker.html`](./expense_tracker.html) trên trình duyệt để xem báo cáo phân tích, biểu đồ trực quan, voucher lưu trú & bộ lọc chi tiêu chuyên sâu.  
 > 📌 **Điều hướng nhanh:** [🏠 README](../README.md) | [🗺️ Lịch Trình Chi Tiết](../plans/lich_trinh_chi_tiet.md) | [🏨 Đặt Phòng](dat_phong.md) | [✈️ Chuyến Bay](chuyen_bay.md) | [🚌 Xe Khách](xe_khach.md) | [🏍️ Thuê Xe Máy](thue_xe_may.md)
 
@@ -14,11 +14,11 @@
 |:---|:---:|:---|
 | ✈️ **Chi phí cố định đã chi (Vé bay, xe khách, thuê 2 xe máy)** | **8.754.024 đ** | Đã gồm 2 vé bay khứ hồi (VJ 2.435k + Sun 2.346k) + 2 vé xe khách (Quang Tuyến 550k + Hiệp Giang 750k) + thuê Wave Giang Sơn (2.362k) + thuê Sirius MOTOGO HN lượt đi (310k) |
 | 🏨 **Chi phí lưu trú (Homestay/Hotel 7 đêm đã chốt)** | **2.911.171 đ** | Da Tree (348k) + Bong Bang 2 (400k) + ToTo-Chan (446.4k) + Phương Anh (300k) + Minh Hoàng (369k) + A THÁM (518.011đ) + Vari Homestay Đội Cấn (529.760đ) |
-| 🍜 **Chi tiêu sinh hoạt & trải nghiệm 9 ngày thực tế** | **7.715.000 đ** | Ẩm thực, quà biếu, vé tham quan, xăng cộ, xe ôm/taxi, phạt giao thông |
-| 💵 **TỔNG ĐÃ CHI THỰC TẾ (Đến hiện tại Ngày 9 + Xe về 04/09 + KS HN 05/09)** | 🏆 **19.380.195 đ** | **~9.690.098 đ / người (2 người)** |
-| 🔮 **Dự toán chi phí còn lại (05/09 trưa/tối – 06/09)** | **~2.510.000 đ** | MOTOGO lượt về (310k) + Spa dưỡng sinh đôi + Foodtour HN + Quà bánh cốm |
-| 🎯 **TỔNG CHI PHÍ DỰ KIẾN TOÀN CHUYẾN ĐI** | **~21.890.195 đ** | **~10.945.098 đ / người (10 ngày 9 đêm)** |
-| 🔄 **Khoản tiền cọc tạm ứng (Sẽ hoàn lại)** | **+3.000.000 đ** | Tiền cọc xe máy Giang Sơn nhận lại khi trả xe tại TP Cao Bằng chiều 04/09 |
+| 🍜 **Chi tiêu sinh hoạt & trải nghiệm 10 ngày thực tế (đến hiện tại)** | **8.710.000 đ** | Ẩm thực, quà biếu, vé tham quan, xăng cộ, taxi, phạt GT (89 khoản chi từ N1 đến trưa N10) |
+| 💵 **TỔNG ĐÃ CHI THỰC TẾ (Đến hiện tại Ngày 10)** | 🏆 **20.375.195 đ** | **~10.187.598 đ / người (2 người)** |
+| 🔮 **Dự toán chi phí còn lại (Chiều/tối 06/09 trước khi bay)** | **~1.110.000 đ** | MOTOGO lượt về (310k) + Mua quà bánh cốm/đặc sản + Ăn tối chia tay + Grab ra sân bay Ga T1 |
+| 🎯 **TỔNG CHI PHÍ DỰ KIẾN TOÀN CHUYẾN ĐI** | **~21.485.195 đ** | **~10.742.598 đ / người (10 ngày 9 đêm trọn vẹn)** |
+| 🔄 **Khoản tiền cọc tạm ứng (Đã nhận lại)** | **+3.000.000 đ** | Tiền cọc xe máy Giang Sơn đã nhận lại khi trả xe tại TP Cao Bằng chiều 04/09 |
 
 ---
 
@@ -35,7 +35,6 @@
 | 7 | **Thuê xe máy Hà Nội lượt về (2 ngày)** | MOTOGO Hoàng Hoa Thám | **310.000 đ** | ⏳ Trả xe thanh toán | Xe số 110cc: 260k + 50k phụ phí trả sân bay Nội Bài (nhận 06:00 05/09 tại 267 Hoàng Hoa Thám) ([thue_xe_may.md](thue_xe_may.md#xe-may-hn-2)) |
 | **TỔNG** | **CỐ ĐỊNH (DI CHUYỂN TOÀN CHUYẾN)** | | **9.064.024 đ** | *(Đã chi: 8.754.024đ • Còn lại: 310.000đ MOTOGO Hoàng Hoa Thám trả tối 06/09)* |
 
-
 ---
 
 ## 🏨 3. Chi Phí Lưu Trú / Khách Sạn / Homestay Toàn Tuyến
@@ -47,11 +46,11 @@
 | **Đêm 2** | 30/08 | **Bong Bang homestay 2** (Yên Minh, HG) | `6874088766` | **400.000 đ** | ✅ Đã thanh toán | Phòng đôi riêng, trả tiền mặt khi check-in ([dat_phong.md](dat_phong.md#yen-minh)) |
 | **Đêm 3** | 31/08 | **ToTo-Chan Hotel** (Thị trấn Đồng Văn) | `6840372362` | **446.400 đ** | ✅ Đã thanh toán | Phòng Deluxe giường đôi, **đã bao gồm ăn sáng** ([dat_phong.md](dat_phong.md#dong-van)) |
 | **Đêm 4** | 01/09 | **Phương Anh Hotel** (Thị trấn Mèo Vạc) | `5152255450` | **300.000 đ** | ✅ Đã thanh toán | Phòng đôi trung tâm Mèo Vạc ([dat_phong.md](dat_phong.md#meo-vac)) |
-| **Đêm 5** | 02/09 | **Minh Hoang Hotel & Homestay** (TP Cao Bằng) | `6307802042` | **369.000 đ** | ✅ Đã xác nhận | Phòng Giường Đôi Tiết Kiệm, trả tiền mặt khi check-in ([dat_phong.md](dat_phong.md#cao-bang-1)) |
-| **Đêm 6** | 03/09 | **A THÁM homestay** (Thác Bản Giốc / Khuổi Ky) | `6515457323` | **518.011 đ** | ✅ Đã xác nhận | Phòng Gia Đình (2 người lớn), gần Thác Bản Giốc ([dat_phong.md](dat_phong.md#ban-gioc)) |
+| **Đêm 5** | 02/09 | **Minh Hoang Hotel & Homestay** (TP Cao Bằng) | `6307802042` | **369.000 đ** | ✅ Đã thanh toán | Phòng Giường Đôi Tiết Kiệm, trả tiền mặt khi check-in ([dat_phong.md](dat_phong.md#cao-bang-1)) |
+| **Đêm 6** | 03/09 | **A THÁM homestay** (Thác Bản Giốc / Khuổi Ky) | `6515457323` | **518.011 đ** | ✅ Đã thanh toán | Phòng Gia Đình (2 người lớn), gần Thác Bản Giốc ([dat_phong.md](dat_phong.md#ban-gioc)) |
 | **Đêm 7** | 04/09 | *Ngủ trên xe Limousine Cabin VIP Hiệp Giang (B.10)* | `P2DZO3` | **0 đ** | ✅ Đã bao gồm vé xe | Xuất phát 21:15 về đến Bến xe Mỹ Đình 05:30 sáng |
-| **Đêm 8** | 05/09 | **Vari Homestay Đội Cấn** (35 Ngõ 279 Đội Cấn, Ba Đình) | `5623667981` | **529.760 đ** | ✅ Đã xác nhận | Studio Deluxe giường Queen, thanh toán tại chỗ khi nhận phòng ([dat_phong.md](dat_phong.md#ha-noi-2)) |
-| **TỔNG** | **LƯU TRÚ (9 ĐÊM)** | | **2.911.171 đ** | *(Đã chốt 100% toàn bộ 7 đêm KS/Homestay + 2 đêm xe khách)* |
+| **Đêm 8** | 05/09 | **Vari Homestay Đội Cấn** (35 Ngõ 279 Đội Cấn, Ba Đình) | `5623667981` | **529.760 đ** | ✅ Đã thanh toán | Studio Deluxe giường Queen, thanh toán tại chỗ khi nhận phòng ([dat_phong.md](dat_phong.md#ha-noi-2)) |
+| **TỔNG** | **LƯU TRÚ (9 ĐÊM)** | | **2.911.171 đ** | *(Đã chốt và thanh toán 100% toàn bộ 7 đêm KS/Homestay + 2 đêm xe khách)* |
 
 ---
 
@@ -137,7 +136,7 @@
 | Cơm trưa bình dân Mèo Vạc | Cơm thịt rang + bò lá lốt + rau luộc | 100.000 đ | Ẩm thực |
 | Gội đầu thư giãn | Tiệm làm tóc trung tâm Mèo Vạc | 60.000 đ | Dịch vụ cá nhân |
 | Kem & Nước ngọt WinMart | Mua đồ lặt vặt | 70.000 đ | Ăn vặt |
-| Ăn tối Vịt nướng than hoa | 1/2 con vịt nướng chấm muối ớt chanh (125k) + 2 trà chanh (40k) | 165.000 đ | Ẩm thực |
+| Ăn tối Vịt nướng than hoa | 1/2 con vịt nướng (125k) + 2 trà chanh (40k) | 165.000 đ | Ẩm thực |
 | Thịt lợn xiên nướng đêm | Ăn vặt khuya | 50.000 đ | Ẩm thực |
 | 1 Ly Cà phê sữa | Thưởng thức cafe tối | 30.000 đ | Cafe |
 
@@ -163,7 +162,7 @@
 ---
 
 ### 🟢 Ngày 7 (03/09/2026): TP Cao Bằng → Hồ Thang Hen → Núi Mắt Thần → Thác Bản Giốc
-*Tổng chi ngày 7:* **830.000 VNĐ**
+*Tổng chi ngày 7:* **860.000 VNĐ**
 
 | Khoản chi | Chi tiết | Số tiền (VNĐ) | Phân loại |
 |:---|:---|:---:|:---|
@@ -174,7 +173,7 @@
 | Vé tham quan Thác Bản Giốc | 2 vé vào cổng (40k/vé) | 80.000 đ | Tham quan |
 | Nước + Kem + Gửi xe tại Thác Bản Giốc | Giải khát & phí gửi xe máy | 50.000 đ | Ăn uống/Dịch vụ |
 | Ăn trưa Cá sông + Canh chua + Cơm | Bữa trưa đặc sản vùng cao Trùng Khánh | 240.000 đ | Ẩm thực |
-| Ăn tối Xiên nướng + 2 lon Coca | Bữa tối nướng ấm cúng gần Thác Bản Giốc | 150.000 đ | Ẩm thực |
+| Ăn tối Xiên nướng + 2 lon Coca | Bữa tối nướng ấm cúng gần Thác Bản Giốc | 180.000 đ | Ẩm thực |
 
 ---
 
@@ -194,68 +193,82 @@
 
 ---
 
-### 🟢 Ngày 9 (05/09/2026): Chào Sớm Mai Hà Nội → Nhận Xe MOTOGO → Bún Thang → Cà Phê Đây Đi
-*Tổng chi ngày 9 (đến hiện tại):* **345.000 VNĐ**
+### 🟢 Ngày 9 (05/09/2026): Chào Sớm Mai Hà Nội → Bún Thang → Cà Phê Đây Đi → Ngan Cháy Tỏi → Chả Cá Lăng
+*Tổng chi ngày 9:* **925.000 VNĐ**
 
 | Khoản chi | Chi tiết | Số tiền (VNĐ) | Phân loại |
 |:---|:---|:---:|:---|
-| Taxi Bến xe Mỹ Đình đi Hoàng Hoa Thám | Bắt taxi từ Bến xe Mỹ Đình sang 267 Hoàng Hoa Thám nhận xe máy | 100.000 đ | Di chuyển |
+| Taxi Bến xe Mỹ Đình đi Hoàng Hoa Thám | Bắt taxi sang 267 Hoàng Hoa Thám nhận xe máy MOTOGO | 100.000 đ | Di chuyển |
+| Đổ xăng xe máy MOTOGO | Đổ xăng sáng sớm xuất phát | 50.000 đ | Xăng xe |
 | Ăn sáng Bún thang | 2 tô bún thang nóng hổi + quẩy + chè đá | 110.000 đ | Ẩm thực |
 | Cà phê muối | Cà phê muối sớm mai phố phường | 20.000 đ | Cafe/Nước |
 | Cà phê trứng + Cold Brew quán Đây Đi | Thưởng thức cà phê trứng béo ngậy & Cold Brew tại quán Đây Đi | 115.000 đ | Cafe/Nước |
+| Ngan cháy tỏi + Canh tiết | Bữa trưa đặc sản thơm lừng phố cổ | 250.000 đ | Ẩm thực |
+| Kem dạo phố | Giải nhiệt dạo phố chiều | 30.000 đ | Ẩm thực |
+| Đổ xăng xe máy chiều | Tiếp xăng di chuyển phố phường & Hồ Tây | 40.000 đ | Xăng xe |
+| Chả cá Lăng 99 | Bữa tối đặc sản chả cá thơm ngon nóng hổi | 160.000 đ | Ẩm thực |
+| Xôi bà Nguyệt | Bữa khuya xôi truyền thống ấm bụng | 50.000 đ | Ẩm thực |
 
 ---
 
-### ⏳ Ngày 10: Theo Dõi & Dự Toán Chi Phí Realtime
-
-> 💡 **Tra cứu nhanh:** Mở file [`index.html`](../index.html) hoặc [`expense_tracker.html`](./expense_tracker.html) trên trình duyệt để xem toàn bộ 76 khoản chi, biểu đồ và voucher lưu trú.
-
-#### 🟡 Ngày 10 (06/09/2026): Khám Phá Hà Nội Thu → Mua Quà Đặc Sản → Sân Bay Nội Bài Bay Về SGN
-*Dự toán:* ~1.000.000 – 1.300.000 VNĐ (Phở Bát Đàn / Bún ốc + Cà phê Hồ Tây + Chả cá Lăng + Mua bánh cốm Hàng Than làm quà + Lẩu riêu cua Trúc Bạch + Bàn giao xe MOTOGO & Sân bay)
+### 🟢 Ngày 10 (06/09/2026 - Hôm nay): Bún Chả → Cà Phê Muối & Americano → Di Tích Hỏa Lò → Chuẩn Bị Bay Về SGN
+*Tổng chi ngày 10 (đến hiện tại):* **385.000 VNĐ**
 
 | Khoản chi | Chi tiết | Số tiền (VNĐ) | Phân loại |
 |:---|:---|:---:|:---|
-| *(Ghi khoản chi 1)* | | | |
+| Ăn sáng Bún chả | Bún chả nướng than hoa thơm lừng | 125.000 đ | Ẩm thực |
+| Đổ xăng xe máy | Xăng di chuyển ngày cuối phố cổ | 20.000 đ | Xăng xe |
+| Bánh ngọt ăn nhẹ sáng | Bánh ngọt ăn kèm cafe | 25.000 đ | Ẩm thực |
+| Cafe muối + Americano | Cafe sáng chill phố thu | 95.000 đ | Cafe/Nước |
+| Vé tham quan Nhà tù Hỏa Lò | 2 vé sinh viên có thẻ tham quan di tích lịch sử | 50.000 đ | Tham quan |
+| Bánh ngọt ăn nhẹ chiều | Bánh ngọt nạp năng lượng | 35.000 đ | Ẩm thực |
+| Cà phê giải khát chiều | Cafe chiều ngắm phố phường | 35.000 đ | Cafe/Nước |
+
+> 🔮 **Dự toán chi phí còn lại chiều/tối Ngày 10:**
+> - Thanh toán thuê xe máy MOTOGO lượt về: **310.000 đ**
+> - Mua quà biếu bánh cốm Hàng Than / trà sen / đặc sản: **~400.000 – 600.000 đ**
+> - Bữa tối chia tay Hà Nội + Grab ra sân bay Nội Bài Ga T1: **~400.000 – 500.000 đ**
+> - 👉 *Ước tính phát sinh còn lại:* **~1.110.000 – 1.400.000 VNĐ**
 
 ---
 
 ## 📊 5. Cơ Cấu Chi Phí Phân Theo Danh Mục (Category Breakdown)
 
 ```mermaid
-pie title Tỷ trọng chi tiêu sinh hoạt thực tế 9 ngày (7.715.000đ)
-    "Ẩm thực & Cà phê" : 4720000
+pie title Tỷ trọng chi tiêu sinh hoạt thực tế 10 ngày (8.710.000đ)
+    "Ẩm thực & Cà phê" : 5555000
     "Quà biếu & Thăm thân" : 1600000
-    "Xăng xe & Di chuyển tại chỗ" : 610000
-    "Vé tham quan & Trải nghiệm" : 475000
+    "Xăng xe & Di chuyển tại chỗ" : 720000
+    "Vé tham quan & Trải nghiệm" : 525000
     "Dịch vụ & Vi phạm giao thông" : 210000
     "Lưu trú phát sinh" : 100000
 ```
 
-| Danh mục | Đã chi & Đã đặt | Ước tính còn lại | Tổng dự kiến toàn chuyến | Tỷ lệ (%) |
+| Danh mục | Đã chi thực tế (10 ngày) | Ước tính còn lại | Tổng dự kiến toàn chuyến | Tỷ lệ (%) |
 |:---|:---:|:---:|:---:|:---:|
-| ✈️ **Vé máy bay & Xe khách liên tỉnh** | 6.081.524 đ | 0 đ | **6.081.524 đ** | 27.8% |
-| 🏍️ **Thuê xe máy (Giang Sơn & 2 lượt MOTOGO)** | 2.672.500 đ | 310.000 đ | **~2.982.500 đ** | 13.6% |
-| 🏨 **Khách sạn / Homestay (9 đêm)** | 2.911.171 đ | 0 đ | **2.911.171 đ** | 13.3% |
-| 🍜 **Ẩm thực & Thức uống** | 4.720.000 đ | ~1.200.000 đ | **~5.920.000 đ** | 27.0% |
-| 🎁 **Quà biếu & Mua đặc sản** | 1.600.000 đ | ~600.000 đ | **~2.200.000 đ** | 10.0% |
-| 🎟️ **Vé tham quan & Trải nghiệm** | 475.000 đ | ~100.000 đ | **~575.000 đ** | 2.6% |
-| 🏍️ **Xăng xe & Di chuyển nội thành/địa phương** | 610.000 đ | ~100.000 đ | **~710.000 đ** | 3.2% |
-| 💆 **Dịch vụ, Spa & Phát sinh khác** | 210.000 đ | ~300.000 đ | **~510.000 đ** | 2.3% |
+| ✈️ **Vé máy bay & Xe khách liên tỉnh** | 6.081.524 đ | 0 đ | **6.081.524 đ** | 28.3% |
+| 🏍️ **Thuê xe máy (Giang Sơn & 2 lượt MOTOGO)** | 2.672.500 đ | 310.000 đ | **~2.982.500 đ** | 13.9% |
+| 🏨 **Khách sạn / Homestay (9 đêm)** | 2.911.171 đ | 0 đ | **2.911.171 đ** | 13.5% |
+| 🍜 **Ẩm thực & Thức uống** | 5.555.000 đ | ~400.000 đ | **~5.955.000 đ** | 27.7% |
+| 🎁 **Quà biếu & Mua đặc sản** | 1.600.000 đ | ~500.000 đ | **~2.100.000 đ** | 9.8% |
+| 🎟️ **Vé tham quan & Trải nghiệm** | 525.000 đ | 0 đ | **~525.000 đ** | 2.4% |
+| 🏍️ **Xăng xe & Di chuyển nội thành/địa phương** | 720.000 đ | ~200.000 đ | **~920.000 đ** | 4.3% |
+| 💆 **Dịch vụ, Tiện ích & Phát sinh khác** | 210.000 đ | 0 đ | **~210.000 đ** | 1.0% |
 | 🏨 **Lưu trú phát sinh (Quá giờ Da Tree)** | 100.000 đ | 0 đ | **100.000 đ** | 0.5% |
-| **TỔNG CỘNG** | **19.380.195 đ** | **~2.510.000 đ** | **~21.890.195 đ** | **100%** |
+| **TỔNG CỘNG** | **20.375.195 đ** | **~1.110.000 đ** | **~21.485.195 đ** | **100%** |
 
 ---
 
 ## 🔒 6. Quản Lý Tiền Cọc & Các Khoản Hoàn Lại (Deposits & Refunds)
 
 | Đơn vị nhận cọc | Số tiền cọc | Ngày chuyển | Hình thức hoàn lại | Thời điểm hoàn cọc | Trạng thái |
-|:---|:---:|:---:|:---|:---|:---:|
-| **Thuê xe máy Giang Sơn (Hà Giang)** | **3.000.000 VNĐ** | 30/08/2026 (Chuyển cùng HĐ 45) | Chuyển khoản hoặc Tiền mặt khi bàn giao xe | Chiều 04/09/2026 khi trả xe tại TP Cao Bằng | ⏳ Đang giữ cọc |
-| **Cọc xe máy MOTOGO Hà Nội** | **0 VNĐ** | 28/08/2026 | Đã thỏa thuận không giữ cọc giấy tờ | Đã trả xe tối 29/08 | ✅ Hoàn tất |
+|:---|:---:|:---|:---|:---|:---:|
+| **Thuê xe máy Giang Sơn (Hà Giang)** | **3.000.000 VNĐ** | 30/08/2026 (Chuyển cùng HĐ 45) | Chuyển khoản ngân hàng | Chiều 04/09/2026 khi trả xe tại TP Cao Bằng | ✅ Đã hoàn cọc |
+| **Cọc xe máy MOTOGO Hà Nội** | **0 VNĐ** | 28/08/2026 & 05/09/2026 | Không giữ cọc giấy tờ | Đã thanh toán theo ngày | ✅ Hoàn tất |
 
 ---
 
 ## ⚡ 7. Hướng Dẫn Xem & Tra Cứu Dashboard
  
-1. **Trên điện thoại & máy tính:** Mở file [`expense_tracker.html`](./expense_tracker.html) trong Safari hoặc Chrome để xem biểu đồ cơ cấu, lọc chi tiêu theo ngày, kiểm tra mã phòng KS & số tiền cọc hoàn lại tức thì.
+1. **Trên điện thoại & máy tính:** Mở file [`index.html`](../index.html) hoặc [`expense_tracker.html`](./expense_tracker.html) trong Safari hoặc Chrome để xem biểu đồ cơ cấu, lọc chi tiêu theo ngày, kiểm tra mã phòng KS & 89 khoản chi thực tế tức thì.
 2. **Cập nhật dữ liệu:** Bạn chỉ cần note gửi chi tiêu cho Agent — Agent sẽ đồng bộ toàn bộ số liệu vào Git repository và file HTML.
