@@ -1,7 +1,7 @@
 # 🗺️ Plan Trip — HCM → Hà Nội → Hà Giang → Cao Bằng
 > **Chuyến đi:** 28/08/2026 – 06/09/2026 (10 ngày)  
 > **Thành viên:** 2 người (Cong Hoang + Bạn gái)  
-> **Cập nhật lần cuối:** 06/09/2026 *(Đang diễn ra Ngày 10/10 — Khám phá Hà Nội Mùa Thu & Chuẩn bị bay về SGN)*  
+> **Cập nhật lần cuối:** 07/09/2026 *(🏆 HOÀN THÀNH 100% XUẤT SẮC TOÀN BỘ CHUYẾN ĐI 10 NGÀY 9 ĐÊM)*  
 
 ---
 
@@ -19,7 +19,7 @@ chicong-trip-plan/
 │   ├── expense_tracker.html           ← 📊 Trip Finance Intelligence HQ Dashboard (Biểu đồ & Phân tích chi phí realtime)
 │   ├── chuyen_bay.md                  ← Vé máy bay (Lượt đi VJ120 & Lượt về 9G893)
 │   ├── xe_khach.md                    ← Xe khách (HN→HG, CB→Hà Nội)
-│   ├── thue_xe_may.md                 ← Thuê xe máy (Giang Sơn 6 ngày)
+│   ├── thue_xe_may.md                 ← Thuê xe máy (Giang Sơn 6 ngày & MOTOGO HN 2 lượt)
 │   ├── dat_phong.md                   ← 🏨 Mã booking & voucher lưu trú các đêm
 │   └── nguoi_than.md                  ← Địa chỉ người thân Mỹ Đức
 ├── notes/
@@ -44,19 +44,19 @@ chicong-trip-plan/
 
 | Hạng mục | Status | Ghi chú |
 |----------|--------|---------|
-| **Tiến độ chuyến đi** | 🟢 **Đang diễn ra Ngày 10/10** | Ngày cuối tại Thủ đô (Bún chả, Cà phê, Di tích Hỏa Lò, Mua quà đặc sản, Lẩu riêu cua & Bay về SGN 23:30) |
-| **Tổng chi phí toàn chuyến (Realtime)** | 💰 **20.375.195 VNĐ** | Đã gồm Cố định (8.754k gồm 2 vé bay, 2 xe khách, xe máy Giang Sơn, xe máy MOTOGO L1) + Lưu trú 7 đêm đã chốt (2.911k) + Sinh hoạt 10 ngày (8.710k - 89 khoản chi). Xem tại [tong_hop_chi_phi.md](info/tong_hop_chi_phi.md) & [Dashboard Web](index.html) |
-| **Plan tổng thể** | ✅ Đã chốt | Hoàn thành xuất sắc 100% cung phượt HG - CB, đang tận hưởng trọn vẹn cuối tuần Hà Nội & bay chuyến 23:30 tối nay về SGN |
-| **Dự báo thời tiết 10 ngày** | ✅ Đã cập nhật (Tối 27/08) | Cập nhật mới nhất tối 27/08 trước khởi hành trong [lich_trinh_chi_tiet.md](plans/lich_trinh_chi_tiet.md) |
+| **Tiến độ chuyến đi** | 🏆 **Hoàn thành 100%** | Toàn bộ 10 ngày 9 đêm (Hà Giang Loop, Cao Bằng & Mùa thu Hà Nội) an toàn tuyệt đối! |
+| **Tổng chi phí toàn chuyến (Thực tế)** | 💰 **21.935.195 VNĐ** | ~**10.967.598 VNĐ / người** (Gồm Cố định 9.064k + Lưu trú 2.911k + Sinh hoạt 9.960k - 93 khoản chi). Xem tại [tong_hop_chi_phi.md](info/tong_hop_chi_phi.md) & [Dashboard Web](index.html) |
+| **Plan tổng thể** | 🏆 Thành công mỹ mãn | Hoàn thành xuất sắc 100% cung phượt HG - CB, thưởng thức trọn vẹn mùa thu Hà Nội & đáp chuyến bay 9G893 về SGN an toàn |
+| **Dự báo thời tiết 10 ngày** | ✅ Đã cập nhật | Cập nhật KTTV suốt hành trình trong [lich_trinh_chi_tiet.md](plans/lich_trinh_chi_tiet.md) |
 | **Kế hoạch Rủi ro & Backup** | ✅ Đã chốt | 5 nhóm rủi ro & kịch bản dự phòng trong [lich_trinh_chi_tiet.md](plans/lich_trinh_chi_tiet.md#-đánh-giá-rủi-ro--kịch-bản-dự-phòng-contingency-plans) |
 | **Gợi ý Homestay/Hotel** | ✅ Đã lên list | Trong [goi_y_homestay.md](notes/goi_y_homestay.md) |
 | **Master Food List** | ✅ Đã tổng hợp | Trong [dac_san_am_thuc.md](notes/dac_san_am_thuc.md) |
-| **Vé máy bay đi** | ✅ **Đã check-in online** | **Vietjet Air VJ120** (28/08 05:00 SGN→07:10 HAN - 100% xách tay - PNR: `UJSG2A`/`R7AH77` - Ghế **37E** & **37F**, Boarding 04:10 AM - Đã thêm 1 suất ăn nóng `C.ThaiWBisc`) |
-| **Vé máy bay về** | ✅ **Đã đặt & chọn chỗ** | **Sun PhuQuoc Airways 9G893** (06/09 23:30 HAN T1→01:40 SGN T3 - PNR: **`7TGDE6`** - Ghế **36J** & **36K** - Đã gồm **1PC hành lý ký gửi/người**) |
-| **Xe khách HN→HG** | ✅ Đã đặt | **Quang Tuyến Limousine** 24 phòng (Mã vé: `RN34WQ` / Vexere: `23BQ04L`) - 550k (Đón 55 Nguyễn Hoàng 23:05, Trả tận nơi Giang Sơn Homestay 05:45) |
-| **Xe khách CB→Hà Nội** | ✅ **Đã thanh toán** | **Hiệp Giang Limousine** 22 phòng (Mã: `P2DZO3` / `77Z1VY8`) - 750k (Cabin Đôi **`B.10`**, đón 21:15 VP Bến xe CB, trả Bến xe Mỹ Đình 05:30) |
-| **Thuê xe máy Hà Nội (2 lượt)** | ✅ **Đã đặt & xác nhận** | **MOTOGO** (Lượt 1: 28-29/08 Sirius 310k; Lượt 2: 05-06/09 nhận 06:00 tại 267 Hoàng Hoa Thám - 260k/310k) |
-| **Thuê xe máy Giang Sơn** | ✅ **Đã ký HĐ & Thanh toán** | Honda Wave 110cc HĐ #45 (Thuê 6 ngày 30/08-04/09, đã CK 5.262.500đ gồm tiền thuê + 3.000.000đ cọc hoàn lại) |
+| **Vé máy bay đi** | ✅ **Đã hoàn thành** | **Vietjet Air VJ120** (28/08 05:00 SGN→07:10 HAN - PNR: `UJSG2A`/`R7AH77` - Ghế **37E & 37F**) |
+| **Vé máy bay về** | ✅ **Đã hoàn thành** | **Sun PhuQuoc Airways 9G893** (06/09 23:30 HAN T1→01:40 SGN T3 - PNR: **`7TGDE6`** - Ghế **36J & 36K**) |
+| **Xe khách HN→HG** | ✅ Đã hoàn thành | **Quang Tuyến Limousine** 24 phòng (Mã vé: `RN34WQ` - 550k) |
+| **Xe khách CB→Hà Nội** | ✅ **Đã hoàn thành** | **Hiệp Giang Limousine** 22 phòng (Cabin Đôi **`B.10`** - Mã: `P2DZO3` - 750k) |
+| **Thuê xe máy Hà Nội (2 lượt)** | ✅ **Đã thanh toán 100%** | **MOTOGO** (Lượt 1: Sirius 310k; Lượt 2: Wave 310k trả tại Hoàng Hoa Thám) |
+| **Thuê xe máy Giang Sơn** | ✅ **Đã hoàn tất & nhận cọc** | Honda Wave 110cc HĐ #45 (Đã trả xe tại TP Cao Bằng chiều 04/09 & nhận lại 3tr cọc) |
 | **Homestay Hà Nội (Đêm 0)** | ✅ Đã xác nhận | Da Tree Homestay Ba Đình (Mã: 6540221126) - 348k (Tiền mặt) |
 | **Homestay Yên Minh** | ✅ Đã xác nhận | Bong Bang Homestay 2 (Mã: 6874088766) - 400k (Tiền mặt) |
 | **Homestay Đồng Văn** | ✅ Đã xác nhận | ToTo-Chan Hotel (Mã: 6840372362) - 446.4k (Tiền mặt, gồm ăn sáng) |

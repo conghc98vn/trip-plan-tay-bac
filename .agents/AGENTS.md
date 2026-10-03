@@ -35,4 +35,4 @@
 - [x] **Bước 3:** Lựa chọn & Chốt 100% danh sách Homestay / Khách sạn toàn tuyến (Hà Nội, Yên Minh, Đồng Văn, Mèo Vạc, Cao Bằng, Bản Giốc, Hoàng Hoa Thám).
 - [x] **Bước 4:** Hoàn thiện Food List & Danh sách quán ăn local chuẩn vị (Hà Nội, Hà Giang, Cao Bằng).
 - [x] **Bước 5:** Lên Packing Checklist & Chuẩn bị hành lý (Đồng bộ USB Type-C, bảo hộ đèo núi, đồ chụp ảnh Sony A7R3 + 28mm).
-- [x] **Bước 6:** Live Trip Execution (Đã hoàn thành xuất sắc 8/10 ngày — Hà Giang Loop & Cao Bằng Bản Giốc - Pác Bó; tiến về Hà Nội 05-06/09).
+- [x] **Bước 6:** Live Trip Execution (Đã hoàn thành xuất sắc 100% toàn bộ chuyến đi 10 ngày 9 đêm — Hà Giang Loop, Cao Bằng & Mùa thu Hà Nội; đáp chuyến bay Sun PhuQuoc Airways 9G893 về Sài Gòn an toàn).

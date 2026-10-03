@@ -334,33 +334,41 @@
 
 ---
 
-### <a id="ngay-10"></a>📍 Ngày 10 (06/09 - CN - Hôm nay): Bún Chả → Cà Phê Muối & Americano → Di Tích Hỏa Lò → Mua Quà → Bay Về SGN (✈️ 23:30)
-*Tổng chi ngày 10 (đến hiện tại):* **385.000 VNĐ**
+### <a id="ngay-10"></a>📍 Ngày 10 (06/09 - CN): Bún Chả → Cà Phê Muối & Americano → Di Tích Hỏa Lò → Mua Bánh Cốm → Lẩu Ếch → Bay Về SGN (✈️ 23:30)
+*Tổng chi thực tế ngày 10:* **1.635.000 VNĐ** (11 khoản chi/hoạt động)
 
-> ⛅ **Dự báo thời tiết:** Hà Nội mùa thu mát mẻ, trong veo, chiều tối thoáng đãng (24–32°C)  
+> ⛅ **Thời tiết thực tế:** Mùa thu Hà Nội se mát, trong veo, chiều tối thoáng đãng (24–32°C)  
 > 🔗 **Gợi ý liên quan:** 🍜 [Master Food List Hà Nội](../notes/dac_san_am_thuc.md#food-hn) | ✈️ [Chuyến bay HAN-SGN 23:30 (Sun PhuQuoc Airways 9G893)](../info/chuyen_bay.md#bay-ve)
 
-> ✅ **NHẬT KÝ & CHI TIÊU THỰC TẾ (06/09/2026 — Đến hiện tại: 385.000 VNĐ):**
-> - ⛽ **Xăng xe:** Đổ xăng xe máy ngày cuối: **20.000đ**
-> - 🍜 **Ẩm thực & Thức uống (315.000đ):**
+> ✅ **NHẬT KÝ & CHI TIÊU THỰC TẾ (06/09/2026 — Tổng: 1.635.000 VNĐ):**
+> - ⛽ **Xăng xe & Di chuyển (270.000đ):**
+>   - Đổ xăng xe máy ngày cuối: **20.000đ**
+>   - Xe ra Sân bay Nội Bài Ga T1: **0đ** *(Anh Long chở giúp, không phát sinh chi phí)*
+>   - Taxi từ Ga T3 Sân bay Tân Sơn Nhất về nhà (sáng sớm 07/09): **250.000đ**
+> - 🍜 **Ẩm thực & Thức uống (815.000đ):**
 >   - Ăn sáng Bún chả nướng than hoa: **125.000đ**
 >   - Bánh ngọt ăn nhẹ sáng: **25.000đ**
 >   - Cafe muối + Americano: **95.000đ**
 >   - Bánh ngọt ăn nhẹ chiều: **35.000đ**
 >   - Cà phê giải khát chiều: **35.000đ**
+>   - Ăn tối chia tay Hà Nội — **Lẩu ếch măng cay**: **500.000đ**
+> - 🎁 **Quà biếu đặc sản (500.000đ):**
+>   - Mua **Bánh cốm Việt Ninh (Hàng Than)** làm quà: **500.000đ** *(100 cái × 5.000đ/cái)*
 > - 🎟️ **Tham quan di tích (50.000đ):**
 >   - Vé tham quan Nhà tù Hỏa Lò (2 vé sinh viên): **50.000đ**
 
 | Thời gian | Hoạt động | Ghi chú |
 |-----------|-----------|---------|
-| 07:30 - 09:30 | Bắt đầu ngày mới với **Bún chả** (125k), đổ xăng (20k). Thưởng thức **Bánh ngọt (25k) + Cà phê muối & Americano (95k)** ngắm phố phường buổi sáng | ☕ Bữa sáng & cafe chuẩn thu |
-| 09:30 - 12:00 | Tham quan di tích lịch sử **Nhà tù Hỏa Lò** (2 vé SV 50k), tìm hiểu lịch sử hào hùng | 🏛️ Trải nghiệm văn hóa lịch sử sâu sắc |
-| 12:00 - 15:30 | Ăn nhẹ bánh ngọt (35k), cà phê giải khát chiều (35k), dạo phố Phan Đình Phùng & Phố Cổ mua sắm | 📸 Tận hưởng ngày cuối Thủ đô |
-| 15:30 - 18:30 | Dạo phố Hàng Than mua **Bánh cốm Nguyên Ninh**, chè sen, đặc sản làm quà cho người thân & đồng nghiệp | 🎁 Quà đặc sản mùa thu |
-| 18:30 - 20:30 | Bữa tối chia tay Hà Nội: **Lẩu riêu cua bắp bò sườn sụn Trúc Bạch** / Phở cuốn Ngũ Xá | 🍲 Bữa tối ấm áp kết thúc tour |
-| 20:30 - 21:15 | **Bàn giao trả xe máy MOTOGO:** Thanh toán 310.000đ tiền thuê 2 ngày. Di chuyển ra Sân bay Nội Bài Ga T1 | 🏍️ Hoàn tất thuê xe |
-| 21:15 - 22:45 | Làm thủ tục tại quầy **Sun PhuQuoc Airways (Ga T1 Nội Bài)**, ký gửi hành lý quà đặc sản. Qua an ninh vào phòng chờ | PNR: **`7TGDE6`** (Ghế **36J & 36K**) |
-| 23:30 - 01:40 (+1) | Cất cánh chuyến bay **9G893** về SGN. Hạ cánh Tân Sơn Nhất (Ga T3) lúc 01:40 sáng 07/09. **KẾT THÚC CHUYẾN ĐI 10 NGÀY 9 ĐÊM TRỌN VẸN & AN TOÀN TUYỆT ĐỐI!** 🎉 | 🏆 Thành công mỹ mãn! |
+| 07:30 - 09:30 | Bắt đầu ngày mới với **Bún chả** (125k), đổ xăng (20k). Thưởng thức **Bánh ngọt (25k) + Cà phê muối & Americano (95k)** ngắm phố phường buổi sáng | ☕ Bữa sáng & cafe chuẩn mùa thu |
+| 09:30 - 12:00 | Tham quan di tích lịch sử **Nhà tù Hỏa Lò** (2 vé SV 50k), tìm hiểu lịch sử cách mạng hào hùng | 🏛️ Trải nghiệm văn hóa lịch sử sâu sắc |
+| 12:00 - 15:30 | Check-out Vari Homestay Đội Cấn. Ăn nhẹ bánh ngọt (35k), cà phê giải khát chiều (35k), dạo phố Phan Đình Phùng check-in xe hoa mùa thu | 📸 Tận hưởng ngày cuối Thủ đô |
+| 15:30 - 18:00 | Ghé phố Hàng Than mua **100 chiếc Bánh cốm Việt Ninh** (500k, giá 5k/cái) thơm ngon đóng thùng làm quà biếu người thân & đồng nghiệp | 🎁 Quà đặc sản mùa thu Hà Nội |
+| 18:00 - 20:15 | Bữa tối chia tay Hà Nội: Thưởng thức **Lẩu ếch măng cay nóng hổi** (500k) thơm nức lòng | 🍲 Bữa tối ấm áp kết thúc tour |
+| 20:15 - 20:45 | **Bàn giao trả xe máy MOTOGO:** Hoàn tất trả xe tại cơ sở Hoàng Hoa Thám, thanh toán 310.000đ (không phát sinh thêm phụ phí). | 🏍️ Hoàn tất thuê xe máy |
+| 20:45 - 21:30 | Anh Long đón và chở 2 bạn ra Sân bay Nội Bài Ga T1 bằng ô tô (không phát sinh chi phí taxi) | 🚗 Di chuyển thảnh thơi |
+| 21:30 - 22:45 | Làm thủ tục tại quầy **Sun PhuQuoc Airways (Ga T1 Nội Bài)**, ký gửi hành lý quà đặc sản (1PC/người). Qua an ninh vào phòng chờ | PNR: **`7TGDE6`** (Ghế **36J & 36K**) |
+| 23:30 - 01:40 (+1) | Cất cánh chuyến bay **9G893** về SGN. Hạ cánh Tân Sơn Nhất (Ga T3) lúc 01:40 sáng 07/09. | ✈️ Chuyến bay êm ái |
+| 01:40 - 02:30 (+1) | Lấy hành lý ký gửi, bắt Taxi từ Ga T3 về lại nhà (250k). **KẾT THÚC CHUYẾN ĐI 10 NGÀY 9 ĐÊM TRỌN VẸN & AN TOÀN TUYỆT ĐỐI!** 🎉 | 🏆 Thành công mỹ mãn! |
 
 ---
 

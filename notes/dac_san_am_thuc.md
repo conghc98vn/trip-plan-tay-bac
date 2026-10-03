@@ -52,8 +52,18 @@
   - *Chả Cá Thăng Long* — 6B Đường Thành, Hoàn Kiếm ⭐ *(Michelin Selected — Đã thưởng thức tối Ngày 2 do anh Long mời)*.
   - *Chả Cá Lăng 99* — 144 Nguyễn Văn Tuyết, Đống Đa ⭐ *(Đã thưởng thức tối Ngày 9 — 160k)*.
   - *Chả Cá Lão Ngư* — 171 P. Thái Hà, Đống Đa.
+- **Lẩu Ếch & Lẩu Riêu Cua (Bữa tối ấm cúng chia tay Hà Nội):**
+  - *Lẩu Ếch Măng Cay Hà Nội* ⭐ *(Đã thưởng thức bữa tối chia tay Ngày 10 — 500k)*.
+  - *Lẩu Riêu Cua Bắp Bò Sườn Sụn* — Trúc Bạch / Phó Đức Chính, Ba Đình.
 - **Phở Cuốn Ngũ Xá:**
   - *Phở Cuốn Hương Mai* — 25 Ngũ Xá, Ba Đình *(Gần Homestay Ngọc Hà ~2.5km, chiên phồng & cuốn bò nướng)*.
+
+### 🎁 Bánh Cốm & Quà Đặc Sản Mùa Thu Hà Nội
+- **Bánh Cốm Hàng Than:**
+  - *Bánh Cốm Việt Ninh* — Phố Hàng Than, Ba Đình ⭐ *(Đã mua 100 chiếc làm quà biếu chiều Ngày 10 — 500.000đ, giá 5.000đ/cái)*.
+  - *Bánh Cốm Nguyên Ninh* — 11 Hàng Than, Ba Đình.
+- **Trà Sen Tây Hồ & Bánh Trung Thu:**
+  - *Bánh trung thu truyền thống* ⭐ *(Đã mua biếu anh chị Ngày 2 — 500k)*.
 
 ### 🍢 Nem Chua Rán, Ăn Vặt & Tráng Miệng Hà Nội
 - **Nem Chua Rán & Bún Cá Chấm:**

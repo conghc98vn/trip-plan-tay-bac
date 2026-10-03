@@ -77,16 +77,16 @@
 
 ---
 
-## <a id="xe-may-hn-2"></a>3. Xe máy tại Hà Nội lượt về (05 - 06/09) — ✅ Đã xác nhận đặt xe MOTOGO
+## <a id="xe-may-hn-2"></a>3. Xe máy tại Hà Nội lượt về (05 - 06/09) — ✅ Đã hoàn tất thuê & trả xe
 | Hạng mục | Chi tiết |
 |----------|---------|
 | **Đơn vị thuê** | **MOTOGO Hà Nội** — Hotline: **0338.023.344** |
 | **Khách đặt xe** | **Hoàng Chí Công** — SĐT: **0969910198** |
-| **Loại xe** | **Xe số 110cc (Yamaha Sirius / Honda Wave)** |
-| **Thời gian thuê** | **2 ngày** (Từ **06:00 sáng Thứ Bảy 05/09/2026** ➔ **20:30 - 21:00 tối Chủ Nhật 06/09/2026**) |
-| **Điểm nhận xe (06:00 05/09)** | **Cơ sở MOTOGO Hoàng Hoa Thám**<br>• **Địa chỉ:** Số 7 ngõ 267 Hoàng Hoa Thám, Phường Ngọc Hà, Quận Ba Đình, Hà Nội<br>• **Khoảng cách:** Cách *Vari Homestay Đội Cấn (35 Ngõ 279 Phố Đội Cấn)* chỉ ~700m! |
-| **Điểm trả xe (Tối 06/09)** | **Linh hoạt lựa chọn:**<br>• **Phương án 1 (Khuyên dùng):** Trả tại **MOTOGO Điền Xá (gần Sân bay Nội Bài)** lúc 21:00 trước khi vào Ga T1 bay về SGN *(Phụ phí trả trái điểm 50.000đ)*.<br>• **Phương án 2:** Trả tại cơ sở Hoàng Hoa Thám lúc ~20:30 rồi bắt Grab ra sân bay. |
-| **Giá thuê & Chi phí** | • **Giá thuê:** 130.000đ/ngày × 2 ngày = **260.000đ**<br>• **Phụ phí trả trái điểm (nếu trả sân bay Nội Bài):** **50.000đ**<br>👉 **Tổng thanh toán:** **260.000đ – 310.000đ** (Thanh toán khi trả xe) |
-| **Thủ tục nhận xe** | • Khách du lịch: Giữ lại 1 Giấy tờ tùy thân (CCCD / Hộ chiếu / Cà vạt xe) + Kiểm tra GPLX + Chụp vé máy bay / Booking khách sạn.<br>• *(Hoặc đặt cọc 2.000.000 VNĐ nếu không giữ giấy tờ gốc).* |
-| **Trạng thái** | ✅ **ĐÃ XÁC NHẬN ĐẶT XE THÀNH CÔNG VỚI MOTOGO (Chiều 04/09/2026)** |
+| **Loại xe** | **Xe số 110cc (Honda Wave 110cc)** |
+| **Thời gian thuê** | **2 ngày** (Từ **06:00 sáng Thứ Bảy 05/09/2026** ➔ **20:30 tối Chủ Nhật 06/09/2026**) |
+| **Điểm nhận xe** | **Cơ sở MOTOGO Hoàng Hoa Thám** (Số 7 ngõ 267 Hoàng Hoa Thám, Ba Đình, Hà Nội) |
+| **Điểm trả xe** | **Cơ sở MOTOGO Hoàng Hoa Thám** (Hoàn tất bàn giao lúc 20:30 tối 06/09) |
+| **Chi phí thuê & Thanh toán** | • 130.000đ/ngày × 2 ngày = **260.000đ** + **50.000đ** phí nhận sớm/linh hoạt = **310.000 VNĐ**<br>👉 **Trạng thái:** ✅ **Đã thanh toán 100% khi trả xe (Không phát sinh phụ phí)** |
+| **Phương tiện tiếp theo** | Anh Long đón và chở 2 bạn ra Sân bay Quốc tế Nội Bài Ga T1 bằng ô tô (không phát sinh phí taxi) |
+| **Trạng thái** | 🏆 **HOÀN TẤT THUÊ XE & BÀN GIAO AN TOÀN (Tối 06/09/2026)** |
 

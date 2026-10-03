@@ -646,7 +646,28 @@
 
 ---
 
-## Cần quyết định tiếp
+## 07/09/2026 — Đóng Sổ Tài Chính & Hoàn Tất Xuất Sắc Chuyến Đi 10N9Đ (Hà Giang • Cao Bằng • Hà Nội)
+
+### Quyết định #41: Cập nhật trọn vẹn chi tiêu Ngày 10 và Hoàn tất 100% hồ sơ chuyến đi
+- **Chi tiết các khoản chi hoàn thiện Ngày 10 (06/09/2026):**
+  - Mua quà đặc sản: **100 chiếc Bánh cốm Việt Ninh (Hàng Than)** làm quà: **500.000 VNĐ** *(giá 5.000đ/cái)*.
+  - Bữa tối chia tay Hà Nội: **Lẩu ếch măng cay**: **500.000 VNĐ**.
+  - Trả xe máy MOTOGO Hoàng Hoa Thám: **310.000 VNĐ** (Đã thanh toán đủ 100%, không phát sinh phụ phí).
+  - Ra Sân bay Nội Bài Ga T1: **0 VNĐ** *(Anh Long chở giúp bằng ô tô)*.
+  - Taxi từ Ga T3 Sân bay Tân Sơn Nhất về nhà (sáng sớm 07/09): **250.000 VNĐ**.
+  - 👉 *Tổng chi Ngày 10 hoàn tất:* **1.635.000 VNĐ** (11 khoản chi/hoạt động).
+- **Tổng kết tài chính chính thức toàn chuyến (Final Actual Cost):**
+  - ✈️ Di chuyển cố định (Vé bay khứ hồi + 2 vé xe khách VIP + 3 lượt xe máy): **9.064.024 VNĐ** (41.3%).
+  - 🏨 Lưu trú (7 đêm KS/Homestay + 2 đêm xe khách): **2.911.171 VNĐ** (13.3%).
+  - 🍜 Chi tiêu sinh hoạt thực tế 10 ngày (93 khoản chi): **9.960.000 VNĐ** (45.4%).
+  - 🏆 **TỔNG THỰC CHI TOÀN BỘ CHUYẾN ĐI (10N9Đ):** **21.935.195 VNĐ** (~**10.967.598 VNĐ / người**).
+  - 🔄 **Tiền cọc xe máy Giang Sơn:** Đã nhận lại **+3.000.000 VNĐ** chiều 04/09 tại TP Cao Bằng.
+- **Tình trạng:** 🏆 **HOÀN THÀNH 100% XUẤT SẮC & AN TOÀN TUYỆT ĐỐI TOÀN BỘ CHUYẾN ĐI!**
+- **Cập nhật đồng bộ:** [`info/tong_hop_chi_phi.md`](../info/tong_hop_chi_phi.md), [`plans/lich_trinh_chi_tiet.md`](../plans/lich_trinh_chi_tiet.md), [`index.html`](../index.html), [`info/expense_tracker.html`](../info/expense_tracker.html), [`README.md`](../README.md).
+
+---
+
+## Danh mục hoàn tất (100% Completed)
 - [x] Đặt vé máy bay lượt đi (✅ **Vietjet Air VJ120** - PNR: UJSG2A / R7AH77)
 - [x] Check-in online lượt đi VJ120 (✅ Ghế 37E & 37F, Boarding 04:10 AM)
 - [x] Chốt 100% Hành lý xách tay lượt đi (Không ký gửi)
@@ -673,7 +694,7 @@
 - [x] Bàn giao trả xe Wave Giang Sơn tại TP Cao Bằng chiều 04/09 & nhận lại cọc 3.000.000 VNĐ
 - [x] Lên xe Cabin Hiệp Giang lúc 21:15 tối 04/09 về Hà Nội an toàn
 - [x] Trải nghiệm ngày Thứ Bảy tại Hà Nội (05/09): Nhận xe MOTOGO, Bún thang, Cafe Đây Đi, Ngan cháy tỏi, Check-in Vari Homestay, Chả cá Lăng 99, Xôi bà Nguyệt
-- [ ] Hoàn tất ngày Chủ Nhật (06/09): Bún chả, Cafe muối/americano, Di tích Hỏa Lò, Mua bánh cốm Hàng Than, Lẩu riêu cua Trúc Bạch, Trả xe MOTOGO & Bay về SGN 23:30 (Sun PhuQuoc 9G893)
+- [x] Hoàn tất ngày Chủ Nhật (06/09): Bún chả, Cafe muối/americano, Di tích Hỏa Lò, Mua bánh cốm Việt Ninh (500k), Lẩu ếch (500k), Trả xe MOTOGO, Xe anh Long chở & Bay về SGN 23:30 (Sun PhuQuoc 9G893) an toàn!
 
 
 
